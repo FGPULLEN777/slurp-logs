@@ -1,0 +1,48 @@
+{"nick":"n_tt","date":"2017-09-21T00:06:07.492Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Read error: Connection reset by peer","date":"2017-09-21T00:45:17.137Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-09-21T00:50:36.628Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Read error: Connection reset by peer","date":"2017-09-21T00:55:26.891Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-09-21T00:59:22.550Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Read error: Connection reset by peer","date":"2017-09-21T01:06:28.589Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-09-21T01:08:35.474Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Read error: Connection reset by peer","date":"2017-09-21T01:12:11.482Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-09-21T01:15:45.368Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Read error: Connection reset by peer","date":"2017-09-21T01:41:19.935Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-09-21T01:45:50.237Z","type":"join"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-09-21T02:23:22.347Z","type":"quit"}
+{"nick":"Cohedrin_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-21T03:53:06.887Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-09-21T05:35:21.382Z","type":"join"}
+{"nick":"SuperHans","date":"2017-09-21T07:18:25.327Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-21T09:13:55.487Z","type":"quit"}
+{"nick":"SuperHans","reason":"Remote host closed the connection","date":"2017-09-21T09:21:38.776Z","type":"quit"}
+{"nick":"SuperHans","date":"2017-09-21T09:22:19.201Z","type":"join"}
+{"nick":"SuperHans","reason":"Remote host closed the connection","date":"2017-09-21T10:27:50.935Z","type":"quit"}
+{"nick":"SuperHans","date":"2017-09-21T11:06:31.452Z","type":"join"}
+{"nick":"mezod","date":"2017-09-21T11:36:12.346Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-09-21T12:15:22.566Z","type":"quit"}
+{"nick":"SuperHans","reason":"Remote host closed the connection","date":"2017-09-21T12:57:25.814Z","type":"quit"}
+{"nick":"SuperHans","date":"2017-09-21T13:32:18.733Z","type":"join"}
+{"nick":"mezod","date":"2017-09-21T15:23:48.570Z","type":"join"}
+{"nick":"n_tt","date":"2017-09-21T16:26:21.163Z","type":"join"}
+{"nick":"nahtnam","date":"2017-09-21T16:28:10.605Z","type":"join"}
+{"nick":"r-b-h","reason":"Remote host closed the connection","date":"2017-09-21T16:57:06.293Z","type":"quit"}
+{"nick":"alex---","date":"2017-09-21T16:58:28.560Z","type":"join"}
+{"nick":"SuperHans","reason":"Ping timeout: 260 seconds","date":"2017-09-21T17:01:37.686Z","type":"quit"}
+{"nick":"alex---","reason":"Ping timeout: 240 seconds","date":"2017-09-21T17:02:35.537Z","type":"quit"}
+{"nick":"n_tt_","date":"2017-09-21T18:01:24.252Z","type":"join"}
+{"nick":"n_tt","reason":"Read error: Connection reset by peer","date":"2017-09-21T18:01:24.438Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-09-21T18:06:37.176Z","type":"join"}
+{"nick":"SuperHans","date":"2017-09-21T18:28:20.785Z","type":"join"}
+{"nick":"n_tt_","reason":"Remote host closed the connection","date":"2017-09-21T19:44:11.219Z","type":"quit"}
+{"nick":"n_tt","date":"2017-09-21T20:16:47.481Z","type":"join"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-09-21T20:33:52.600Z","type":"quit"}
+{"nick":"SuperHans","reason":"Remote host closed the connection","date":"2017-09-21T20:58:25.608Z","type":"quit"}
+{"nick":"alex---","date":"2017-09-21T20:59:40.501Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-09-21T21:02:35.945Z","type":"quit"}
+{"nick":"alex---","reason":"Remote host closed the connection","date":"2017-09-21T21:18:48.366Z","type":"quit"}
+{"nick":"Cohedrin_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-21T21:21:22.495Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-09-21T21:25:51.010Z","type":"join"}
+{"nick":"mezod","date":"2017-09-21T21:35:56.140Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-21T22:51:01.375Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-09-21T22:55:41.880Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-21T23:24:00.776Z","type":"quit"}

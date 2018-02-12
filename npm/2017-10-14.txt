@@ -1,0 +1,38 @@
+{"nick":"OnkelTem","date":"2017-10-14T00:02:53.084Z","type":"join"}
+{"nick":"kanja","date":"2017-10-14T00:47:43.973Z","type":"join"}
+{"nick":"teear_","reason":"Ping timeout: 255 seconds","date":"2017-10-14T01:58:07.936Z","type":"quit"}
+{"nick":"jj25","reason":"Quit: Connection closed for inactivity","date":"2017-10-14T02:41:08.072Z","type":"quit"}
+{"nick":"kanja","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-14T05:40:25.479Z","type":"quit"}
+{"nick":"ch007m","date":"2017-10-14T06:58:04.058Z","type":"join"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-10-14T07:09:02.258Z","type":"quit"}
+{"nick":"ch007m","date":"2017-10-14T07:20:39.054Z","type":"join"}
+{"nick":"olalonde","reason":"Quit: Connection closed for inactivity","date":"2017-10-14T07:29:43.823Z","type":"quit"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-10-14T07:34:56.410Z","type":"quit"}
+{"nick":"OnkelTem","reason":"Ping timeout: 240 seconds","date":"2017-10-14T08:15:05.534Z","type":"quit"}
+{"nick":"OnkelTem","date":"2017-10-14T08:24:59.196Z","type":"join"}
+{"nick":"OnkelTem","reason":"Ping timeout: 248 seconds","date":"2017-10-14T08:34:09.528Z","type":"quit"}
+{"nick":"ahmedelgabri","date":"2017-10-14T08:39:27.688Z","type":"join"}
+{"nick":"raynold","reason":"Quit: Connection closed for inactivity","date":"2017-10-14T08:52:12.124Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-14T10:25:11.274Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-14T10:25:41.903Z","type":"join"}
+{"nick":"devians","date":"2017-10-14T10:53:29.167Z","type":"join"}
+{"nick":"ch007m","date":"2017-10-14T12:23:39.036Z","type":"join"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-10-14T12:39:25.723Z","type":"quit"}
+{"nick":"kanja","date":"2017-10-14T13:29:01.877Z","type":"join"}
+{"nick":"devians","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-10-14T13:53:29.415Z","type":"quit"}
+{"nick":"ahmedelgabri","reason":"Ping timeout: 260 seconds","date":"2017-10-14T14:46:12.699Z","type":"quit"}
+{"nick":"ahmedelgabri","date":"2017-10-14T15:42:30.889Z","type":"join"}
+{"nick":"pijiu","date":"2017-10-14T16:05:16.437Z","type":"join"}
+{"nick":"pijiu","reason":"Client Quit","date":"2017-10-14T16:05:52.695Z","type":"quit"}
+{"nick":"ChALkeR","reason":"Read error: Connection reset by peer","date":"2017-10-14T16:26:44.017Z","type":"quit"}
+{"nick":"ChALkeR","date":"2017-10-14T16:27:06.013Z","type":"join"}
+{"nick":"ch007m","date":"2017-10-14T16:35:09.107Z","type":"join"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-10-14T16:44:55.066Z","type":"quit"}
+{"nick":"raynold","date":"2017-10-14T17:30:34.159Z","type":"join"}
+{"nick":"ahmedelgabri","reason":"Quit: WeeChat 1.9.1","date":"2017-10-14T19:27:42.879Z","type":"quit"}
+{"nick":"ChALkeR","reason":"Read error: Connection reset by peer","date":"2017-10-14T20:40:11.248Z","type":"quit"}
+{"nick":"ChALkeR","date":"2017-10-14T20:40:23.467Z","type":"join"}
+{"nick":"teear","date":"2017-10-14T21:04:41.548Z","type":"join"}
+{"nick":"raynold","reason":"Quit: Connection closed for inactivity","date":"2017-10-14T21:39:53.220Z","type":"quit"}
+{"nick":"ChALkeR","reason":"Read error: No route to host","date":"2017-10-14T22:38:59.790Z","type":"quit"}
+{"nick":"ChALkeR","date":"2017-10-14T22:39:17.468Z","type":"join"}

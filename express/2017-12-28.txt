@@ -1,0 +1,76 @@
+{"nick":"rorro","reason":"Quit: Leaving","date":"2017-12-28T00:16:45.777Z","type":"quit"}
+{"nick":"_ritchie_","date":"2017-12-28T00:26:19.224Z","type":"join"}
+{"nick":"naiveai","message":"How do I override a route after I define it? Like if I define '/hello' in a certain way, I can't seem to override that definition later. Is this possible?","date":"2017-12-28T00:34:02.575Z","type":"message"}
+{"nick":"krbtgt","message":"the two routes are \"sharing\" it if you bind both, IIRC; so unless your previously bound route is calling next() to hand over like middleware....","date":"2017-12-28T00:35:22.451Z","type":"message"}
+{"nick":"krbtgt","message":"what are you trying to do?","date":"2017-12-28T00:35:37.397Z","type":"message"}
+{"nick":"naiveai","message":"well, I have a bunch of routes that are all pretty similar but have slight differences, so I'm trying to create a \"base router\" with the common functionality there and then override some of the route where it's needed","date":"2017-12-28T00:36:57.061Z","type":"message"}
+{"nick":"krbtgt","message":"so what I guess you could do is create a router, mount routes like /get or /set onto that, then mount that onto /router","date":"2017-12-28T00:37:50.114Z","type":"message"}
+{"nick":"naiveai","message":"I am very new to express so this may not be the idiomatic way to do it, but I can't seem to find a good one","date":"2017-12-28T00:37:51.912Z","type":"message"}
+{"nick":"krbtgt","message":"so you'd have /router/get and /router/set","date":"2017-12-28T00:37:58.369Z","type":"message"}
+{"nick":"naiveai","message":"hmm","date":"2017-12-28T00:38:28.443Z","type":"message"}
+{"nick":"krbtgt","message":"http://expressjs.com/en/guide/routing.html","date":"2017-12-28T00:39:26.465Z","type":"message"}
+{"nick":"naiveai","message":"actually that's what I'm doing already. in each file I'm creating a router for each entity and mounting the methods on it, but the implementation of those are very similar. now that I think about it I could make a middleware that abstracts it somehow, but I'm not 100% sure how to do that","date":"2017-12-28T00:40:22.210Z","type":"message"}
+{"nick":"naiveai","message":"thanks for your help anyway, I'll try this out","date":"2017-12-28T00:40:36.454Z","type":"message"}
+{"nick":"krbtgt","message":"you could handle it on the same route?","date":"2017-12-28T00:41:23.403Z","type":"message"}
+{"nick":"mholmes","date":"2017-12-28T00:41:23.494Z","type":"join"}
+{"nick":"krbtgt","message":"also, you could make the rooutes explicitly different","date":"2017-12-28T00:41:37.082Z","type":"message"}
+{"nick":"krbtgt","message":"like, /get/foo and /get/bar","date":"2017-12-28T00:41:55.428Z","type":"message"}
+{"nick":"krbtgt","message":"or you could do like /get/:param","date":"2017-12-28T00:42:02.703Z","type":"message"}
+{"nick":"krbtgt","message":"and :param is bound to req.params.param","date":"2017-12-28T00:42:11.901Z","type":"message"}
+{"nick":"naiveai","message":"changing the URLs isn't feasabile cause I'm working on an already deployed and used website","date":"2017-12-28T00:42:39.994Z","type":"message"}
+{"nick":"markh","reason":"Ping timeout: 248 seconds","date":"2017-12-28T00:44:15.992Z","type":"quit"}
+{"nick":"mholmes","reason":"Ping timeout: 256 seconds","date":"2017-12-28T00:45:57.487Z","type":"quit"}
+{"nick":"naiveai","message":"Is it advised to group related middleware in a class or should they ideally be pure?","date":"2017-12-28T00:58:29.184Z","type":"message"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2017-12-28T01:11:07.284Z","type":"quit"}
+{"nick":"Arcarc","reason":"Ping timeout: 248 seconds","date":"2017-12-28T01:21:04.046Z","type":"quit"}
+{"nick":"stenno","reason":"Ping timeout: 248 seconds","date":"2017-12-28T01:34:25.598Z","type":"quit"}
+{"nick":"stenno","date":"2017-12-28T01:55:51.472Z","type":"join"}
+{"nick":"wesbos","reason":"Ping timeout: 248 seconds","date":"2017-12-28T02:49:04.028Z","type":"quit"}
+{"nick":"wesbos","date":"2017-12-28T02:49:22.803Z","type":"join"}
+{"nick":"Roughy","reason":"Quit: Meadow Fresh milk","date":"2017-12-28T03:21:05.591Z","type":"quit"}
+{"nick":"stenno","reason":"Ping timeout: 256 seconds","date":"2017-12-28T03:48:59.449Z","type":"quit"}
+{"nick":"naiveai","reason":"Ping timeout: 248 seconds","date":"2017-12-28T05:55:44.025Z","type":"quit"}
+{"nick":"naiveai","date":"2017-12-28T06:37:27.356Z","type":"join"}
+{"nick":"lpin","date":"2017-12-28T06:50:50.952Z","type":"join"}
+{"nick":"stenno","date":"2017-12-28T07:21:45.533Z","type":"join"}
+{"nick":"_ritchie_","date":"2017-12-28T07:58:27.162Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2017-12-28T08:05:00.182Z","type":"quit"}
+{"nick":"_ritchie_","date":"2017-12-28T08:10:49.292Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2017-12-28T08:19:30.279Z","type":"quit"}
+{"nick":"_ritchie_","date":"2017-12-28T08:30:10.178Z","type":"join"}
+{"nick":"_ritchie_","reason":"Ping timeout: 264 seconds","date":"2017-12-28T08:35:09.278Z","type":"quit"}
+{"nick":"_ritchie_","date":"2017-12-28T08:36:52.345Z","type":"join"}
+{"nick":"_ritchie_","reason":"Client Quit","date":"2017-12-28T08:39:10.234Z","type":"quit"}
+{"nick":"_ritchie_","date":"2017-12-28T09:09:01.218Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2017-12-28T09:20:30.364Z","type":"quit"}
+{"nick":"commma","message":"naiveai: programmatically applying routes is almost always a terrible idea","date":"2017-12-28T09:48:38.618Z","type":"message"}
+{"nick":"commma","message":"and also unnecessary","date":"2017-12-28T09:48:47.081Z","type":"message"}
+{"nick":"commma","message":"_alos_ unnecessary is using classes for them","date":"2017-12-28T09:48:56.172Z","type":"message"}
+{"nick":"naiveai","message":"commma: yeah, I've found an alternative way to do what I wanted","date":"2017-12-28T09:49:03.068Z","type":"message"}
+{"nick":"commma","message":"cool","date":"2017-12-28T09:49:11.442Z","type":"message"}
+{"nick":"naiveai","message":"i have learned that if a framework makes something very hard to do, it's a message that you shouldn't do it","date":"2017-12-28T09:49:40.139Z","type":"message"}
+{"nick":"stenno","message":"commma: Offtopic: little teaser https://imgur.com/a/FKRMW :>","date":"2017-12-28T09:57:15.786Z","type":"message"}
+{"nick":"stenno","message":"naiveai: thats how i learned pretty quickly to not use TYPO3 at all.","date":"2017-12-28T09:57:42.313Z","type":"message"}
+{"nick":"stenno","message":"dinner time now o7","date":"2017-12-28T09:58:09.737Z","type":"message"}
+{"nick":"stenno","message":"the photo quality is quite bad because i only have a mobile phone and intrinsic shaky hands","date":"2017-12-28T09:59:05.514Z","type":"message"}
+{"nick":"naiveai","message":"> stunning photos","date":"2017-12-28T09:59:30.673Z","type":"message"}
+{"nick":"naiveai","message":"> \"quite bad\"","date":"2017-12-28T09:59:34.887Z","type":"message"}
+{"nick":"stenno","reason":"Ping timeout: 252 seconds","date":"2017-12-28T10:11:44.471Z","type":"quit"}
+{"nick":"Arcarc","date":"2017-12-28T10:19:41.378Z","type":"join"}
+{"nick":"stenno","date":"2017-12-28T11:10:13.562Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-28T11:25:11.475Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-28T11:25:46.444Z","type":"join"}
+{"nick":"Roughy","date":"2017-12-28T11:40:51.405Z","type":"join"}
+{"nick":"naiveai","reason":"Ping timeout: 240 seconds","date":"2017-12-28T13:31:57.800Z","type":"quit"}
+{"nick":"jakutis","reason":"Quit: leaving","date":"2017-12-28T13:36:37.970Z","type":"quit"}
+{"nick":"jakutis","date":"2017-12-28T13:39:38.708Z","type":"join"}
+{"nick":"_ritchie_","date":"2017-12-28T16:38:59.209Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2017-12-28T17:55:51.604Z","type":"quit"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-12-28T18:24:57.073Z","type":"quit"}
+{"nick":"_ritchie_","date":"2017-12-28T19:38:11.244Z","type":"join"}
+{"nick":"mylesborins","reason":"Ping timeout: 256 seconds","date":"2017-12-28T21:37:43.473Z","type":"quit"}
+{"nick":"shoobie","reason":"Remote host closed the connection","date":"2017-12-28T21:38:13.391Z","type":"quit"}
+{"nick":"lanceball","reason":"Ping timeout: 260 seconds","date":"2017-12-28T21:39:16.379Z","type":"quit"}
+{"nick":"shoobie","date":"2017-12-28T21:39:26.554Z","type":"join"}
+{"nick":"mylesborins","date":"2017-12-28T21:39:34.929Z","type":"join"}
+{"nick":"lanceball","date":"2017-12-28T21:45:03.287Z","type":"join"}

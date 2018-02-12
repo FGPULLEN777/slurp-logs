@@ -1,0 +1,20 @@
+{"nick":"ryan_ford","date":"2017-11-12T01:05:28.539Z","type":"join"}
+{"nick":"Soni","reason":"Ping timeout: 260 seconds","date":"2017-11-12T02:16:52.606Z","type":"quit"}
+{"nick":"Soni","date":"2017-11-12T02:17:20.595Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Quit: Ex-Chat","date":"2017-11-12T04:12:37.576Z","type":"quit"}
+{"nick":"squeek502_","reason":"Quit: Leaving","date":"2017-11-12T05:30:20.293Z","type":"quit"}
+{"nick":"squeek502","date":"2017-11-12T05:55:37.643Z","type":"join"}
+{"nick":"imzyxwvu","date":"2017-11-12T06:29:38.011Z","type":"join"}
+{"nick":"mabynogy","date":"2017-11-12T07:48:05.634Z","type":"join"}
+{"nick":"rendar","date":"2017-11-12T08:28:33.147Z","type":"join"}
+{"nick":"imzyxwvu","reason":"Quit: Page closed","date":"2017-11-12T09:42:40.526Z","type":"quit"}
+{"nick":"Soni","reason":"Excess Flood","date":"2017-11-12T11:34:05.910Z","type":"quit"}
+{"nick":"Soni","date":"2017-11-12T11:34:30.602Z","type":"join"}
+{"nick":"Soni","reason":"Changing host","date":"2017-11-12T11:34:43.935Z","type":"quit"}
+{"nick":"Soni","date":"2017-11-12T11:34:44.004Z","type":"join"}
+{"nick":"Tobbik","reason":"Remote host closed the connection","date":"2017-11-12T14:56:43.884Z","type":"quit"}
+{"nick":"Andols","date":"2017-11-12T16:08:45.564Z","type":"join"}
+{"nick":"mabynogy","reason":"Quit: Leaving","date":"2017-11-12T16:42:01.519Z","type":"quit"}
+{"nick":"ryan_ford","reason":"Ping timeout: 268 seconds","date":"2017-11-12T18:19:13.631Z","type":"quit"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-11-12T18:59:51.541Z","type":"quit"}
+{"nick":"Andols","date":"2017-11-12T22:44:15.842Z","type":"quit"}

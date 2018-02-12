@@ -1,0 +1,28 @@
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-16T00:13:57.288Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-16T01:11:09.304Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-16T01:11:46.399Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-12-16T04:05:18.341Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-12-16T04:32:47.235Z","type":"quit"}
+{"nick":"Trott","message":"Build failures across all Windows hosts. joaocgreis","date":"2017-12-16T04:42:01.932Z","type":"message"}
+{"nick":"Trott","message":"Sample: https://ci.nodejs.org/job/node-test-binary-windows/13680/COMPILED_BY=vs2017,RUNNER=win10,RUN_SUBSET=0/console","date":"2017-12-16T04:42:35.617Z","type":"message"}
+{"nick":"Trott","message":"https://www.irccloud.com/pastebin/7OWdjUCc/","date":"2017-12-16T04:42:52.302Z","type":"message"}
+{"nick":"apapirovski","date":"2017-12-16T04:43:27.631Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-12-16T05:01:17.557Z","type":"quit"}
+{"nick":"joaocgreis","message":"Trott: that one is the CI working as expected, it's a problem with the PR. Apparently the author is already working on it.","date":"2017-12-16T05:43:28.691Z","type":"message"}
+{"nick":"Fishrock123","date":"2017-12-16T05:55:02.509Z","type":"join"}
+{"nick":"sgimeno","reason":"Ping timeout: 240 seconds","date":"2017-12-16T05:56:28.476Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Client Quit","date":"2017-12-16T05:56:42.276Z","type":"quit"}
+{"nick":"sgimeno","date":"2017-12-16T05:56:50.515Z","type":"join"}
+{"nick":"seishun","date":"2017-12-16T09:40:57.693Z","type":"join"}
+{"nick":"rvagg","message":"still down 2 Rackspace release machines, trying to resolve that somehow still, just nobody do a release this week eh?","date":"2017-12-16T11:16:56.885Z","type":"message"}
+{"nick":"rvagg","message":"might only be for older branches tho, v4 maybe","date":"2017-12-16T11:18:12.520Z","type":"message"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-16T11:25:10.466Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-16T11:25:41.259Z","type":"join"}
+{"nick":"apapirovski","date":"2017-12-16T12:38:16.613Z","type":"join"}
+{"nick":"apapirovski","reason":"Quit: Leaving...","date":"2017-12-16T12:49:58.650Z","type":"quit"}
+{"nick":"rvagg","message":"mhdawson, joaocgreis: FYI I've provisioned a new release-rackspace-win2008r2-x64-2 to replace the one that's \"on hold\" @ Rackspace. I took an image of the root disk and started up a new server on it.","date":"2017-12-16T12:56:32.422Z","type":"message"}
+{"nick":"rvagg","message":"mhdawson, joaocgreis: IP address and credentials are in secrets/build/release/windows-servers.md, it's working through the small backlog of x64 & x86 (I assume). Will remove the old one once we can & will assess what to do with the other one later, perhaps we'll just get it back as normal.","date":"2017-12-16T12:56:39.481Z","type":"message"}
+{"nick":"apapirovski","date":"2017-12-16T18:59:06.466Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-12-16T22:32:43.968Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 265 seconds","date":"2017-12-16T22:49:23.457Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-12-16T22:54:28.547Z","type":"join"}

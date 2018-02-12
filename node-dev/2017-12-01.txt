@@ -1,0 +1,129 @@
+{"nick":"nodejs-gh","date":"2017-12-01T00:03:11.817Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T00:03:11.908Z","type":"part"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-12-01T00:39:08.720Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-01T01:26:15.885Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T01:26:16.085Z","type":"part"}
+{"nick":"ChALkeR","reason":"Remote host closed the connection","date":"2017-12-01T02:15:29.372Z","type":"quit"}
+{"nick":"fcanela","reason":"Ping timeout: 248 seconds","date":"2017-12-01T02:15:29.373Z","type":"quit"}
+{"nick":"ljharb!sid43720@oftn/oswg-member/ljharb","topic":"Node.js Current: v9.2.0 | LTS: v8.9.0 \"Carbon\", v6.12.0 \"Boron\", v4.8.6 \"Argon\" -- https://nodejs.org/ -- IRC Logs: http://logs.libuv.org/node-dev/latest -- Channel Info: http://nodeirc.info/#node-dev -- Newcomers welcome: http://nodeschool.io/ -- dev channel for all things node core","date":"2017-12-01T02:15:37.918Z","type":"topic"}
+{"nick":"fcanela_","date":"2017-12-01T02:17:37.319Z","type":"join"}
+{"nick":"kenansulayman","reason":"*.net *.split","date":"2017-12-01T02:22:42.178Z","type":"quit"}
+{"nick":"ChALkeR","reason":"*.net *.split","date":"2017-12-01T02:22:42.178Z","type":"quit"}
+{"nick":"fcanela","reason":"*.net *.split","date":"2017-12-01T02:22:42.534Z","type":"quit"}
+{"nick":"{slurp-nodejs}1","reason":"*.net *.split","date":"2017-12-01T02:22:42.712Z","type":"quit"}
+{"nick":"BridgeAR","date":"2017-12-01T02:27:04.133Z","type":"join"}
+{"nick":"kenansulayman","date":"2017-12-01T02:27:44.727Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-12-01T03:06:18.821Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T03:36:39.773Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T03:36:39.951Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-01T03:38:12.175Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-01T03:49:52.836Z","type":"join"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-12-01T03:52:57.354Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-01T05:04:42.663Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-01T05:05:52.102Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-01T05:28:35.817Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-01T05:28:53.904Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-01T05:29:20.976Z","type":"quit"}
+{"nick":"marthinal","date":"2017-12-01T05:54:17.677Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-12-01T06:33:54.819Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 246 seconds","date":"2017-12-01T06:38:09.805Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-01T06:44:13.887Z","type":"join"}
+{"nick":"lpin","date":"2017-12-01T06:46:06.627Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T07:27:19.904Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T07:27:20.121Z","type":"part"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-12-01T07:32:12.590Z","type":"quit"}
+{"nick":"seishun","date":"2017-12-01T08:43:28.962Z","type":"join"}
+{"nick":"fl0w","date":"2017-12-01T08:43:36.994Z","type":"join"}
+{"nick":"DaGardner","date":"2017-12-01T08:59:44.430Z","type":"part"}
+{"nick":"fl0w","reason":"Quit: fl0w","date":"2017-12-01T09:00:53.445Z","type":"quit"}
+{"nick":"fl0w","date":"2017-12-01T09:02:46.559Z","type":"join"}
+{"nick":"fl0w","reason":"Quit: fl0w","date":"2017-12-01T09:48:01.962Z","type":"quit"}
+{"nick":"fl0w","date":"2017-12-01T09:53:21.105Z","type":"join"}
+{"nick":"fl0w","reason":"Quit: fl0w","date":"2017-12-01T10:21:48.993Z","type":"quit"}
+{"nick":"fl0w","date":"2017-12-01T10:22:20.077Z","type":"join"}
+{"nick":"fl0w","reason":"Quit: fl0w","date":"2017-12-01T10:55:29.955Z","type":"quit"}
+{"nick":"fl0w","date":"2017-12-01T10:55:57.736Z","type":"join"}
+{"nick":"fl0w","reason":"Client Quit","date":"2017-12-01T10:56:17.441Z","type":"quit"}
+{"nick":"fl0w","date":"2017-12-01T10:56:43.083Z","type":"join"}
+{"nick":"fl0w","reason":"Client Quit","date":"2017-12-01T10:57:05.379Z","type":"quit"}
+{"nick":"fl0w","date":"2017-12-01T10:57:33.083Z","type":"join"}
+{"nick":"fl0w","reason":"Client Quit","date":"2017-12-01T10:57:53.403Z","type":"quit"}
+{"nick":"fl0w","date":"2017-12-01T10:58:27.327Z","type":"join"}
+{"nick":"fl0w","reason":"Client Quit","date":"2017-12-01T10:58:41.525Z","type":"quit"}
+{"nick":"fl0w","date":"2017-12-01T10:59:20.686Z","type":"join"}
+{"nick":"fl0w","reason":"Client Quit","date":"2017-12-01T10:59:29.478Z","type":"quit"}
+{"nick":"sgimeno","message":"addaleax, wrt https://github.com/libuv/libuv/pull/1657. Why are you targeting it to master instead of v1.x?","date":"2017-12-01T11:02:56.865Z","type":"message"}
+{"nick":"doodadjs_","date":"2017-12-01T11:02:58.155Z","type":"join"}
+{"nick":"AtumT","date":"2017-12-01T11:04:04.624Z","type":"join"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-12-01T11:04:31.880Z","type":"quit"}
+{"nick":"AtumT","date":"2017-12-01T11:05:09.789Z","type":"join"}
+{"nick":"doodadjs","reason":"Ping timeout: 255 seconds","date":"2017-12-01T11:07:02.889Z","type":"quit"}
+{"nick":"addaleax","message":"sgimeno: I wasn't sure - contributing.md said new features go into master and I don't really know how libuv versioning works (but I would *like* it to go into 1.x, yes)","date":"2017-12-01T11:17:25.162Z","type":"message"}
+{"nick":"sgimeno","message":"I would say if the ABI is preserved, target it to v1.x","date":"2017-12-01T11:18:03.060Z","type":"message"}
+{"nick":"addaleax","message":"sgimeno: ok, I'll try to retarget later","date":"2017-12-01T11:20:05.974Z","type":"message"}
+{"nick":"sgimeno","message":"addaleax, I added a comment, let's see what others think","date":"2017-12-01T11:20:54.539Z","type":"message"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-01T11:25:10.496Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-01T11:25:41.258Z","type":"join"}
+{"nick":"gain","date":"2017-12-01T12:17:56.819Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-12-01T12:21:47.771Z","type":"quit"}
+{"nick":"obensource","reason":"Ping timeout: 258 seconds","date":"2017-12-01T12:49:32.853Z","type":"quit"}
+{"nick":"obensource","date":"2017-12-01T13:09:45.229Z","type":"join"}
+{"nick":"gain","reason":"Quit: Leaving","date":"2017-12-01T13:52:44.708Z","type":"quit"}
+{"nick":"gain","date":"2017-12-01T13:57:24.414Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T14:04:04.040Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T14:04:04.218Z","type":"part"}
+{"nick":"gain","reason":"Quit: Leaving","date":"2017-12-01T14:26:27.031Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-12-01T14:31:25.651Z","type":"join"}
+{"nick":"d10n-work","date":"2017-12-01T14:33:37.802Z","type":"join"}
+{"nick":"evanlucas","date":"2017-12-01T14:49:31.765Z","type":"join"}
+{"nick":"evanlucas","reason":"Changing host","date":"2017-12-01T14:49:44.357Z","type":"quit"}
+{"nick":"evanlucas","date":"2017-12-01T14:49:44.535Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T15:02:31.995Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T15:02:32.173Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-01T15:51:35.745Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T15:51:35.746Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-12-01T16:00:17.324Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-12-01T16:05:46.760Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-12-01T16:07:53.398Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-12-01T16:07:59.605Z","type":"join"}
+{"nick":"apapirov_","date":"2017-12-01T16:14:48.521Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 248 seconds","date":"2017-12-01T16:18:09.630Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-12-01T16:49:11.889Z","type":"join"}
+{"nick":"apapirov_","reason":"Read error: Connection reset by peer","date":"2017-12-01T16:49:12.245Z","type":"quit"}
+{"nick":"apapirovski","reason":"Read error: Connection reset by peer","date":"2017-12-01T16:49:19.676Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-12-01T16:58:31.897Z","type":"join"}
+{"nick":"robink","reason":"Quit: No Ping reply in 180 seconds.","date":"2017-12-01T16:59:13.242Z","type":"quit"}
+{"nick":"robinak","date":"2017-12-01T16:59:53.931Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 240 seconds","date":"2017-12-01T17:02:57.793Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-01T17:11:11.736Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T17:11:11.913Z","type":"part"}
+{"nick":"robinak","new_nick":"robink","date":"2017-12-01T18:05:02.339Z","type":"nick"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-12-01T19:10:10.048Z","type":"quit"}
+{"nick":"BridgeAR","date":"2017-12-01T19:18:09.070Z","type":"join"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2017-12-01T19:25:54.021Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-01T19:53:25.907Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T19:53:26.086Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-01T20:00:20.906Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T20:00:21.084Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-01T20:04:58.660Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T20:04:58.660Z","type":"part"}
+{"nick":"bhughes","reason":"Read error: Connection reset by peer","date":"2017-12-01T20:06:49.315Z","type":"quit"}
+{"nick":"bhughes","date":"2017-12-01T20:07:27.571Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 276 seconds","date":"2017-12-01T20:17:29.136Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-01T20:19:59.542Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T20:19:59.717Z","type":"part"}
+{"nick":"seishun","date":"2017-12-01T20:44:40.582Z","type":"join"}
+{"nick":"apapirovski","date":"2017-12-01T21:04:40.060Z","type":"join"}
+{"nick":"apapirov_","date":"2017-12-01T21:14:17.875Z","type":"join"}
+{"nick":"apapirovski","reason":"Read error: Connection reset by peer","date":"2017-12-01T21:14:18.093Z","type":"quit"}
+{"nick":"apapirov_","reason":"Quit: Leaving...","date":"2017-12-01T21:24:30.944Z","type":"quit"}
+{"nick":"marthinal","date":"2017-12-01T21:25:58.228Z","type":"join"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2017-12-01T21:31:22.579Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-12-01T21:49:57.808Z","type":"quit"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-12-01T22:02:26.674Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2017-12-01T22:26:01.800Z","type":"join"}
+{"nick":"marthinal","date":"2017-12-01T22:26:53.197Z","type":"join"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2017-12-01T22:36:16.818Z","type":"quit"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-12-01T23:27:35.185Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-01T23:41:01.005Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-01T23:41:01.184Z","type":"part"}

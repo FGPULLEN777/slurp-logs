@@ -1,0 +1,86 @@
+{"nick":"vtjnash","date":"2017-12-14T00:03:14.495Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 240 seconds","date":"2017-12-14T00:07:28.456Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T00:12:42.118Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T00:14:36.196Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T00:15:19.147Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T00:17:14.451Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T00:17:43.081Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T00:21:14.552Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T00:25:13.100Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T00:26:53.162Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T00:29:16.203Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T00:30:55.103Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T00:34:15.498Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T00:37:13.036Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T00:37:55.991Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T00:45:56.278Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T00:46:50.987Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T00:48:43.000Z","type":"quit"}
+{"nick":"joocain2","reason":"Remote host closed the connection","date":"2017-12-14T00:48:55.124Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T00:49:11.455Z","type":"join"}
+{"nick":"joocain2","date":"2017-12-14T00:49:18.783Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T01:00:04.376Z","type":"quit"}
+{"nick":"lennartcl","reason":"*.net *.split","date":"2017-12-14T02:32:40.081Z","type":"quit"}
+{"nick":"mylesborins","reason":"*.net *.split","date":"2017-12-14T02:32:40.358Z","type":"quit"}
+{"nick":"lennartcl","date":"2017-12-14T02:36:26.629Z","type":"join"}
+{"nick":"mylesborins","date":"2017-12-14T02:36:26.739Z","type":"join"}
+{"nick":"steshaw","reason":"Quit: Connection closed for inactivity","date":"2017-12-14T02:48:05.543Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T03:36:13.956Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 255 seconds","date":"2017-12-14T03:40:43.919Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T05:37:24.436Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 240 seconds","date":"2017-12-14T05:41:28.519Z","type":"quit"}
+{"nick":"sgimeno","reason":"Ping timeout: 255 seconds","date":"2017-12-14T06:17:53.451Z","type":"quit"}
+{"nick":"sgimeno","date":"2017-12-14T06:18:37.809Z","type":"join"}
+{"nick":"vtjnash","date":"2017-12-14T06:38:56.236Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 272 seconds","date":"2017-12-14T06:43:46.176Z","type":"quit"}
+{"nick":"rendar","date":"2017-12-14T07:35:36.533Z","type":"join"}
+{"nick":"vtjnash","date":"2017-12-14T08:40:04.096Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 272 seconds","date":"2017-12-14T08:44:44.183Z","type":"quit"}
+{"nick":"joocain2","reason":"Ping timeout: 248 seconds","date":"2017-12-14T08:53:32.839Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-14T08:55:46.895Z","type":"join"}
+{"nick":"joocain2","reason":"Remote host closed the connection","date":"2017-12-14T09:29:31.121Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-14T09:29:51.854Z","type":"join"}
+{"nick":"joocain2_","date":"2017-12-14T10:24:35.502Z","type":"join"}
+{"nick":"joocain2","reason":"Remote host closed the connection","date":"2017-12-14T10:24:44.783Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T10:41:13.898Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 255 seconds","date":"2017-12-14T10:45:31.948Z","type":"quit"}
+{"nick":"robertkowalski","reason":"Ping timeout: 260 seconds","date":"2017-12-14T11:09:51.679Z","type":"quit"}
+{"nick":"robertkowalski","date":"2017-12-14T11:10:21.346Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-14T11:25:07.429Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-14T11:25:38.000Z","type":"join"}
+{"nick":"vtjnash","date":"2017-12-14T11:42:39.504Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 240 seconds","date":"2017-12-14T11:47:48.511Z","type":"quit"}
+{"nick":"steshaw","date":"2017-12-14T12:13:56.386Z","type":"join"}
+{"nick":"steshaw","reason":"Ping timeout: 240 seconds","date":"2017-12-14T12:32:48.497Z","type":"quit"}
+{"nick":"steshaw","date":"2017-12-14T12:33:47.185Z","type":"join"}
+{"nick":"vtjnash","date":"2017-12-14T12:44:55.960Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 255 seconds","date":"2017-12-14T12:58:17.011Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T13:39:51.963Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T13:45:37.435Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T14:01:31.157Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T14:37:15.411Z","type":"quit"}
+{"nick":"heylo","date":"2017-12-14T15:13:30.967Z","type":"join"}
+{"nick":"heylo","reason":"Client Quit","date":"2017-12-14T15:14:11.046Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T16:03:14.588Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T16:04:53.984Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T16:07:00.485Z","type":"join"}
+{"nick":"Jacob843","reason":"Read error: Connection reset by peer","date":"2017-12-14T16:16:02.304Z","type":"quit"}
+{"nick":"AtumT","date":"2017-12-14T16:16:35.215Z","type":"join"}
+{"nick":"Jacob843","date":"2017-12-14T17:54:47.501Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T18:50:37.387Z","type":"quit"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-12-14T19:06:04.528Z","type":"quit"}
+{"nick":"AtumT","date":"2017-12-14T19:07:25.481Z","type":"join"}
+{"nick":"vtjnash","date":"2017-12-14T19:10:05.814Z","type":"join"}
+{"nick":"AtumT_","date":"2017-12-14T19:19:11.603Z","type":"join"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-12-14T19:19:45.292Z","type":"quit"}
+{"nick":"vtjnash","message":"Can I get a new CI test-build of https://github.com/libuv/libuv/pull/1501 ? (also, is this an OK place to ask?)","date":"2017-12-14T19:24:27.691Z","type":"message"}
+{"nick":"rendar","reason":"Quit: brb","date":"2017-12-14T19:25:40.512Z","type":"quit"}
+{"nick":"sgimeno","message":"vtjnash, https://ci.nodejs.org/view/libuv/job/libuv-test-commit/635/","date":"2017-12-14T19:33:31.307Z","type":"message"}
+{"nick":"joocain2_","reason":"Ping timeout: 248 seconds","date":"2017-12-14T20:29:32.799Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-14T20:31:03.793Z","type":"join"}
+{"nick":"vtjnash","message":"Thanks. Looks like many systems don't define `LONG_MAX` (but try to use it). I've added another commit to try to get that test happy on more system and fixed another issue with the echo-server.","date":"2017-12-14T21:08:56.398Z","type":"message"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T21:18:14.642Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-14T21:20:17.264Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-14T21:21:47.935Z","type":"quit"}
+{"nick":"Jacob843","reason":"Read error: Connection reset by peer","date":"2017-12-14T22:50:56.715Z","type":"quit"}
+{"nick":"Jacob843","date":"2017-12-14T22:51:19.465Z","type":"join"}

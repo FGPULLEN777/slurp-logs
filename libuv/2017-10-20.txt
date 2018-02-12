@@ -1,0 +1,40 @@
+{"nick":"Fishrock123","date":"2017-10-20T00:10:15.629Z","type":"join"}
+{"nick":"euoia_","date":"2017-10-20T00:35:49.669Z","type":"join"}
+{"nick":"euoia_","reason":"Quit: leaving","date":"2017-10-20T00:40:53.829Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-20T01:06:35.076Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-10-20T01:15:30.893Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-20T01:38:08.915Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-20T01:42:07.298Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-20T01:59:57.636Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 246 seconds","date":"2017-10-20T02:08:02.697Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-20T02:11:55.461Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-20T02:37:11.713Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-20T02:42:11.898Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-20T02:42:26.677Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-10-20T03:50:18.900Z","type":"quit"}
+{"nick":"rendar","date":"2017-10-20T06:14:39.823Z","type":"join"}
+{"nick":"rendar","reason":"Ping timeout: 258 seconds","date":"2017-10-20T06:46:06.805Z","type":"quit"}
+{"nick":"seishun","date":"2017-10-20T07:17:09.507Z","type":"join"}
+{"nick":"rendar","date":"2017-10-20T07:33:23.877Z","type":"join"}
+{"nick":"euoia","date":"2017-10-20T08:54:48.593Z","type":"join"}
+{"nick":"trevnorris","reason":"K-Lined","date":"2017-10-20T08:57:10.679Z","type":"quit"}
+{"nick":"trevnorris","date":"2017-10-20T08:58:59.000Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 240 seconds","date":"2017-10-20T09:06:08.607Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-20T09:10:43.362Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 248 seconds","date":"2017-10-20T09:32:17.320Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-20T09:33:04.683Z","type":"join"}
+{"nick":"euoia_","date":"2017-10-20T10:14:07.633Z","type":"join"}
+{"nick":"erikj-","reason":"Changing host","date":"2017-10-20T10:19:03.177Z","type":"quit"}
+{"nick":"erikj-","date":"2017-10-20T10:19:03.216Z","type":"join"}
+{"nick":"erikj-","new_nick":"erikj","date":"2017-10-20T10:19:54.831Z","type":"nick"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-20T10:25:06.361Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-20T10:25:36.920Z","type":"join"}
+{"nick":"AtumT","date":"2017-10-20T10:32:27.956Z","type":"join"}
+{"nick":"roxlu","reason":"Ping timeout: 240 seconds","date":"2017-10-20T12:30:27.887Z","type":"quit"}
+{"nick":"roxlu","date":"2017-10-20T12:37:14.724Z","type":"join"}
+{"nick":"euoia_","reason":"Ping timeout: 240 seconds","date":"2017-10-20T13:06:05.710Z","type":"quit"}
+{"nick":"euoia","reason":"Ping timeout: 248 seconds","date":"2017-10-20T13:06:39.680Z","type":"quit"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-10-20T18:12:16.922Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-20T18:49:08.423Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 248 seconds","date":"2017-10-20T18:55:29.400Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-10-20T21:20:57.997Z","type":"quit"}

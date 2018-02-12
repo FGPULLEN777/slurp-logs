@@ -1,0 +1,37 @@
+{"nick":"davidmichaelkarr","reason":"Quit: Connection closed for inactivity","date":"2018-01-26T00:13:07.255Z","type":"quit"}
+{"nick":"rehatski","date":"2018-01-26T01:08:57.341Z","type":"join"}
+{"nick":"rehatski","message":"Is it better to create a middleware route or a middleware function variable thats passed into the routes that need it?","date":"2018-01-26T01:09:58.182Z","type":"message"}
+{"nick":"bomb-on","reason":"Quit: SO LONG, SUCKERS!","date":"2018-01-26T01:56:45.222Z","type":"quit"}
+{"nick":"rehatski","reason":"Remote host closed the connection","date":"2018-01-26T02:06:21.980Z","type":"quit"}
+{"nick":"bomb-on","date":"2018-01-26T02:17:21.053Z","type":"join"}
+{"nick":"lpin","date":"2018-01-26T06:20:06.564Z","type":"join"}
+{"nick":"Roughy","reason":"Quit: Meadow Fresh milk","date":"2018-01-26T07:12:03.747Z","type":"quit"}
+{"nick":"Arcarc","date":"2018-01-26T07:15:29.327Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-26T07:41:50.984Z","type":"quit"}
+{"nick":"bomb-on","reason":"Quit: zzz","date":"2018-01-26T09:54:55.631Z","type":"quit"}
+{"nick":"bomb-on","date":"2018-01-26T10:20:02.805Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-26T11:25:27.688Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-26T11:25:58.083Z","type":"join"}
+{"nick":"Arcarcarc","date":"2018-01-26T13:10:12.342Z","type":"join"}
+{"nick":"Arcarc","reason":"Ping timeout: 256 seconds","date":"2018-01-26T13:13:38.327Z","type":"quit"}
+{"nick":"greggerz","date":"2018-01-26T15:20:58.601Z","type":"join"}
+{"nick":"Arcarcarc","reason":"Ping timeout: 240 seconds","date":"2018-01-26T16:50:40.700Z","type":"quit"}
+{"nick":"bomb-on","reason":"Quit: zzz","date":"2018-01-26T17:19:23.246Z","type":"quit"}
+{"nick":"darkSeid_","date":"2018-01-26T17:25:30.282Z","type":"join"}
+{"nick":"Fishrock123","date":"2018-01-26T17:39:07.772Z","type":"join"}
+{"nick":"lpin","reason":"Read error: Connection reset by peer","date":"2018-01-26T17:47:09.161Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-26T18:21:26.895Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-26T18:22:10.014Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-26T18:22:16.739Z","type":"quit"}
+{"nick":"Roughy","date":"2018-01-26T18:28:02.738Z","type":"join"}
+{"nick":"greggerz","reason":"Quit: Leaving","date":"2018-01-26T19:07:41.782Z","type":"quit"}
+{"nick":"bomb-on","date":"2018-01-26T19:11:20.712Z","type":"join"}
+{"nick":"Fishrock123","date":"2018-01-26T19:17:38.732Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-26T20:23:11.228Z","type":"quit"}
+{"nick":"darkSeid_","date":"2018-01-26T21:25:39.615Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-26T21:47:41.495Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-26T22:16:39.078Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-26T22:18:36.983Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2018-01-26T22:58:39.660Z","type":"quit"}
+{"nick":"bomb-on","reason":"Quit: zzz","date":"2018-01-26T23:11:44.958Z","type":"quit"}
+{"nick":"darkSeid_","date":"2018-01-26T23:21:54.443Z","type":"join"}

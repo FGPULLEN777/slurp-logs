@@ -1,0 +1,39 @@
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-10-02T01:17:54.787Z","type":"quit"}
+{"nick":"n_tt_","date":"2017-10-02T02:04:04.562Z","type":"join"}
+{"nick":"n_tt","reason":"Read error: Connection reset by peer","date":"2017-10-02T02:04:04.790Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-10-02T03:49:59.775Z","type":"join"}
+{"nick":"masterasia","reason":"Ping timeout: 258 seconds","date":"2017-10-02T05:11:34.641Z","type":"quit"}
+{"nick":"n_tt_","reason":"Read error: Connection reset by peer","date":"2017-10-02T05:11:35.096Z","type":"quit"}
+{"nick":"n_tt","date":"2017-10-02T05:11:45.116Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-02T05:25:33.787Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-10-02T05:33:35.875Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Client Quit","date":"2017-10-02T05:33:40.069Z","type":"quit"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-10-02T06:33:49.380Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-10-02T06:57:53.701Z","type":"join"}
+{"nick":"n_tt","date":"2017-10-02T06:58:13.576Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-02T07:15:14.350Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-10-02T07:21:00.357Z","type":"join"}
+{"nick":"n_tt","reason":"Read error: Connection reset by peer","date":"2017-10-02T07:32:21.785Z","type":"quit"}
+{"nick":"n_tt","date":"2017-10-02T07:32:34.103Z","type":"join"}
+{"nick":"n_tt_","date":"2017-10-02T07:53:13.704Z","type":"join"}
+{"nick":"n_tt","reason":"Read error: Connection reset by peer","date":"2017-10-02T07:53:14.165Z","type":"quit"}
+{"nick":"Cohedrin_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-02T08:31:18.633Z","type":"quit"}
+{"nick":"n_tt","date":"2017-10-02T09:03:47.388Z","type":"join"}
+{"nick":"n_tt_","reason":"Read error: Connection reset by peer","date":"2017-10-02T09:03:47.574Z","type":"quit"}
+{"nick":"n_tt_","date":"2017-10-02T09:08:27.929Z","type":"join"}
+{"nick":"n_tt","reason":"Read error: Connection reset by peer","date":"2017-10-02T09:08:28.143Z","type":"quit"}
+{"nick":"n_tt","date":"2017-10-02T09:54:20.698Z","type":"join"}
+{"nick":"n_tt_","reason":"Ping timeout: 246 seconds","date":"2017-10-02T09:57:42.810Z","type":"quit"}
+{"nick":"mezod","date":"2017-10-02T10:15:25.570Z","type":"join"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-10-02T10:18:20.139Z","type":"quit"}
+{"nick":"n_tt","date":"2017-10-02T10:18:54.844Z","type":"join"}
+{"nick":"n_tt_","date":"2017-10-02T10:21:22.987Z","type":"join"}
+{"nick":"n_tt","reason":"Read error: Connection reset by peer","date":"2017-10-02T10:21:23.174Z","type":"quit"}
+{"nick":"n_tt_","reason":"Remote host closed the connection","date":"2017-10-02T11:25:25.402Z","type":"quit"}
+{"nick":"mezod","reason":"Read error: No route to host","date":"2017-10-02T16:46:05.736Z","type":"quit"}
+{"nick":"mezod","date":"2017-10-02T16:47:04.083Z","type":"join"}
+{"nick":"Cohedrin_","date":"2017-10-02T17:40:23.914Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-10-02T18:41:43.548Z","type":"quit"}
+{"nick":"AlexMax","date":"2017-10-02T20:15:50.079Z","type":"join"}
+{"nick":"n_tt","date":"2017-10-02T20:20:32.297Z","type":"join"}
+{"nick":"mezod","date":"2017-10-02T21:45:35.761Z","type":"join"}

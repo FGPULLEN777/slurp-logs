@@ -1,0 +1,78 @@
+{"nick":"xadillax","date":"2017-09-18T02:28:34.041Z","type":"join"}
+{"nick":"xadillax_","date":"2017-09-18T02:34:45.610Z","type":"join"}
+{"nick":"xadillax_","reason":"Remote host closed the connection","date":"2017-09-18T02:35:06.372Z","type":"quit"}
+{"nick":"refack","date":"2017-09-18T02:36:13.663Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 255 seconds","date":"2017-09-18T02:38:11.009Z","type":"quit"}
+{"nick":"xadillax","date":"2017-09-18T02:39:13.688Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-09-18T02:42:07.794Z","type":"quit"}
+{"nick":"xadillax","date":"2017-09-18T02:42:39.687Z","type":"join"}
+{"nick":"xadillax","reason":"Read error: Connection reset by peer","date":"2017-09-18T02:43:29.845Z","type":"quit"}
+{"nick":"xadillax","date":"2017-09-18T02:43:43.581Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-09-18T03:02:49.385Z","type":"quit"}
+{"nick":"xadillax","date":"2017-09-18T03:03:11.731Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-09-18T03:17:44.039Z","type":"quit"}
+{"nick":"xadillax","date":"2017-09-18T03:20:50.196Z","type":"join"}
+{"nick":"xadillax_","date":"2017-09-18T03:22:54.597Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 240 seconds","date":"2017-09-18T03:26:01.169Z","type":"quit"}
+{"nick":"xadillax_","reason":"Remote host closed the connection","date":"2017-09-18T03:47:09.827Z","type":"quit"}
+{"nick":"xadillax","date":"2017-09-18T04:47:33.745Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 260 seconds","date":"2017-09-18T04:52:17.779Z","type":"quit"}
+{"nick":"rmg","date":"2017-09-18T04:55:56.210Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 248 seconds","date":"2017-09-18T05:01:19.763Z","type":"quit"}
+{"nick":"rendar","date":"2017-09-18T05:46:55.269Z","type":"join"}
+{"nick":"MoZu4k_","date":"2017-09-18T06:24:29.681Z","type":"join"}
+{"nick":"rmg","date":"2017-09-18T06:43:52.840Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 240 seconds","date":"2017-09-18T06:48:35.650Z","type":"quit"}
+{"nick":"xadillax","date":"2017-09-18T06:48:57.788Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 260 seconds","date":"2017-09-18T06:53:37.750Z","type":"quit"}
+{"nick":"MoZu4k_","date":"2017-09-18T07:20:15.694Z","type":"part"}
+{"nick":"rmg","date":"2017-09-18T07:38:03.744Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 240 seconds","date":"2017-09-18T07:46:08.662Z","type":"quit"}
+{"nick":"xadillax","date":"2017-09-18T07:49:23.440Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 264 seconds","date":"2017-09-18T07:54:22.325Z","type":"quit"}
+{"nick":"sgimeno","date":"2017-09-18T09:02:12.401Z","type":"join"}
+{"nick":"sgimeno","reason":"Ping timeout: 264 seconds","date":"2017-09-18T09:09:58.378Z","type":"quit"}
+{"nick":"rmg","date":"2017-09-18T09:26:34.025Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 260 seconds","date":"2017-09-18T09:31:42.780Z","type":"quit"}
+{"nick":"rmg","date":"2017-09-18T09:32:26.698Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 240 seconds","date":"2017-09-18T09:36:52.321Z","type":"quit"}
+{"nick":"xadillax","date":"2017-09-18T09:51:03.204Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 240 seconds","date":"2017-09-18T09:55:21.139Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-09-18T10:25:09.858Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-09-18T10:25:40.431Z","type":"join"}
+{"nick":"rmg","date":"2017-09-18T10:26:34.074Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 260 seconds","date":"2017-09-18T10:31:12.763Z","type":"quit"}
+{"nick":"Matthew[m]","reason":"Ping timeout: 240 seconds","date":"2017-09-18T10:37:40.350Z","type":"quit"}
+{"nick":"chrisdickinson","reason":"Ping timeout: 260 seconds","date":"2017-09-18T10:40:32.824Z","type":"quit"}
+{"nick":"Matthew[m]","date":"2017-09-18T10:40:38.611Z","type":"join"}
+{"nick":"chrisdickinson","date":"2017-09-18T10:43:04.316Z","type":"join"}
+{"nick":"rmg","date":"2017-09-18T11:20:27.807Z","type":"join"}
+{"nick":"xadillax","date":"2017-09-18T11:22:58.651Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 240 seconds","date":"2017-09-18T11:24:35.553Z","type":"quit"}
+{"nick":"xadillax","reason":"Ping timeout: 246 seconds","date":"2017-09-18T11:27:18.707Z","type":"quit"}
+{"nick":"rmg","date":"2017-09-18T12:14:33.876Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 240 seconds","date":"2017-09-18T12:18:41.175Z","type":"quit"}
+{"nick":"sgimeno","date":"2017-09-18T12:51:51.202Z","type":"join"}
+{"nick":"rmg","date":"2017-09-18T13:08:51.582Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 252 seconds","date":"2017-09-18T13:13:42.309Z","type":"quit"}
+{"nick":"rmg","date":"2017-09-18T14:02:51.265Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 246 seconds","date":"2017-09-18T14:07:36.626Z","type":"quit"}
+{"nick":"rmg","date":"2017-09-18T14:17:20.724Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-09-18T14:32:47.682Z","type":"join"}
+{"nick":"nickleefly","date":"2017-09-18T15:39:37.156Z","type":"join"}
+{"nick":"Left_Turn","date":"2017-09-18T17:04:17.829Z","type":"join"}
+{"nick":"Left_Turn","reason":"Remote host closed the connection","date":"2017-09-18T17:07:54.939Z","type":"quit"}
+{"nick":"nickleefly","reason":"Quit: Connection closed for inactivity","date":"2017-09-18T17:49:20.617Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-18T18:00:57.826Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-18T18:56:55.683Z","type":"join"}
+{"nick":"joocain2","reason":"Remote host closed the connection","date":"2017-09-18T20:09:56.874Z","type":"quit"}
+{"nick":"joocain2","date":"2017-09-18T20:10:21.902Z","type":"join"}
+{"nick":"erikj","reason":"Ping timeout: 246 seconds","date":"2017-09-18T21:05:14.782Z","type":"quit"}
+{"nick":"erikj","date":"2017-09-18T21:34:32.147Z","type":"join"}
+{"nick":"erikj","reason":"Changing host","date":"2017-09-18T21:35:44.584Z","type":"quit"}
+{"nick":"erikj","date":"2017-09-18T21:35:44.586Z","type":"join"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-09-18T21:56:50.154Z","type":"quit"}
+{"nick":"ugexe","date":"2017-09-18T22:07:34.373Z","type":"join"}
+{"nick":"ugexe","message":"for uv_fs_copyfile O_TRUNC is not set on dst path, but win32 CopyFile and osx copyfile(3) look like they do truncate. so is uv_fs_copyfile expected behavior for copying an empty file src to non-empty file dst to have dst be empty or contain its original data?","date":"2017-09-18T22:13:30.074Z","type":"message"}
+{"nick":"ugexe","message":"the addition of O_TRUNC to dst appears to test ok fwiw","date":"2017-09-18T22:23:19.462Z","type":"message"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-09-18T22:50:38.983Z","type":"quit"}

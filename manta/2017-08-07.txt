@@ -1,0 +1,48 @@
+{"nick":"Teknix","reason":"Read error: Connection reset by peer","date":"2017-08-07T00:22:59.029Z","type":"quit"}
+{"nick":"Teknix","date":"2017-08-07T00:23:31.382Z","type":"join"}
+{"nick":"elijahZ24","reason":"Quit: Leaving.","date":"2017-08-07T01:09:19.978Z","type":"quit"}
+{"nick":"elijahZ241","date":"2017-08-07T01:09:24.555Z","type":"join"}
+{"nick":"nahamu","message":"Head request. You have to translate the http header format tone","date":"2017-08-07T01:13:06.708Z","type":"message"}
+{"nick":"nahamu","message":"To the format the local md5 tool expects","date":"2017-08-07T01:13:23.739Z","type":"message"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2017-08-07T01:20:00.867Z","type":"quit"}
+{"nick":"ed209","date":"2017-08-07T01:20:08.560Z","type":"join"}
+{"nick":"elijahZ241","reason":"Quit: Leaving.","date":"2017-08-07T05:16:03.651Z","type":"quit"}
+{"nick":"elijahZ24","date":"2017-08-07T05:16:11.630Z","type":"join"}
+{"nick":"jhendricks","date":"2017-08-07T05:17:57.696Z","type":"join"}
+{"nick":"jhendricks","reason":"Quit: Leaving.","date":"2017-08-07T05:45:29.856Z","type":"quit"}
+{"nick":"falanx_","message":"Thank you for answers.  That gets me all the metadata.  Now I just need to figure out how to format the header.","date":"2017-08-07T07:27:17.565Z","type":"message"}
+{"nick":"falanx_","message":"reviewing mmd5, it looks like it converts to base64, then hex","date":"2017-08-07T07:48:46.562Z","type":"message"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2017-08-07T10:20:01.156Z","type":"quit"}
+{"nick":"ed209","date":"2017-08-07T10:20:08.490Z","type":"join"}
+{"nick":"jhendricks","date":"2017-08-07T10:46:37.578Z","type":"join"}
+{"nick":"jhendricks","reason":"Client Quit","date":"2017-08-07T10:46:37.632Z","type":"quit"}
+{"nick":"jayschmidt","date":"2017-08-07T11:05:04.445Z","type":"join"}
+{"nick":"elijahZ24","reason":"Quit: Leaving.","date":"2017-08-07T12:33:24.937Z","type":"quit"}
+{"nick":"elijahZ24","date":"2017-08-07T12:33:31.636Z","type":"join"}
+{"nick":"kkantor","date":"2017-08-07T14:36:05.701Z","type":"join"}
+{"nick":"jhendricks","date":"2017-08-07T15:16:59.479Z","type":"join"}
+{"nick":"jhendricks","reason":"Quit: Leaving.","date":"2017-08-07T15:31:29.450Z","type":"quit"}
+{"nick":"jhendricks","date":"2017-08-07T15:51:16.560Z","type":"join"}
+{"nick":"bahamat","date":"2017-08-07T16:44:45.692Z","type":"join"}
+{"nick":"kkantor","reason":"Quit: kkantor","date":"2017-08-07T16:53:22.544Z","type":"quit"}
+{"nick":"jhendricks","reason":"Quit: Leaving.","date":"2017-08-07T16:53:30.776Z","type":"quit"}
+{"nick":"kkantor","date":"2017-08-07T16:53:50.451Z","type":"join"}
+{"nick":"kkantor","reason":"Client Quit","date":"2017-08-07T16:56:52.896Z","type":"quit"}
+{"nick":"jhendricks","date":"2017-08-07T17:03:03.511Z","type":"join"}
+{"nick":"kkantor","date":"2017-08-07T17:20:22.818Z","type":"join"}
+{"nick":"elijahZ24","reason":"Read error: Connection reset by peer","date":"2017-08-07T18:21:49.748Z","type":"quit"}
+{"nick":"elijahZ24","date":"2017-08-07T18:21:58.595Z","type":"join"}
+{"nick":"pmooney","reason":"Quit: WeeChat 1.7.1","date":"2017-08-07T19:06:46.292Z","type":"quit"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2017-08-07T20:20:00.864Z","type":"quit"}
+{"nick":"ed209","date":"2017-08-07T20:20:08.605Z","type":"join"}
+{"nick":"kkantor","reason":"Quit: kkantor","date":"2017-08-07T20:25:59.416Z","type":"quit"}
+{"nick":"kkantor","date":"2017-08-07T20:41:37.872Z","type":"join"}
+{"nick":"kkantor","reason":"Quit: kkantor","date":"2017-08-07T21:06:16.615Z","type":"quit"}
+{"nick":"jhendricks","reason":"Quit: Leaving.","date":"2017-08-07T21:13:47.592Z","type":"quit"}
+{"nick":"jhendricks","date":"2017-08-07T21:15:00.681Z","type":"join"}
+{"nick":"pmooney","date":"2017-08-07T21:24:37.630Z","type":"join"}
+{"nick":"jhendricks","reason":"Quit: Leaving.","date":"2017-08-07T21:28:36.229Z","type":"quit"}
+{"nick":"jhendricks","date":"2017-08-07T21:38:14.660Z","type":"join"}
+{"nick":"bahamat_","date":"2017-08-07T21:47:33.690Z","type":"join"}
+{"nick":"bahamat","reason":"Ping timeout: 276 seconds","date":"2017-08-07T21:50:10.680Z","type":"quit"}
+{"nick":"jhendricks","reason":"Quit: Leaving.","date":"2017-08-07T23:54:06.351Z","type":"quit"}

@@ -1,0 +1,49 @@
+{"nick":"not-an-aardvark","date":"2017-09-01T00:27:07.900Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-09-01T02:59:11.903Z","type":"join"}
+{"nick":"bradleymeck","reason":"Client Quit","date":"2017-09-01T02:59:59.833Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-09-01T03:17:33.691Z","type":"quit"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2017-09-01T03:45:34.050Z","type":"quit"}
+{"nick":"abernix","date":"2017-09-01T05:27:31.677Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-09-01T05:33:50.142Z","type":"quit"}
+{"nick":"howdoi","date":"2017-09-01T05:43:15.875Z","type":"join"}
+{"nick":"ondras","reason":"\"WeeChat 1.7\"","date":"2017-09-01T06:00:35.471Z","type":"part"}
+{"nick":"gskachkov","date":"2017-09-01T07:10:26.182Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-09-01T07:29:33.673Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-09-01T07:29:52.538Z","type":"join"}
+{"nick":"wadadli","reason":"Remote host closed the connection","date":"2017-09-01T07:50:57.890Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-09-01T08:34:18.319Z","type":"quit"}
+{"nick":"abernix","reason":"Quit: Bye","date":"2017-09-01T09:02:27.468Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-09-01T09:57:39.309Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-09-01T10:01:07.589Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-09-01T10:10:15.193Z","type":"quit"}
+{"nick":"AtumT","date":"2017-09-01T10:13:25.493Z","type":"join"}
+{"nick":"gskachkov","date":"2017-09-01T10:15:43.519Z","type":"join"}
+{"nick":"gskachkov","reason":"Ping timeout: 240 seconds","date":"2017-09-01T10:23:05.477Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-09-01T10:23:41.519Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-09-01T10:25:11.107Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-09-01T10:25:41.654Z","type":"join"}
+{"nick":"jmdyck","date":"2017-09-01T11:44:31.865Z","type":"join"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-09-01T13:36:14.768Z","type":"quit"}
+{"nick":"dilijev","reason":"Quit: Connection closed for inactivity","date":"2017-09-01T14:50:24.246Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-09-01T15:14:28.687Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-09-01T15:51:01.571Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-09-01T16:09:48.593Z","type":"join"}
+{"nick":"howdoi","date":"2017-09-01T16:28:02.863Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-09-01T16:32:42.240Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-09-01T16:37:50.739Z","type":"join"}
+{"nick":"bradleymeck","reason":"Client Quit","date":"2017-09-01T16:40:17.213Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-09-01T16:55:07.063Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-09-01T17:37:32.338Z","type":"join"}
+{"nick":"gskachkov","date":"2017-09-01T17:43:48.572Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2017-09-01T17:45:11.531Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-09-01T18:05:27.882Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-09-01T18:13:33.948Z","type":"join"}
+{"nick":"IgnoredAmbience","reason":"Ping timeout: 240 seconds","date":"2017-09-01T18:13:41.316Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-09-01T18:21:34.736Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-09-01T18:42:11.564Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-09-01T19:08:44.756Z","type":"quit"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-09-01T19:25:35.952Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-09-01T19:38:50.566Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-09-01T19:53:27.014Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-09-01T20:21:12.368Z","type":"join"}
+{"nick":"not-an-aardvark","date":"2017-09-01T23:52:50.250Z","type":"join"}

@@ -1,0 +1,78 @@
+{"nick":"node-gh","date":"2018-01-08T01:28:25.135Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T01:28:25.203Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T02:48:24.437Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T02:48:24.697Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T04:44:35.249Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T04:44:35.250Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T04:50:29.448Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T04:50:29.556Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T05:10:01.629Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T05:10:01.699Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T05:11:31.630Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T05:11:31.700Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T05:16:12.442Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T05:16:12.547Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T05:57:54.864Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T05:57:54.933Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T06:05:04.890Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T06:05:04.959Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T06:08:49.426Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T06:08:49.495Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T06:13:19.611Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T06:13:19.611Z","type":"part"}
+{"nick":"rvagg","message":"having lots of problems with softlayer","date":"2018-01-08T07:09:56.061Z","type":"message"}
+{"nick":"rvagg","message":"rebooted machines won't come back up, suspecting kernel problems","date":"2018-01-08T07:10:05.401Z","type":"message"}
+{"nick":"maclover7","reason":"*.net *.split","date":"2018-01-08T07:13:17.019Z","type":"quit"}
+{"nick":"Trott","reason":"*.net *.split","date":"2018-01-08T07:13:17.087Z","type":"quit"}
+{"nick":"maclover7","date":"2018-01-08T07:13:31.975Z","type":"join"}
+{"nick":"Trott","date":"2018-01-08T07:13:41.215Z","type":"join"}
+{"nick":"seishun","date":"2018-01-08T07:31:30.406Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2018-01-08T08:36:27.823Z","type":"quit"}
+{"nick":"node-gh","date":"2018-01-08T08:57:10.180Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T08:57:10.412Z","type":"part"}
+{"nick":"sgimeno","date":"2018-01-08T10:31:32.564Z","type":"join"}
+{"nick":"tniessen","reason":"Ping timeout: 240 seconds","date":"2018-01-08T10:44:57.832Z","type":"quit"}
+{"nick":"zkat","reason":"Read error: Connection reset by peer","date":"2018-01-08T10:51:49.696Z","type":"quit"}
+{"nick":"zkat","date":"2018-01-08T10:52:29.522Z","type":"join"}
+{"nick":"rvagg","message":"CI seems to be back in decent shape, the queue was massive, I think a windows reboot job for one of the hosts that is down got in the way and then stuff got queued up in the background, hidden","date":"2018-01-08T10:53:37.305Z","type":"message"}
+{"nick":"rvagg","message":"just take note of that SoftLayer instability issue Build folks","date":"2018-01-08T10:54:04.331Z","type":"message"}
+{"nick":"rvagg","message":"both Jenkins servers have been updated to the latest kernel, Jenkins itself and plugins have also been updated (🤞)","date":"2018-01-08T10:54:52.332Z","type":"message"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-08T11:25:10.255Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-08T11:25:40.946Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T11:30:14.829Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T11:30:14.936Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T11:44:44.478Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T11:44:44.547Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T11:57:45.755Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T11:57:45.863Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T11:58:09.464Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T11:58:09.532Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T12:06:12.849Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T12:06:12.918Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T12:07:49.288Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T12:07:49.289Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T12:31:03.256Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T12:31:03.256Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T12:32:58.486Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T12:32:58.487Z","type":"part"}
+{"nick":"seishun","date":"2018-01-08T16:48:56.067Z","type":"join"}
+{"nick":"Fishrock123","date":"2018-01-08T16:54:32.837Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T17:39:00.460Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T17:39:00.528Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-08T18:05:48.812Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-08T18:13:04.101Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-08T19:05:05.608Z","type":"quit"}
+{"nick":"node-gh","date":"2018-01-08T19:40:28.417Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T19:40:28.486Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-08T19:43:06.207Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-08T19:43:06.208Z","type":"part"}
+{"nick":"Fishrock123","date":"2018-01-08T19:51:38.212Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-08T21:15:14.914Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-08T21:15:59.508Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-08T21:16:04.833Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-08T21:16:47.598Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-08T21:16:52.808Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 256 seconds","date":"2018-01-08T21:51:21.456Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-08T22:17:50.553Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 256 seconds","date":"2018-01-08T22:22:31.539Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-08T23:02:22.959Z","type":"join"}

@@ -1,0 +1,218 @@
+{"nick":"gsnedders","date":"2017-12-05T00:18:49.922Z","type":"join"}
+{"nick":"gibson042","reason":"Read error: Connection reset by peer","date":"2017-12-05T00:28:17.972Z","type":"quit"}
+{"nick":"gibson042","date":"2017-12-05T00:33:59.556Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 255 seconds","date":"2017-12-05T00:41:17.382Z","type":"quit"}
+{"nick":"marxo","reason":"Ping timeout: 260 seconds","date":"2017-12-05T00:49:30.402Z","type":"quit"}
+{"nick":"gibson042","date":"2017-12-05T02:44:35.386Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-05T02:56:39.508Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-05T02:57:17.379Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-05T03:03:50.165Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-05T03:04:51.104Z","type":"join"}
+{"nick":"zbraniecki","reason":"Ping timeout: 240 seconds","date":"2017-12-05T03:25:51.973Z","type":"quit"}
+{"nick":"zbraniecki","date":"2017-12-05T03:32:28.385Z","type":"join"}
+{"nick":"shachaf","date":"2017-12-05T03:45:05.702Z","type":"join"}
+{"nick":"howdoi","date":"2017-12-05T03:56:37.337Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 255 seconds","date":"2017-12-05T04:20:26.361Z","type":"quit"}
+{"nick":"soareschen","date":"2017-12-05T04:54:21.658Z","type":"join"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2017-12-05T05:09:28.561Z","type":"quit"}
+{"nick":"jwalden","reason":"Quit: ChatZilla 0.9.92-rdmsoft [XULRunner 35.0.1/20150122214805]","date":"2017-12-05T06:03:52.169Z","type":"quit"}
+{"nick":"jridgewell","reason":"Quit: Connection closed for inactivity","date":"2017-12-05T06:08:01.083Z","type":"quit"}
+{"nick":"Chris_","date":"2017-12-05T06:44:25.030Z","type":"join"}
+{"nick":"brab","date":"2017-12-05T07:10:24.942Z","type":"join"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-12-05T08:06:20.583Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-05T08:18:40.218Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-05T08:19:17.308Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-05T08:34:26.764Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-05T08:34:51.815Z","type":"join"}
+{"nick":"Fishrock123","reason":"Client Quit","date":"2017-12-05T08:37:55.086Z","type":"quit"}
+{"nick":"Chris_","reason":"Ping timeout: 260 seconds","date":"2017-12-05T09:23:00.061Z","type":"quit"}
+{"nick":"AtumT","date":"2017-12-05T09:25:36.736Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-12-05T09:26:45.378Z","type":"quit"}
+{"nick":"caridy","reason":"Ping timeout: 248 seconds","date":"2017-12-05T09:53:04.144Z","type":"quit"}
+{"nick":"annevk","message":"Are there plans or have there been plans shutdown to offer fast mapping between Uint16Array and String?","date":"2017-12-05T10:29:32.838Z","type":"message"}
+{"nick":"annevk","message":"Would String.fromCharCode() be the recommended way and hope that implementations optimize?","date":"2017-12-05T10:30:35.353Z","type":"message"}
+{"nick":"annevk","message":"littledan: FWIW, my one concern with referencing UTS documents is that they generally seem poorly tested/implemented; I've found out in practice at least for text wrapping and IDNA that this was the case","date":"2017-12-05T10:50:59.099Z","type":"message"}
+{"nick":"annevk","message":"littledan: and they're also generally written in a less algorithmic style leading to ambiguities and less clarity than the stuff that depends on them","date":"2017-12-05T10:51:48.922Z","type":"message"}
+{"nick":"annevk","message":"littledan: prolly related","date":"2017-12-05T10:51:54.501Z","type":"message"}
+{"nick":"annevk","message":"littledan: so I'd advice that if you take on such a dependency you also take on testing the dependency","date":"2017-12-05T10:52:22.513Z","type":"message"}
+{"nick":"annevk","message":"littledan: also IDL and ECMAScript <3","date":"2017-12-05T11:07:39.083Z","type":"message"}
+{"nick":"annevk","message":"littledan: taken a long time for that idea to get some traction, but I guess the bigger standard library is helping","date":"2017-12-05T11:08:04.032Z","type":"message"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-05T11:25:11.622Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-05T11:25:42.127Z","type":"join"}
+{"nick":"marxo","date":"2017-12-05T11:26:10.306Z","type":"join"}
+{"nick":"H|f|ish","date":"2017-12-05T11:54:05.594Z","type":"join"}
+{"nick":"jowe","date":"2017-12-05T12:02:30.025Z","type":"join"}
+{"nick":"marxo_","date":"2017-12-05T14:01:10.737Z","type":"join"}
+{"nick":"marxo","reason":"Read error: Connection reset by peer","date":"2017-12-05T14:01:11.189Z","type":"quit"}
+{"nick":"jmdyck","date":"2017-12-05T14:02:02.894Z","type":"join"}
+{"nick":"caridy","date":"2017-12-05T14:39:37.130Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 240 seconds","date":"2017-12-05T14:43:41.901Z","type":"quit"}
+{"nick":"nmostafa","date":"2017-12-05T15:04:14.880Z","type":"join"}
+{"nick":"littledan","message":"annevk: I haven't heard of a proposal like this for String/Uint16Array correspondence. Based on the way strings are implemented in V8, I'd expect that implementations would need to copy, at least sometimes.","date":"2017-12-05T15:24:33.525Z","type":"message"}
+{"nick":"annevk","message":"Domenic suggested in #whatwg that String <> Uint16Array conversion, mostly to make Map() work better, is really a hack due to Map not exposing its equality protocol, so not worth adding conversion features for","date":"2017-12-05T15:26:04.830Z","type":"message"}
+{"nick":"littledan","message":"The V8 team has tossed around the idea of proposing a standard library function for String.fromCharCode.apply (which at some point had performance limitations in V8, though certain other engines handled OK); my suggestion was to look into getting String.fromCharCode.apply optimized reliably across engines, and standardize a new function if that doesn't work","date":"2017-12-05T15:26:13.963Z","type":"message"}
+{"nick":"littledan","message":"I'm not sure which conversion you're talking about","date":"2017-12-05T15:26:19.733Z","type":"message"}
+{"nick":"annevk","message":"littledan: sorry, mapping, not conversion","date":"2017-12-05T15:26:44.297Z","type":"message"}
+{"nick":"Domenic","message":"https://freenode.logbot.info/whatwg/20171205#c1375107 onward","date":"2017-12-05T15:26:57.701Z","type":"message"}
+{"nick":"littledan","message":"for IDL and ECMAScript, I'm a little worried about getting hung up on surface syntax issues (I can imagine us dividing into \"Must be IDL\" and \"Must not be IDL\" camps); we'll see what happens","date":"2017-12-05T15:26:58.787Z","type":"message"}
+{"nick":"caridy","date":"2017-12-05T15:27:33.153Z","type":"join"}
+{"nick":"annevk","message":"littledan: FWIW, I think IDL syntax can change if that is the blocker","date":"2017-12-05T15:27:48.074Z","type":"message"}
+{"nick":"annevk","message":"littledan: we are already getting experience with changing some syntax across dozens and dozens of documents","date":"2017-12-05T15:28:09.913Z","type":"message"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-12-05T15:28:10.789Z","type":"quit"}
+{"nick":"annevk","message":"littledan: we should just do it if it makes things better and as long as we continue to believe the future is bigger than the past","date":"2017-12-05T15:28:27.508Z","type":"message"}
+{"nick":"annevk","message":"littledan: it'd be really sad to die on that hill","date":"2017-12-05T15:28:55.567Z","type":"message"}
+{"nick":"littledan","message":"my strawman IDL change would be s/interface/class/ and use @attribute(arg) @attribute2(arg2) for extended attributes rather than [attribute=arg,attribute2(arg2)]","date":"2017-12-05T15:29:35.247Z","type":"message"}
+{"nick":"littledan","message":"totally superficial","date":"2017-12-05T15:29:37.568Z","type":"message"}
+{"nick":"annevk","message":"class especially seems like a good one","date":"2017-12-05T15:30:06.806Z","type":"message"}
+{"nick":"annevk","message":"And one that's already logged somewhere is something we should do at some point","date":"2017-12-05T15:30:20.300Z","type":"message"}
+{"nick":"littledan","message":"on top of that, maybe make some aliases for things that appear in ECMAScript and don't really benefit from another name, like Number for double, and String for DOMString","date":"2017-12-05T15:30:23.156Z","type":"message"}
+{"nick":"annevk","message":"Yeah, at some point we were going to rename DOMString to String, but some silly reason blocked it that would not fly today","date":"2017-12-05T15:31:02.474Z","type":"message"}
+{"nick":"littledan","message":"also, I guess this is the easy part, but we'd have to make a convenient syntax for non-enumerable methods and namespacing that doesn't have \"Legacy\" in the name, and also syntax for own instance properties","date":"2017-12-05T15:31:19.813Z","type":"message"}
+{"nick":"annevk","message":"I think we can do most of those and maybe even should just do, even if ECMAScript doesn't buy in","date":"2017-12-05T15:31:32.130Z","type":"message"}
+{"nick":"littledan","message":"tobie: ^","date":"2017-12-05T15:31:49.832Z","type":"message"}
+{"nick":"annevk","message":"it'll be better for web developers","date":"2017-12-05T15:31:53.346Z","type":"message"}
+{"nick":"littledan","message":"why is it that most of my projects end up making me want to change WebIDL? I don't think this is the typical experience for standards authors...","date":"2017-12-05T15:32:26.760Z","type":"message"}
+{"nick":"littledan","message":"anyway, making WebIDL more JavaScript-y and then just using that seems like the best of all worlds","date":"2017-12-05T15:32:51.806Z","type":"message"}
+{"nick":"annevk","message":"infrastructure is fun","date":"2017-12-05T15:33:47.126Z","type":"message"}
+{"nick":"caridy","date":"2017-12-05T15:34:03.243Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-12-05T15:34:10.543Z","type":"quit"}
+{"nick":"tobie","message":"As annevk mentioned above, we're getting there in terms of being able to do large syntax changes and get it adopted by specs.","date":"2017-12-05T15:35:08.294Z","type":"message"}
+{"nick":"littledan","message":"what do you think about these drastic syntax changes?","date":"2017-12-05T15:35:34.154Z","type":"message"}
+{"nick":"caridy","date":"2017-12-05T15:36:00.611Z","type":"join"}
+{"nick":"littledan","message":"there's no conflict with existing syntax; it could be introduced as a variant and kept that way for a while during a transition","date":"2017-12-05T15:36:28.963Z","type":"message"}
+{"nick":"tobie","message":"I agree with you, see: https://github.com/heycam/webidl/issues/477. But that's not a consensual position at all.","date":"2017-12-05T15:37:21.536Z","type":"message"}
+{"nick":"Domenic","message":"I'm not sure about attribute/class since at least for web classes they don't match JS classes","date":"2017-12-05T15:37:22.533Z","type":"message"}
+{"nick":"Domenic","message":"number <-> unrestricted double, not double, FWIW.","date":"2017-12-05T15:37:43.176Z","type":"message"}
+{"nick":"littledan","message":"there's also a layering thing: Although WebIDL is pretty well self-contained and doesn't reference HTML or anything like that (thanks for the good work getting/keeping it that way!), it might be nice if we could make a minimal subset which is referenced by ECMAScript, and then had a separate \"WebIDL for HTML\" document which added certain types, e.g., at a minimum anything where we can't take DOM out of the name","date":"2017-12-05T15:38:06.767Z","type":"message"}
+{"nick":"tobie","message":"Domenic: we could imagine having some kind of modifier at the class level for this.","date":"2017-12-05T15:38:18.425Z","type":"message"}
+{"nick":"Domenic","message":"Yeah","date":"2017-12-05T15:38:22.860Z","type":"message"}
+{"nick":"Domenic","message":"IDL references HTML in a few ways","date":"2017-12-05T15:38:24.079Z","type":"message"}
+{"nick":"littledan","message":"Domenic: For interfaces which are not exposed, used more in a mixin-like way, maybe we should keep using interface","date":"2017-12-05T15:38:31.644Z","type":"message"}
+{"nick":"Domenic","message":"https://heycam.github.io/webidl/#index-defined-elsewhere","date":"2017-12-05T15:38:43.711Z","type":"message"}
+{"nick":"Domenic","message":"It just seems strange to want to create a new IDL language because the existing one has bad surface syntax","date":"2017-12-05T15:39:47.639Z","type":"message"}
+{"nick":"Domenic","message":"And then learn all the lessons that the original had to learn, all over again","date":"2017-12-05T15:39:57.773Z","type":"message"}
+{"nick":"littledan","message":"most of the references seem to be in the examples, which I think should be fine","date":"2017-12-05T15:40:16.306Z","type":"message"}
+{"nick":"Domenic","message":"I'm especially bemused by wanting to change extended attributes to use decorator syntax when they are not decorators","date":"2017-12-05T15:40:24.051Z","type":"message"}
+{"nick":"Domenic","message":"The ones in the second column are more ingrained though","date":"2017-12-05T15:40:34.468Z","type":"message"}
+{"nick":"littledan","message":"I don't think square brackets will fly when we have computed property names","date":"2017-12-05T15:40:51.556Z","type":"message"}
+{"nick":"brab","reason":"Quit: ERC (IRC client for Emacs 25.3.1)","date":"2017-12-05T15:40:53.486Z","type":"quit"}
+{"nick":"Domenic","message":"I think they're fine, there's no ambiguity.","date":"2017-12-05T15:41:05.176Z","type":"message"}
+{"nick":"littledan","message":"seriously, I think surface syntax one way or the other is the most likely reason we'll fail to make progress","date":"2017-12-05T15:41:16.687Z","type":"message"}
+{"nick":"Domenic","message":"I think that's true if you make it your hill to die on.","date":"2017-12-05T15:41:27.135Z","type":"message"}
+{"nick":"littledan","message":"I'm fine proposing something initially which is just WebIDL but I'll be shocked if this is OK for the committee","date":"2017-12-05T15:41:32.813Z","type":"message"}
+{"nick":"littledan","message":"if we can make changes to WebIDL surface syntax like we've been discussing, I think it would be a lot easier","date":"2017-12-05T15:42:09.323Z","type":"message"}
+{"nick":"Domenic","message":"I'd be surprised if others on the committee found your particular surface-syntax issues high priority","date":"2017-12-05T15:42:57.763Z","type":"message"}
+{"nick":"Domenic","message":"But committee-guessing is fraught with peril so who knows.","date":"2017-12-05T15:43:09.785Z","type":"message"}
+{"nick":"Domenic","message":"(For example, I think the use of the term \"attribute\" and \"readonly attribute\" for getter/setter and getter properties is much more problematic.)","date":"2017-12-05T15:43:30.465Z","type":"message"}
+{"nick":"littledan","message":"So far, all of my guesses that the committee will not object on this or that basis have been wrong","date":"2017-12-05T15:43:33.973Z","type":"message"}
+{"nick":"tobie","message":"who's in the committee?","date":"2017-12-05T15:43:51.470Z","type":"message"}
+{"nick":"littledan","message":"yeah, I was thinking we should use JS get/set syntax for those as well, but they didn't come up in my example","date":"2017-12-05T15:44:05.192Z","type":"message"}
+{"nick":"littledan","message":"tobie: A lot of people, see https://github.com/orgs/tc39/people","date":"2017-12-05T15:44:42.380Z","type":"message"}
+{"nick":"Domenic","message":"littledan: would you want data properties to be expressible in this IDL too?","date":"2017-12-05T15:45:19.336Z","type":"message"}
+{"nick":"littledan","message":"it will be hard enough to push for any shared infrastructure with web specs at all; you know that that has seen a lot of resistance. When it turns out that classes are called interfaces because CORBA, I don't think it'll help at all.","date":"2017-12-05T15:45:36.611Z","type":"message"}
+{"nick":"littledan","message":"Domenic: Yes","date":"2017-12-05T15:45:39.216Z","type":"message"}
+{"nick":"Domenic","message":"littledan: OK, then I think we are headed for a bigger conflict, where I don't like having IDL with no normative implications.","date":"2017-12-05T15:45:59.209Z","type":"message"}
+{"nick":"littledan","message":"we have RegExp.lastIndex","date":"2017-12-05T15:46:03.921Z","type":"message"}
+{"nick":"littledan","message":"what do you mean, no normative implications?","date":"2017-12-05T15:46:10.623Z","type":"message"}
+{"nick":"littledan","message":"of course we'd change IDL to accommodate this if we use IDL","date":"2017-12-05T15:46:20.962Z","type":"message"}
+{"nick":"Domenic","message":"I mean, the normative spec text needs to set those properties anyway","date":"2017-12-05T15:46:22.717Z","type":"message"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-12-05T15:46:26.568Z","type":"quit"}
+{"nick":"Domenic","message":"This is like the return types issue","date":"2017-12-05T15:46:29.970Z","type":"message"}
+{"nick":"Domenic","message":"Where the normative spec text says what is returned anyway","date":"2017-12-05T15:46:42.372Z","type":"message"}
+{"nick":"Domenic","message":"The IDL ends up just being documentation in both cases","date":"2017-12-05T15:46:46.722Z","type":"message"}
+{"nick":"Domenic","message":"Which I am not a fan of at all","date":"2017-12-05T15:46:51.280Z","type":"message"}
+{"nick":"littledan","message":"I'm fine with being flexible about this","date":"2017-12-05T15:46:54.458Z","type":"message"}
+{"nick":"littledan","message":"my intuition was to represent it (isn't it nice to have things documented in headers?) but we could leave it out","date":"2017-12-05T15:47:19.082Z","type":"message"}
+{"nick":"caridy","date":"2017-12-05T15:48:08.772Z","type":"join"}
+{"nick":"littledan","message":"but my first question for using WebIDL would be, would WebIDL be OK adding enough to represent the JS builtins decently (maybe including things like doing lastIndex outside of IDL), or would there be too much resistance to even getting started with the basics like non-enumerable methods?","date":"2017-12-05T15:48:57.883Z","type":"message"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-12-05T15:51:27.851Z","type":"quit"}
+{"nick":"Domenic","message":"I think non-enumerable methods is pretty easy","date":"2017-12-05T15:51:42.415Z","type":"message"}
+{"nick":"Domenic","message":"You can just define your own extended attribute","date":"2017-12-05T15:51:48.737Z","type":"message"}
+{"nick":"Domenic","message":"[NonEnumerableMethods] interface RegExp { ... }","date":"2017-12-05T15:52:00.904Z","type":"message"}
+{"nick":"Domenic","message":"Now, whether we want to make that easier...","date":"2017-12-05T15:52:08.211Z","type":"message"}
+{"nick":"caridy","date":"2017-12-05T15:52:09.789Z","type":"join"}
+{"nick":"Domenic","message":"(easier/prettier)","date":"2017-12-05T15:52:14.395Z","type":"message"}
+{"nick":"Domenic","message":"esclass RegExp { ... }?","date":"2017-12-05T15:52:34.584Z","type":"message"}
+{"nick":"Domenic","message":"Oh, another big benefit of any IDL system is that we could automatically generate brand checks","date":"2017-12-05T15:52:57.033Z","type":"message"}
+{"nick":"Domenic","message":"https://github.com/tc39/ecma262/issues/354","date":"2017-12-05T15:53:17.380Z","type":"message"}
+{"nick":"Domenic","message":"I guess that's another modification you need, is for those methods that *don't* come with brand checks","date":"2017-12-05T15:54:43.865Z","type":"message"}
+{"nick":"Domenic","message":"Hmm","date":"2017-12-05T15:54:47.576Z","type":"message"}
+{"nick":"annevk","message":"It'd be good to enumerate what's missing","date":"2017-12-05T16:10:22.167Z","type":"message"}
+{"nick":"annevk","message":"Also, if you put data properties in IDL, wouldn't that at least tell you whether they're configurable and such so you don't have to define that again in prose?","date":"2017-12-05T16:10:42.999Z","type":"message"}
+{"nick":"annevk","message":"As for return values, you could always use \"any\" I suppose, but it's worth asking implementers","date":"2017-12-05T16:11:13.703Z","type":"message"}
+{"nick":"tobie","message":"As far as I'm concerned, convergence between ES and WebIDL is desirable. I don't think there would be pushback to include the necessary infra in WebIDL to support ES.","date":"2017-12-05T16:12:05.336Z","type":"message"}
+{"nick":"tobie","message":"I understand concerns about aesthetics, but I also want to balance that with the resources needed to make those changes, and the social capital burnt by forcing downstream specs to modify their WebIDL syntax without any benefits from them.","date":"2017-12-05T16:13:29.759Z","type":"message"}
+{"nick":"tobie","message":"s/from/for/","date":"2017-12-05T16:13:48.996Z","type":"message"}
+{"nick":"annevk","message":"Well, it's not \"without\", the idea is that they'll become more readable","date":"2017-12-05T16:14:38.416Z","type":"message"}
+{"nick":"tobie","message":"annevk: I'm not too sure that's a real concern for every editor, tbh. But yeah","date":"2017-12-05T16:15:22.198Z","type":"message"}
+{"nick":"annevk","message":"tobie: well they're less important than the other constituencies, so...","date":"2017-12-05T16:15:42.642Z","type":"message"}
+{"nick":"tobie","message":"annevk: I agree, but they're the ones doing the work. I'm not saying it's impossible, just that it has to be concerted and properly marketed for editors to understand the value","date":"2017-12-05T16:17:01.351Z","type":"message"}
+{"nick":"tobie","message":"Alternatively, some of these changes could be automated at the tools level","date":"2017-12-05T16:17:19.591Z","type":"message"}
+{"nick":"tobie","message":"e.g.: [ExtAttr] => @extAttr (regardless of whether this is something we _actually_ want to be doing","date":"2017-12-05T16:18:14.123Z","type":"message"}
+{"nick":"annevk","message":"I guess, thus far I haven't seen much opposition from editors to align with IDL changes","date":"2017-12-05T16:18:36.522Z","type":"message"}
+{"nick":"annevk","message":"E.g., when we asked everyone to add [Exposed]","date":"2017-12-05T16:18:45.440Z","type":"message"}
+{"nick":"tobie","message":"Agreed.","date":"2017-12-05T16:18:53.030Z","type":"message"}
+{"nick":"tobie","message":"But I'm not seeing the same enthusiasm for mixins","date":"2017-12-05T16:19:07.915Z","type":"message"}
+{"nick":"tobie","message":"Which I find weird","date":"2017-12-05T16:19:14.248Z","type":"message"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-12-05T16:19:34.537Z","type":"quit"}
+{"nick":"annevk","message":"Mixins requires tooling support which isn't getting done","date":"2017-12-05T16:19:40.402Z","type":"message"}
+{"nick":"tobie","message":"annevk: oh, that's a good point","date":"2017-12-05T16:19:50.234Z","type":"message"}
+{"nick":"annevk","message":"So yeah, that's a blocker of sorts for changes","date":"2017-12-05T16:19:54.368Z","type":"message"}
+{"nick":"tobie","message":"Well, this is something we have to get better at.","date":"2017-12-05T16:20:12.447Z","type":"message"}
+{"nick":"annevk","message":"I think if we could have an exhaustive list of changes and make them all at once that would also help a lot","date":"2017-12-05T16:20:15.687Z","type":"message"}
+{"nick":"tobie","message":"yes","date":"2017-12-05T16:20:23.968Z","type":"message"}
+{"nick":"annevk","message":"E.g., not rename DOMString this week and double next week","date":"2017-12-05T16:20:27.904Z","type":"message"}
+{"nick":"tobie","message":"Let's open an issue on heycam/webidl and see where that would take us.","date":"2017-12-05T16:20:52.923Z","type":"message"}
+{"nick":"tobie","message":"littledan, care to file? (like that you can continue editing it afterwards, as I don't think I have the privileges to add you as a repo collaborator)","date":"2017-12-05T16:22:17.454Z","type":"message"}
+{"nick":"caridy","date":"2017-12-05T16:30:21.353Z","type":"join"}
+{"nick":"nmostafa","new_nick":"nagy","date":"2017-12-05T16:33:26.193Z","type":"nick"}
+{"nick":"littledan","message":"tobie: Filed https://github.com/heycam/webidl/issues/484 and https://github.com/heycam/webidl/issues/485","date":"2017-12-05T16:51:23.491Z","type":"message"}
+{"nick":"tobie","message":"littledan: yes I saw. Thanks!","date":"2017-12-05T16:53:08.445Z","type":"message"}
+{"nick":"Domenic","message":"Yeah, why are mixin toolings not done, I really want to change that in all the specs :)","date":"2017-12-05T16:53:27.433Z","type":"message"}
+{"nick":"littledan","message":"I think it'd be great to have someone from the WebIDL community give a presentation to TC39 about how WebIDL could work for them, if anyone has the opportunity to look into these issues in detail","date":"2017-12-05T16:54:29.673Z","type":"message"}
+{"nick":"tobie","message":":D","date":"2017-12-05T16:54:29.864Z","type":"message"}
+{"nick":"littledan","message":"s/them/ECMAScript/","date":"2017-12-05T16:54:38.821Z","type":"message"}
+{"nick":"Domenic","message":"I could do that, although I'd need more background on why this is suddenly an urgent problem","date":"2017-12-05T16:55:06.122Z","type":"message"}
+{"nick":"littledan","message":"I'd like to look into expanding the JavaScript standard library. I had a presentation about it at the last meeting, though it fell off the agenda","date":"2017-12-05T16:56:44.583Z","type":"message"}
+{"nick":"littledan","message":"if you look at the ECMA 402 specification and proposals to change it, there's a real diversity of how superficial bindings things are done. We're trying to change from an old style to a new, ES6-like style, but reviews are very difficult and specification authors accidentally diverge from the recommended pattern","date":"2017-12-05T16:57:35.875Z","type":"message"}
+{"nick":"littledan","message":"I think the only reasonable way forward is to have more concise ways to specify the right way, that doesn't require auditing mountains of copy-pasted text to figure out what's going on","date":"2017-12-05T16:58:41.322Z","type":"message"}
+{"nick":"littledan","message":"should be better for spec authors, reviewers and implementers","date":"2017-12-05T16:58:58.482Z","type":"message"}
+{"nick":"littledan","message":"we've been getting by now by just not expanding the standard library much, but then where we have, it's been unnecessarily divergent from common patterns","date":"2017-12-05T16:59:31.142Z","type":"message"}
+{"nick":"annevk","message":"Sounds familiar 😊","date":"2017-12-05T17:00:24.942Z","type":"message"}
+{"nick":"littledan","message":"Bradley Farias is interested in taking on the work to manage the project to figure out what should go in the standard library (hopefully with lots of JS developer input), but the IDL part is a separate project","date":"2017-12-05T17:01:31.032Z","type":"message"}
+{"nick":"annevk","message":"FWIW, sign me up for convincing anyone dreading syntax changes","date":"2017-12-05T17:02:27.018Z","type":"message"}
+{"nick":"tobie","message":"Yeah, I'm not too concerned about that either. It's essentially a resource issue.","date":"2017-12-05T17:03:14.057Z","type":"message"}
+{"nick":"annevk","message":"Domenic: I think this is the next big step in JS <> Web Platform harmony","date":"2017-12-05T17:03:51.004Z","type":"message"}
+{"nick":"annevk","message":"Massive long term benefits in describ","date":"2017-12-05T17:04:58.484Z","type":"message"}
+{"nick":"jwalden","date":"2017-12-05T17:05:19.273Z","type":"join"}
+{"nick":"annevk","message":"ing classes the same way","date":"2017-12-05T17:05:28.897Z","type":"message"}
+{"nick":"nagy","reason":"Ping timeout: 260 seconds","date":"2017-12-05T17:22:41.862Z","type":"quit"}
+{"nick":"jowe","reason":"Ping timeout: 260 seconds","date":"2017-12-05T18:10:55.338Z","type":"quit"}
+{"nick":"pmdartus","date":"2017-12-05T18:52:25.561Z","type":"join"}
+{"nick":"nobso","date":"2017-12-05T19:52:25.871Z","type":"join"}
+{"nick":"nobso","reason":"Client Quit","date":"2017-12-05T19:56:53.920Z","type":"quit"}
+{"nick":"nobso_","date":"2017-12-05T19:58:20.353Z","type":"join"}
+{"nick":"marxo_","reason":"Read error: Connection reset by peer","date":"2017-12-05T20:00:40.279Z","type":"quit"}
+{"nick":"nobso","date":"2017-12-05T20:00:46.107Z","type":"join"}
+{"nick":"marxo_","date":"2017-12-05T20:01:24.476Z","type":"join"}
+{"nick":"nobso_","date":"2017-12-05T20:03:01.349Z","type":"part"}
+{"nick":"nagy","date":"2017-12-05T20:22:59.342Z","type":"join"}
+{"nick":"pmdartus","reason":"Ping timeout: 240 seconds","date":"2017-12-05T20:31:27.864Z","type":"quit"}
+{"nick":"nobso","reason":"Quit: nobso","date":"2017-12-05T20:55:17.502Z","type":"quit"}
+{"nick":"pmdartus","date":"2017-12-05T20:59:47.919Z","type":"join"}
+{"nick":"pmdartus_","date":"2017-12-05T21:01:07.940Z","type":"join"}
+{"nick":"pmdartus","reason":"Read error: Connection reset by peer","date":"2017-12-05T21:01:08.041Z","type":"quit"}
+{"nick":"marxo_","reason":"Quit: Leaving","date":"2017-12-05T21:26:36.408Z","type":"quit"}
+{"nick":"marxo_","date":"2017-12-05T21:26:49.341Z","type":"join"}
+{"nick":"marxo_","new_nick":"marxo","date":"2017-12-05T21:26:51.819Z","type":"nick"}
+{"nick":"nagy","reason":"Ping timeout: 255 seconds","date":"2017-12-05T21:36:47.348Z","type":"quit"}
+{"nick":"nobso","date":"2017-12-05T21:52:44.861Z","type":"join"}
+{"nick":"nobso","date":"2017-12-05T21:52:49.828Z","type":"part"}
+{"nick":"nagy","date":"2017-12-05T21:58:15.299Z","type":"join"}
+{"nick":"marxo","reason":"Ping timeout: 260 seconds","date":"2017-12-05T22:21:42.358Z","type":"quit"}
+{"nick":"nagy","reason":"Ping timeout: 255 seconds","date":"2017-12-05T22:39:20.260Z","type":"quit"}
+{"nick":"pmdartus_","reason":"Ping timeout: 248 seconds","date":"2017-12-05T22:45:20.017Z","type":"quit"}
+{"nick":"pmdartus","date":"2017-12-05T22:59:00.857Z","type":"join"}
+{"nick":"pmdartus","reason":"Remote host closed the connection","date":"2017-12-05T22:59:56.213Z","type":"quit"}
+{"nick":"pmdartus","date":"2017-12-05T23:00:21.733Z","type":"join"}
+{"nick":"pmdartus","reason":"Quit: Leaving...","date":"2017-12-05T23:16:51.346Z","type":"quit"}

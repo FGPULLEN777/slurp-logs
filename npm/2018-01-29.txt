@@ -1,0 +1,95 @@
+{"nick":"StuartW","reason":"Ping timeout: 248 seconds","date":"2018-01-29T00:20:47.860Z","type":"quit"}
+{"nick":"StuartW","date":"2018-01-29T00:53:38.553Z","type":"join"}
+{"nick":"StuartW","reason":"Ping timeout: 240 seconds","date":"2018-01-29T01:26:27.775Z","type":"quit"}
+{"nick":"StuartW","date":"2018-01-29T01:55:01.889Z","type":"join"}
+{"nick":"rkoller","date":"2018-01-29T02:16:40.986Z","type":"join"}
+{"nick":"StuartW","reason":"Ping timeout: 240 seconds","date":"2018-01-29T02:28:06.067Z","type":"quit"}
+{"nick":"rkoller","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-29T02:29:51.217Z","type":"quit"}
+{"nick":"Guest4","date":"2018-01-29T02:49:10.347Z","type":"join"}
+{"nick":"StuartW","date":"2018-01-29T02:52:30.795Z","type":"join"}
+{"nick":"Guest4","date":"2018-01-29T02:53:21.471Z","type":"part"}
+{"nick":"StuartW","reason":"Ping timeout: 256 seconds","date":"2018-01-29T03:25:42.248Z","type":"quit"}
+{"nick":"StuartW","date":"2018-01-29T03:49:20.720Z","type":"join"}
+{"nick":"StuartW","reason":"Ping timeout: 256 seconds","date":"2018-01-29T04:22:22.244Z","type":"quit"}
+{"nick":"howdoi","date":"2018-01-29T04:22:36.450Z","type":"join"}
+{"nick":"StuartW","date":"2018-01-29T04:53:13.654Z","type":"join"}
+{"nick":"StuartW","reason":"Ping timeout: 240 seconds","date":"2018-01-29T05:26:10.738Z","type":"quit"}
+{"nick":"StuartW","date":"2018-01-29T05:52:56.803Z","type":"join"}
+{"nick":"StuartW","reason":"Ping timeout: 246 seconds","date":"2018-01-29T06:25:58.014Z","type":"quit"}
+{"nick":"StuartW","date":"2018-01-29T06:49:22.421Z","type":"join"}
+{"nick":"mauritslamers","reason":"Quit: mauritslamers","date":"2018-01-29T06:58:50.512Z","type":"quit"}
+{"nick":"StuartW","reason":"Ping timeout: 260 seconds","date":"2018-01-29T07:22:45.344Z","type":"quit"}
+{"nick":"rchavik","date":"2018-01-29T07:34:22.464Z","type":"join"}
+{"nick":"tapout","reason":"Ping timeout: 276 seconds","date":"2018-01-29T07:46:56.135Z","type":"quit"}
+{"nick":"tapout","date":"2018-01-29T07:48:12.172Z","type":"join"}
+{"nick":"StuartW","date":"2018-01-29T07:49:33.313Z","type":"join"}
+{"nick":"StuartW","reason":"Ping timeout: 256 seconds","date":"2018-01-29T08:08:28.513Z","type":"quit"}
+{"nick":"mauritslamers","date":"2018-01-29T08:39:10.478Z","type":"join"}
+{"nick":"StuartW","date":"2018-01-29T08:52:48.304Z","type":"join"}
+{"nick":"Repox","date":"2018-01-29T09:02:28.525Z","type":"join"}
+{"nick":"ahmedelgabri","date":"2018-01-29T09:10:37.927Z","type":"join"}
+{"nick":"OnkelTem","reason":"Read error: Connection reset by peer","date":"2018-01-29T09:35:42.072Z","type":"quit"}
+{"nick":"rchavik","reason":"Quit: -","date":"2018-01-29T10:03:47.381Z","type":"quit"}
+{"nick":"Neo","reason":"Ping timeout: 276 seconds","date":"2018-01-29T11:05:05.811Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-29T11:25:11.384Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-29T11:25:41.896Z","type":"join"}
+{"nick":"Lunatrius`","date":"2018-01-29T12:01:54.816Z","type":"join"}
+{"nick":"Lunatrius","reason":"Ping timeout: 240 seconds","date":"2018-01-29T12:05:10.778Z","type":"quit"}
+{"nick":"Lunatrius`","new_nick":"Lunatrius","date":"2018-01-29T12:05:10.994Z","type":"nick"}
+{"nick":"Impaloo","reason":"Quit: The Lounge - https://thelounge.github.io","date":"2018-01-29T12:30:42.175Z","type":"quit"}
+{"nick":"Impaloo","date":"2018-01-29T12:30:59.021Z","type":"join"}
+{"nick":"Impaloo","reason":"Client Quit","date":"2018-01-29T12:34:42.099Z","type":"quit"}
+{"nick":"Impaloo","date":"2018-01-29T12:34:56.280Z","type":"join"}
+{"nick":"Impaloo","reason":"Client Quit","date":"2018-01-29T12:35:55.312Z","type":"quit"}
+{"nick":"Impaloo","date":"2018-01-29T12:36:09.850Z","type":"join"}
+{"nick":"Impaloo","reason":"Client Quit","date":"2018-01-29T12:38:39.106Z","type":"quit"}
+{"nick":"Impaloo","date":"2018-01-29T12:38:53.829Z","type":"join"}
+{"nick":"Impaloo","reason":"Client Quit","date":"2018-01-29T12:39:37.424Z","type":"quit"}
+{"nick":"Impaloo","date":"2018-01-29T12:39:53.306Z","type":"join"}
+{"nick":"mauritslamers","reason":"Quit: mauritslamers","date":"2018-01-29T12:58:11.428Z","type":"quit"}
+{"nick":"DoubleMalt","date":"2018-01-29T13:04:41.286Z","type":"join"}
+{"nick":"DoubleMalt","reason":"Read error: Connection reset by peer","date":"2018-01-29T13:05:05.084Z","type":"quit"}
+{"nick":"Impaloo","reason":"Quit: The Lounge - https://thelounge.github.io","date":"2018-01-29T13:18:31.875Z","type":"quit"}
+{"nick":"Impaloo","date":"2018-01-29T13:18:46.871Z","type":"join"}
+{"nick":"trevor","date":"2018-01-29T13:44:25.083Z","type":"join"}
+{"nick":"Impaloo","reason":"Quit: The Lounge - https://thelounge.github.io","date":"2018-01-29T13:49:42.032Z","type":"quit"}
+{"nick":"Impaloo","date":"2018-01-29T13:50:58.341Z","type":"join"}
+{"nick":"ahmed_elgabri","date":"2018-01-29T13:56:22.571Z","type":"join"}
+{"nick":"ahmedelgabri","reason":"Ping timeout: 248 seconds","date":"2018-01-29T13:58:55.873Z","type":"quit"}
+{"nick":"Impaloo","reason":"Quit: The Lounge - https://thelounge.github.io","date":"2018-01-29T14:09:32.124Z","type":"quit"}
+{"nick":"Impaloo","date":"2018-01-29T14:10:23.157Z","type":"join"}
+{"nick":"Repox","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T14:39:01.781Z","type":"quit"}
+{"nick":"Repox","date":"2018-01-29T15:03:23.809Z","type":"join"}
+{"nick":"Repox","reason":"Client Quit","date":"2018-01-29T15:06:33.238Z","type":"quit"}
+{"nick":"qard","date":"2018-01-29T15:54:40.253Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T16:14:46.744Z","type":"quit"}
+{"nick":"qard","date":"2018-01-29T16:18:20.880Z","type":"join"}
+{"nick":"ahmed_elgabri","reason":"Ping timeout: 240 seconds","date":"2018-01-29T16:56:35.535Z","type":"quit"}
+{"nick":"StuartW","reason":"Ping timeout: 240 seconds","date":"2018-01-29T16:57:40.780Z","type":"quit"}
+{"nick":"ahmed_elgabri","date":"2018-01-29T17:41:17.501Z","type":"join"}
+{"nick":"ahmed_elgabri","reason":"Ping timeout: 240 seconds","date":"2018-01-29T17:45:35.532Z","type":"quit"}
+{"nick":"Dev0n","date":"2018-01-29T17:53:21.560Z","type":"join"}
+{"nick":"ahmed_elgabri","date":"2018-01-29T18:07:15.232Z","type":"join"}
+{"nick":"einnjo","date":"2018-01-29T18:33:42.721Z","type":"join"}
+{"nick":"mauritslamers","date":"2018-01-29T18:48:14.439Z","type":"join"}
+{"nick":"john51","reason":"Read error: Connection reset by peer","date":"2018-01-29T19:30:53.315Z","type":"quit"}
+{"nick":"john51","date":"2018-01-29T19:31:18.313Z","type":"join"}
+{"nick":"einnjo","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T19:39:16.786Z","type":"quit"}
+{"nick":"StuartW","date":"2018-01-29T20:40:02.684Z","type":"join"}
+{"nick":"mauritslamers","reason":"Quit: mauritslamers","date":"2018-01-29T20:54:53.045Z","type":"quit"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T21:26:15.095Z","type":"quit"}
+{"nick":"wolfshappen","reason":"Ping timeout: 248 seconds","date":"2018-01-29T21:39:43.920Z","type":"quit"}
+{"nick":"wolfshappen","date":"2018-01-29T21:46:03.626Z","type":"join"}
+{"nick":"qard","date":"2018-01-29T21:48:50.344Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T21:58:21.610Z","type":"quit"}
+{"nick":"qard","date":"2018-01-29T21:58:29.771Z","type":"join"}
+{"nick":"ahmedelgabri","date":"2018-01-29T21:59:17.640Z","type":"join"}
+{"nick":"qard","reason":"Client Quit","date":"2018-01-29T21:59:57.133Z","type":"quit"}
+{"nick":"ahmed_elgabri","reason":"Ping timeout: 240 seconds","date":"2018-01-29T22:01:48.236Z","type":"quit"}
+{"nick":"gorelover","date":"2018-01-29T22:13:51.247Z","type":"join"}
+{"nick":"gorelover","date":"2018-01-29T22:14:03.390Z","type":"part"}
+{"nick":"qard","date":"2018-01-29T22:27:52.852Z","type":"join"}
+{"nick":"qard","reason":"Client Quit","date":"2018-01-29T22:28:53.521Z","type":"quit"}
+{"nick":"trevor","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T23:37:52.870Z","type":"quit"}
+{"nick":"Deltanic","reason":"Ping timeout: 260 seconds","date":"2018-01-29T23:53:50.357Z","type":"quit"}
+{"nick":"Deltanic","date":"2018-01-29T23:56:26.550Z","type":"join"}

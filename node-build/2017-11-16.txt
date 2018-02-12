@@ -1,0 +1,105 @@
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-16T00:25:14.255Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-16T00:27:01.491Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-16T00:29:55.952Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-16T00:42:41.878Z","type":"join"}
+{"nick":"refack","message":"rvagg: is there an easy way to batch rm `/home/iojs/build/workspace/node-test-binary-arm/.git/index.lock` seems like there are multiple https://ci.nodejs.org/job/node-test-binary-arm/11838/","date":"2017-11-16T00:50:31.538Z","type":"message"}
+{"nick":"rvagg","message":"Sure, I can do that. I have parallel-ssh host files set up to do that kind of thing in one go.","date":"2017-11-16T00:51:18.785Z","type":"message"}
+{"nick":"rvagg","message":"refack: https://www.dropbox.com/s/iheaggli9dpk4wl/Screenshot%202017-11-16%2011.53.43.png?dl=0 about 1/2 of them apparently had it, deleted now","date":"2017-11-16T00:54:10.153Z","type":"message"}
+{"nick":"rvagg","message":"https://www.dropbox.com/s/mvjwvv2txggyd0u/Screenshot%202017-11-16%2011.54.39.png?dl=0","date":"2017-11-16T00:54:52.169Z","type":"message"}
+{"nick":"refack","message":"👍","date":"2017-11-16T00:57:25.947Z","type":"message"}
+{"nick":"rvagg","message":"lots of jobs in the queue for centos6-gcc44, but I don't think we have one of those in the list, have we lost machines or something?","date":"2017-11-16T01:00:04.652Z","type":"message"}
+{"nick":"rvagg","message":"https://ci.nodejs.org/job/libuv-test-commit-linux/nodes=centos6-64-gcc44/","date":"2017-11-16T01:00:05.969Z","type":"message"}
+{"nick":"rvagg","message":"> (pending—There are no nodes with the label ‘centos6-64-gcc44’)","date":"2017-11-16T01:00:34.545Z","type":"message"}
+{"nick":"rvagg","message":"refack: did something change with labels when you did the gcc 4.9 upgrade on centos6?","date":"2017-11-16T01:00:54.975Z","type":"message"}
+{"nick":"refack","message":"Ohh, that's me. I was sure they werent used","date":"2017-11-16T01:00:59.581Z","type":"message"}
+{"nick":"refack","message":"It was broken on one of those","date":"2017-11-16T01:01:17.066Z","type":"message"}
+{"nick":"refack","message":"it's a weird situation, it needs a second jenkins agent","date":"2017-11-16T01:01:51.783Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-16T01:02:30.822Z","type":"quit"}
+{"nick":"refack","message":"I've restored the labal but I'm not sure it was ever really using gcc44","date":"2017-11-16T01:03:52.735Z","type":"message"}
+{"nick":"Fishrock123","date":"2017-11-16T01:04:51.883Z","type":"join"}
+{"nick":"rvagg","message":"going to reboot jenkins, weird queue issues, a few jobs that have been stuck running for a long time","date":"2017-11-16T01:07:20.353Z","type":"message"}
+{"nick":"refack","message":"It's hiding jobs (childs run, while parents don't exist) https://ci.nodejs.org/job/node-cross-compile/12476/","date":"2017-11-16T01:08:50.134Z","type":"message"}
+{"nick":"rvagg","message":"yeah, happens when things get stuck in the queue, the whole queue gets screwey","date":"2017-11-16T01:15:00.213Z","type":"message"}
+{"nick":"rvagg","message":"anyway, it's back up again and working on","date":"2017-11-16T01:15:05.128Z","type":"message"}
+{"nick":"rvagg","message":"running a node-test-binary-arm again @ https://ci.nodejs.org/job/node-test-binary-arm/11842/","date":"2017-11-16T01:15:13.879Z","type":"message"}
+{"nick":"mylesborins","reason":"*.net *.split","date":"2017-11-16T01:22:45.803Z","type":"quit"}
+{"nick":"qbit","reason":"*.net *.split","date":"2017-11-16T01:22:45.803Z","type":"quit"}
+{"nick":"cxreg","reason":"*.net *.split","date":"2017-11-16T01:22:46.449Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-16T01:28:23.749Z","type":"join"}
+{"nick":"qbit","date":"2017-11-16T01:28:23.843Z","type":"join"}
+{"nick":"cxreg","date":"2017-11-16T01:28:23.843Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-11-16T01:57:41.901Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-16T02:34:03.858Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T02:34:03.950Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T02:43:24.938Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T02:43:25.029Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-16T04:17:00.192Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-16T04:31:34.027Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T04:42:44.317Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T04:42:44.409Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-16T05:30:11.308Z","type":"quit"}
+{"nick":"apapirov_","date":"2017-11-16T05:32:05.928Z","type":"join"}
+{"nick":"apapirov_","reason":"Remote host closed the connection","date":"2017-11-16T05:34:43.759Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-16T05:50:51.427Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 268 seconds","date":"2017-11-16T05:55:48.880Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-16T06:31:05.895Z","type":"join"}
+{"nick":"joyee","message":"Hi, anyone knows how to trigger CI on a particular node? I want to run https://github.com/nodejs/node/pull/17048 on the fedora24 node to see if it fixes the issue","date":"2017-11-16T08:08:34.029Z","type":"message"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-16T08:20:32.430Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-16T10:00:03.152Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T10:06:15.360Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T10:06:15.565Z","type":"part"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-16T11:25:11.710Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-16T11:25:42.316Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T12:51:35.966Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T12:51:36.058Z","type":"part"}
+{"nick":"evanlucas","date":"2017-11-16T13:56:43.939Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-16T13:58:30.111Z","type":"join"}
+{"nick":"seishun","reason":"Quit: ChatZilla 0.9.93 [Firefox 56.0.2/20171024165158]","date":"2017-11-16T13:58:44.397Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-16T14:08:12.939Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T14:08:13.030Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T14:43:38.904Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T14:43:38.998Z","type":"part"}
+{"nick":"seishun","date":"2017-11-16T14:51:01.504Z","type":"join"}
+{"nick":"lance|afk","new_nick":"lanceball","date":"2017-11-16T14:53:32.460Z","type":"nick"}
+{"nick":"node-gh","date":"2017-11-16T15:30:46.819Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T15:30:47.025Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-16T15:42:39.813Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-16T15:45:52.536Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T15:57:01.877Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T15:57:01.969Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-16T17:16:31.023Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-16T17:18:08.138Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 260 seconds","date":"2017-11-16T17:22:37.434Z","type":"quit"}
+{"nick":"seishun","reason":"Remote host closed the connection","date":"2017-11-16T18:35:24.030Z","type":"quit"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-11-16T19:01:04.553Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-16T19:10:08.703Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-11-16T20:20:22.022Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-16T20:55:29.599Z","type":"join"}
+{"nick":"seishun","date":"2017-11-16T21:01:48.114Z","type":"join"}
+{"nick":"apapirovski","reason":"Read error: Connection reset by peer","date":"2017-11-16T21:04:15.221Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 255 seconds","date":"2017-11-16T21:45:35.992Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-16T22:16:23.318Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T22:16:23.450Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T22:32:06.955Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T22:32:07.160Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T22:34:13.385Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T22:34:13.385Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T22:44:16.803Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T22:44:16.934Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T22:46:13.043Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T22:46:13.170Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T22:48:07.222Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T22:48:07.313Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T22:50:16.667Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T22:50:16.795Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T22:53:40.497Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T22:53:40.588Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T23:02:40.998Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T23:02:41.090Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T23:07:01.816Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T23:07:01.947Z","type":"part"}
+{"nick":"lanceball","new_nick":"lance|afk","date":"2017-11-16T23:09:09.459Z","type":"nick"}
+{"nick":"node-gh","date":"2017-11-16T23:17:55.318Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T23:17:55.411Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-16T23:28:33.896Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-16T23:28:34.028Z","type":"part"}

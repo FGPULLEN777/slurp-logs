@@ -1,0 +1,19 @@
+{"nick":"phated","date":"2017-08-28T00:51:36.392Z","type":"join"}
+{"nick":"phated","reason":"Ping timeout: 240 seconds","date":"2017-08-28T00:56:01.359Z","type":"quit"}
+{"nick":"phated","date":"2017-08-28T02:39:50.594Z","type":"join"}
+{"nick":"phated","reason":"Ping timeout: 248 seconds","date":"2017-08-28T02:44:17.454Z","type":"quit"}
+{"nick":"phated","date":"2017-08-28T03:03:21.629Z","type":"join"}
+{"nick":"phated","reason":"Ping timeout: 260 seconds","date":"2017-08-28T03:08:27.638Z","type":"quit"}
+{"nick":"pfrazee","reason":"Quit: Connection closed for inactivity","date":"2017-08-28T05:39:34.282Z","type":"quit"}
+{"nick":"npeihl","reason":"Ping timeout: 276 seconds","date":"2017-08-28T08:16:19.652Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-08-28T10:25:11.625Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-28T10:25:42.365Z","type":"join"}
+{"nick":"contraha_","reason":"Quit: Sleeping","date":"2017-08-28T13:19:35.573Z","type":"quit"}
+{"nick":"contrahax","date":"2017-08-28T13:43:39.599Z","type":"join"}
+{"nick":"pfrazee","date":"2017-08-28T14:14:25.867Z","type":"join"}
+{"nick":"phated","date":"2017-08-28T18:28:03.485Z","type":"join"}
+{"nick":"contrahax","reason":"Quit: Sleeping","date":"2017-08-28T18:59:03.525Z","type":"quit"}
+{"nick":"phated","reason":"Remote host closed the connection","date":"2017-08-28T19:27:41.296Z","type":"quit"}
+{"nick":"contrahax","date":"2017-08-28T19:38:09.399Z","type":"join"}
+{"nick":"contrahax","reason":"Quit: Sleeping","date":"2017-08-28T19:56:55.595Z","type":"quit"}
+{"nick":"contrahax","date":"2017-08-28T19:57:23.034Z","type":"join"}

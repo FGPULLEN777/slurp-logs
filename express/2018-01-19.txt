@@ -1,0 +1,36 @@
+{"nick":"davidmichaelkarr","reason":"Quit: Connection closed for inactivity","date":"2018-01-19T01:23:47.470Z","type":"quit"}
+{"nick":"einnjo","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-19T04:37:42.251Z","type":"quit"}
+{"nick":"einnjo","date":"2018-01-19T04:37:58.249Z","type":"join"}
+{"nick":"einnjo","reason":"Client Quit","date":"2018-01-19T04:38:38.442Z","type":"quit"}
+{"nick":"lpin","date":"2018-01-19T06:19:44.167Z","type":"join"}
+{"nick":"Roughy","reason":"Quit: Meadow Fresh milk","date":"2018-01-19T06:27:38.335Z","type":"quit"}
+{"nick":"Arcarc","date":"2018-01-19T07:35:36.757Z","type":"join"}
+{"nick":"flaviodesousa","date":"2018-01-19T08:21:50.472Z","type":"join"}
+{"nick":"dmarr","reason":"Ping timeout: 256 seconds","date":"2018-01-19T08:27:10.781Z","type":"quit"}
+{"nick":"dmarr","date":"2018-01-19T08:43:28.770Z","type":"join"}
+{"nick":"bomb-on","date":"2018-01-19T09:15:56.556Z","type":"join"}
+{"nick":"samgoody","date":"2018-01-19T10:57:08.050Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-19T11:25:11.147Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-19T11:25:41.133Z","type":"join"}
+{"nick":"bomb-on","reason":"Quit: zzz","date":"2018-01-19T11:39:09.415Z","type":"quit"}
+{"nick":"samgoody","reason":"Quit: Leaving.","date":"2018-01-19T11:46:51.020Z","type":"quit"}
+{"nick":"bomb-on","date":"2018-01-19T11:50:04.170Z","type":"join"}
+{"nick":"enntee","date":"2018-01-19T14:54:20.224Z","type":"join"}
+{"nick":"flaviodesousa","reason":"Ping timeout: 265 seconds","date":"2018-01-19T15:01:15.456Z","type":"quit"}
+{"nick":"einnjo","date":"2018-01-19T15:26:10.637Z","type":"join"}
+{"nick":"einnjo","reason":"Client Quit","date":"2018-01-19T15:28:07.214Z","type":"quit"}
+{"nick":"Roughy","date":"2018-01-19T15:37:01.752Z","type":"join"}
+{"nick":"Arcarc","reason":"Ping timeout: 240 seconds","date":"2018-01-19T15:47:27.823Z","type":"quit"}
+{"nick":"bomb-on","reason":"Quit: zzz","date":"2018-01-19T16:41:37.127Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-19T16:54:06.248Z","type":"join"}
+{"nick":"dyyylan","reason":"Quit: ZNC 1.6.3+deb1 - http://znc.in","date":"2018-01-19T16:58:16.989Z","type":"quit"}
+{"nick":"bomb-on","date":"2018-01-19T16:58:51.231Z","type":"join"}
+{"nick":"dyyylan","date":"2018-01-19T17:03:54.434Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-19T17:43:58.241Z","type":"quit"}
+{"nick":"bomb-on","reason":"Quit: SO LONG, SUCKERS!","date":"2018-01-19T19:05:54.407Z","type":"quit"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-19T19:16:06.493Z","type":"quit"}
+{"nick":"bomb-on","date":"2018-01-19T19:23:36.795Z","type":"join"}
+{"nick":"bomb-on","new_nick":"n00bMinerXMR","date":"2018-01-19T20:19:23.894Z","type":"nick"}
+{"nick":"n00bMinerXMR","new_nick":"bomb-on","date":"2018-01-19T20:23:50.464Z","type":"nick"}
+{"nick":"davidmichaelkarr","date":"2018-01-19T22:00:16.121Z","type":"join"}
+{"nick":"ShekharReddy","reason":"Quit: Connection closed for inactivity","date":"2018-01-19T22:14:42.718Z","type":"quit"}

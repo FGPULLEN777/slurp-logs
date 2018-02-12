@@ -1,0 +1,226 @@
+{"nick":"nodejs-gh","date":"2017-08-12T00:07:54.614Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T00:07:54.827Z","type":"part"}
+{"nick":"zsoc","date":"2017-08-12T00:08:08.792Z","type":"join"}
+{"nick":"zsoc","reason":"Changing host","date":"2017-08-12T00:08:08.965Z","type":"quit"}
+{"nick":"zsoc","date":"2017-08-12T00:08:08.965Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T00:11:38.585Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T00:11:38.757Z","type":"part"}
+{"nick":"BridgeAR","reason":"Ping timeout: 248 seconds","date":"2017-08-12T00:57:37.529Z","type":"quit"}
+{"nick":"octetcloud","date":"2017-08-12T01:39:43.608Z","type":"join"}
+{"nick":"titankiller","date":"2017-08-12T01:50:09.309Z","type":"join"}
+{"nick":"not-an-aardvark","date":"2017-08-12T01:51:11.607Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 240 seconds","date":"2017-08-12T01:54:27.871Z","type":"quit"}
+{"nick":"titankiller","date":"2017-08-12T02:43:39.680Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T02:51:16.574Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T02:51:16.746Z","type":"part"}
+{"nick":"octetcloud","reason":"Ping timeout: 246 seconds","date":"2017-08-12T03:06:23.608Z","type":"quit"}
+{"nick":"titankiller","reason":"Remote host closed the connection","date":"2017-08-12T03:13:49.461Z","type":"quit"}
+{"nick":"titankiller","date":"2017-08-12T03:14:19.732Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 248 seconds","date":"2017-08-12T03:18:57.531Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-12T03:30:32.614Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T03:30:32.823Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-12T03:31:43.597Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T03:31:43.770Z","type":"part"}
+{"nick":"octetcloud","date":"2017-08-12T03:36:46.541Z","type":"join"}
+{"nick":"titankiller","date":"2017-08-12T03:39:28.847Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 246 seconds","date":"2017-08-12T03:49:47.579Z","type":"quit"}
+{"nick":"zz_KLUTCH-","reason":"Quit: ZNC - http://znc.in","date":"2017-08-12T04:00:32.471Z","type":"quit"}
+{"nick":"indistylo","date":"2017-08-12T04:33:06.859Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T04:47:13.600Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T04:47:13.772Z","type":"part"}
+{"nick":"octetcloud","reason":"Quit: Konversation terminated!","date":"2017-08-12T05:05:08.547Z","type":"quit"}
+{"nick":"lpin","date":"2017-08-12T05:15:56.220Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T05:16:34.490Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T05:16:34.662Z","type":"part"}
+{"nick":"howdoi","date":"2017-08-12T05:23:06.700Z","type":"join"}
+{"nick":"adempus","date":"2017-08-12T06:02:44.602Z","type":"join"}
+{"nick":"adempus","reason":"Ping timeout: 240 seconds","date":"2017-08-12T07:16:03.346Z","type":"quit"}
+{"nick":"al-damiri","reason":"Quit: Connection closed for inactivity","date":"2017-08-12T07:18:42.773Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-12T09:23:59.335Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T09:25:26.227Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T09:25:26.440Z","type":"part"}
+{"nick":"asfdasdfdsffd","date":"2017-08-12T09:29:35.982Z","type":"join"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-08-12T09:30:19.788Z","type":"quit"}
+{"nick":"asfdasdfdsffd","reason":"Client Quit","date":"2017-08-12T09:30:45.801Z","type":"quit"}
+{"nick":"gabrielschulhof","date":"2017-08-12T09:50:39.274Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-08-12T10:25:07.510Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-12T10:25:38.222Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T10:30:38.790Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T10:30:38.999Z","type":"part"}
+{"nick":"addaleax","date":"2017-08-12T11:58:23.475Z","type":"join"}
+{"nick":"addaleax","reason":"Read error: Connection reset by peer","date":"2017-08-12T12:02:55.735Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-08-12T12:20:50.158Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-12T12:45:48.509Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T12:45:48.681Z","type":"part"}
+{"nick":"addaleax","date":"2017-08-12T12:48:29.342Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T12:50:50.071Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T12:50:50.279Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-12T12:50:59.451Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T12:50:59.623Z","type":"part"}
+{"nick":"HTTP_____GK1wmSU","date":"2017-08-12T13:07:54.465Z","type":"join"}
+{"nick":"HTTP_____GK1wmSU","date":"2017-08-12T13:10:37.017Z","type":"part"}
+{"nick":"gabrielschulhof","message":"Hey! Do we have releases that have debug symbols? I'm working on https://github.com/nodejs/node-addon-api/issues/101 and I could use 8.3.0 with debug symbols.","date":"2017-08-12T13:28:02.408Z","type":"message"}
+{"nick":"addaleax","message":"gabrielschulhof: it sounds like building Node with debug support would be enough?","date":"2017-08-12T13:28:51.003Z","type":"message"}
+{"nick":"addaleax","message":"in that case that would be ./configure --debug","date":"2017-08-12T13:28:56.676Z","type":"message"}
+{"nick":"addaleax","message":"I am pretty sure we don’t have separate debug symbol files for the officially released binaries, if you were thinking about that","date":"2017-08-12T13:29:33.860Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-12T13:51:53.494Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T13:51:53.704Z","type":"part"}
+{"nick":"gabrielschulhof","message":"addaleax: Yeah, I was kinda hoping I could download a version with debug symbols because building with debug takes a loooong time.","date":"2017-08-12T14:00:53.039Z","type":"message"}
+{"nick":"addaleax","message":"gabrielschulhof: if you need a debug binary for x64, i could probably give you one within a few minutes because there should still be a lot in my ccache :D","date":"2017-08-12T14:01:44.555Z","type":"message"}
+{"nick":"gabrielschulhof","message":"addaleax: Also, is there the option to build with --debug-<subsystem> so that only some debug symbols are available? I seem to remember a talk at Node Summit that seemed to imply that, but I haven't seen that documented anywhere.","date":"2017-08-12T14:01:49.279Z","type":"message"}
+{"nick":"gabrielschulhof","message":"addaleax: OSX though?","date":"2017-08-12T14:02:14.975Z","type":"message"}
+{"nick":"addaleax","message":"no, sorry. ;)","date":"2017-08-12T14:02:19.743Z","type":"message"}
+{"nick":"gabrielschulhof","message":"*sigh* ...","date":"2017-08-12T14:02:26.955Z","type":"message"}
+{"nick":"addaleax","message":"./configure --debug is turning on the compiler -g flag and some V8 checks, that’s not really related to subsystems","date":"2017-08-12T14:02:29.079Z","type":"message"}
+{"nick":"addaleax","message":"there is the NODE_DEBUG env var for subsytems, maybe you were thinking about that?","date":"2017-08-12T14:02:49.157Z","type":"message"}
+{"nick":"gabrielschulhof","message":"Right, but I don't really need to build V8 with -g.","date":"2017-08-12T14:02:50.030Z","type":"message"}
+{"nick":"gabrielschulhof","message":"I only want debug symbols for src/*","date":"2017-08-12T14:03:03.254Z","type":"message"}
+{"nick":"gabrielschulhof","message":"But anyway. I'll bite the bullet and kick off the build.","date":"2017-08-12T14:03:30.408Z","type":"message"}
+{"nick":"addaleax","message":"I don’t think we have that but if you want you could probably do some manual build script editing","date":"2017-08-12T14:03:33.572Z","type":"message"}
+{"nick":"gabrielschulhof","message":"It'd probably take me longer to edit the scripts than to actually run the build :)","date":"2017-08-12T14:04:09.858Z","type":"message"}
+{"nick":"addaleax","message":"but for the issue you linked I think it might still be nice to work with a debug v8 build","date":"2017-08-12T14:04:11.456Z","type":"message"}
+{"nick":"addaleax","message":"gabrielschulhof: do you mind if i try to reproduce as well?","date":"2017-08-12T14:06:21.175Z","type":"message"}
+{"nick":"addaleax","message":"ok nvm the addon build is blowing up for me anyway :D","date":"2017-08-12T14:06:54.487Z","type":"message"}
+{"nick":"gabrielschulhof","message":"By all means ...","date":"2017-08-12T14:17:09.363Z","type":"message"}
+{"nick":"addaleax","message":"nah, i don’t really want to struggle with a compiler right now ;) but let me know if i can help in any way.","date":"2017-08-12T14:17:57.466Z","type":"message"}
+{"nick":"gabrielschulhof","message":"Yaaay! It's done building.","date":"2017-08-12T14:44:34.949Z","type":"message"}
+{"nick":"titankiller","date":"2017-08-12T14:54:17.768Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-08-12T14:55:35.490Z","type":"quit"}
+{"nick":"titankiller","reason":"Ping timeout: 255 seconds","date":"2017-08-12T14:58:47.844Z","type":"quit"}
+{"nick":"fl0w","date":"2017-08-12T15:01:33.891Z","type":"join"}
+{"nick":"aqrln","reason":"Quit: ZNC - http://znc.in","date":"2017-08-12T15:22:42.157Z","type":"quit"}
+{"nick":"titankiller","date":"2017-08-12T15:30:19.187Z","type":"join"}
+{"nick":"aqrln","date":"2017-08-12T15:32:01.206Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 240 seconds","date":"2017-08-12T15:34:57.850Z","type":"quit"}
+{"nick":"titankiller","date":"2017-08-12T15:43:46.543Z","type":"join"}
+{"nick":"seishun","date":"2017-08-12T16:08:48.664Z","type":"join"}
+{"nick":"aqrln","reason":"Quit: ZNC - http://znc.in","date":"2017-08-12T16:14:24.489Z","type":"quit"}
+{"nick":"addaleax","message":"gabrielschulhof: okay that *does* sound interesting :D","date":"2017-08-12T16:31:18.819Z","type":"message"}
+{"nick":"gabrielschulhof","message":"addaleax: ... if you're referring to my comments on the issue, *that* is a very good reason to have official debug builds.","date":"2017-08-12T16:34:00.483Z","type":"message"}
+{"nick":"gabrielschulhof","message":"addaleax: ... or at least separately downloadable debug symbols which we can feed to the debugger.","date":"2017-08-12T16:34:41.402Z","type":"message"}
+{"nick":"addaleax","message":"yeah, I’m referring to those :)","date":"2017-08-12T16:34:46.303Z","type":"message"}
+{"nick":"addaleax","message":"I would totally be in favour of official debug builds, the only issues are that those are huuuuge and that our test suite doesn’t even pass in debug mode","date":"2017-08-12T16:35:12.322Z","type":"message"}
+{"nick":"gabrielschulhof","message":"I wonder what an offset of 16 means wrt. v8impl::FunctionCallbackWrapper::SetReturnValue ...","date":"2017-08-12T16:35:57.358Z","type":"message"}
+{"nick":"gabrielschulhof","message":"Like, which line.","date":"2017-08-12T16:36:00.701Z","type":"message"}
+{"nick":"BridgeAR","date":"2017-08-12T16:36:18.660Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-08-12T16:38:30.384Z","type":"quit"}
+{"nick":"addaleax","message":"i mean, i would assume that corresponds to the `*value_ = *reinterpret_cast<internal::Object**>(*handle);` bit in v8.h","date":"2017-08-12T16:41:12.153Z","type":"message"}
+{"nick":"addaleax","message":"(in ReturnValue<T>::Set)","date":"2017-08-12T16:41:20.857Z","type":"message"}
+{"nick":"addaleax","message":"It seems I really can’t get this to reproduce on x64 Linux :/","date":"2017-08-12T16:42:32.051Z","type":"message"}
+{"nick":"addaleax","message":"gabrielschulhof: are you using llnode?","date":"2017-08-12T16:45:36.875Z","type":"message"}
+{"nick":"seishun","date":"2017-08-12T16:49:09.420Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T17:12:58.229Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T17:12:58.401Z","type":"part"}
+{"nick":"fl0w","reason":"Quit: fl0w","date":"2017-08-12T17:22:41.839Z","type":"quit"}
+{"nick":"fl0w","date":"2017-08-12T17:23:23.838Z","type":"join"}
+{"nick":"fl0w","message":"clear","date":"2017-08-12T17:29:51.880Z","type":"message"}
+{"nick":"fl0w","message":"oops, sorry, this isn't terminal.","date":"2017-08-12T17:30:03.360Z","type":"message"}
+{"nick":"titankiller","reason":"Remote host closed the connection","date":"2017-08-12T17:38:16.477Z","type":"quit"}
+{"nick":"BridgeAR","reason":"Ping timeout: 246 seconds","date":"2017-08-12T17:39:59.619Z","type":"quit"}
+{"nick":"gabrielschulhof","message":"addaleax: Yes, llnode.","date":"2017-08-12T17:40:24.910Z","type":"message"}
+{"nick":"gabrielschulhof","message":"addaleax: Wow! It doesn't crash if you install the addon with debug symbols either.","date":"2017-08-12T17:48:50.116Z","type":"message"}
+{"nick":"gabrielschulhof","message":"So, like npm install --debug","date":"2017-08-12T17:48:54.935Z","type":"message"}
+{"nick":"gabrielschulhof","message":"Total heisenbug.","date":"2017-08-12T17:49:05.312Z","type":"message"}
+{"nick":"addaleax","message":"huh","date":"2017-08-12T17:49:11.991Z","type":"message"}
+{"nick":"addaleax","message":"can you figure out whether the returned napi_value is valid?","date":"2017-08-12T17:52:13.925Z","type":"message"}
+{"nick":"titankiller","date":"2017-08-12T17:58:52.272Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T17:59:58.632Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T17:59:58.804Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-12T18:01:08.584Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T18:01:08.795Z","type":"part"}
+{"nick":"titankiller","reason":"Ping timeout: 246 seconds","date":"2017-08-12T18:03:28.538Z","type":"quit"}
+{"nick":"adempus","date":"2017-08-12T18:06:08.981Z","type":"join"}
+{"nick":"adempus","reason":"Read error: Connection reset by peer","date":"2017-08-12T18:13:00.286Z","type":"quit"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-08-12T18:30:12.845Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-12T18:44:46.790Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T18:44:46.999Z","type":"part"}
+{"nick":"fl0w","reason":"Quit: fl0w","date":"2017-08-12T18:51:07.029Z","type":"quit"}
+{"nick":"fl0w","date":"2017-08-12T18:51:18.741Z","type":"join"}
+{"nick":"fl0w","reason":"Client Quit","date":"2017-08-12T18:51:52.144Z","type":"quit"}
+{"nick":"fl0w","date":"2017-08-12T18:52:06.825Z","type":"join"}
+{"nick":"fl0w","reason":"Client Quit","date":"2017-08-12T18:52:40.103Z","type":"quit"}
+{"nick":"fl0w","date":"2017-08-12T18:52:56.032Z","type":"join"}
+{"nick":"fl0w","reason":"Client Quit","date":"2017-08-12T18:53:28.196Z","type":"quit"}
+{"nick":"fl0w","date":"2017-08-12T18:53:43.991Z","type":"join"}
+{"nick":"fl0w","reason":"Client Quit","date":"2017-08-12T18:54:16.173Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-12T18:54:43.583Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T18:54:43.795Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-12T18:55:33.583Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T18:55:33.755Z","type":"part"}
+{"nick":"seishun","reason":"Quit: Leaving","date":"2017-08-12T19:00:51.983Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-12T19:01:18.139Z","type":"join"}
+{"nick":"seishun","reason":"Client Quit","date":"2017-08-12T19:03:44.282Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-12T19:04:14.294Z","type":"join"}
+{"nick":"seishun","reason":"Quit: Leaving","date":"2017-08-12T19:10:32.734Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-12T19:11:04.297Z","type":"join"}
+{"nick":"seishun","reason":"Client Quit","date":"2017-08-12T19:11:40.061Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-12T19:12:04.241Z","type":"join"}
+{"nick":"seishun","reason":"Client Quit","date":"2017-08-12T19:13:22.786Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-12T19:13:48.700Z","type":"join"}
+{"nick":"seishun","reason":"Client Quit","date":"2017-08-12T19:14:12.053Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-12T19:15:28.393Z","type":"join"}
+{"nick":"D33P-B00K","date":"2017-08-12T19:16:54.885Z","type":"join"}
+{"nick":"D33P-B00K","date":"2017-08-12T19:18:26.802Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-12T19:29:38.600Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T19:29:38.811Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:00:58.591Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:00:58.763Z","type":"part"}
+{"nick":"fl0w","date":"2017-08-12T20:01:49.740Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:16:13.373Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:16:13.583Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:17:13.374Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:17:13.546Z","type":"part"}
+{"nick":"refack","message":"sorry force pushed to wrap a long line","date":"2017-08-12T20:17:25.928Z","type":"message"}
+{"nick":"addaleax","message":"i feel like the two of us are the only people around today anyway :P","date":"2017-08-12T20:18:03.959Z","type":"message"}
+{"nick":"refack","message":"gabriel was here","date":"2017-08-12T20:18:21.026Z","type":"message"}
+{"nick":"seishun","message":"I'm here too","date":"2017-08-12T20:18:28.474Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:18:28.646Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:18:28.646Z","type":"part"}
+{"nick":"addaleax","message":"heh ;) yeah, right. just, there’s not much happening anyway, so don’t worry about force-pushing :)","date":"2017-08-12T20:18:58.834Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:21:15.739Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:21:15.912Z","type":"part"}
+{"nick":"indistylo","reason":"Read error: Connection reset by peer","date":"2017-08-12T20:42:02.533Z","type":"quit"}
+{"nick":"refack","message":"seishun: what was the query you wanted to run regarding `Buffer`?","date":"2017-08-12T20:50:25.966Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:51:12.682Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T20:51:12.855Z","type":"part"}
+{"nick":"seishun","message":"how much the usage of ctor has decreased in the last 4 months","date":"2017-08-12T20:51:16.242Z","type":"message"}
+{"nick":"addaleax","message":"seishun: if you want to bring up deprecating again, i wouldn’t be very optimistic","date":"2017-08-12T20:52:13.527Z","type":"message"}
+{"nick":"refack","message":"hmmm, that's tricky... I can run the query on two time points and count the differences, but I'll need to account for natural growth of the DB....","date":"2017-08-12T20:53:40.115Z","type":"message"}
+{"nick":"seishun","message":"which is why I'd like to entrust it ChALkeR, he's got experience with it","date":"2017-08-12T20:56:12.650Z","type":"message"}
+{"nick":"refack","message":"yup","date":"2017-08-12T20:56:28.076Z","type":"message"}
+{"nick":"fl0w","reason":"Quit: fl0w","date":"2017-08-12T20:56:35.120Z","type":"quit"}
+{"nick":"titankiller","date":"2017-08-12T20:59:48.820Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 248 seconds","date":"2017-08-12T21:04:33.534Z","type":"quit"}
+{"nick":"fl0w","date":"2017-08-12T21:07:38.012Z","type":"join"}
+{"nick":"BridgeAR","date":"2017-08-12T21:33:31.651Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T21:38:43.567Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T21:38:43.740Z","type":"part"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-08-12T22:09:41.058Z","type":"quit"}
+{"nick":"BridgeAR1","date":"2017-08-12T22:09:44.633Z","type":"join"}
+{"nick":"addaleax","message":"refack: just to be clear, your approval on https://github.com/nodejs/node/pull/14775 is or is not indicating a preference for that solution over https://github.com/nodejs/node/pull/14790 ?","date":"2017-08-12T22:17:28.337Z","type":"message"}
+{"nick":"addaleax","message":"i want to avoid any confusion here","date":"2017-08-12T22:17:35.078Z","type":"message"}
+{"nick":"addaleax","message":":)","date":"2017-08-12T22:17:36.988Z","type":"message"}
+{"nick":"refack","message":"No proferance yet","date":"2017-08-12T22:19:19.665Z","type":"message"}
+{"nick":"refack","message":"preferance","date":"2017-08-12T22:19:23.729Z","type":"message"}
+{"nick":"refack","message":"I do want to see what BridgeAR  had in mind, and I also have some follow up quastions","date":"2017-08-12T22:20:39.031Z","type":"message"}
+{"nick":"addaleax","message":"me too, but i also don’t really like “i’m working on sth in private therefore i’d like to do $thing for now”","date":"2017-08-12T22:21:09.390Z","type":"message"}
+{"nick":"addaleax","message":"that never works out well","date":"2017-08-12T22:21:15.277Z","type":"message"}
+{"nick":"addaleax","message":"some of our worst APIs got made like that :P","date":"2017-08-12T22:21:20.050Z","type":"message"}
+{"nick":"refack","message":"I agree that \"temporary is the most permanent of all\"","date":"2017-08-12T22:22:04.913Z","type":"message"}
+{"nick":"addaleax","message":"yes, also that ;)","date":"2017-08-12T22:22:16.018Z","type":"message"}
+{"nick":"addaleax","message":"you know, we both have our TODO()s in the source code :P","date":"2017-08-12T22:22:52.559Z","type":"message"}
+{"nick":"gabrielschulhof","message":"addaleax: Your fix works. May I submit it as a PR authored by you?","date":"2017-08-12T22:22:56.522Z","type":"message"}
+{"nick":"gabrielschulhof","message":"addaleax: i.e. https://github.com/nodejs/node-addon-api/issues/101#ref-commit-7e441b1","date":"2017-08-12T22:23:56.887Z","type":"message"}
+{"nick":"addaleax","message":"gabrielschulhof: feel free to keep your author stamp :) i don’t care, i got enough attribution for node-addon-api to feel like it’s obvious i contributed a lot","date":"2017-08-12T22:24:04.999Z","type":"message"}
+{"nick":"refack","message":"After https://github.com/nodejs/node/issues/14638 I'm thinking we should refactor `inspect` into two parts: a tokenizer and a formater","date":"2017-08-12T22:24:38.651Z","type":"message"}
+{"nick":"gabrielschulhof","message":"addaleax: Neah ... I'll have the Commit field :)","date":"2017-08-12T22:26:35.600Z","type":"message"}
+{"nick":"addaleax","message":"gabrielschulhof: by the way, I think this thing would have been caught by valgrind or asan or similar tooling","date":"2017-08-12T22:29:52.891Z","type":"message"}
+{"nick":"gabrielschulhof","message":"Probably ...","date":"2017-08-12T22:45:23.952Z","type":"message"}
+{"nick":"addaleax","message":"i wanted to see if i can get up some private cronjob CI that runs node under valgrind set up sometime, this seems like a good reminder :D","date":"2017-08-12T22:46:13.136Z","type":"message"}
+{"nick":"BridgeAR1","reason":"Quit: Leaving.","date":"2017-08-12T22:49:41.330Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-08-12T22:58:32.646Z","type":"quit"}
+{"nick":"titankiller","date":"2017-08-12T23:22:10.304Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 258 seconds","date":"2017-08-12T23:26:50.282Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-12T23:34:21.447Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-12T23:34:21.620Z","type":"part"}
+{"nick":"titankiller","date":"2017-08-12T23:58:06.277Z","type":"join"}

@@ -1,0 +1,110 @@
+{"nick":"mven","reason":"Quit: well, shit.","date":"2017-11-05T01:47:27.326Z","type":"quit"}
+{"nick":"opf","date":"2017-11-05T03:07:12.453Z","type":"join"}
+{"nick":"Arcarcarc","reason":"Ping timeout: 240 seconds","date":"2017-11-05T03:07:27.913Z","type":"quit"}
+{"nick":"opf","message":"Is this the right place to ask dumb questions about express?","date":"2017-11-05T03:09:28.245Z","type":"message"}
+{"nick":"krbtgt|","message":"give it a shot","date":"2017-11-05T03:09:53.518Z","type":"message"}
+{"nick":"krbtgt|","message":"we were all dumb once","date":"2017-11-05T03:09:58.039Z","type":"message"}
+{"nick":"krbtgt|","message":"no shame","date":"2017-11-05T03:10:04.357Z","type":"message"}
+{"nick":"opf","message":"For some reason when I do .get(\"/(home)?\", etc... on a router everything crashes","date":"2017-11-05T03:10:27.086Z","type":"message"}
+{"nick":"opf","message":"\"/h(ome)?\" works but isn't what I am looking for","date":"2017-11-05T03:10:42.336Z","type":"message"}
+{"nick":"opf","message":"I feel like I'm misunderstanding what the brackets are supposed to do but I can't seem to figure out how","date":"2017-11-05T03:11:02.992Z","type":"message"}
+{"nick":"opf","message":"I can use a regular expression (.get(/(home)?/, etc...) but I","date":"2017-11-05T03:13:18.650Z","type":"message"}
+{"nick":"opf","message":"*'m not really quite sure why I have to","date":"2017-11-05T03:13:26.306Z","type":"message"}
+{"nick":"opf","message":"It appears that including the / in the brackets solves the problem but I'm still curious why there was a problem to begin with","date":"2017-11-05T03:20:01.334Z","type":"message"}
+{"nick":"krbtgt|","message":"iirc, it might be with the route parser?","date":"2017-11-05T03:20:27.543Z","type":"message"}
+{"nick":"krbtgt|","message":"it sends them through a compiler that turns them into reges","date":"2017-11-05T03:20:42.427Z","type":"message"}
+{"nick":"opf","message":"Hm","date":"2017-11-05T03:21:47.649Z","type":"message"}
+{"nick":"opf","message":"As far as I can tell any / followed by nonempty parentheses crashes.","date":"2017-11-05T03:23:09.744Z","type":"message"}
+{"nick":"krbtgt|","message":"oh god","date":"2017-11-05T03:25:32.059Z","type":"message"}
+{"nick":"opf","message":"Should this not be the case?","date":"2017-11-05T03:26:18.715Z","type":"message"}
+{"nick":"opf","message":"I must have done something wrong","date":"2017-11-05T03:26:30.333Z","type":"message"}
+{"nick":"krbtgt|","message":"i have no idea","date":"2017-11-05T03:29:31.726Z","type":"message"}
+{"nick":"krbtgt|","message":"that's weird","date":"2017-11-05T03:29:40.335Z","type":"message"}
+{"nick":"opf","message":"I take it that that isn't normally the case","date":"2017-11-05T03:30:02.958Z","type":"message"}
+{"nick":"opf","message":"Since I can't imagine I'm the only one who has brackets after their slash","date":"2017-11-05T03:30:13.522Z","type":"message"}
+{"nick":"krbtgt|","message":"so, what version of node and express","date":"2017-11-05T03:30:23.618Z","type":"message"}
+{"nick":"opf","message":"node 8.0.0","date":"2017-11-05T03:30:40.499Z","type":"message"}
+{"nick":"opf","message":"and Express 4.15.5","date":"2017-11-05T03:31:00.847Z","type":"message"}
+{"nick":"opf","message":"I've updated express to 4.16.2 but it does not seem to have changed","date":"2017-11-05T03:32:28.442Z","type":"message"}
+{"nick":"Stragler","date":"2017-11-05T04:26:06.726Z","type":"join"}
+{"nick":"Ahmed90","date":"2017-11-05T04:28:52.755Z","type":"join"}
+{"nick":"myNameIsMyName51","date":"2017-11-05T04:36:47.653Z","type":"join"}
+{"nick":"opf","reason":"Quit: Page closed","date":"2017-11-05T05:11:14.122Z","type":"quit"}
+{"nick":"myNameIsMyName51","reason":"Quit: myNameIsMyName51","date":"2017-11-05T05:23:10.433Z","type":"quit"}
+{"nick":"Ahmed90","reason":"Quit: Leaving","date":"2017-11-05T05:32:29.186Z","type":"quit"}
+{"nick":"Stragler","reason":"Quit: Guess I went to sleep...","date":"2017-11-05T05:44:50.967Z","type":"quit"}
+{"nick":"Stragler","date":"2017-11-05T05:46:09.847Z","type":"join"}
+{"nick":"Abhishek_","reason":"Quit: Connection closed for inactivity","date":"2017-11-05T06:15:23.084Z","type":"quit"}
+{"nick":"lpin","date":"2017-11-05T06:48:04.821Z","type":"join"}
+{"nick":"reedj[m]","date":"2017-11-05T06:50:08.027Z","type":"join"}
+{"nick":"Stragler","reason":"Quit: Guess I went to sleep...","date":"2017-11-05T08:56:59.408Z","type":"quit"}
+{"nick":"Stragler","date":"2017-11-05T09:02:21.746Z","type":"join"}
+{"nick":"Stragler_","date":"2017-11-05T09:06:25.974Z","type":"join"}
+{"nick":"Stragler","reason":"Ping timeout: 260 seconds","date":"2017-11-05T09:09:17.697Z","type":"quit"}
+{"nick":"Stragler_","new_nick":"Stragler","date":"2017-11-05T09:09:17.931Z","type":"nick"}
+{"nick":"Stragler","reason":"Quit: Guess I went to sleep...","date":"2017-11-05T09:18:49.852Z","type":"quit"}
+{"nick":"Stragler","date":"2017-11-05T09:45:51.750Z","type":"join"}
+{"nick":"Stragler","reason":"Quit: Guess I went to sleep...","date":"2017-11-05T10:13:37.040Z","type":"quit"}
+{"nick":"Stragler","date":"2017-11-05T10:21:00.221Z","type":"join"}
+{"nick":"shoobie","reason":"Ping timeout: 240 seconds","date":"2017-11-05T10:49:27.929Z","type":"quit"}
+{"nick":"shoobie","date":"2017-11-05T10:52:05.706Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-11-05T10:52:05.852Z","type":"quit"}
+{"nick":"shoobie","date":"2017-11-05T10:52:05.944Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-05T11:25:11.946Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-05T11:25:42.324Z","type":"join"}
+{"nick":"Arcarc","date":"2017-11-05T12:03:56.296Z","type":"join"}
+{"nick":"Stragler","reason":"Quit: Guess I went to sleep...","date":"2017-11-05T12:53:46.045Z","type":"quit"}
+{"nick":"Stragler","date":"2017-11-05T13:00:12.570Z","type":"join"}
+{"nick":"Stragler","reason":"Quit: Guess I went to sleep...","date":"2017-11-05T13:48:15.592Z","type":"quit"}
+{"nick":"Stragler","date":"2017-11-05T13:49:51.318Z","type":"join"}
+{"nick":"PiotrekR","date":"2017-11-05T14:28:22.576Z","type":"join"}
+{"nick":"Stragler","reason":"Quit: Guess I went to sleep...","date":"2017-11-05T15:13:05.510Z","type":"quit"}
+{"nick":"myNameIsMyName51","date":"2017-11-05T16:06:55.255Z","type":"join"}
+{"nick":"Abhishek_","date":"2017-11-05T16:11:45.965Z","type":"join"}
+{"nick":"myNameIsMyName51","reason":"Quit: myNameIsMyName51","date":"2017-11-05T16:17:58.531Z","type":"quit"}
+{"nick":"myNameIsMyName51","date":"2017-11-05T16:18:28.109Z","type":"join"}
+{"nick":"myNameIsMyName51","reason":"Client Quit","date":"2017-11-05T16:18:48.858Z","type":"quit"}
+{"nick":"myNameIsMyName51","date":"2017-11-05T16:19:13.902Z","type":"join"}
+{"nick":"myNameIsMyName51","reason":"Client Quit","date":"2017-11-05T16:19:36.879Z","type":"quit"}
+{"nick":"myNameIsMyName51","date":"2017-11-05T16:20:03.214Z","type":"join"}
+{"nick":"myNameIsMyName51","reason":"Client Quit","date":"2017-11-05T16:20:24.946Z","type":"quit"}
+{"nick":"PiotrekR","reason":"Quit: Ex-Chat","date":"2017-11-05T16:57:03.384Z","type":"quit"}
+{"nick":"myNameIsMyName51","date":"2017-11-05T17:23:01.319Z","type":"join"}
+{"nick":"myNameIsMyName51","reason":"Client Quit","date":"2017-11-05T17:23:01.447Z","type":"quit"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-11-05T18:37:36.756Z","type":"quit"}
+{"nick":"admwrd_","date":"2017-11-05T19:56:58.764Z","type":"join"}
+{"nick":"kba_","date":"2017-11-05T20:00:33.408Z","type":"join"}
+{"nick":"towb_","date":"2017-11-05T20:02:25.319Z","type":"join"}
+{"nick":"rancyd-","date":"2017-11-05T20:03:28.143Z","type":"join"}
+{"nick":"LeBlaaanc","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-11-05T20:06:19.647Z","type":"quit"}
+{"nick":"Abhishek_","reason":"*.net *.split","date":"2017-11-05T20:11:41.773Z","type":"quit"}
+{"nick":"towb","reason":"*.net *.split","date":"2017-11-05T20:11:42.654Z","type":"quit"}
+{"nick":"kba","reason":"*.net *.split","date":"2017-11-05T20:11:42.728Z","type":"quit"}
+{"nick":"gajus","reason":"*.net *.split","date":"2017-11-05T20:11:42.820Z","type":"quit"}
+{"nick":"amatecha","reason":"*.net *.split","date":"2017-11-05T20:11:42.913Z","type":"quit"}
+{"nick":"admwrd","reason":"*.net *.split","date":"2017-11-05T20:11:43.045Z","type":"quit"}
+{"nick":"rancyd","reason":"*.net *.split","date":"2017-11-05T20:11:43.137Z","type":"quit"}
+{"nick":"rancyd-","new_nick":"rancyd","date":"2017-11-05T20:11:43.336Z","type":"nick"}
+{"nick":"kba_","new_nick":"kba","date":"2017-11-05T20:21:37.016Z","type":"nick"}
+{"nick":"towb_","new_nick":"towb","date":"2017-11-05T20:27:35.308Z","type":"nick"}
+{"nick":"fbenoit","date":"2017-11-05T21:10:42.358Z","type":"join"}
+{"nick":"shoobie","reason":"Remote host closed the connection","date":"2017-11-05T21:32:14.569Z","type":"quit"}
+{"nick":"shoobie","date":"2017-11-05T21:32:35.903Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-11-05T21:32:35.995Z","type":"quit"}
+{"nick":"shoobie","date":"2017-11-05T21:32:35.996Z","type":"join"}
+{"nick":"Abhishek_","date":"2017-11-05T21:50:49.286Z","type":"join"}
+{"nick":"gajus","date":"2017-11-05T21:51:46.773Z","type":"join"}
+{"nick":"amatecha","date":"2017-11-05T21:52:18.231Z","type":"join"}
+{"nick":"rajkumar[m]","reason":"Ping timeout: 240 seconds","date":"2017-11-05T21:53:52.266Z","type":"quit"}
+{"nick":"rismanrp[m]","reason":"Ping timeout: 255 seconds","date":"2017-11-05T21:54:09.114Z","type":"quit"}
+{"nick":"reedj[m]","reason":"Ping timeout: 255 seconds","date":"2017-11-05T21:54:14.028Z","type":"quit"}
+{"nick":"nickduskey[m]","reason":"Ping timeout: 252 seconds","date":"2017-11-05T21:54:17.369Z","type":"quit"}
+{"nick":"Ryuno-Ki[m]","reason":"Ping timeout: 264 seconds","date":"2017-11-05T21:54:22.821Z","type":"quit"}
+{"nick":"fbenoit","reason":"Ping timeout: 268 seconds","date":"2017-11-05T21:59:57.873Z","type":"quit"}
+{"nick":"reedj[m]","date":"2017-11-05T22:27:18.004Z","type":"join"}
+{"nick":"nickduskey[m]","date":"2017-11-05T22:50:44.797Z","type":"join"}
+{"nick":"Ryuno-Ki[m]","date":"2017-11-05T22:50:44.960Z","type":"join"}
+{"nick":"rismanrp[m]","date":"2017-11-05T22:50:45.052Z","type":"join"}
+{"nick":"rajkumar[m]","date":"2017-11-05T22:50:52.282Z","type":"join"}
+{"nick":"Guest8754","reason":"Read error: Connection reset by peer","date":"2017-11-05T23:23:57.567Z","type":"quit"}
+{"nick":"Guest8754","date":"2017-11-05T23:24:26.805Z","type":"join"}

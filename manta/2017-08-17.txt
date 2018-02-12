@@ -1,0 +1,56 @@
+{"nick":"echelog-1","reason":"Remote host closed the connection","date":"2017-08-17T00:07:28.169Z","type":"quit"}
+{"nick":"echelog-1","date":"2017-08-17T00:19:10.538Z","type":"join"}
+{"nick":"jhendricks","reason":"Quit: Leaving.","date":"2017-08-17T00:52:57.971Z","type":"quit"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2017-08-17T01:20:00.982Z","type":"quit"}
+{"nick":"ed209","date":"2017-08-17T01:20:08.954Z","type":"join"}
+{"nick":"glasspelican","reason":"K-Lined","date":"2017-08-17T04:42:06.551Z","type":"quit"}
+{"nick":"dobson","reason":"K-Lined","date":"2017-08-17T04:42:07.097Z","type":"quit"}
+{"nick":"rmustacc!~daemar@zelgadis.fingolfin.org","topic":"Manta: Big Data Unix | Now Open Source! -- https://github.com/joyent/manta | http://apidocs.joyent.com/manta/  | http://logs.libuv.org/manta/latest","date":"2017-08-17T04:43:50.816Z","type":"topic"}
+{"nick":"echelog-1","date":"2017-08-17T04:44:18.107Z","type":"join"}
+{"nick":"elijahZ24","date":"2017-08-17T04:44:46.929Z","type":"join"}
+{"nick":"melloc","date":"2017-08-17T04:45:38.618Z","type":"join"}
+{"nick":"dobson","date":"2017-08-17T04:45:53.956Z","type":"join"}
+{"nick":"magnap","reason":"Ping timeout: 240 seconds","date":"2017-08-17T04:46:05.286Z","type":"quit"}
+{"nick":"ed209","date":"2017-08-17T04:46:22.396Z","type":"join"}
+{"nick":"nocsi","date":"2017-08-17T04:46:46.601Z","type":"join"}
+{"nick":"dap_","date":"2017-08-17T04:46:52.005Z","type":"join"}
+{"nick":"nahamu","date":"2017-08-17T04:47:11.768Z","type":"join"}
+{"nick":"goberle","date":"2017-08-17T04:47:13.838Z","type":"join"}
+{"nick":"bahamat","date":"2017-08-17T04:48:25.799Z","type":"join"}
+{"nick":"dillona","date":"2017-08-17T04:49:31.602Z","type":"join"}
+{"nick":"glasspelican","date":"2017-08-17T04:50:04.959Z","type":"join"}
+{"nick":"hile","date":"2017-08-17T04:50:05.621Z","type":"join"}
+{"nick":"magnap","date":"2017-08-17T04:50:46.283Z","type":"join"}
+{"nick":"johngrasty","date":"2017-08-17T04:50:47.909Z","type":"join"}
+{"nick":"_Tenchi_","date":"2017-08-17T04:51:29.763Z","type":"join"}
+{"nick":"Teknix","date":"2017-08-17T04:52:00.478Z","type":"join"}
+{"nick":"jhendricks","date":"2017-08-17T05:12:59.781Z","type":"join"}
+{"nick":"jhendricks","reason":"Client Quit","date":"2017-08-17T05:13:25.863Z","type":"quit"}
+{"nick":"jperkin","date":"2017-08-17T07:08:57.498Z","type":"join"}
+{"nick":"dillona","reason":"Ping timeout: 260 seconds","date":"2017-08-17T10:15:02.734Z","type":"quit"}
+{"nick":"dillona","date":"2017-08-17T10:16:52.592Z","type":"join"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2017-08-17T10:20:01.253Z","type":"quit"}
+{"nick":"ed209","date":"2017-08-17T10:20:08.773Z","type":"join"}
+{"nick":"nocsi","reason":"Changing host","date":"2017-08-17T13:33:57.774Z","type":"quit"}
+{"nick":"nocsi","date":"2017-08-17T13:33:57.774Z","type":"join"}
+{"nick":"wizard113_","date":"2017-08-17T14:39:58.181Z","type":"join"}
+{"nick":"wizard113_","message":"Is there a better way to load npm modules into a compute zone than using muntar, or other solutions along those lines?","date":"2017-08-17T14:42:07.167Z","type":"message"}
+{"nick":"jhendricks","date":"2017-08-17T14:48:57.581Z","type":"join"}
+{"nick":"pmooney","date":"2017-08-17T14:58:09.530Z","type":"join"}
+{"nick":"jayschmidt","date":"2017-08-17T15:18:24.419Z","type":"join"}
+{"nick":"jhendricks","reason":"Quit: Leaving.","date":"2017-08-17T15:18:29.043Z","type":"quit"}
+{"nick":"jhendricks","date":"2017-08-17T15:24:47.696Z","type":"join"}
+{"nick":"jayschmidt","reason":"Quit: Leaving.","date":"2017-08-17T15:36:38.265Z","type":"quit"}
+{"nick":"dap_","message":"I often use an --init phase that's \"npm install -g ...\"","date":"2017-08-17T16:18:39.098Z","type":"message"}
+{"nick":"dap_","message":"It's good for quick-and-dirty stuff, anyway.  For something more robust, it'll probably be faster and more reliable to create an asset tarball and unpack it inside --init","date":"2017-08-17T16:19:16.669Z","type":"message"}
+{"nick":"jayschmidt","date":"2017-08-17T16:38:27.455Z","type":"join"}
+{"nick":"jayschmidt","reason":"Quit: Leaving.","date":"2017-08-17T18:38:00.870Z","type":"quit"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2017-08-17T20:20:01.035Z","type":"quit"}
+{"nick":"ed209","date":"2017-08-17T20:20:09.165Z","type":"join"}
+{"nick":"jayschmidt","date":"2017-08-17T20:32:07.887Z","type":"join"}
+{"nick":"elijahZ241","date":"2017-08-17T21:27:26.294Z","type":"join"}
+{"nick":"elijahZ24","reason":"Read error: Connection reset by peer","date":"2017-08-17T21:27:26.459Z","type":"quit"}
+{"nick":"_Tenchi_","reason":"Ping timeout: 260 seconds","date":"2017-08-17T22:00:17.603Z","type":"quit"}
+{"nick":"jayschmidt","reason":"Quit: Leaving.","date":"2017-08-17T22:51:47.043Z","type":"quit"}
+{"nick":"jayschmidt","date":"2017-08-17T23:46:47.913Z","type":"join"}
+{"nick":"jayschmidt","reason":"Client Quit","date":"2017-08-17T23:47:00.323Z","type":"quit"}

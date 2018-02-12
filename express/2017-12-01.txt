@@ -1,0 +1,73 @@
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-12-01T01:36:38.470Z","type":"quit"}
+{"nick":"rorro","reason":"Ping timeout: 260 seconds","date":"2017-12-01T01:58:17.035Z","type":"quit"}
+{"nick":"davidmichaelkarr","reason":"Quit: Connection closed for inactivity","date":"2017-12-01T02:10:18.899Z","type":"quit"}
+{"nick":"jgornick_","date":"2017-12-01T02:13:31.031Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-01T02:14:48.917Z","type":"quit"}
+{"nick":"towb_","date":"2017-12-01T02:15:45.998Z","type":"join"}
+{"nick":"fcanela_","date":"2017-12-01T02:17:37.340Z","type":"join"}
+{"nick":"jgornick","reason":"Ping timeout: 248 seconds","date":"2017-12-01T02:21:12.627Z","type":"quit"}
+{"nick":"towb","reason":"*.net *.split","date":"2017-12-01T02:22:41.420Z","type":"quit"}
+{"nick":"fcanela","reason":"*.net *.split","date":"2017-12-01T02:22:41.618Z","type":"quit"}
+{"nick":"anoopm","date":"2017-12-01T02:56:14.994Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-12-01T03:06:18.769Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-01T03:38:12.213Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-01T03:49:52.879Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-01T05:04:42.725Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-01T05:05:51.974Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-01T05:28:35.805Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-01T05:28:54.055Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-01T05:29:21.036Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-01T06:33:54.928Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 246 seconds","date":"2017-12-01T06:38:09.797Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-01T06:44:13.892Z","type":"join"}
+{"nick":"lpin","date":"2017-12-01T06:46:02.587Z","type":"join"}
+{"nick":"darkSeid_","date":"2017-12-01T07:16:38.982Z","type":"join"}
+{"nick":"flaviodesousa","date":"2017-12-01T07:22:16.853Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-12-01T07:32:12.569Z","type":"quit"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-12-01T07:41:29.736Z","type":"quit"}
+{"nick":"anoopm","reason":"Ping timeout: 260 seconds","date":"2017-12-01T07:59:44.983Z","type":"quit"}
+{"nick":"Arcarc","date":"2017-12-01T09:10:19.355Z","type":"join"}
+{"nick":"fbenoit","date":"2017-12-01T09:32:35.661Z","type":"join"}
+{"nick":"ShekharReddy","date":"2017-12-01T09:38:43.161Z","type":"join"}
+{"nick":"towb_","new_nick":"towb","date":"2017-12-01T10:59:38.470Z","type":"nick"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-01T11:25:10.497Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-01T11:25:41.084Z","type":"join"}
+{"nick":"rorro","date":"2017-12-01T11:39:45.845Z","type":"join"}
+{"nick":"Aquazi","date":"2017-12-01T11:46:37.833Z","type":"join"}
+{"nick":"PiotrekR","date":"2017-12-01T12:26:33.699Z","type":"join"}
+{"nick":"ShekharReddy","reason":"Quit: Connection closed for inactivity","date":"2017-12-01T12:33:22.036Z","type":"quit"}
+{"nick":"rorro","reason":"Ping timeout: 240 seconds","date":"2017-12-01T13:13:27.869Z","type":"quit"}
+{"nick":"fabic","date":"2017-12-01T13:13:53.788Z","type":"join"}
+{"nick":"rorro","date":"2017-12-01T13:46:53.578Z","type":"join"}
+{"nick":"PiotrekR","reason":"Quit: Ex-Chat","date":"2017-12-01T13:52:46.231Z","type":"quit"}
+{"nick":"fabic","reason":"Ping timeout: 264 seconds","date":"2017-12-01T14:14:10.865Z","type":"quit"}
+{"nick":"d10n-work","date":"2017-12-01T14:33:39.749Z","type":"join"}
+{"nick":"rorro","reason":"Ping timeout: 248 seconds","date":"2017-12-01T14:35:13.509Z","type":"quit"}
+{"nick":"flaviodesousa","reason":"Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/","date":"2017-12-01T15:01:12.127Z","type":"quit"}
+{"nick":"rorro","date":"2017-12-01T15:01:13.643Z","type":"join"}
+{"nick":"fabic","date":"2017-12-01T15:44:21.655Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 248 seconds","date":"2017-12-01T16:23:29.678Z","type":"quit"}
+{"nick":"Aquazi","reason":"Quit: Leaving","date":"2017-12-01T17:43:07.665Z","type":"quit"}
+{"nick":"Arcarc","reason":"Ping timeout: 248 seconds","date":"2017-12-01T18:00:01.609Z","type":"quit"}
+{"nick":"markh","date":"2017-12-01T18:06:33.176Z","type":"join"}
+{"nick":"Arcarc","date":"2017-12-01T18:08:33.218Z","type":"join"}
+{"nick":"darkSeid_","date":"2017-12-01T18:20:56.368Z","type":"join"}
+{"nick":"fabic","reason":"Ping timeout: 258 seconds","date":"2017-12-01T18:35:41.668Z","type":"quit"}
+{"nick":"mholmes","date":"2017-12-01T18:58:27.802Z","type":"join"}
+{"nick":"markh","reason":"Ping timeout: 248 seconds","date":"2017-12-01T19:01:53.539Z","type":"quit"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-12-01T19:10:09.873Z","type":"quit"}
+{"nick":"Elisha","date":"2017-12-01T19:27:29.006Z","type":"join"}
+{"nick":"mholmes","new_nick":"markh","date":"2017-12-01T19:33:16.915Z","type":"nick"}
+{"nick":"rorro","reason":"Ping timeout: 248 seconds","date":"2017-12-01T19:57:53.597Z","type":"quit"}
+{"nick":"stonebat","date":"2017-12-01T21:05:55.217Z","type":"join"}
+{"nick":"markh","reason":"Ping timeout: 240 seconds","date":"2017-12-01T21:10:57.822Z","type":"quit"}
+{"nick":"rorro","date":"2017-12-01T21:15:03.791Z","type":"join"}
+{"nick":"stonebat","reason":"Ping timeout: 260 seconds","date":"2017-12-01T21:18:32.110Z","type":"quit"}
+{"nick":"fbenoit","date":"2017-12-01T21:20:32.490Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 240 seconds","date":"2017-12-01T21:25:01.955Z","type":"quit"}
+{"nick":"Elisha","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-12-01T22:10:08.148Z","type":"quit"}
+{"nick":"dku","date":"2017-12-01T22:31:12.007Z","type":"join"}
+{"nick":"dku","message":"Is there a best practice for processing a raw model instance from a DB into res.json output? Only want certain fields to make it to the response, not sure if I should be using lodash.pick or json-mask or only requesting certain fields from the DB in the first place...","date":"2017-12-01T22:35:05.932Z","type":"message"}
+{"nick":"fbenoit","date":"2017-12-01T23:21:24.626Z","type":"join"}
+{"nick":"markh","date":"2017-12-01T23:22:40.136Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 240 seconds","date":"2017-12-01T23:26:02.043Z","type":"quit"}

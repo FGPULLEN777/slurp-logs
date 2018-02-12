@@ -1,0 +1,14 @@
+{"nick":"jwolfe_","reason":"Ping timeout: 240 seconds","date":"2017-09-22T08:06:08.535Z","type":"quit"}
+{"nick":"stalled","reason":"Read error: Connection reset by peer","date":"2017-09-22T08:07:01.421Z","type":"quit"}
+{"nick":"jwolfe_","date":"2017-09-22T08:08:39.618Z","type":"join"}
+{"nick":"stalled","date":"2017-09-22T08:23:45.123Z","type":"join"}
+{"nick":"dobson`","reason":"Quit: Leaving","date":"2017-09-22T09:53:00.639Z","type":"quit"}
+{"nick":"dobson","date":"2017-09-22T09:56:09.711Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-09-22T10:25:11.606Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-09-22T10:25:42.497Z","type":"join"}
+{"nick":"plutoniix","reason":"Quit: Leaving","date":"2017-09-22T11:15:30.427Z","type":"quit"}
+{"nick":"RT|Chatzilla","reason":"Quit: ChatZilla 0.9.86.1 [Firefox 2.0.0.22pre/2010030309]","date":"2017-09-22T16:44:14.197Z","type":"quit"}
+{"nick":"seventh","date":"2017-09-22T16:55:12.312Z","type":"join"}
+{"nick":"kenansulayman","reason":"Quit: ZNC - http://znc.in","date":"2017-09-22T19:53:58.361Z","type":"quit"}
+{"nick":"seventh","reason":"Remote host closed the connection","date":"2017-09-22T19:57:24.936Z","type":"quit"}
+{"nick":"RT|Chatzilla","date":"2017-09-22T22:55:57.329Z","type":"join"}

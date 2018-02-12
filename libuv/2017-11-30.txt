@@ -1,0 +1,77 @@
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-30T00:13:23.856Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T00:13:40.440Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-30T00:14:10.345Z","type":"quit"}
+{"nick":"AtumT_","reason":"Remote host closed the connection","date":"2017-11-30T00:53:25.659Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T00:53:49.063Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-30T00:59:37.932Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T02:31:12.015Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 255 seconds","date":"2017-11-30T02:36:44.871Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T02:52:33.805Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-30T03:18:14.675Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T03:28:39.169Z","type":"join"}
+{"nick":"ugexe","message":"https://github.com/libuv/libuv/pull/1659 here is a basic version","date":"2017-11-30T03:32:12.539Z","type":"message"}
+{"nick":"ugexe","message":"i couldnt figure out a way to do it inspecting the handle itself instead of looking for UV_INHERIT_FD","date":"2017-11-30T03:33:23.282Z","type":"message"}
+{"nick":"refack","message":"Thanks for following up.","date":"2017-11-30T03:34:13.543Z","type":"message"}
+{"nick":"refack","message":"I'll take a look tomorrow","date":"2017-11-30T03:34:26.349Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-30T03:55:08.221Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T04:55:59.917Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 255 seconds","date":"2017-11-30T05:00:44.975Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T05:56:45.060Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-11-30T06:01:12.001Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T06:21:49.820Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-30T06:22:17.976Z","type":"quit"}
+{"nick":"qard","date":"2017-11-30T06:47:11.304Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-30T06:57:18.615Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-30T07:19:45.799Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T07:21:31.860Z","type":"join"}
+{"nick":"qard","reason":"Ping timeout: 276 seconds","date":"2017-11-30T07:26:11.145Z","type":"quit"}
+{"nick":"qard","date":"2017-11-30T07:26:44.511Z","type":"join"}
+{"nick":"saghul","date":"2017-11-30T08:10:18.534Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-30T08:15:09.138Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-30T08:50:53.363Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T08:51:13.008Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-30T08:51:42.878Z","type":"quit"}
+{"nick":"rendar","date":"2017-11-30T09:26:58.292Z","type":"join"}
+{"nick":"euoia","date":"2017-11-30T09:43:43.096Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-30T09:52:34.029Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-11-30T09:56:52.021Z","type":"quit"}
+{"nick":"joaocgreis","reason":"*.net *.split","date":"2017-11-30T10:09:57.916Z","type":"quit"}
+{"nick":"joaocgreis","date":"2017-11-30T10:15:25.352Z","type":"join"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-30T10:20:44.095Z","type":"quit"}
+{"nick":"euoia","reason":"Ping timeout: 264 seconds","date":"2017-11-30T10:20:46.336Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T10:53:28.076Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 260 seconds","date":"2017-11-30T10:58:12.273Z","type":"quit"}
+{"nick":"Matthew[m]","reason":"Ping timeout: 240 seconds","date":"2017-11-30T11:14:10.634Z","type":"quit"}
+{"nick":"euoia","date":"2017-11-30T11:22:47.021Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-30T11:25:10.812Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-30T11:25:41.502Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-30T11:54:07.243Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 252 seconds","date":"2017-11-30T11:58:52.860Z","type":"quit"}
+{"nick":"Matthew[m]","date":"2017-11-30T12:26:16.556Z","type":"join"}
+{"nick":"niska","reason":"Quit: Leaving","date":"2017-11-30T12:44:02.392Z","type":"quit"}
+{"nick":"saghul","date":"2017-11-30T12:50:59.940Z","type":"join"}
+{"nick":"niska","date":"2017-11-30T12:54:28.472Z","type":"join"}
+{"nick":"AtumT","date":"2017-11-30T14:11:13.852Z","type":"join"}
+{"nick":"ugexe","message":"the triple conditional version aligned nicely and made more sense when looking at it, but I realized: windows has more than 3 stdio handles, and someone might pass process options for only 0 and/or 1 (but e.g. not 2) stdio handles.","date":"2017-11-30T16:19:18.467Z","type":"message"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-30T17:16:16.731Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-30T17:29:57.836Z","type":"join"}
+{"nick":"KennethWilke","reason":"Ping timeout: 240 seconds","date":"2017-11-30T18:20:57.788Z","type":"quit"}
+{"nick":"euoia","reason":"Ping timeout: 240 seconds","date":"2017-11-30T18:23:52.077Z","type":"quit"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-11-30T18:58:45.002Z","type":"quit"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-11-30T19:11:40.477Z","type":"quit"}
+{"nick":"AtumT","date":"2017-11-30T19:13:12.843Z","type":"join"}
+{"nick":"AtumT_","date":"2017-11-30T19:25:08.794Z","type":"join"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-11-30T19:25:24.904Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-30T19:31:43.153Z","type":"quit"}
+{"nick":"KennethWilke","date":"2017-11-30T19:33:08.558Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-30T20:29:17.841Z","type":"join"}
+{"nick":"trevnorris","reason":"Quit: quit all you want","date":"2017-11-30T21:09:39.797Z","type":"quit"}
+{"nick":"trevnorris","date":"2017-11-30T21:11:37.638Z","type":"join"}
+{"nick":"saghul","date":"2017-11-30T21:20:15.747Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-30T21:31:30.746Z","type":"quit"}
+{"nick":"AtumT_","reason":"Quit: No Ping reply in 180 seconds.","date":"2017-11-30T22:12:02.126Z","type":"quit"}
+{"nick":"AtumT","date":"2017-11-30T22:14:50.032Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-30T22:18:24.995Z","type":"join"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-11-30T23:25:38.528Z","type":"quit"}
+{"nick":"AtumT","date":"2017-11-30T23:27:16.864Z","type":"join"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-30T23:50:49.159Z","type":"quit"}

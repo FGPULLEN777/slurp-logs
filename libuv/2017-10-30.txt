@@ -1,0 +1,91 @@
+{"nick":"alaveyer","date":"2017-10-30T01:26:56.743Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 260 seconds","date":"2017-10-30T01:31:37.773Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T02:07:18.169Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 240 seconds","date":"2017-10-30T02:11:21.166Z","type":"quit"}
+{"nick":"concept10","date":"2017-10-30T02:45:49.096Z","type":"join"}
+{"nick":"alaveyer","date":"2017-10-30T03:18:50.693Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 260 seconds","date":"2017-10-30T03:23:37.700Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T04:09:55.768Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 260 seconds","date":"2017-10-30T04:14:22.746Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T04:40:38.993Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 240 seconds","date":"2017-10-30T04:44:57.880Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T05:20:47.395Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 248 seconds","date":"2017-10-30T05:25:21.383Z","type":"quit"}
+{"nick":"concept10","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-30T05:56:33.383Z","type":"quit"}
+{"nick":"concept10","date":"2017-10-30T06:09:59.105Z","type":"join"}
+{"nick":"alaveyer","date":"2017-10-30T06:32:30.562Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 240 seconds","date":"2017-10-30T06:36:35.671Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T07:03:11.853Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 240 seconds","date":"2017-10-30T07:07:27.961Z","type":"quit"}
+{"nick":"rendar","date":"2017-10-30T07:35:58.307Z","type":"join"}
+{"nick":"concept10","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-30T07:41:24.410Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T07:43:26.650Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 246 seconds","date":"2017-10-30T07:47:51.625Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T08:04:20.698Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 260 seconds","date":"2017-10-30T08:08:52.754Z","type":"quit"}
+{"nick":"saghul","date":"2017-10-30T08:30:15.678Z","type":"join"}
+{"nick":"alaveyer","date":"2017-10-30T08:54:42.072Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 252 seconds","date":"2017-10-30T08:59:23.146Z","type":"quit"}
+{"nick":"Jacob843","reason":"Read error: Connection reset by peer","date":"2017-10-30T09:42:01.772Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T10:06:25.384Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 248 seconds","date":"2017-10-30T10:10:41.394Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-30T10:25:12.236Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-30T10:25:42.986Z","type":"join"}
+{"nick":"alaveyer","date":"2017-10-30T10:36:46.045Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 255 seconds","date":"2017-10-30T10:41:29.002Z","type":"quit"}
+{"nick":"benjamingr_","reason":"Quit: Connection closed for inactivity","date":"2017-10-30T10:43:12.449Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T11:17:43.895Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 255 seconds","date":"2017-10-30T11:22:26.099Z","type":"quit"}
+{"nick":"AtumT","date":"2017-10-30T11:44:25.698Z","type":"join"}
+{"nick":"alaveyer","date":"2017-10-30T12:16:03.901Z","type":"join"}
+{"nick":"alaveyer","reason":"Remote host closed the connection","date":"2017-10-30T13:32:08.224Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T13:40:20.577Z","type":"join"}
+{"nick":"happy-dude","date":"2017-10-30T14:53:47.292Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-10-30T16:47:58.691Z","type":"join"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-30T17:21:40.026Z","type":"quit"}
+{"nick":"concept10","date":"2017-10-30T17:22:53.062Z","type":"join"}
+{"nick":"concept10","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-30T17:55:54.020Z","type":"quit"}
+{"nick":"alaveyer","reason":"Remote host closed the connection","date":"2017-10-30T17:57:01.526Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-30T18:03:22.251Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-30T18:03:40.687Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-30T18:04:09.298Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T18:19:13.658Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-10-30T18:44:12.897Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-30T18:47:15.867Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-30T18:47:38.689Z","type":"join"}
+{"nick":"alaveyer","reason":"Remote host closed the connection","date":"2017-10-30T18:48:50.415Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T18:52:54.588Z","type":"join"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-10-30T19:02:35.979Z","type":"quit"}
+{"nick":"alaveyer","reason":"Remote host closed the connection","date":"2017-10-30T19:09:46.525Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T19:17:22.305Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 264 seconds","date":"2017-10-30T19:21:58.336Z","type":"quit"}
+{"nick":"Jacob843","date":"2017-10-30T19:44:29.669Z","type":"join"}
+{"nick":"saghul","date":"2017-10-30T19:50:28.944Z","type":"join"}
+{"nick":"alaveyer","date":"2017-10-30T19:53:41.938Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 255 seconds","date":"2017-10-30T19:58:07.999Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-30T20:00:02.509Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-30T20:00:40.775Z","type":"join"}
+{"nick":"Fishrock","date":"2017-10-30T20:01:32.475Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 246 seconds","date":"2017-10-30T20:04:57.679Z","type":"quit"}
+{"nick":"Fishrock","reason":"Remote host closed the connection","date":"2017-10-30T20:13:06.428Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-30T20:13:42.756Z","type":"join"}
+{"nick":"alaveyer","date":"2017-10-30T20:15:28.403Z","type":"join"}
+{"nick":"alaveyer","reason":"Remote host closed the connection","date":"2017-10-30T20:17:48.526Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Ping timeout: 258 seconds","date":"2017-10-30T20:17:55.781Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T20:18:00.645Z","type":"join"}
+{"nick":"alaveyer","reason":"Remote host closed the connection","date":"2017-10-30T20:19:48.776Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T20:21:10.664Z","type":"join"}
+{"nick":"alaveyer","reason":"Remote host closed the connection","date":"2017-10-30T20:21:18.481Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T20:21:30.732Z","type":"join"}
+{"nick":"alaveyer_","date":"2017-10-30T20:22:36.695Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 258 seconds","date":"2017-10-30T20:25:58.683Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-30T21:11:20.610Z","type":"join"}
+{"nick":"alaveyer_","reason":"Remote host closed the connection","date":"2017-10-30T22:13:57.181Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T22:34:31.648Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 240 seconds","date":"2017-10-30T22:40:05.568Z","type":"quit"}
+{"nick":"alaveyer","date":"2017-10-30T23:13:08.766Z","type":"join"}
+{"nick":"alaveyer","reason":"Ping timeout: 260 seconds","date":"2017-10-30T23:17:42.721Z","type":"quit"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-30T23:27:06.990Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-30T23:52:18.474Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-30T23:52:36.718Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-30T23:53:06.323Z","type":"quit"}

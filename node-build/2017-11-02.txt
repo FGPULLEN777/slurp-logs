@@ -1,0 +1,119 @@
+{"nick":"gibfahn_","reason":"Quit: Connection closed for inactivity","date":"2017-11-02T00:20:30.812Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-02T00:26:50.749Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T00:26:50.904Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T00:32:42.552Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T00:32:42.553Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T01:05:17.596Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T01:05:17.751Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T01:14:02.537Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T01:14:02.692Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T01:21:58.342Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T01:21:58.342Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T01:29:41.042Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T01:29:41.234Z","type":"part"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-11-02T02:07:16.687Z","type":"quit"}
+{"nick":"joyee","date":"2017-11-02T02:07:34.650Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T03:58:06.602Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T03:58:06.755Z","type":"part"}
+{"nick":"Trott","message":"Can we get a win2016 + vs2017 host as an option for the stress tests? joaocgreis refack","date":"2017-11-02T04:53:07.150Z","type":"message"}
+{"nick":"node-gh","date":"2017-11-02T09:07:22.558Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T09:07:22.750Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T09:36:59.752Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T09:36:59.907Z","type":"part"}
+{"nick":"seishun","date":"2017-11-02T09:47:51.992Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T10:11:34.562Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T10:11:34.717Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T10:23:05.596Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T10:23:05.750Z","type":"part"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-02T10:25:11.498Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-02T10:25:42.427Z","type":"join"}
+{"nick":"joyee_","date":"2017-11-02T10:50:21.026Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-11-02T10:50:41.561Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-02T11:14:49.867Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T11:14:50.022Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T11:32:22.614Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T11:32:22.768Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T11:40:15.266Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T11:40:15.421Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-11-02T12:06:24.099Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-02T12:08:40.976Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T12:08:41.169Z","type":"part"}
+{"nick":"apapirovski","date":"2017-11-02T12:27:47.005Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T12:31:06.467Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T12:31:06.661Z","type":"part"}
+{"nick":"rvagg","message":"arm cluster went down, lost internet here for a bit, bringing it all back up now","date":"2017-11-02T12:31:19.649Z","type":"message"}
+{"nick":"seishun","date":"2017-11-02T12:41:16.400Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T12:53:34.756Z","type":"quit"}
+{"nick":"lance|afk","new_nick":"lanceball","date":"2017-11-02T12:54:17.356Z","type":"nick"}
+{"nick":"apapirovski","date":"2017-11-02T12:54:18.055Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T12:56:41.491Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T12:56:41.685Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T12:57:45.576Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T12:57:45.732Z","type":"part"}
+{"nick":"apapirovski","reason":"Ping timeout: 260 seconds","date":"2017-11-02T13:00:07.598Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-02T13:06:45.599Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T13:06:45.757Z","type":"part"}
+{"nick":"evanlucas","date":"2017-11-02T13:06:53.115Z","type":"join"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-11-02T13:10:28.832Z","type":"quit"}
+{"nick":"evanlucas","date":"2017-11-02T13:10:50.492Z","type":"join"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-11-02T13:10:52.960Z","type":"quit"}
+{"nick":"evanlucas","date":"2017-11-02T13:19:06.639Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-02T13:25:21.600Z","type":"join"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-11-02T13:28:27.445Z","type":"quit"}
+{"nick":"evanlucas","date":"2017-11-02T13:28:45.759Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T13:58:51.329Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T13:58:51.484Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-11-02T14:25:03.990Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-02T14:36:53.013Z","type":"join"}
+{"nick":"joaocgreis","message":"Trott, refack: the easiest thing to do is change one of the existing win2016 machines, only for that. I'll do it.","date":"2017-11-02T14:56:53.505Z","type":"message"}
+{"nick":"joyee_","reason":"Remote host closed the connection","date":"2017-11-02T15:36:47.151Z","type":"quit"}
+{"nick":"joyee","date":"2017-11-02T15:37:21.904Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T15:54:28.597Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T15:54:28.752Z","type":"part"}
+{"nick":"lanceball","new_nick":"lance|afk","date":"2017-11-02T15:58:57.698Z","type":"nick"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T16:05:53.451Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-02T16:33:29.701Z","type":"join"}
+{"nick":"seishun","reason":"Remote host closed the connection","date":"2017-11-02T16:53:28.366Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-02T17:07:23.699Z","type":"join"}
+{"nick":"joyee_","date":"2017-11-02T17:13:24.774Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 252 seconds","date":"2017-11-02T17:14:38.111Z","type":"quit"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-11-02T17:16:27.750Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-02T17:20:47.320Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T17:34:08.749Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T17:34:08.904Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T17:41:44.343Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T17:41:44.538Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-02T17:44:29.355Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T17:44:29.510Z","type":"part"}
+{"nick":"lance|afk","new_nick":"lanceball","date":"2017-11-02T17:47:46.233Z","type":"nick"}
+{"nick":"joyee_","reason":"Remote host closed the connection","date":"2017-11-02T17:50:42.780Z","type":"quit"}
+{"nick":"joaocgreis","message":"Trott, refack: done, the stress test job now has that combination. I have a test job running that seems to be compiling well, feel free to cancel it if you want to run more important work","date":"2017-11-02T18:03:19.978Z","type":"message"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T18:26:55.259Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-02T18:31:35.985Z","type":"join"}
+{"nick":"gibfahn","date":"2017-11-02T18:32:11.773Z","type":"join"}
+{"nick":"Trott","message":"Thanks, joaocgreis!","date":"2017-11-02T18:32:41.073Z","type":"message"}
+{"nick":"joyee","date":"2017-11-02T18:41:58.754Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 260 seconds","date":"2017-11-02T18:46:37.605Z","type":"quit"}
+{"nick":"maclover7","message":"would go be good to fast track https://github.com/nodejs/nodejs-latest-linker/pull/1 if possible","date":"2017-11-02T19:24:06.184Z","type":"message"}
+{"nick":"maclover7","message":"rvagg ^","date":"2017-11-02T19:24:08.876Z","type":"message"}
+{"nick":"refack","message":"maclover7: after landing someone will need to run it anyway","date":"2017-11-02T19:26:20.783Z","type":"message"}
+{"nick":"joyee","date":"2017-11-02T19:33:16.905Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-11-02T19:37:27.756Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T19:57:42.581Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-11-02T20:05:52.092Z","type":"quit"}
+{"nick":"joyee","date":"2017-11-02T20:14:24.187Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-11-02T20:19:11.887Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-02T20:30:24.133Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 240 seconds","date":"2017-11-02T20:34:27.752Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-02T20:40:22.716Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-02T20:45:43.908Z","type":"join"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-11-02T20:53:42.766Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-11-02T20:53:57.752Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T21:02:39.876Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-02T21:04:14.642Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T21:08:12.469Z","type":"quit"}
+{"nick":"joyee","date":"2017-11-02T21:29:01.109Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-02T22:37:17.856Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T22:37:41.194Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-02T22:51:10.016Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-02T22:51:10.210Z","type":"part"}

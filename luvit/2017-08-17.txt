@@ -1,0 +1,49 @@
+{"nick":"Fusl","reason":"Ping timeout: 246 seconds","date":"2017-08-17T00:09:29.648Z","type":"quit"}
+{"nick":"creationix","message":"Vercas: SinisterRectus.  I just restarted the two servers","date":"2017-08-17T00:14:59.164Z","type":"message"}
+{"nick":"creationix","message":"I guess rphillips's monitor script still needs some tweaks","date":"2017-08-17T00:15:16.383Z","type":"message"}
+{"nick":"Fusl","date":"2017-08-17T00:16:34.607Z","type":"join"}
+{"nick":"Vercas","message":"creationix: Awesomesauce!","date":"2017-08-17T00:56:57.792Z","type":"message"}
+{"nick":"Soni","message":"creationix: how can I setup a lit mirror?","date":"2017-08-17T01:44:40.809Z","type":"message"}
+{"nick":"creationix","message":"Soni: lit serve","date":"2017-08-17T02:10:49.287Z","type":"message"}
+{"nick":"creationix","message":"if you want, you can prime it's cache with the git repo","date":"2017-08-17T02:10:59.652Z","type":"message"}
+{"nick":"creationix","message":"(though snapshots might be missing :(","date":"2017-08-17T02:11:07.713Z","type":"message"}
+{"nick":"Soni","message":"creationix: public lit mirror that doesn't go down like the official one","date":"2017-08-17T02:11:26.268Z","type":"message"}
+{"nick":"creationix","message":"https://github.com/luvit/lit-backup","date":"2017-08-17T02:11:31.861Z","type":"message"}
+{"nick":"Soni","message":"creationix: \"manually synced\"?","date":"2017-08-17T02:13:06.835Z","type":"message"}
+{"nick":"creationix","message":"setup a `lit serve` server and it will proxy to the real server","date":"2017-08-17T02:40:52.934Z","type":"message"}
+{"nick":"creationix","message":"but when the real one is offline, it will serve from cache","date":"2017-08-17T02:40:59.221Z","type":"message"}
+{"nick":"creationix","message":"you just need to change your upstream to the main one if you want to publish to the main one","date":"2017-08-17T02:41:33.752Z","type":"message"}
+{"nick":"creationix","message":"publish isn't proxied upstream (the feature was intended for private servers)","date":"2017-08-17T02:41:47.655Z","type":"message"}
+{"nick":"SinisterRectus","reason":"Read error: Connection reset by peer","date":"2017-08-17T04:03:48.025Z","type":"quit"}
+{"nick":"SinisterRectus","date":"2017-08-17T04:04:14.318Z","type":"join"}
+{"nick":"dobson","reason":"K-Lined","date":"2017-08-17T04:42:07.097Z","type":"quit"}
+{"nick":"squeek502_","reason":"K-Lined","date":"2017-08-17T04:42:07.347Z","type":"quit"}
+{"nick":"creationix!creationix@2600","topic":"http://luvit.io | https://gitter.im/luvit/luvit | IRC Logs at http://logs.nodejs.org/luvit/latest","date":"2017-08-17T04:43:48.856Z","type":"topic"}
+{"nick":"Xe","date":"2017-08-17T04:44:26.128Z","type":"join"}
+{"nick":"Xe","reason":"Changing host","date":"2017-08-17T04:44:46.253Z","type":"quit"}
+{"nick":"Xe","date":"2017-08-17T04:44:46.418Z","type":"join"}
+{"nick":"Fusl","date":"2017-08-17T04:45:04.674Z","type":"join"}
+{"nick":"dobson","date":"2017-08-17T04:45:53.955Z","type":"join"}
+{"nick":"ksheedlo","date":"2017-08-17T04:46:56.443Z","type":"join"}
+{"nick":"NiteHawk","date":"2017-08-17T04:48:09.306Z","type":"join"}
+{"nick":"bjorn","date":"2017-08-17T04:48:32.306Z","type":"join"}
+{"nick":"bjorn","reason":"Changing host","date":"2017-08-17T04:48:45.433Z","type":"quit"}
+{"nick":"bjorn","date":"2017-08-17T04:48:45.598Z","type":"join"}
+{"nick":"rch","date":"2017-08-17T04:54:53.736Z","type":"join"}
+{"nick":"rendar","date":"2017-08-17T07:05:37.325Z","type":"join"}
+{"nick":"DarkGod","date":"2017-08-17T07:23:44.882Z","type":"join"}
+{"nick":"CapsAdmin","reason":"Quit: Leaving","date":"2017-08-17T07:53:58.647Z","type":"quit"}
+{"nick":"creationix","message":"so with hyperdb, Is there a way to iterate keys?","date":"2017-08-17T13:13:13.755Z","type":"message"}
+{"nick":"creationix","message":"I'm guessing no from what I see in the docs and how I understand the data structure to work","date":"2017-08-17T13:15:41.953Z","type":"message"}
+{"nick":"SinisterRectus","date":"2017-08-17T13:20:38.393Z","type":"join"}
+{"nick":"creationix","message":"SinisterRectus: if only we could figure out the root cause of the crashes right","date":"2017-08-17T13:27:20.917Z","type":"message"}
+{"nick":"SinisterRectus","reason":"Ping timeout: 240 seconds","date":"2017-08-17T13:29:01.375Z","type":"quit"}
+{"nick":"SinisterRectus","date":"2017-08-17T13:29:53.919Z","type":"join"}
+{"nick":"Soni","date":"2017-08-17T14:26:52.934Z","type":"join"}
+{"nick":"g0d355__","date":"2017-08-17T14:26:55.494Z","type":"join"}
+{"nick":"SkyRocknRoll","date":"2017-08-17T17:08:37.805Z","type":"join"}
+{"nick":"Andols","date":"2017-08-17T17:55:10.909Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Remote host closed the connection","date":"2017-08-17T19:24:16.615Z","type":"quit"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-08-17T20:47:23.495Z","type":"quit"}
+{"nick":"Andols","date":"2017-08-17T21:17:17.546Z","type":"quit"}
+{"nick":"squeek502_","date":"2017-08-17T22:41:18.878Z","type":"join"}

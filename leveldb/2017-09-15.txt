@@ -1,0 +1,12 @@
+{"nick":"bdonnahue","date":"2017-09-15T02:58:18.677Z","type":"join"}
+{"nick":"bdonnahue","message":"hey guys. im trying to start gitlab in a container. the leveldb component is crapping out with the following error message:","date":"2017-09-15T02:58:44.515Z","type":"message"}
+{"nick":"bdonnahue","message":"2017-09-13_02:53:12.54467 time=\"2017-09-13T02:53:12Z\" level=error msg=\"Error opening memory series storage: found existing files in storage path that do not look like storage files compatible with this version of Prometheus; please delete the files in the storage path or choose a different storage path\" source=\"main.go:191\"","date":"2017-09-15T02:59:04.970Z","type":"message"}
+{"nick":"laduke13","reason":"Ping timeout: 240 seconds","date":"2017-09-15T07:27:25.696Z","type":"quit"}
+{"nick":"laduke13","date":"2017-09-15T07:27:54.637Z","type":"join"}
+{"nick":"npeihl","reason":"Ping timeout: 246 seconds","date":"2017-09-15T08:28:45.777Z","type":"quit"}
+{"nick":"ralphtheninja[m]","message":"bdonnahue: this channel is for leveldb in the node.js world and not with the google leveldb project","date":"2017-09-15T23:55:33.610Z","type":"message"}
+{"nick":"ralphtheninja[m]","message":"and maybe you should check with the gitlab community on that specific problem","date":"2017-09-15T23:56:28.410Z","type":"message"}
+{"nick":"bdonnahue","message":"ralphtheninja[m], i think its more a leveldb issue","date":"2017-09-15T23:56:47.705Z","type":"message"}
+{"nick":"bdonnahue","message":"something with the way it is writing data","date":"2017-09-15T23:56:53.620Z","type":"message"}
+{"nick":"bdonnahue","message":"i havent had an issue with mariadb or reddis","date":"2017-09-15T23:57:03.079Z","type":"message"}
+{"nick":"ralphtheninja[m]","message":"sure, but it's still a leveldb issue related to gitlab :)","date":"2017-09-15T23:57:49.543Z","type":"message"}

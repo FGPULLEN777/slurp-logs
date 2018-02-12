@@ -1,0 +1,20 @@
+{"nick":"nuncanada","reason":"Ping timeout: 260 seconds","date":"2018-01-30T01:09:05.403Z","type":"quit"}
+{"nick":"nuncanada","date":"2018-01-30T01:38:58.721Z","type":"join"}
+{"nick":"akiva","date":"2018-01-30T02:14:22.187Z","type":"join"}
+{"nick":"nuncanada","reason":"Ping timeout: 240 seconds","date":"2018-01-30T02:43:48.244Z","type":"quit"}
+{"nick":"nuncanada","date":"2018-01-30T02:58:08.725Z","type":"join"}
+{"nick":"nuncanada","reason":"Ping timeout: 268 seconds","date":"2018-01-30T03:56:05.776Z","type":"quit"}
+{"nick":"nuncanada","date":"2018-01-30T04:05:36.629Z","type":"join"}
+{"nick":"akiva","reason":"Ping timeout: 240 seconds","date":"2018-01-30T06:07:05.510Z","type":"quit"}
+{"nick":"akiva","date":"2018-01-30T06:56:32.391Z","type":"join"}
+{"nick":"akiva","reason":"Ping timeout: 240 seconds","date":"2018-01-30T08:24:18.283Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-30T11:25:11.225Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-30T11:25:41.838Z","type":"join"}
+{"nick":"wa7son","message":"substack: I just added a few new helpful operators to tape: https://github.com/substack/tape/pull/423","date":"2018-01-30T13:14:59.373Z","type":"message"}
+{"nick":"ralphtheninja","message":"wa7son: <3","date":"2018-01-30T16:28:42.968Z","type":"message"}
+{"nick":"bret","message":"cool","date":"2018-01-30T19:29:55.230Z","type":"message"}
+{"nick":"bret","message":"wa7son: set your irccloud pic https://www.irccloud.com/?/settings=labs","date":"2018-01-30T19:30:42.883Z","type":"message"}
+{"nick":"wa7son","message":"bret: done :)","date":"2018-01-30T19:36:58.837Z","type":"message"}
+{"nick":"bret","message":"woo! ok the cache takes 10 minute to propagate","date":"2018-01-30T19:37:16.283Z","type":"message"}
+{"nick":"bret","message":"up to","date":"2018-01-30T19:38:27.115Z","type":"message"}
+{"nick":"nuncanada","reason":"Ping timeout: 256 seconds","date":"2018-01-30T20:30:23.514Z","type":"quit"}

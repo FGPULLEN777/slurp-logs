@@ -1,0 +1,57 @@
+{"nick":"caridy","date":"2017-12-23T00:02:16.265Z","type":"quit"}
+{"nick":"bterlson","message":"mathiasbynens: I can help, but why do you need org access (as opposed to say inviting the bot as a collaborator for select projects)?","date":"2017-12-23T00:23:11.584Z","type":"message"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-12-23T03:01:53.683Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2017-12-23T03:04:27.527Z","type":"join"}
+{"nick":"floatleft","reason":"Read error: Connection reset by peer","date":"2017-12-23T03:35:48.350Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-23T03:36:07.568Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-23T04:27:29.511Z","type":"quit"}
+{"nick":"mathiasbynens","message":"inviting the bot as a collaborator on select projects is exactly what i need :/ can i do that myself if it’s not an org member? cool","date":"2017-12-23T04:49:21.240Z","type":"message"}
+{"nick":"mathiasbynens","message":"</github-noob>","date":"2017-12-23T04:49:23.939Z","type":"message"}
+{"nick":"floatleft","reason":"Ping timeout: 248 seconds","date":"2017-12-23T05:56:49.767Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-23T05:57:24.792Z","type":"join"}
+{"nick":"floatleft","reason":"Ping timeout: 252 seconds","date":"2017-12-23T06:06:23.487Z","type":"quit"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2017-12-23T06:13:38.198Z","type":"quit"}
+{"nick":"annevk","message":"mathiasbynens: if you’re admin on the project","date":"2017-12-23T06:40:45.962Z","type":"message"}
+{"nick":"floatleft","date":"2017-12-23T07:58:07.804Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-12-23T08:01:16.079Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 265 seconds","date":"2017-12-23T08:04:48.409Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Ping timeout: 248 seconds","date":"2017-12-23T08:05:19.881Z","type":"quit"}
+{"nick":"floatleft","reason":"Ping timeout: 240 seconds","date":"2017-12-23T08:20:35.548Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-23T08:22:14.584Z","type":"join"}
+{"nick":"floatleft","reason":"Ping timeout: 248 seconds","date":"2017-12-23T08:56:33.563Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-23T09:04:35.858Z","type":"join"}
+{"nick":"floatleft","reason":"Read error: Connection reset by peer","date":"2017-12-23T10:00:53.605Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-12-23T11:02:22.071Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-12-23T11:03:36.298Z","type":"join"}
+{"nick":"bradleymeck","reason":"Ping timeout: 264 seconds","date":"2017-12-23T11:08:45.161Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-23T11:25:06.792Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-23T11:25:37.490Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-12-23T11:30:51.216Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-12-23T12:03:56.192Z","type":"join"}
+{"nick":"bradleymeck","reason":"Ping timeout: 272 seconds","date":"2017-12-23T12:09:12.209Z","type":"quit"}
+{"nick":"jmdyck","date":"2017-12-23T12:56:51.503Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-12-23T13:04:44.483Z","type":"join"}
+{"nick":"bradleymeck","reason":"Ping timeout: 252 seconds","date":"2017-12-23T13:09:53.510Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-12-23T14:05:39.387Z","type":"join"}
+{"nick":"bradleymeck","reason":"Ping timeout: 260 seconds","date":"2017-12-23T14:10:36.371Z","type":"quit"}
+{"nick":"ghishadow1","date":"2017-12-23T14:14:00.883Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-12-23T14:21:55.223Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2017-12-23T14:43:45.920Z","type":"quit"}
+{"nick":"rwaldron","reason":"Remote host closed the connection","date":"2017-12-23T15:58:07.025Z","type":"quit"}
+{"nick":"leobalter","reason":"Remote host closed the connection","date":"2017-12-23T15:58:07.025Z","type":"quit"}
+{"nick":"leobalter","date":"2017-12-23T16:00:37.244Z","type":"join"}
+{"nick":"AtumT","date":"2017-12-23T16:48:33.785Z","type":"join"}
+{"nick":"gskachkov","date":"2017-12-23T20:48:48.474Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-12-23T20:56:17.830Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-12-23T20:57:58.841Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-12-23T21:09:15.618Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-12-23T21:11:16.497Z","type":"join"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-12-23T21:26:25.915Z","type":"quit"}
+{"nick":"AtumT","date":"2017-12-23T21:27:00.455Z","type":"join"}
+{"nick":"AtumT_","date":"2017-12-23T21:39:47.176Z","type":"join"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-12-23T21:40:50.320Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-12-23T21:47:38.170Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-12-23T21:49:23.031Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2017-12-23T21:52:48.398Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-12-23T21:53:46.174Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2017-12-23T21:53:50.669Z","type":"quit"}

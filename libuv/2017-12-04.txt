@@ -1,0 +1,43 @@
+{"nick":"Jacob8432","reason":"Read error: Connection reset by peer","date":"2017-12-04T00:24:41.441Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-12-04T00:51:11.639Z","type":"quit"}
+{"nick":"Jacob843","date":"2017-12-04T02:07:53.341Z","type":"join"}
+{"nick":"joocain2","reason":"Read error: Connection reset by peer","date":"2017-12-04T04:21:20.189Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-04T04:21:46.866Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-12-04T04:33:39.937Z","type":"quit"}
+{"nick":"joocain2","reason":"Remote host closed the connection","date":"2017-12-04T04:45:04.169Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-04T04:45:15.360Z","type":"join"}
+{"nick":"joocain2","reason":"Remote host closed the connection","date":"2017-12-04T04:47:40.125Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-04T04:47:51.794Z","type":"join"}
+{"nick":"rendar","date":"2017-12-04T07:38:58.228Z","type":"join"}
+{"nick":"euoia","date":"2017-12-04T07:55:45.916Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 260 seconds","date":"2017-12-04T08:01:16.983Z","type":"quit"}
+{"nick":"eck","reason":"Quit: we out here","date":"2017-12-04T09:18:06.320Z","type":"quit"}
+{"nick":"eck","date":"2017-12-04T09:18:36.292Z","type":"join"}
+{"nick":"strike_","date":"2017-12-04T09:20:47.026Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-04T11:25:07.469Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-04T11:25:37.037Z","type":"join"}
+{"nick":"joocain2","reason":"Ping timeout: 248 seconds","date":"2017-12-04T13:31:57.044Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-04T13:33:18.818Z","type":"join"}
+{"nick":"AtumT","date":"2017-12-04T14:56:30.955Z","type":"join"}
+{"nick":"qard","date":"2017-12-04T15:50:19.357Z","type":"join"}
+{"nick":"qard","reason":"Client Quit","date":"2017-12-04T15:54:36.405Z","type":"quit"}
+{"nick":"qard","date":"2017-12-04T15:55:06.194Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-12-04T16:57:36.050Z","type":"quit"}
+{"nick":"qard","date":"2017-12-04T16:58:13.021Z","type":"join"}
+{"nick":"AtumT_","date":"2017-12-04T18:02:59.977Z","type":"join"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-12-04T18:04:18.677Z","type":"quit"}
+{"nick":"timotimo","reason":"Quit: WeeChat 1.9.1","date":"2017-12-04T19:56:26.948Z","type":"quit"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-12-04T20:33:37.292Z","type":"quit"}
+{"nick":"timo","date":"2017-12-04T20:51:36.308Z","type":"join"}
+{"nick":"timo","new_nick":"timotimo","date":"2017-12-04T20:51:59.032Z","type":"nick"}
+{"nick":"AtumT_","reason":"Read error: Connection reset by peer","date":"2017-12-04T22:07:58.488Z","type":"quit"}
+{"nick":"AtumT_","date":"2017-12-04T22:12:13.913Z","type":"join"}
+{"nick":"AtumT_","reason":"Read error: Connection reset by peer","date":"2017-12-04T22:25:55.909Z","type":"quit"}
+{"nick":"AtumT","date":"2017-12-04T22:26:08.205Z","type":"join"}
+{"nick":"joocain2_","date":"2017-12-04T22:30:40.489Z","type":"join"}
+{"nick":"joocain2","reason":"Ping timeout: 248 seconds","date":"2017-12-04T22:33:48.767Z","type":"quit"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-12-04T22:45:19.501Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-04T23:04:02.343Z","type":"join"}
+{"nick":"strike_","reason":"Quit: Konversation terminated!","date":"2017-12-04T23:11:03.674Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-04T23:31:03.858Z","type":"join"}
+{"nick":"joocain2_","reason":"Ping timeout: 248 seconds","date":"2017-12-04T23:34:36.995Z","type":"quit"}

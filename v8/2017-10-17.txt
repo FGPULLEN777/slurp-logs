@@ -1,0 +1,68 @@
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-17T00:13:55.741Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-17T00:37:22.961Z","type":"join"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-10-17T01:01:18.975Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-17T01:14:50.997Z","type":"join"}
+{"nick":"plutoniix","reason":"Max SendQ exceeded","date":"2017-10-17T01:15:00.979Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-17T01:15:42.015Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-17T02:51:47.455Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-17T03:35:39.381Z","type":"join"}
+{"nick":"xaxxon_","date":"2017-10-17T04:20:52.262Z","type":"join"}
+{"nick":"xaxxon","reason":"Ping timeout: 252 seconds","date":"2017-10-17T04:22:23.076Z","type":"quit"}
+{"nick":"xaxxon_","reason":"Ping timeout: 252 seconds","date":"2017-10-17T04:37:47.116Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-17T04:43:09.013Z","type":"join"}
+{"nick":"trungl-bot","message":"\u00034\u0002Tree closed\u000f by buildbot@chromium.org: closed (https://build.chromium.org/p/client.v8/builders/V8%20Linux/builds/20965 from 2857e7834760128c7edb8ad05535778d08290b6b)","date":"2017-10-17T05:18:42.906Z","type":"message"}
+{"nick":"xaxxon","reason":"Max SendQ exceeded","date":"2017-10-17T05:31:15.998Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-17T05:33:00.102Z","type":"join"}
+{"nick":"xaxxon","reason":"Max SendQ exceeded","date":"2017-10-17T05:53:07.139Z","type":"quit"}
+{"nick":"trungl-bot","message":"\u00033\u0002Tree opened\u000f by machenbach@google.com: open","date":"2017-10-17T06:48:24.207Z","type":"message"}
+{"nick":"xaxxon","date":"2017-10-17T07:14:11.737Z","type":"join"}
+{"nick":"joyee","date":"2017-10-17T07:45:40.519Z","type":"join"}
+{"nick":"xaxxon","reason":"Ping timeout: 255 seconds","date":"2017-10-17T08:10:38.944Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-17T08:13:44.016Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-17T08:23:50.190Z","type":"quit"}
+{"nick":"xaxxon","reason":"Quit: xaxxon","date":"2017-10-17T09:13:18.477Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-17T09:15:58.935Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-17T09:26:26.530Z","type":"quit"}
+{"nick":"AtumT","date":"2017-10-17T09:30:18.497Z","type":"join"}
+{"nick":"joyee","date":"2017-10-17T09:37:31.660Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-17T09:40:58.080Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-17T09:46:32.458Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-17T10:25:12.298Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-17T10:25:43.005Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-17T10:40:55.592Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-17T10:41:23.144Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-10-17T10:45:57.809Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-17T11:08:32.548Z","type":"join"}
+{"nick":"plutoniix","reason":"Quit: Leaving","date":"2017-10-17T11:10:14.166Z","type":"quit"}
+{"nick":"xaxxon","reason":"Quit: xaxxon","date":"2017-10-17T11:16:40.537Z","type":"quit"}
+{"nick":"seventh","date":"2017-10-17T12:04:26.826Z","type":"join"}
+{"nick":"joyee","date":"2017-10-17T12:06:05.792Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-17T14:12:34.952Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-17T14:43:11.047Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-17T14:46:42.808Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-17T14:49:18.851Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-17T15:19:52.824Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-10-17T15:24:27.802Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-17T15:36:41.530Z","type":"join"}
+{"nick":"RT|Chatzilla","reason":"Quit: ChatZilla 0.9.86.1 [Firefox 2.0.0.22pre/2010030309]","date":"2017-10-17T15:46:19.179Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-17T15:46:50.060Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-17T16:21:15.848Z","type":"join"}
+{"nick":"AtumT_","date":"2017-10-17T16:56:07.694Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 240 seconds","date":"2017-10-17T16:58:48.475Z","type":"quit"}
+{"nick":"AtumT","date":"2017-10-17T17:09:56.097Z","type":"join"}
+{"nick":"AtumT_","reason":"Ping timeout: 260 seconds","date":"2017-10-17T17:10:27.666Z","type":"quit"}
+{"nick":"joyee_","date":"2017-10-17T17:11:17.058Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-10-17T17:12:05.528Z","type":"quit"}
+{"nick":"jwolfe_","reason":"Ping timeout: 240 seconds","date":"2017-10-17T18:04:27.825Z","type":"quit"}
+{"nick":"trungl-bot","message":"\u00034\u0002Tree closed\u000f by buildbot@chromium.org: closed (https://build.chromium.org/p/client.v8/builders/V8%20Win32%20ASAN/builds/73 from 135576ffb677765de83aa223ef7d57dbc6028fd4)","date":"2017-10-17T18:14:47.208Z","type":"message"}
+{"nick":"jwolfe_","date":"2017-10-17T18:18:10.013Z","type":"join"}
+{"nick":"seventh","reason":"Ping timeout: 240 seconds","date":"2017-10-17T18:53:57.785Z","type":"quit"}
+{"nick":"trungl-bot","message":"\u00036\u0002Unknown tree status set\u000f by eholk@google.com: https://crrev.com/c/721124 reverted","date":"2017-10-17T19:44:33.110Z","type":"message"}
+{"nick":"bradleymeck","message":"how do I use natives when using `./out/x64.release/d8 --expose_natives_as natives` , it seems to just be an object w/ functions that segfault since the bootstrapper isn't active","date":"2017-10-17T20:44:10.580Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-17T21:05:20.772Z","type":"quit"}
+{"nick":"RT|Chatzilla","date":"2017-10-17T22:37:24.400Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-17T22:41:42.687Z","type":"join"}
+{"nick":"plutoniix","date":"2017-10-17T23:43:30.876Z","type":"join"}
+{"nick":"plutoniix","reason":"Max SendQ exceeded","date":"2017-10-17T23:43:41.725Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-17T23:44:23.994Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-17T23:52:44.681Z","type":"quit"}

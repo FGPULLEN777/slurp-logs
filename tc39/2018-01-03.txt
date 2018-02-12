@@ -1,0 +1,60 @@
+{"nick":"littledan","message":"Bakkot: What do you think of the option we were discussing above, where subclasses have the private static method \"brand\" but continue to throw a TypeError on reads or writes to private static fields (with the option to do the complicated semantics of a getter in subclasses)","date":"2018-01-03T00:07:06.746Z","type":"message"}
+{"nick":"Bakkot","message":"ambivalent? I don't like the asymetry between private static methods and private static fields - it's weird that you can use `#foo` in a subclass from `class Base { static #foo(){} }` but not from `class Base { static #foo = function(){} }`","date":"2018-01-03T00:08:27.972Z","type":"message"}
+{"nick":"littledan","message":"should we do this subclass getter thing then?","date":"2018-01-03T00:09:03.419Z","type":"message"}
+{"nick":"Bakkot","message":"I like that option even less","date":"2018-01-03T00:09:14.571Z","type":"message"}
+{"nick":"littledan","message":"you prefer banning private static fields?","date":"2018-01-03T00:09:34.808Z","type":"message"}
+{"nick":"Bakkot","message":"no, I am ambivalent between banning static private fields and allowing them but them throw on subclasses","date":"2018-01-03T00:09:56.735Z","type":"message"}
+{"nick":"Bakkot","message":"and prefer either to the subclass getter thing","date":"2018-01-03T00:10:04.143Z","type":"message"}
+{"nick":"littledan","message":"oh, I see","date":"2018-01-03T00:11:24.121Z","type":"message"}
+{"nick":"littledan","message":"What makes you not like the subclass getter thing?","date":"2018-01-03T00:12:06.276Z","type":"message"}
+{"nick":"Bakkot","message":"It seems like a really complicated mental model, mostly.","date":"2018-01-03T00:12:59.920Z","type":"message"}
+{"nick":"Bakkot","message":"all three of the other field types would allow you to do writes in subclasses, just not `static private`","date":"2018-01-03T00:13:42.444Z","type":"message"}
+{"nick":"littledan","message":"yeah","date":"2018-01-03T00:14:43.838Z","type":"message"}
+{"nick":"littledan","message":"OK, it seems like we have the outline of something that's acceptable (even if not favorite) to the people in this chat: give subclass constructors the superclass private methods, and leave static private fields as previously proposed","date":"2018-01-03T00:15:34.513Z","type":"message"}
+{"nick":"TimothyGu","date":"2018-01-03T01:56:21.129Z","type":"join"}
+{"nick":"dilijev","message":"I'm a little confused about the expected behavior of this test (and where this test seems to have been moved to): https://github.com/Microsoft/ChakraCore/issues/4490","date":"2018-01-03T02:42:37.919Z","type":"message"}
+{"nick":"dilijev","message":"re test262 test formerly named 9.2.5_11_g_ii_2","date":"2018-01-03T02:43:05.107Z","type":"message"}
+{"nick":"dilijev","message":"jackhorton: ^","date":"2018-01-03T02:43:08.233Z","type":"message"}
+{"nick":"howdoi","date":"2018-01-03T03:57:40.504Z","type":"join"}
+{"nick":"TimothyGu","reason":"\"WeeChat 1.6\"","date":"2018-01-03T04:16:31.511Z","type":"part"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2018-01-03T04:38:31.562Z","type":"quit"}
+{"nick":"srl295","date":"2018-01-03T04:38:57.128Z","type":"join"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2018-01-03T05:27:59.823Z","type":"quit"}
+{"nick":"srl295","reason":"Quit: Connection closed for inactivity","date":"2018-01-03T06:48:45.054Z","type":"quit"}
+{"nick":"bdbackuplol","date":"2018-01-03T07:35:02.223Z","type":"join"}
+{"nick":"bdbackuplol","date":"2018-01-03T07:35:29.094Z","type":"part"}
+{"nick":"AtumT","date":"2018-01-03T11:19:13.516Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-03T11:25:10.850Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-03T11:25:41.359Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2018-01-03T11:29:00.194Z","type":"quit"}
+{"nick":"jmdyck","date":"2018-01-03T12:35:55.793Z","type":"join"}
+{"nick":"gibson042","date":"2018-01-03T14:01:05.459Z","type":"join"}
+{"nick":"IgnoredA1bience","new_nick":"IgnoredAmbience","date":"2018-01-03T15:01:23.530Z","type":"nick"}
+{"nick":"srl295","date":"2018-01-03T15:39:57.903Z","type":"join"}
+{"nick":"jwalden","date":"2018-01-03T16:43:38.491Z","type":"join"}
+{"nick":"jwalden","reason":"Remote host closed the connection","date":"2018-01-03T17:05:11.034Z","type":"quit"}
+{"nick":"jwalden","date":"2018-01-03T17:05:43.777Z","type":"join"}
+{"nick":"jackhorton","message":"It looks like it got moved to ./test/intl402/Collator/missing-unicode-ext-value-defaults-to-true.js","date":"2018-01-03T17:18:53.095Z","type":"message"}
+{"nick":"jwalden","reason":"Quit: descending low enough, back online from the ground","date":"2018-01-03T18:31:44.974Z","type":"quit"}
+{"nick":"AtumT_","date":"2018-01-03T19:13:48.193Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 265 seconds","date":"2018-01-03T19:16:55.511Z","type":"quit"}
+{"nick":"jwalden","date":"2018-01-03T19:26:00.513Z","type":"join"}
+{"nick":"AtumT","date":"2018-01-03T19:27:10.900Z","type":"join"}
+{"nick":"AtumT_","reason":"Ping timeout: 263 seconds","date":"2018-01-03T19:28:33.309Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-01-03T19:43:45.508Z","type":"join"}
+{"nick":"darkSeid_","date":"2018-01-03T19:47:52.770Z","type":"join"}
+{"nick":"jwalden","reason":"Quit: too close for complimentary wifi, switching to tethering","date":"2018-01-03T19:50:20.856Z","type":"quit"}
+{"nick":"jwalden","date":"2018-01-03T19:59:44.484Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-03T20:16:34.763Z","type":"quit"}
+{"nick":"darkSeid_","date":"2018-01-03T20:18:47.510Z","type":"join"}
+{"nick":"jwalden","reason":"Quit: lining up for the flight, see you from the air","date":"2018-01-03T20:22:31.537Z","type":"quit"}
+{"nick":"dilijev","message":"ah that tests is about resolved options more than the output of Intl.getCanonicalLocales / CanonicalizeLocaleList","date":"2018-01-03T20:29:11.197Z","type":"message"}
+{"nick":"jackhorton","message":"but we fail it until we correctly implement CanonicalizeLanguageTag","date":"2018-01-03T20:38:29.288Z","type":"message"}
+{"nick":"not-an-aardvark","date":"2018-01-03T20:50:12.966Z","type":"join"}
+{"nick":"jwalden","date":"2018-01-03T21:18:07.081Z","type":"join"}
+{"nick":"jwalden_","date":"2018-01-03T21:18:34.196Z","type":"join"}
+{"nick":"jwalden","reason":"Remote host closed the connection","date":"2018-01-03T21:19:08.403Z","type":"quit"}
+{"nick":"jwalden_","new_nick":"jwalden","date":"2018-01-03T21:19:09.723Z","type":"nick"}
+{"nick":"boaz","date":"2018-01-03T21:53:43.649Z","type":"join"}
+{"nick":"floatleft","reason":"Read error: Connection reset by peer","date":"2018-01-03T23:36:37.141Z","type":"quit"}
+{"nick":"darkSeid_","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-03T23:58:43.365Z","type":"quit"}

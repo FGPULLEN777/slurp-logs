@@ -1,0 +1,106 @@
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2018-01-29T00:35:29.831Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-01-29T01:24:54.700Z","type":"join"}
+{"nick":"bradleymeck","date":"2018-01-29T01:53:25.283Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T02:19:25.746Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-01-29T02:23:40.331Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T02:42:41.888Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-01-29T02:43:19.952Z","type":"join"}
+{"nick":"keith_miller","reason":"Client Quit","date":"2018-01-29T02:43:28.438Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-01-29T02:43:59.804Z","type":"join"}
+{"nick":"keith_miller","reason":"Client Quit","date":"2018-01-29T02:44:15.140Z","type":"quit"}
+{"nick":"gibson042","date":"2018-01-29T03:26:39.685Z","type":"join"}
+{"nick":"keith_miller","date":"2018-01-29T03:41:51.306Z","type":"join"}
+{"nick":"caridy","date":"2018-01-29T03:44:43.400Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T03:47:45.306Z","type":"quit"}
+{"nick":"howdoi","date":"2018-01-29T04:22:10.273Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-01-29T04:24:14.835Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-01-29T04:26:36.252Z","type":"join"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2018-01-29T04:45:03.593Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T06:06:30.340Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-01-29T06:07:04.450Z","type":"join"}
+{"nick":"rbuckton","reason":"Quit: Connection closed for inactivity","date":"2018-01-29T06:40:30.482Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T07:02:47.901Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-01-29T07:04:21.721Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-01-29T07:31:34.352Z","type":"quit"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T07:40:38.936Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T08:09:05.921Z","type":"quit"}
+{"nick":"gibson042","reason":"Read error: Connection reset by peer","date":"2018-01-29T08:30:58.669Z","type":"quit"}
+{"nick":"gibson042","date":"2018-01-29T08:32:38.796Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2018-01-29T09:10:12.754Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-29T11:25:11.299Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-29T11:25:41.941Z","type":"join"}
+{"nick":"AtumT","date":"2018-01-29T12:25:12.285Z","type":"join"}
+{"nick":"jmdyck","date":"2018-01-29T12:41:42.369Z","type":"join"}
+{"nick":"gskachkov","date":"2018-01-29T13:40:33.251Z","type":"join"}
+{"nick":"bradleymeck","date":"2018-01-29T13:59:04.979Z","type":"join"}
+{"nick":"gskachkov_","date":"2018-01-29T14:02:28.379Z","type":"join"}
+{"nick":"gskachkov","reason":"Read error: No route to host","date":"2018-01-29T14:02:51.976Z","type":"quit"}
+{"nick":"gskachkov_","new_nick":"gskachkov","date":"2018-01-29T14:02:52.119Z","type":"nick"}
+{"nick":"gskachkov_","date":"2018-01-29T14:22:58.442Z","type":"join"}
+{"nick":"gskachkov","reason":"Ping timeout: 265 seconds","date":"2018-01-29T14:25:26.379Z","type":"quit"}
+{"nick":"gskachkov_","new_nick":"gskachkov","date":"2018-01-29T14:25:26.561Z","type":"nick"}
+{"nick":"annevk","message":"bradleymeck: hey, so ultimately https://github.com/whatwg/html/issues/2640 depends on if implementers are interested enough; my judgment is mostly that we'll know more how to do it once we're a bit further along with things, but if you see some kind of opening don't let me stop you","date":"2018-01-29T15:36:19.317Z","type":"message"}
+{"nick":"bradleymeck","message":"annevk: i'll keep pinging it every few months with publicity until I figure out a way to do it it less crazy, for now the PoC works for our development feedback loop","date":"2018-01-29T15:37:12.322Z","type":"message"}
+{"nick":"bradleymeck","message":"but... it has an extreme cost to do that which is not suitable outside of development","date":"2018-01-29T15:37:32.096Z","type":"message"}
+{"nick":"annevk","message":"bradleymeck: it's just unclear what is feasible if pre-scanning is important","date":"2018-01-29T15:38:18.445Z","type":"message"}
+{"nick":"bradleymeck","message":"I'm in an odd place as I'm trying to see what we can get compatibility wise with Node's userland loader plans and WHATWG's APIs","date":"2018-01-29T15:38:33.279Z","type":"message"}
+{"nick":"annevk","message":"bradleymeck: at least until we have a way to ensure a service worker is loaded","date":"2018-01-29T15:38:35.432Z","type":"message"}
+{"nick":"bradleymeck","message":"annevk: for now, aggressive clients.claim somewhat works but you see rejected fetches on first load","date":"2018-01-29T15:38:56.903Z","type":"message"}
+{"nick":"annevk","message":"Ah right, Node.js will have very different requirements I guess","date":"2018-01-29T15:39:05.403Z","type":"message"}
+{"nick":"bradleymeck","message":"yup, trying to find a subset that could work in both","date":"2018-01-29T15:39:27.833Z","type":"message"}
+{"nick":"gskachkov","reason":"Ping timeout: 256 seconds","date":"2018-01-29T15:39:47.362Z","type":"quit"}
+{"nick":"annevk","message":"My hope is that if Origin Policy works out we can consider loading JavaScript before loading the actual document","date":"2018-01-29T15:40:03.787Z","type":"message"}
+{"nick":"annevk","message":"It's very much unclear whether it'll work out though at this point","date":"2018-01-29T15:40:23.940Z","type":"message"}
+{"nick":"bradleymeck","message":"annevk: in SW or in UI thread?","date":"2018-01-29T15:40:30.191Z","type":"message"}
+{"nick":"bradleymeck","message":"also, is there a way to spin off a thread in a service worker for CPU stuff","date":"2018-01-29T15:40:50.003Z","type":"message"}
+{"nick":"annevk","message":"bradleymeck: loading the SW to handle the UI thread load","date":"2018-01-29T15:40:52.413Z","type":"message"}
+{"nick":"bradleymeck","message":"ok","date":"2018-01-29T15:41:11.098Z","type":"message"}
+{"nick":"annevk","message":"bradleymeck: in theory new Worker and even new SharedWorker work","date":"2018-01-29T15:41:28.088Z","type":"message"}
+{"nick":"bradleymeck","message":"mmm they were undefined when I tried, maybe I did something wrong","date":"2018-01-29T15:41:47.864Z","type":"message"}
+{"nick":"annevk","message":"bradleymeck: in practice I suppose browsers are sad","date":"2018-01-29T15:41:53.815Z","type":"message"}
+{"nick":"bradleymeck","message":"sad?","date":"2018-01-29T15:42:10.578Z","type":"message"}
+{"nick":"annevk","message":"bradleymeck: I doubt it's you; browsers do not support SharedWorker inside Worker either, iirc","date":"2018-01-29T15:42:19.772Z","type":"message"}
+{"nick":"bradleymeck","message":"XD","date":"2018-01-29T15:42:29.491Z","type":"message"}
+{"nick":"rbuckton","date":"2018-01-29T16:09:14.777Z","type":"join"}
+{"nick":"caridy","date":"2018-01-29T16:35:05.286Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-01-29T16:35:19.433Z","type":"quit"}
+{"nick":"caridy","date":"2018-01-29T16:35:25.397Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-01-29T16:35:54.498Z","type":"quit"}
+{"nick":"caridy","date":"2018-01-29T16:36:08.288Z","type":"join"}
+{"nick":"bradleymeck","message":"i keep coming back and asking why `export * from ...` doesn't include `default`","date":"2018-01-29T16:39:58.131Z","type":"message"}
+{"nick":"bradleymeck","message":"at this rate I might even suggest adding `export ** from ...`","date":"2018-01-29T16:40:24.507Z","type":"message"}
+{"nick":"gskachkov","date":"2018-01-29T16:46:18.366Z","type":"join"}
+{"nick":"caridy","date":"2018-01-29T16:46:19.789Z","type":"quit"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2018-01-29T16:46:21.804Z","type":"quit"}
+{"nick":"gskachkov","date":"2018-01-29T16:47:35.705Z","type":"join"}
+{"nick":"jwalden","reason":"Ping timeout: 276 seconds","date":"2018-01-29T17:21:27.172Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-01-29T17:34:20.634Z","type":"join"}
+{"nick":"michal_wadas","date":"2018-01-29T17:35:02.309Z","type":"join"}
+{"nick":"jwalden","date":"2018-01-29T17:49:50.130Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T17:49:56.780Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-01-29T17:51:21.403Z","type":"join"}
+{"nick":"keith_miller","reason":"Client Quit","date":"2018-01-29T17:55:16.029Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-01-29T17:59:48.897Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-01-29T18:03:04.460Z","type":"join"}
+{"nick":"keith_miller","date":"2018-01-29T18:08:45.483Z","type":"join"}
+{"nick":"cloudshu","date":"2018-01-29T18:25:06.767Z","type":"join"}
+{"nick":"darkSeid_","date":"2018-01-29T18:32:26.339Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2018-01-29T18:34:00.964Z","type":"quit"}
+{"nick":"gskachkov","date":"2018-01-29T18:34:26.282Z","type":"join"}
+{"nick":"darkSeid_","reason":"Ping timeout: 256 seconds","date":"2018-01-29T18:37:28.263Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2018-01-29T18:56:37.884Z","type":"quit"}
+{"nick":"gskachkov","date":"2018-01-29T18:57:19.375Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2018-01-29T18:57:23.892Z","type":"quit"}
+{"nick":"michal_wadas","reason":"Read error: Connection reset by peer","date":"2018-01-29T19:14:08.065Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-01-29T19:44:29.199Z","type":"quit"}
+{"nick":"michal_wadas","date":"2018-01-29T19:49:51.983Z","type":"join"}
+{"nick":"darkSeid_","date":"2018-01-29T19:57:46.170Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-29T20:15:25.722Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-01-29T20:16:30.148Z","type":"join"}
+{"nick":"bradleymeck","date":"2018-01-29T20:33:48.824Z","type":"join"}
+{"nick":"michal_wadas","reason":"Read error: Connection reset by peer","date":"2018-01-29T20:40:25.144Z","type":"quit"}
+{"nick":"srl295","date":"2018-01-29T21:29:04.252Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2018-01-29T21:52:57.662Z","type":"quit"}
+{"nick":"Domenic","message":"tschneidereit: filed https://github.com/tc39/proposal-weakrefs/issues/18 on web platform impact of weakrefs","date":"2018-01-29T22:03:45.664Z","type":"message"}
+{"nick":"tschneidereit","message":"Domenic: thanks!","date":"2018-01-29T22:04:15.730Z","type":"message"}
+{"nick":"not-an-aardvark","date":"2018-01-29T23:57:46.812Z","type":"join"}

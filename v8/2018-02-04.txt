@@ -1,0 +1,35 @@
+{"nick":"xaxxon","reason":"Quit: xaxxon","date":"2018-02-04T01:21:28.723Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-04T03:27:23.729Z","type":"join"}
+{"nick":"thefourtheye_","date":"2018-02-04T06:07:59.878Z","type":"join"}
+{"nick":"scottmg_","date":"2018-02-04T06:08:12.902Z","type":"join"}
+{"nick":"bengl_","date":"2018-02-04T06:08:26.788Z","type":"join"}
+{"nick":"cjihrig_","date":"2018-02-04T06:12:06.849Z","type":"join"}
+{"nick":"xiinotulp","date":"2018-02-04T06:13:22.797Z","type":"join"}
+{"nick":"scottmg","reason":"*.net *.split","date":"2018-02-04T06:15:32.050Z","type":"quit"}
+{"nick":"thefourtheye","reason":"*.net *.split","date":"2018-02-04T06:15:32.242Z","type":"quit"}
+{"nick":"dagobert__","reason":"*.net *.split","date":"2018-02-04T06:15:33.962Z","type":"quit"}
+{"nick":"bengl","reason":"*.net *.split","date":"2018-02-04T06:15:34.347Z","type":"quit"}
+{"nick":"cjihrig","reason":"*.net *.split","date":"2018-02-04T06:15:36.458Z","type":"quit"}
+{"nick":"thefourtheye_","new_nick":"thefourtheye","date":"2018-02-04T06:15:36.960Z","type":"nick"}
+{"nick":"scottmg_","new_nick":"scottmg","date":"2018-02-04T06:15:37.152Z","type":"nick"}
+{"nick":"bengl_","new_nick":"bengl","date":"2018-02-04T06:15:37.879Z","type":"nick"}
+{"nick":"plutoniix","reason":"Ping timeout: 256 seconds","date":"2018-02-04T06:16:48.237Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-04T08:14:09.367Z","type":"quit"}
+{"nick":"dagobert__","date":"2018-02-04T08:16:43.238Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-02-04T11:25:10.470Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-02-04T11:25:41.764Z","type":"join"}
+{"nick":"xiinotulp","new_nick":"plutoniix","date":"2018-02-04T12:07:56.639Z","type":"nick"}
+{"nick":"AtumT","date":"2018-02-04T12:49:37.846Z","type":"join"}
+{"nick":"bradleymeck","date":"2018-02-04T13:12:27.018Z","type":"join"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2018-02-04T13:16:38.511Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-04T13:50:51.271Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-04T13:56:55.536Z","type":"join"}
+{"nick":"AtumT","date":"2018-02-04T15:11:06.516Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-04T15:38:44.805Z","type":"quit"}
+{"nick":"RT|Chatzilla","reason":"Quit: ChatZilla 0.9.86.1 [Firefox 2.0.0.22pre/2010030309]","date":"2018-02-04T16:49:07.266Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-04T17:36:44.365Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2018-02-04T20:14:22.918Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-04T20:45:43.814Z","type":"join"}
+{"nick":"plutoniix","reason":"Quit: Leaving","date":"2018-02-04T21:45:09.949Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-04T21:50:39.454Z","type":"quit"}
+{"nick":"RT|Chatzilla","date":"2018-02-04T22:46:51.662Z","type":"join"}

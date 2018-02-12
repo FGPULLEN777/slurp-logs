@@ -1,0 +1,48 @@
+{"nick":"rvagg","message":"Trott: I re-ran that OpenSSL 1.1.0 job @ https://ci.nodejs.org/job/node-test-commit-linux-linked/1245/nodes=ubuntu1604_sharedlibs_openssl110_x64/ and it's fine, I think this is that intermittent n-api addon test problem we're seeing on Linuxes","date":"2018-01-04T00:13:41.726Z","type":"message"}
+{"nick":"Trott","message":"rvagg: Thanks. I don't have stats, but it sure feels like there's been an uptick in build failures on Linux systems in CI.","date":"2018-01-04T00:14:23.201Z","type":"message"}
+{"nick":"node-gh","date":"2018-01-04T00:20:09.794Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T00:20:09.902Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-04T00:22:54.162Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T00:22:54.230Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-04T00:23:11.928Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T00:23:11.997Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-04T02:19:21.801Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T02:19:21.869Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-04T02:32:08.112Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T02:32:08.113Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-04T02:35:17.501Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T02:35:17.570Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-04T04:23:28.391Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T04:23:28.539Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-04T05:54:03.405Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T05:54:03.473Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-04T09:51:22.005Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T09:51:22.005Z","type":"part"}
+{"nick":"seishun","date":"2018-01-04T10:47:22.368Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T10:51:54.812Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T10:51:54.883Z","type":"part"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-04T11:25:08.990Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-04T11:25:39.789Z","type":"join"}
+{"nick":"evanlucas","date":"2018-01-04T11:38:18.985Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2018-01-04T12:33:04.031Z","type":"quit"}
+{"nick":"seishun","date":"2018-01-04T12:42:21.287Z","type":"join"}
+{"nick":"seishun","message":"rvagg: does your comment in https://github.com/nodejs/build/issues/762#issuecomment-352381229 apply only to release machines (and not test machines)?","date":"2018-01-04T18:40:36.837Z","type":"message"}
+{"nick":"node-gh","date":"2018-01-04T18:42:55.085Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T18:42:55.154Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-04T18:43:09.528Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T18:43:09.597Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-04T19:07:03.458Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T19:07:03.526Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-04T20:13:49.070Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T20:13:49.071Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 264 seconds","date":"2018-01-04T20:48:21.296Z","type":"quit"}
+{"nick":"node-gh","date":"2018-01-04T20:58:04.903Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T20:58:05.007Z","type":"part"}
+{"nick":"seishun","date":"2018-01-04T21:14:13.022Z","type":"join"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2018-01-04T21:44:54.902Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 268 seconds","date":"2018-01-04T21:53:06.630Z","type":"quit"}
+{"nick":"node-gh","date":"2018-01-04T22:15:24.419Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-04T22:15:24.568Z","type":"part"}
+{"nick":"seishun","date":"2018-01-04T22:32:40.232Z","type":"join"}
+{"nick":"seishun","message":"(feel free to respond if I'm offline, I'll read the logs later)","date":"2018-01-04T22:35:27.642Z","type":"message"}
+{"nick":"seishun","reason":"Ping timeout: 264 seconds","date":"2018-01-04T22:42:57.157Z","type":"quit"}

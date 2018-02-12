@@ -1,0 +1,122 @@
+{"nick":"node-gh","date":"2017-08-17T00:34:01.996Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T00:34:02.097Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T00:34:10.350Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T00:34:10.423Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T00:34:34.258Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T00:34:34.416Z","type":"part"}
+{"nick":"sgimeno__","date":"2017-08-17T02:41:41.525Z","type":"join"}
+{"nick":"sgimeno_","reason":"Ping timeout: 246 seconds","date":"2017-08-17T02:44:06.892Z","type":"quit"}
+{"nick":"node-gh","date":"2017-08-17T03:00:21.944Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T03:00:21.951Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T03:00:44.960Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T03:00:45.033Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T03:01:22.055Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T03:01:22.128Z","type":"part"}
+{"nick":"TimothyGu","message":"rvagg: the Pi 3's seem a bit off \"warning: failed to remove out/Release/.nfs000000000024be3c000007b9\"","date":"2017-08-17T03:31:24.869Z","type":"message"}
+{"nick":"TimothyGu","message":"https://ci.nodejs.org/job/node-test-binary-arm/9680/RUN_SUBSET=0,label=pi3-raspbian-jessie/console","date":"2017-08-17T03:31:30.687Z","type":"message"}
+{"nick":"rvagg","message":"eeek!","date":"2017-08-17T03:39:15.784Z","type":"message"}
+{"nick":"rvagg","message":"TimothyGu: all 3 failures are on the same Pi, test-requireio_securogroup-debian8-arm_pi3-2, I'll take care of it, hopefully just a reboot required, thanks","date":"2017-08-17T03:40:36.840Z","type":"message"}
+{"nick":"TimothyGu","message":"ah, thanks for checking","date":"2017-08-17T03:41:08.481Z","type":"message"}
+{"nick":"evanlucas","date":"2017-08-17T04:44:30.604Z","type":"join"}
+{"nick":"evanlucas","reason":"Changing host","date":"2017-08-17T04:44:47.174Z","type":"quit"}
+{"nick":"evanlucas","date":"2017-08-17T04:44:47.342Z","type":"join"}
+{"nick":"lanceball","date":"2017-08-17T04:44:51.707Z","type":"join"}
+{"nick":"rmg","date":"2017-08-17T04:45:49.447Z","type":"join"}
+{"nick":"indutny","date":"2017-08-17T04:48:46.772Z","type":"join"}
+{"nick":"indutny","new_nick":"Guest60609","date":"2017-08-17T04:49:18.666Z","type":"nick"}
+{"nick":"Guest78758","date":"2017-08-17T04:50:19.873Z","type":"join"}
+{"nick":"xadillax","date":"2017-08-17T05:15:04.769Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 260 seconds","date":"2017-08-17T05:20:27.731Z","type":"quit"}
+{"nick":"node-gh","date":"2017-08-17T06:19:12.492Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T06:19:12.659Z","type":"part"}
+{"nick":"Guest60609","new_nick":"indutny","date":"2017-08-17T06:21:57.556Z","type":"nick"}
+{"nick":"node-gh","date":"2017-08-17T06:57:09.787Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T06:57:09.993Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T06:58:14.782Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T06:58:14.951Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T06:59:29.839Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T06:59:30.007Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T07:22:54.758Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T07:22:54.964Z","type":"part"}
+{"nick":"sgimeno","date":"2017-08-17T07:55:04.330Z","type":"join"}
+{"nick":"seishun","date":"2017-08-17T08:03:28.345Z","type":"join"}
+{"nick":"rmg_","date":"2017-08-17T08:53:25.255Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 264 seconds","date":"2017-08-17T08:56:46.261Z","type":"quit"}
+{"nick":"TimothyGu","reason":"Ping timeout: 255 seconds","date":"2017-08-17T10:11:20.541Z","type":"quit"}
+{"nick":"mylesborins","reason":"Ping timeout: 260 seconds","date":"2017-08-17T10:14:27.818Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-17T10:16:45.574Z","type":"join"}
+{"nick":"TimothyGu","date":"2017-08-17T10:23:42.242Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-08-17T10:25:12.155Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-17T10:25:42.973Z","type":"join"}
+{"nick":"sgimeno","reason":"Ping timeout: 248 seconds","date":"2017-08-17T10:40:33.464Z","type":"quit"}
+{"nick":"sgimeno","date":"2017-08-17T10:43:11.668Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T10:43:54.620Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T10:43:54.789Z","type":"part"}
+{"nick":"rvagg","message":"osx offline, I'm working on it, doing some updates and rebooting","date":"2017-08-17T10:44:08.088Z","type":"message"}
+{"nick":"sgimeno_","date":"2017-08-17T11:25:12.470Z","type":"join"}
+{"nick":"sgimeno","reason":"Ping timeout: 248 seconds","date":"2017-08-17T11:27:29.468Z","type":"quit"}
+{"nick":"sgimeno__","date":"2017-08-17T11:27:54.085Z","type":"join"}
+{"nick":"sgimeno_","reason":"Ping timeout: 240 seconds","date":"2017-08-17T11:30:01.402Z","type":"quit"}
+{"nick":"sgimeno_","date":"2017-08-17T11:57:03.047Z","type":"join"}
+{"nick":"sgimeno__","reason":"Ping timeout: 255 seconds","date":"2017-08-17T11:59:46.925Z","type":"quit"}
+{"nick":"Guest78758","new_nick":"qbit","date":"2017-08-17T12:19:42.597Z","type":"nick"}
+{"nick":"qbit","new_nick":"Guest35730","date":"2017-08-17T12:20:12.057Z","type":"nick"}
+{"nick":"Guest35730","new_nick":"qbit","date":"2017-08-17T12:22:04.321Z","type":"nick"}
+{"nick":"rvagg","message":"should be gtg now","date":"2017-08-17T12:32:26.097Z","type":"message"}
+{"nick":"qbit","reason":"Quit: WeeChat 1.9","date":"2017-08-17T12:35:56.919Z","type":"quit"}
+{"nick":"bnoordhuis","date":"2017-08-17T12:35:58.516Z","type":"join"}
+{"nick":"bnoordhuis","message":"anyone have an idea what's going wrong on some of the windows buildbots?","date":"2017-08-17T12:40:09.754Z","type":"message"}
+{"nick":"bnoordhuis","message":"the error is this -> compile-windows\\label\\win-vs2015\\cctest.vcxproj]","date":"2017-08-17T12:40:14.367Z","type":"message"}
+{"nick":"bnoordhuis","message":"LINK : fatal error LNK1181: cannot open input file 'c:\\workspace\\node-compile-windows\\label\\win-vs2015\\Release\\obj\\node\\gen\\node_javascript.o' [c:\\workspace\\node-compile-windows\\label\\win-vs2015\\cctest.vcxproj]","date":"2017-08-17T12:40:15.342Z","type":"message"}
+{"nick":"bnoordhuis","message":"i'm suspicious of https://github.com/nodejs/node/pull/14837","date":"2017-08-17T12:41:39.216Z","type":"message"}
+{"nick":"bnoordhuis","message":"guess i can easily check that by reverting - i'll try that","date":"2017-08-17T12:42:13.791Z","type":"message"}
+{"nick":"node-gh","date":"2017-08-17T12:42:57.874Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T12:42:58.080Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T12:44:18.094Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T12:44:18.094Z","type":"part"}
+{"nick":"qbit","date":"2017-08-17T12:58:54.923Z","type":"join"}
+{"nick":"bnoordhuis","message":"something else, when i try to start https://ci.nodejs.org/view/post-mortem/job/llnode-pipeline/, it says \"master is offline\"","date":"2017-08-17T13:10:42.548Z","type":"message"}
+{"nick":"node-gh","date":"2017-08-17T13:12:18.496Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T13:12:18.666Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T13:34:13.527Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T13:34:13.736Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T13:43:58.476Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T13:43:58.645Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-08-17T14:08:01.616Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-17T14:12:52.562Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T14:15:39.335Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T14:15:39.504Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-08-17T14:28:01.380Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-17T15:12:06.027Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-17T15:21:35.580Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T15:58:12.881Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T15:58:13.050Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-17T16:15:00.655Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-17T16:15:38.961Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-17T16:15:46.272Z","type":"quit"}
+{"nick":"seishun","reason":"Disconnected by services","date":"2017-08-17T16:19:47.933Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-17T16:19:49.020Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-17T17:13:55.659Z","type":"join"}
+{"nick":"seishun","reason":"Disconnected by services","date":"2017-08-17T17:33:20.564Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-17T17:33:29.177Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-17T17:36:54.996Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-17T17:37:45.174Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-08-17T17:51:05.486Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-08-17T17:56:22.689Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-17T17:57:28.370Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-17T18:59:43.654Z","type":"join"}
+{"nick":"sgimeno__","date":"2017-08-17T19:30:29.427Z","type":"join"}
+{"nick":"sgimeno_","reason":"Ping timeout: 255 seconds","date":"2017-08-17T19:32:55.915Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-08-17T20:10:09.464Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-17T20:42:00.082Z","type":"join"}
+{"nick":"bnoordhuis","reason":"Quit: leaving","date":"2017-08-17T21:27:14.446Z","type":"quit"}
+{"nick":"node-gh","date":"2017-08-17T21:32:52.271Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T21:32:52.479Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T21:35:17.310Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T21:35:17.516Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 255 seconds","date":"2017-08-17T21:50:37.916Z","type":"quit"}
+{"nick":"node-gh","date":"2017-08-17T21:55:21.481Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T21:55:21.687Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-17T21:56:12.876Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-17T21:56:13.045Z","type":"part"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-08-17T22:36:02.012Z","type":"quit"}

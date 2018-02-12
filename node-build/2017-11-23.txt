@@ -1,0 +1,69 @@
+{"nick":"refack","message":"how can check Jenkins? rvagg joaocgreis","date":"2017-11-23T00:20:49.197Z","type":"message"}
+{"nick":"refack","message":"Who","date":"2017-11-23T00:21:24.190Z","type":"message"}
+{"nick":"refack","message":"NM back to normal","date":"2017-11-23T00:21:37.838Z","type":"message"}
+{"nick":"apapirovski","date":"2017-11-23T00:49:41.312Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-23T01:52:58.519Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-23T01:52:58.611Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-23T01:53:53.976Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-23T01:53:54.181Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-23T02:04:18.579Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-23T02:05:11.201Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-23T02:22:32.474Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-23T02:47:46.136Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-11-23T02:54:19.910Z","type":"quit"}
+{"nick":"maclover7","message":"would anyone be able to give me permissions on libuv-test-commit and its subjobs?","date":"2017-11-23T03:02:36.891Z","type":"message"}
+{"nick":"maclover7","message":"want to start to scope out pipeline work for that","date":"2017-11-23T03:02:47.122Z","type":"message"}
+{"nick":"maclover7","message":"should be smaller scale version of what needs to happen with node-test-commit","date":"2017-11-23T03:02:59.419Z","type":"message"}
+{"nick":"refack","message":"maclover7: done","date":"2017-11-23T03:18:36.833Z","type":"message"}
+{"nick":"node-gh","date":"2017-11-23T03:53:40.318Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-23T03:53:40.447Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-23T04:01:16.807Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-23T04:01:16.897Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-23T04:03:14.056Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-23T04:07:07.148Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-23T04:07:11.781Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-23T04:19:04.416Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-23T04:19:04.547Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-23T04:24:08.319Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-23T04:24:08.410Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-23T04:27:26.885Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-23T04:27:26.976Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-23T04:30:09.841Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-23T04:30:09.972Z","type":"part"}
+{"nick":"seishun","date":"2017-11-23T09:18:18.117Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-23T11:25:11.100Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-23T11:25:41.696Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-11-23T12:03:58.088Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-23T12:21:16.885Z","type":"join"}
+{"nick":"seishun","date":"2017-11-23T12:46:21.718Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-23T13:25:29.481Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-23T13:26:19.873Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 240 seconds","date":"2017-11-23T13:30:28.542Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-23T13:39:35.621Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-23T13:39:35.751Z","type":"part"}
+{"nick":"targos","date":"2017-11-23T14:31:35.838Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-23T14:38:40.290Z","type":"join"}
+{"nick":"maclover7","message":"thanks refack!","date":"2017-11-23T15:02:49.586Z","type":"message"}
+{"nick":"maclover7","message":"oops, would someone be able to create a pipeline called libuv-test as well?","date":"2017-11-23T15:04:51.231Z","type":"message"}
+{"nick":"refack","message":"np","date":"2017-11-23T15:05:02.614Z","type":"message"}
+{"nick":"refack","message":"https://ci.nodejs.org/job/libuv-test/","date":"2017-11-23T15:06:20.330Z","type":"message"}
+{"nick":"refack","message":"ohh crap, I think it overwrote the previous one","date":"2017-11-23T15:07:35.466Z","type":"message"}
+{"nick":"refack","message":"https://ci.nodejs.org/view/All/job/libuv-test-pipeline/","date":"2017-11-23T15:08:44.048Z","type":"message"}
+{"nick":"refack","message":"maclover7 ^^","date":"2017-11-23T15:08:59.398Z","type":"message"}
+{"nick":"maclover7","message":"wait wut","date":"2017-11-23T15:09:16.289Z","type":"message"}
+{"nick":"maclover7","message":"there was a previous libuv-test?","date":"2017-11-23T15:09:20.584Z","type":"message"}
+{"nick":"refack","message":"No, my mistake. But the new job is named `libuv-test-pipeline`, we could rename it later","date":"2017-11-23T15:10:09.545Z","type":"message"}
+{"nick":"node-gh","date":"2017-11-23T15:10:30.510Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-23T15:10:30.510Z","type":"part"}
+{"nick":"maclover7","message":"ok, no problem","date":"2017-11-23T15:11:18.215Z","type":"message"}
+{"nick":"maclover7","message":"good enough for now :)","date":"2017-11-23T15:11:20.629Z","type":"message"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-23T17:01:31.872Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-23T17:03:13.658Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-23T19:21:33.309Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-23T19:37:25.074Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-23T19:37:38.354Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-23T19:37:54.920Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 246 seconds","date":"2017-11-23T20:42:06.833Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-23T20:57:21.928Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 260 seconds","date":"2017-11-23T21:42:47.351Z","type":"quit"}
+{"nick":"targos","reason":"Quit: Connection closed for inactivity","date":"2017-11-23T22:50:58.731Z","type":"quit"}

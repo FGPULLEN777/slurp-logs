@@ -1,0 +1,152 @@
+{"nick":"ml2","date":"2017-09-22T00:20:50.827Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-09-22T00:22:31.946Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-09-22T01:39:51.316Z","type":"quit"}
+{"nick":"malcomX194","date":"2017-09-22T01:40:31.411Z","type":"join"}
+{"nick":"malcomX194","reason":"Excess Flood","date":"2017-09-22T01:40:31.471Z","type":"quit"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2017-09-22T01:45:32.648Z","type":"quit"}
+{"nick":"Brando753-o_O_o","date":"2017-09-22T01:45:44.251Z","type":"join"}
+{"nick":"ml2","date":"2017-09-22T01:47:42.831Z","type":"part"}
+{"nick":"ulhas","date":"2017-09-22T03:43:17.679Z","type":"join"}
+{"nick":"ulhas","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-22T04:10:54.424Z","type":"quit"}
+{"nick":"LeBlaaanc","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-22T05:08:49.913Z","type":"quit"}
+{"nick":"LeBlaaanc","date":"2017-09-22T05:17:53.695Z","type":"join"}
+{"nick":"ulhas","date":"2017-09-22T05:40:23.268Z","type":"join"}
+{"nick":"lpin","date":"2017-09-22T05:46:20.924Z","type":"join"}
+{"nick":"shoobie","reason":"Ping timeout: 252 seconds","date":"2017-09-22T06:03:45.341Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-22T06:06:00.678Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-09-22T06:06:01.185Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-22T06:06:01.187Z","type":"join"}
+{"nick":"sparkyGrenade","date":"2017-09-22T06:34:25.092Z","type":"join"}
+{"nick":"sparkyGrenade","date":"2017-09-22T06:35:32.314Z","type":"part"}
+{"nick":"LeBlaaanc","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-22T06:52:09.853Z","type":"quit"}
+{"nick":"YoY","reason":"Quit: Leaving...","date":"2017-09-22T08:02:15.478Z","type":"quit"}
+{"nick":"alukach","reason":"Ping timeout: 246 seconds","date":"2017-09-22T08:04:36.677Z","type":"quit"}
+{"nick":"amatecha","reason":"Ping timeout: 255 seconds","date":"2017-09-22T08:05:47.349Z","type":"quit"}
+{"nick":"amatecha","date":"2017-09-22T08:08:56.941Z","type":"join"}
+{"nick":"YoY","date":"2017-09-22T08:11:13.310Z","type":"join"}
+{"nick":"alukach","date":"2017-09-22T08:11:45.377Z","type":"join"}
+{"nick":"stennowork","date":"2017-09-22T09:24:47.619Z","type":"join"}
+{"nick":"stennowork","message":"hey people :)","date":"2017-09-22T09:24:53.343Z","type":"message"}
+{"nick":"stennowork","message":"doing some express again yay!","date":"2017-09-22T09:24:58.481Z","type":"message"}
+{"nick":"inara","reason":"Quit: Leaving","date":"2017-09-22T09:53:00.410Z","type":"quit"}
+{"nick":"inara","date":"2017-09-22T09:55:09.569Z","type":"join"}
+{"nick":"flaviodesousa","date":"2017-09-22T10:04:14.860Z","type":"join"}
+{"nick":"shoobie","reason":"Ping timeout: 248 seconds","date":"2017-09-22T10:10:39.683Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-22T10:12:52.965Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-09-22T10:25:11.444Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-09-22T10:25:42.496Z","type":"join"}
+{"nick":"towb","message":"stennowork: welcome back!","date":"2017-09-22T10:34:55.904Z","type":"message"}
+{"nick":"stennowork","message":"hey towb o/","date":"2017-09-22T10:35:05.954Z","type":"message"}
+{"nick":"commma","message":"\\o","date":"2017-09-22T10:40:54.164Z","type":"message"}
+{"nick":"stennowork","message":"hey commma :D","date":"2017-09-22T10:43:19.906Z","type":"message"}
+{"nick":"commma","message":"hey stenno","date":"2017-09-22T10:44:53.042Z","type":"message"}
+{"nick":"commma","message":"and towb","date":"2017-09-22T10:44:56.014Z","type":"message"}
+{"nick":"towb","message":"commma: any updates on the truck, or did you give up","date":"2017-09-22T10:45:55.324Z","type":"message"}
+{"nick":"commma","message":"they're all too expensive :(","date":"2017-09-22T10:46:10.093Z","type":"message"}
+{"nick":"commma","message":"currently figuring out if i go for a 80 or 100 series land cruiser or if i just say fuck it and start upgrading the land rover","date":"2017-09-22T10:46:30.292Z","type":"message"}
+{"nick":"commma","message":"(the land rover was 1.5k, an 80 is 5k a 100 is about 8k, upgrades to the land rover would be about 2k and it'd be more reliable but still not quite as capable)","date":"2017-09-22T10:47:08.352Z","type":"message"}
+{"nick":"commma","message":"a laplander is like 15k now :(","date":"2017-09-22T10:47:17.105Z","type":"message"}
+{"nick":"towb","message":"you can always dream of a brighter future (where you have one!)","date":"2017-09-22T10:48:23.597Z","type":"message"}
+{"nick":"commma","message":"ahah","date":"2017-09-22T10:48:50.456Z","type":"message"}
+{"nick":"commma","message":"hm i guess for another 1k i could also get locking diffs for the land rover and it'd be on a level with a real land cruiser ...","date":"2017-09-22T10:49:18.344Z","type":"message"}
+{"nick":"towb","message":"and i don't know, the military is getting more and more money lately (from 0), so maybe they'll upgrade in a few years and the old ones will be on the market again","date":"2017-09-22T10:49:56.278Z","type":"message"}
+{"nick":"commma","message":"oh man that's the dream then yeah","date":"2017-09-22T10:50:17.794Z","type":"message"}
+{"nick":"towb","message":"depends on how aggressive russia looks, so you have to be on team putin if you want that","date":"2017-09-22T10:50:37.900Z","type":"message"}
+{"nick":"commma","message":"oh man that would also mean russia upgrading all _their_ old trucks too","date":"2017-09-22T10:51:27.300Z","type":"message"}
+{"nick":"commma","message":"come on world war three!","date":"2017-09-22T10:51:39.878Z","type":"message"}
+{"nick":"towb","message":"hahahaha you can be the jay leno of old military trucks","date":"2017-09-22T10:51:50.116Z","type":"message"}
+{"nick":"commma","message":"but funny","date":"2017-09-22T10:52:35.244Z","type":"message"}
+{"nick":"towb","message":"i don't know, that jaw is pretty funny","date":"2017-09-22T10:52:57.748Z","type":"message"}
+{"nick":"commma","message":"true","date":"2017-09-22T10:53:13.402Z","type":"message"}
+{"nick":"shoobie","reason":"Ping timeout: 240 seconds","date":"2017-09-22T11:17:17.822Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-22T11:18:34.309Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-09-22T11:18:34.350Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-22T11:18:34.350Z","type":"join"}
+{"nick":"YoY","reason":"Quit: Leaving...","date":"2017-09-22T11:23:08.755Z","type":"quit"}
+{"nick":"YoY","date":"2017-09-22T11:24:45.314Z","type":"join"}
+{"nick":"ulhas","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-22T11:38:15.657Z","type":"quit"}
+{"nick":"rorro","date":"2017-09-22T11:48:21.207Z","type":"join"}
+{"nick":"ulhas","date":"2017-09-22T11:56:54.610Z","type":"join"}
+{"nick":"Soopaman","date":"2017-09-22T12:09:35.328Z","type":"join"}
+{"nick":"moura","date":"2017-09-22T12:15:33.095Z","type":"join"}
+{"nick":"moura","reason":"Quit: My Mac has gone to sleep. ZZZzzz…","date":"2017-09-22T12:37:54.787Z","type":"quit"}
+{"nick":"tundebadmus","date":"2017-09-22T12:52:07.108Z","type":"join"}
+{"nick":"tundebadmus","reason":"Ping timeout: 260 seconds","date":"2017-09-22T13:25:15.100Z","type":"quit"}
+{"nick":"moura","date":"2017-09-22T13:28:07.940Z","type":"join"}
+{"nick":"fisune","date":"2017-09-22T13:40:22.028Z","type":"join"}
+{"nick":"fisune","message":"Hello guys! I'm learning express.js and I'm creating my very first webapp with auth in node.js. I'm stuck about form validations. I'm using the \"express-validator\", and I'd like to know how to display errors field by field, instead of \"each\" at the top of the form. Here's: https://kopy.io/eW42k","date":"2017-09-22T13:42:22.623Z","type":"message"}
+{"nick":"fisune","message":"Instead of the each loop displaying all errors, I'd like to put them like the <p></p> tags I used as examples","date":"2017-09-22T13:42:57.002Z","type":"message"}
+{"nick":"ohmyfromage","date":"2017-09-22T13:54:44.261Z","type":"join"}
+{"nick":"AtumT","date":"2017-09-22T13:58:43.681Z","type":"join"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2017-09-22T14:02:26.007Z","type":"quit"}
+{"nick":"Soopaman","date":"2017-09-22T14:05:16.811Z","type":"join"}
+{"nick":"ohmyfromage","reason":"Quit: Leaving","date":"2017-09-22T14:05:20.126Z","type":"quit"}
+{"nick":"ulhas","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-09-22T14:15:28.163Z","type":"quit"}
+{"nick":"clearcut","reason":"Quit: Leaving","date":"2017-09-22T14:26:46.494Z","type":"quit"}
+{"nick":"flaviodesousa","reason":"Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/","date":"2017-09-22T14:29:16.623Z","type":"quit"}
+{"nick":"fisune","reason":"Quit: Page closed","date":"2017-09-22T14:49:37.833Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T14:56:55.182Z","type":"join"}
+{"nick":"bybb","date":"2017-09-22T14:57:17.392Z","type":"join"}
+{"nick":"bybb","reason":"Remote host closed the connection","date":"2017-09-22T15:16:08.330Z","type":"quit"}
+{"nick":"bybb","date":"2017-09-22T15:19:09.495Z","type":"join"}
+{"nick":"bybb","reason":"Client Quit","date":"2017-09-22T15:19:25.302Z","type":"quit"}
+{"nick":"__Yiota","reason":"Ping timeout: 255 seconds","date":"2017-09-22T15:30:18.010Z","type":"quit"}
+{"nick":"__Yiota","date":"2017-09-22T15:38:05.516Z","type":"join"}
+{"nick":"__Yiota","reason":"Ping timeout: 240 seconds","date":"2017-09-22T15:43:01.151Z","type":"quit"}
+{"nick":"AtumT_","date":"2017-09-22T15:56:08.680Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 248 seconds","date":"2017-09-22T15:56:47.681Z","type":"quit"}
+{"nick":"DanKnox","reason":"Ping timeout: 246 seconds","date":"2017-09-22T16:11:53.766Z","type":"quit"}
+{"nick":"DanKnox","date":"2017-09-22T16:16:12.418Z","type":"join"}
+{"nick":"AtumT","date":"2017-09-22T16:37:00.546Z","type":"join"}
+{"nick":"AtumT_","reason":"Ping timeout: 248 seconds","date":"2017-09-22T16:37:19.682Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T16:42:54.379Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T16:43:34.681Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T16:48:56.048Z","type":"quit"}
+{"nick":"__Yiota","date":"2017-09-22T16:57:04.116Z","type":"join"}
+{"nick":"Alina-malina","reason":"Ping timeout: 240 seconds","date":"2017-09-22T17:20:35.704Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-22T17:30:07.550Z","type":"join"}
+{"nick":"Alina-malina","reason":"Changing host","date":"2017-09-22T17:34:41.742Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-22T17:34:41.795Z","type":"join"}
+{"nick":"lpin","reason":"Read error: Connection reset by peer","date":"2017-09-22T17:43:58.206Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T17:53:21.660Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T17:58:47.036Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T17:59:27.294Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T17:59:33.980Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T18:04:21.601Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T18:04:32.825Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T18:15:29.646Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T18:16:57.568Z","type":"quit"}
+{"nick":"shoobie","reason":"Ping timeout: 252 seconds","date":"2017-09-22T18:21:51.331Z","type":"quit"}
+{"nick":"stennowork","reason":"Quit: Leaving","date":"2017-09-22T18:22:02.199Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-22T18:24:07.197Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-09-22T18:24:07.596Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-22T18:24:07.597Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-09-22T18:28:32.626Z","type":"join"}
+{"nick":"moura","reason":"Quit: My Mac has gone to sleep. ZZZzzz…","date":"2017-09-22T18:42:56.096Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T18:43:18.992Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T18:56:45.002Z","type":"join"}
+{"nick":"rorro","reason":"Ping timeout: 240 seconds","date":"2017-09-22T18:57:21.205Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T19:10:43.830Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T19:22:54.463Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T19:43:00.032Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T19:50:01.791Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T19:51:58.862Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T19:59:48.630Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T20:17:33.353Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T20:18:13.392Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T20:18:20.893Z","type":"quit"}
+{"nick":"rorro","date":"2017-09-22T20:19:14.189Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-09-22T20:24:13.689Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T20:25:42.789Z","type":"quit"}
+{"nick":"jhirley","reason":"Read error: Connection reset by peer","date":"2017-09-22T21:01:36.999Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T21:27:31.389Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 252 seconds","date":"2017-09-22T21:32:09.297Z","type":"quit"}
+{"nick":"jhirley","date":"2017-09-22T21:32:11.919Z","type":"join"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2017-09-22T21:40:18.724Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T21:41:05.202Z","type":"join"}
+{"nick":"Soopaman","date":"2017-09-22T21:43:00.684Z","type":"join"}
+{"nick":"LeBlaaanc","date":"2017-09-22T21:58:09.326Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T22:14:33.694Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-22T22:17:26.583Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-22T22:38:03.560Z","type":"quit"}
+{"nick":"jhirley","reason":"Quit: This computer has gone to sleep","date":"2017-09-22T23:35:50.602Z","type":"quit"}

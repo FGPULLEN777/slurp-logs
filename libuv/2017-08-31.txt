@@ -1,0 +1,67 @@
+{"nick":"Fishrock123","date":"2017-08-31T00:14:08.774Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-08-31T00:18:12.782Z","type":"quit"}
+{"nick":"KennethWilke","reason":"Ping timeout: 240 seconds","date":"2017-08-31T03:27:12.702Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T03:53:31.850Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T03:58:55.871Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T04:03:00.312Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T04:03:25.486Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T04:07:26.617Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T04:09:17.588Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T04:09:58.922Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T04:10:05.011Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T04:10:55.255Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T04:13:46.091Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T04:18:40.223Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T04:19:03.756Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T04:24:35.817Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T04:34:47.646Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T04:43:27.565Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T04:43:33.025Z","type":"quit"}
+{"nick":"genio","reason":"Ping timeout: 252 seconds","date":"2017-08-31T05:18:39.386Z","type":"quit"}
+{"nick":"genio","date":"2017-08-31T05:25:39.875Z","type":"join"}
+{"nick":"genio","reason":"Changing host","date":"2017-08-31T05:25:40.007Z","type":"quit"}
+{"nick":"genio","date":"2017-08-31T05:25:40.007Z","type":"join"}
+{"nick":"trevnorris","message":"when I run uv_close() on a uv_timer_t, is it still necessary to run uv_timer_stop()?","date":"2017-08-31T07:05:35.701Z","type":"message"}
+{"nick":"rendar","date":"2017-08-31T07:17:32.824Z","type":"join"}
+{"nick":"indutny","message":"trevnorris: I don't think it is","date":"2017-08-31T08:01:36.309Z","type":"message"}
+{"nick":"xadillax","date":"2017-08-31T09:03:25.326Z","type":"join"}
+{"nick":"saghul","date":"2017-08-31T09:45:28.377Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-31T09:47:25.971Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-31T09:47:44.311Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-31T09:47:54.093Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-08-31T10:25:10.929Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-31T10:25:41.129Z","type":"join"}
+{"nick":"s4ghul","date":"2017-08-31T11:33:49.272Z","type":"join"}
+{"nick":"saghul","reason":"Ping timeout: 252 seconds","date":"2017-08-31T11:35:57.343Z","type":"quit"}
+{"nick":"saghul","date":"2017-08-31T12:29:43.675Z","type":"join"}
+{"nick":"s4ghul","reason":"Ping timeout: 252 seconds","date":"2017-08-31T12:33:09.375Z","type":"quit"}
+{"nick":"saghul","reason":"Ping timeout: 240 seconds","date":"2017-08-31T12:35:35.613Z","type":"quit"}
+{"nick":"saghul","date":"2017-08-31T12:38:46.204Z","type":"join"}
+{"nick":"KennethWilke","date":"2017-08-31T13:02:22.847Z","type":"join"}
+{"nick":"benjamingr_","date":"2017-08-31T13:23:16.799Z","type":"join"}
+{"nick":"xadillax","date":"2017-08-31T14:46:26.906Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-31T14:46:41.503Z","type":"quit"}
+{"nick":"saghul","reason":"Ping timeout: 240 seconds","date":"2017-08-31T15:12:11.996Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T16:26:34.902Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T16:53:47.711Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T16:56:33.596Z","type":"join"}
+{"nick":"Fishrock123","reason":"Client Quit","date":"2017-08-31T16:57:10.348Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T17:09:57.016Z","type":"join"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-08-31T18:02:51.754Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T18:45:17.661Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T18:49:04.227Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-08-31T18:59:57.283Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T20:35:26.672Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T20:41:10.591Z","type":"join"}
+{"nick":"rmg_","date":"2017-08-31T21:04:29.094Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 255 seconds","date":"2017-08-31T21:06:59.098Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-31T21:31:51.514Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T22:20:56.817Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T22:21:37.801Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T22:25:18.392Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T23:13:08.717Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T23:14:48.137Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T23:46:56.314Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T23:48:14.987Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-31T23:48:58.267Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-31T23:49:00.400Z","type":"quit"}

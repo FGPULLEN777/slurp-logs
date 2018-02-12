@@ -1,0 +1,314 @@
+{"nick":"nodejs-gh","date":"2018-02-06T00:03:30.736Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T00:03:30.816Z","type":"part"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-06T00:09:38.851Z","type":"quit"}
+{"nick":"AtumT_","date":"2018-02-06T00:13:07.601Z","type":"join"}
+{"nick":"zsoc","date":"2018-02-06T00:14:11.592Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 265 seconds","date":"2018-02-06T00:15:59.442Z","type":"quit"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-06T00:18:45.650Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-02-06T00:19:44.408Z","type":"join"}
+{"nick":"qard","date":"2018-02-06T00:23:23.596Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 260 seconds","date":"2018-02-06T00:24:37.198Z","type":"quit"}
+{"nick":"AtumT","date":"2018-02-06T00:25:49.205Z","type":"join"}
+{"nick":"AtumT_","reason":"Ping timeout: 268 seconds","date":"2018-02-06T00:27:41.601Z","type":"quit"}
+{"nick":"BridgeAR","reason":"Remote host closed the connection","date":"2018-02-06T00:52:20.822Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-02-06T00:56:32.381Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T00:59:19.390Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-02-06T01:01:01.016Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T01:05:14.518Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2018-02-06T01:06:29.198Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-02-06T01:06:31.366Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T01:13:17.477Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-02-06T01:33:23.834Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T01:33:24.031Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T01:34:20.898Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T01:34:20.967Z","type":"part"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-06T01:43:22.527Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-02-06T01:48:54.634Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 248 seconds","date":"2018-02-06T01:53:05.370Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-06T02:04:25.146Z","type":"join"}
+{"nick":"apapirovski","date":"2018-02-06T02:34:41.683Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T02:34:43.012Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-02-06T02:34:58.522Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-06T02:35:31.253Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T02:46:13.810Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-06T03:12:07.517Z","type":"join"}
+{"nick":"gabrielschulhof","date":"2018-02-06T03:45:07.018Z","type":"join"}
+{"nick":"gabrielschulhof","message":"Hey, all! What's the right repo to report that, after submitting a talk for Node Summit 2018, the acknowledgement message is \"Success! Thanks for submitting a NodeTalk proposal for Node Summit 2017!\"?","date":"2018-02-06T03:45:54.307Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-06T03:54:54.890Z","type":"quit"}
+{"nick":"ChALkeR","reason":"Ping timeout: 256 seconds","date":"2018-02-06T03:59:43.397Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-02-06T04:33:14.209Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T04:33:14.278Z","type":"part"}
+{"nick":"apapirovski","date":"2018-02-06T04:34:09.274Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T04:34:47.818Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T04:34:47.886Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T04:42:42.736Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T04:42:42.805Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T04:54:56.670Z","type":"quit"}
+{"nick":"srl295","reason":"Quit: Connection closed for inactivity","date":"2018-02-06T05:12:22.008Z","type":"quit"}
+{"nick":"qard","date":"2018-02-06T05:15:50.533Z","type":"join"}
+{"nick":"sgimeno","reason":"Ping timeout: 240 seconds","date":"2018-02-06T05:16:35.489Z","type":"quit"}
+{"nick":"sgimeno","date":"2018-02-06T05:18:19.740Z","type":"join"}
+{"nick":"gabrielschulhof","reason":"Ping timeout: 276 seconds","date":"2018-02-06T05:43:56.847Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-02-06T05:57:10.220Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T05:57:10.288Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T05:59:25.224Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T05:59:25.293Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T05:59:47.963Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T05:59:48.032Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T06:07:41.719Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T06:07:41.799Z","type":"part"}
+{"nick":"qard","reason":"Quit: qard","date":"2018-02-06T06:16:40.124Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-02-06T06:18:04.303Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T06:18:04.371Z","type":"part"}
+{"nick":"lpin","date":"2018-02-06T06:19:24.835Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:03:50.719Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:03:50.788Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:04:14.192Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:04:14.260Z","type":"part"}
+{"nick":"sg_","date":"2018-02-06T07:11:57.911Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:17:19.467Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:17:19.468Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:17:29.237Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:17:29.305Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:18:01.739Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:18:01.875Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:18:19.266Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:18:19.335Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:26:55.275Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:26:55.343Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:27:15.272Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T07:27:15.341Z","type":"part"}
+{"nick":"seishun","date":"2018-02-06T07:41:32.030Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2018-02-06T08:28:17.407Z","type":"quit"}
+{"nick":"sg_","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-02-06T08:36:24.836Z","type":"quit"}
+{"nick":"sg_","date":"2018-02-06T08:48:12.230Z","type":"join"}
+{"nick":"BridgeAR","date":"2018-02-06T08:50:14.435Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T08:56:12.393Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T08:56:12.461Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T08:56:22.380Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T08:56:22.461Z","type":"part"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2018-02-06T08:56:28.346Z","type":"quit"}
+{"nick":"ChALkeR","date":"2018-02-06T09:49:57.529Z","type":"join"}
+{"nick":"apapirovski","date":"2018-02-06T09:55:57.830Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 268 seconds","date":"2018-02-06T10:00:34.976Z","type":"quit"}
+{"nick":"ChALkeR","reason":"Ping timeout: 240 seconds","date":"2018-02-06T10:04:05.457Z","type":"quit"}
+{"nick":"ChALkeR","date":"2018-02-06T10:05:53.526Z","type":"join"}
+{"nick":"ChALkeR","reason":"Ping timeout: 248 seconds","date":"2018-02-06T10:18:09.507Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:22:18.209Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:22:18.277Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:22:58.796Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:22:58.902Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:31:25.784Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:31:25.890Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:34:54.235Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:34:54.303Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:35:15.382Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:35:15.489Z","type":"part"}
+{"nick":"ChALkeR","date":"2018-02-06T10:37:50.221Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:46:09.317Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:46:09.384Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:47:28.228Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:47:28.377Z","type":"part"}
+{"nick":"sg_","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-02-06T10:49:08.690Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:54:08.264Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:54:08.332Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:55:13.268Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T10:55:13.336Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T11:15:17.685Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T11:15:17.790Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T11:15:30.675Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T11:15:30.755Z","type":"part"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-02-06T11:25:11.976Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-02-06T11:25:42.707Z","type":"join"}
+{"nick":"grandy_____","date":"2018-02-06T12:01:07.218Z","type":"quit"}
+{"nick":"grandy_____","date":"2018-02-06T12:01:51.250Z","type":"join"}
+{"nick":"dherman","date":"2018-02-06T12:03:34.304Z","type":"quit"}
+{"nick":"dherman","date":"2018-02-06T12:03:47.319Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:05:20.670Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:05:20.831Z","type":"part"}
+{"nick":"Domenic","date":"2018-02-06T12:05:56.800Z","type":"quit"}
+{"nick":"Domenic","date":"2018-02-06T12:06:13.796Z","type":"join"}
+{"nick":"apapirovski","date":"2018-02-06T12:20:59.771Z","type":"join"}
+{"nick":"mafintosh","date":"2018-02-06T12:26:43.714Z","type":"quit"}
+{"nick":"mafintosh","date":"2018-02-06T12:27:06.405Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:53:14.724Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:53:14.829Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:53:35.976Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:53:36.044Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:54:38.203Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:54:38.284Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:54:47.718Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:54:47.786Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:56:58.247Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T12:56:58.315Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T13:28:12.512Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-06T13:37:36.267Z","type":"join"}
+{"nick":"AtumT","date":"2018-02-06T13:39:25.438Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-06T13:43:13.857Z","type":"quit"}
+{"nick":"qbit","reason":"Quit: WeeChat 2.0.1","date":"2018-02-06T13:50:22.696Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-02-06T13:51:37.338Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T13:51:37.407Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T13:52:06.307Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T13:52:06.376Z","type":"part"}
+{"nick":"devsnek","message":"hey bradleymeck are there any issues with the cjs named exports besides 1) unsafe and 2) makes execution order not very clear to users?","date":"2018-02-06T14:07:01.477Z","type":"message"}
+{"nick":"evanlucas","date":"2018-02-06T14:08:03.200Z","type":"join"}
+{"nick":"qbit","date":"2018-02-06T14:10:35.670Z","type":"join"}
+{"nick":"apapirovski","date":"2018-02-06T14:18:51.592Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 260 seconds","date":"2018-02-06T14:23:27.247Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-02-06T14:35:18.901Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T14:35:28.288Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-02-06T14:35:40.120Z","type":"join"}
+{"nick":"AlphaAtom","date":"2018-02-06T14:42:01.660Z","type":"join"}
+{"nick":"AlphaAtom","reason":"Client Quit","date":"2018-02-06T14:42:38.862Z","type":"quit"}
+{"nick":"AlphaAtom","date":"2018-02-06T14:43:43.949Z","type":"join"}
+{"nick":"AlphaAtom","date":"2018-02-06T14:43:46.493Z","type":"part"}
+{"nick":"qard","date":"2018-02-06T14:52:31.362Z","type":"join"}
+{"nick":"MLM_","date":"2018-02-06T14:55:59.769Z","type":"quit"}
+{"nick":"MLM_","date":"2018-02-06T14:57:11.783Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T14:57:38.410Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T14:57:38.490Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T14:59:13.469Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T14:59:13.537Z","type":"part"}
+{"nick":"bradleymeck","date":"2018-02-06T14:59:43.441Z","type":"join"}
+{"nick":"ljharb","date":"2018-02-06T15:02:22.090Z","type":"quit"}
+{"nick":"ljharb","date":"2018-02-06T15:03:06.144Z","type":"join"}
+{"nick":"phillipj","date":"2018-02-06T15:14:10.665Z","type":"quit"}
+{"nick":"phillipj","date":"2018-02-06T15:14:28.264Z","type":"join"}
+{"nick":"Meow-J_","date":"2018-02-06T15:14:48.026Z","type":"quit"}
+{"nick":"Meow-J_","date":"2018-02-06T15:16:23.721Z","type":"join"}
+{"nick":"littledan","date":"2018-02-06T15:32:30.839Z","type":"quit"}
+{"nick":"littledan","date":"2018-02-06T15:32:47.480Z","type":"join"}
+{"nick":"BridgeAR","reason":"Ping timeout: 265 seconds","date":"2018-02-06T15:32:52.505Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-02-06T15:33:23.790Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T15:33:23.859Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T15:33:56.053Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T15:33:56.054Z","type":"part"}
+{"nick":"gabrielschulhof","date":"2018-02-06T15:35:34.146Z","type":"join"}
+{"nick":"apapirov_","date":"2018-02-06T15:42:18.887Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 252 seconds","date":"2018-02-06T15:45:52.679Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-02-06T15:53:08.822Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T15:53:08.891Z","type":"part"}
+{"nick":"rjungemann","date":"2018-02-06T15:59:17.807Z","type":"quit"}
+{"nick":"rjungemann","date":"2018-02-06T15:59:44.324Z","type":"join"}
+{"nick":"BridgeAR","date":"2018-02-06T16:16:15.284Z","type":"join"}
+{"nick":"AtumT_","date":"2018-02-06T16:31:09.661Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 265 seconds","date":"2018-02-06T16:34:15.469Z","type":"quit"}
+{"nick":"qbit","reason":"Quit: WeeChat 2.0.1","date":"2018-02-06T16:37:06.592Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-02-06T16:40:47.419Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T16:40:47.579Z","type":"part"}
+{"nick":"qbit","date":"2018-02-06T16:42:21.295Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-06T16:53:53.671Z","type":"quit"}
+{"nick":"qard","date":"2018-02-06T17:01:59.403Z","type":"join"}
+{"nick":"apapirovski","date":"2018-02-06T17:16:56.233Z","type":"join"}
+{"nick":"apapirov_","reason":"Ping timeout: 276 seconds","date":"2018-02-06T17:20:05.787Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-06T17:22:02.379Z","type":"quit"}
+{"nick":"seishun","date":"2018-02-06T17:35:54.199Z","type":"join"}
+{"nick":"bradleymeck","date":"2018-02-06T18:26:01.361Z","type":"join"}
+{"nick":"bradleymeck","message":"@devsnek define \"unsafe\" cause that covers a lot o things","date":"2018-02-06T18:26:50.828Z","type":"message"}
+{"nick":"bradleymeck","message":"of*","date":"2018-02-06T18:26:52.110Z","type":"message"}
+{"nick":"devsnek","message":"like what if it errors on execution","date":"2018-02-06T18:27:09.154Z","type":"message"}
+{"nick":"bradleymeck","message":"unsafe as in it gets racey is pretty much a blocker","date":"2018-02-06T18:27:12.111Z","type":"message"}
+{"nick":"devsnek","message":"basically its just a pit of undefined behavior","date":"2018-02-06T18:27:26.366Z","type":"message"}
+{"nick":"bradleymeck","message":"errors during execution require propagation and get really funky","date":"2018-02-06T18:27:28.857Z","type":"message"}
+{"nick":"bradleymeck","message":"devsnek: why do you ask?","date":"2018-02-06T18:27:39.598Z","type":"message"}
+{"nick":"devsnek","message":"cuz someone else asked","date":"2018-02-06T18:27:45.496Z","type":"message"}
+{"nick":"bradleymeck","message":"ah","date":"2018-02-06T18:27:48.604Z","type":"message"}
+{"nick":"devsnek","message":"on the issue to pre-evaluate internal modules","date":"2018-02-06T18:28:01.211Z","type":"message"}
+{"nick":"bradleymeck","message":"yes, pit of undefined behavior and race conditions that cannot be fixed","date":"2018-02-06T18:28:03.777Z","type":"message"}
+{"nick":"bradleymeck","message":"internal modules not having side effects makes them safe to get the shape of ahead of time","date":"2018-02-06T18:28:26.872Z","type":"message"}
+{"nick":"bradleymeck","message":"not having side effects is kind of a lie, but they are not global is the point","date":"2018-02-06T18:28:46.471Z","type":"message"}
+{"nick":"ljharb","message":"bradleymeck: are you still exploring the cjs pragma option, or a way to declare the same in package.json?","date":"2018-02-06T18:29:05.673Z","type":"message"}
+{"nick":"bradleymeck","message":"they don't change global values and they attempt to be resistant to mutations of global values (poorly)","date":"2018-02-06T18:29:22.558Z","type":"message"}
+{"nick":"bradleymeck","message":"ljharb: speed hit even when not used for both is too damn high","date":"2018-02-06T18:29:37.756Z","type":"message"}
+{"nick":"bradleymeck","message":"package.json isn't a place we can really put that data either since it is a per file thing","date":"2018-02-06T18:29:56.504Z","type":"message"}
+{"nick":"bradleymeck","message":"bloats package.json once you have >1 file","date":"2018-02-06T18:30:08.125Z","type":"message"}
+{"nick":"bradleymeck","message":"30% startup speed loss even if it is never used kind of kills it","date":"2018-02-06T18:30:39.201Z","type":"message"}
+{"nick":"devsnek","message":"wew my computer just had a kernel panic","date":"2018-02-06T18:31:20.316Z","type":"message"}
+{"nick":"devsnek","message":"but yea bradley thats all i wanted to check","date":"2018-02-06T18:31:41.449Z","type":"message"}
+{"nick":"devsnek","message":"bradleymeck he was kinda suggesting a package.json flag to have the loader pre-ealuate","date":"2018-02-06T18:35:37.211Z","type":"message"}
+{"nick":"devsnek","message":"which i think kinda defeats the point","date":"2018-02-06T18:36:00.683Z","type":"message"}
+{"nick":"bradleymeck","message":"devsnek: pre-evaluate *all* the possible CJS?","date":"2018-02-06T18:36:00.751Z","type":"message"}
+{"nick":"devsnek","message":"no just for your module","date":"2018-02-06T18:36:09.767Z","type":"message"}
+{"nick":"bradleymeck","message":"yea, but if you have >1 CJS file in your package","date":"2018-02-06T18:36:20.226Z","type":"message"}
+{"nick":"devsnek","message":"yea","date":"2018-02-06T18:36:24.723Z","type":"message"}
+{"nick":"devsnek","message":"it would just do what my pr did","date":"2018-02-06T18:36:31.060Z","type":"message"}
+{"nick":"devsnek","message":"but just for your package","date":"2018-02-06T18:36:36.289Z","type":"message"}
+{"nick":"devsnek","message":"which i think kinda defeats the point of the feature","date":"2018-02-06T18:36:46.261Z","type":"message"}
+{"nick":"bradleymeck","message":"I mean... I'm going to defer all weird behavior to make people do it in userland","date":"2018-02-06T18:36:55.894Z","type":"message"}
+{"nick":"devsnek","message":"you can just use mjs and the extensionless main trick","date":"2018-02-06T18:36:56.092Z","type":"message"}
+{"nick":"devsnek","message":"yea","date":"2018-02-06T18:37:04.399Z","type":"message"}
+{"nick":"devsnek","message":"thats kinda how i want it too","date":"2018-02-06T18:37:07.610Z","type":"message"}
+{"nick":"bradleymeck","message":"people don","date":"2018-02-06T18:37:53.554Z","type":"message"}
+{"nick":"bradleymeck","message":"don","date":"2018-02-06T18:37:55.687Z","type":"message"}
+{"nick":"bradleymeck","message":"dont like that I push everything to userland, but weird behavior is not exactly something I want to support for decades","date":"2018-02-06T18:38:19.525Z","type":"message"}
+{"nick":"devsnek","message":"people are uninformed about how much we're able to do though","date":"2018-02-06T18:38:24.043Z","type":"message"}
+{"nick":"devsnek","message":"like with people saying we don't need mjs","date":"2018-02-06T18:38:38.437Z","type":"message"}
+{"nick":"devsnek","message":"three months ago i didn't think we would need mjs","date":"2018-02-06T18:38:57.440Z","type":"message"}
+{"nick":"bradleymeck","message":"devsnek: that isn't going to change, all you can do is talk to them 1-1","date":"2018-02-06T18:38:59.916Z","type":"message"}
+{"nick":"bradleymeck","message":"reading up on this topic is *brutal*","date":"2018-02-06T18:39:10.280Z","type":"message"}
+{"nick":"devsnek","message":"thats my point ;-;","date":"2018-02-06T18:39:11.207Z","type":"message"}
+{"nick":"nodejs-gh","date":"2018-02-06T18:46:39.279Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T18:46:39.386Z","type":"part"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-02-06T18:46:42.415Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-02-06T18:47:15.157Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T18:47:15.158Z","type":"part"}
+{"nick":"qbit","reason":"Quit: WeeChat 2.0.1","date":"2018-02-06T18:48:32.604Z","type":"quit"}
+{"nick":"gabrielschulhof","reason":"Ping timeout: 260 seconds","date":"2018-02-06T19:06:30.206Z","type":"quit"}
+{"nick":"qbit","date":"2018-02-06T19:20:14.831Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T19:28:37.691Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-06T19:29:11.847Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-02-06T20:15:48.669Z","type":"join"}
+{"nick":"bradleymeck","date":"2018-02-06T20:17:18.253Z","type":"join"}
+{"nick":"ChALkeR","reason":"Ping timeout: 260 seconds","date":"2018-02-06T20:17:32.263Z","type":"quit"}
+{"nick":"ChALkeR","date":"2018-02-06T20:18:15.749Z","type":"join"}
+{"nick":"haseeb","date":"2018-02-06T20:31:28.948Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T20:36:21.261Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T20:36:21.341Z","type":"part"}
+{"nick":"haseeb","reason":"Ping timeout: 260 seconds","date":"2018-02-06T20:57:09.943Z","type":"quit"}
+{"nick":"BridgeAR","reason":"Remote host closed the connection","date":"2018-02-06T21:07:39.548Z","type":"quit"}
+{"nick":"BridgeAR","date":"2018-02-06T21:08:07.837Z","type":"join"}
+{"nick":"ChALkeR","reason":"Ping timeout: 256 seconds","date":"2018-02-06T21:37:00.883Z","type":"quit"}
+{"nick":"vsemozhetbyt","date":"2018-02-06T21:41:01.990Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T21:41:53.189Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T21:41:53.268Z","type":"part"}
+{"nick":"vsemozhetbyt","reason":"Client Quit","date":"2018-02-06T21:42:41.821Z","type":"quit"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2018-02-06T21:43:14.465Z","type":"quit"}
+{"nick":"niketrefenix","date":"2018-02-06T21:44:11.711Z","type":"join"}
+{"nick":"niketrefenix","reason":"Read error: Connection reset by peer","date":"2018-02-06T21:44:18.993Z","type":"quit"}
+{"nick":"gabrielschulhof","date":"2018-02-06T22:01:40.535Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:03:11.238Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:03:11.314Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:03:21.698Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:03:21.698Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 260 seconds","date":"2018-02-06T22:05:27.234Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T22:07:54.977Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-02-06T22:09:07.513Z","type":"join"}
+{"nick":"al-damiri","date":"2018-02-06T22:12:42.039Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:15:16.272Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:15:16.340Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:15:51.739Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:15:51.846Z","type":"part"}
+{"nick":"devsnek","message":"mylesborins thank you for #15 the github issues were starting to give me serious anxiety","date":"2018-02-06T22:25:03.626Z","type":"message"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:29:10.176Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:29:10.245Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:30:05.230Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T22:30:05.298Z","type":"part"}
+{"nick":"devsnek_","date":"2018-02-06T22:51:24.958Z","type":"join"}
+{"nick":"devsnek","reason":"Quit: ZNC 1.6.5 - http://znc.in","date":"2018-02-06T22:58:41.771Z","type":"quit"}
+{"nick":"devsnek_","new_nick":"devsnek","date":"2018-02-06T22:58:41.948Z","type":"nick"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-06T22:59:47.215Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T23:07:19.774Z","type":"quit"}
+{"nick":"ChALkeR","date":"2018-02-06T23:09:13.070Z","type":"join"}
+{"nick":"BridgeAR","reason":"Ping timeout: 248 seconds","date":"2018-02-06T23:17:19.871Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-02-06T23:21:35.273Z","type":"join"}
+{"nick":"ChALkeR","reason":"Ping timeout: 248 seconds","date":"2018-02-06T23:24:48.190Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-02-06T23:26:21.238Z","type":"quit"}
+{"nick":"ChALkeR","date":"2018-02-06T23:28:19.354Z","type":"join"}
+{"nick":"bradleymeck","message":"devsnek: stay calm, these talks are going to go on over a very long period of time so you have to pace your emotional investment","date":"2018-02-06T23:29:44.397Z","type":"message"}
+{"nick":"devsnek","message":"I'm already just avoiding responding it triggers my anxiety","date":"2018-02-06T23:30:23.610Z","type":"message"}
+{"nick":"bradleymeck","message":"devsnek: well if you ever want to just ramble I'm around. just be sure to tell me you want to ramble/vent/etc. so I don't get overly eager and add more fuel to any fire","date":"2018-02-06T23:40:09.179Z","type":"message"}
+{"nick":"not-an-aardvark","date":"2018-02-06T23:40:51.314Z","type":"join"}
+{"nick":"devsnek","message":"oof thanks I can probs just use overwatch as my punching bag though","date":"2018-02-06T23:41:16.989Z","type":"message"}
+{"nick":"nodejs-gh","date":"2018-02-06T23:56:06.754Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-02-06T23:56:06.822Z","type":"part"}
+{"nick":"apapirovski","date":"2018-02-06T23:56:36.956Z","type":"join"}

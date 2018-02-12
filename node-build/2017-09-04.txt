@@ -1,0 +1,37 @@
+{"nick":"xadillax","date":"2017-09-04T02:34:36.982Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 248 seconds","date":"2017-09-04T03:00:16.091Z","type":"quit"}
+{"nick":"sgimeno","reason":"Ping timeout: 240 seconds","date":"2017-09-04T05:15:01.343Z","type":"quit"}
+{"nick":"sgimeno","date":"2017-09-04T06:24:06.690Z","type":"join"}
+{"nick":"seishun","date":"2017-09-04T06:54:40.391Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 260 seconds","date":"2017-09-04T08:01:17.640Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-09-04T10:25:11.093Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-09-04T10:25:41.847Z","type":"join"}
+{"nick":"node-gh","date":"2017-09-04T14:14:57.556Z","type":"join"}
+{"nick":"node-gh","date":"2017-09-04T14:14:57.708Z","type":"part"}
+{"nick":"Trott","message":"On Windows, whether successful or failing, tests always generate this error in CI. (It doesn't cause the test suite to fail, so it's not an emergency, but maybe someone wants to fix it? Seems like the type of thing refack likes to dig into.)","date":"2017-09-04T14:21:54.499Z","type":"message"}
+{"nick":"Trott","message":"https://www.irccloud.com/pastebin/ujAGreD2/","date":"2017-09-04T14:21:57.721Z","type":"message"}
+{"nick":"Trott","message":"The part that recurs is that last line: `mv: cannot stat '../cctest.tap': No such file or directory` Since the line before contains info about the build, it varies. But if you search for that `cannot stat` line, you'll find it in all the test runs.","date":"2017-09-04T14:25:49.039Z","type":"message"}
+{"nick":"Trott","message":"Aside from refack, maybe joaocgreis too? Totally no rush on this. (In fact, I probably won't notice if it goes entirely unaddressed at all. This is more of an FYI than anything else.)","date":"2017-09-04T14:27:55.378Z","type":"message"}
+{"nick":"seishun","date":"2017-09-04T15:42:11.761Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-09-04T15:50:41.295Z","type":"quit"}
+{"nick":"seishun","date":"2017-09-04T16:14:48.886Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 255 seconds","date":"2017-09-04T17:03:31.864Z","type":"quit"}
+{"nick":"seishun","date":"2017-09-04T17:11:17.413Z","type":"join"}
+{"nick":"bengl_","date":"2017-09-04T18:29:44.609Z","type":"join"}
+{"nick":"jbergstroem_","date":"2017-09-04T18:36:21.185Z","type":"join"}
+{"nick":"qbit1","date":"2017-09-04T18:36:59.434Z","type":"join"}
+{"nick":"qbit","reason":"*.net *.split","date":"2017-09-04T18:37:36.223Z","type":"quit"}
+{"nick":"bengl","reason":"*.net *.split","date":"2017-09-04T18:37:36.527Z","type":"quit"}
+{"nick":"jbergstroem","reason":"*.net *.split","date":"2017-09-04T18:37:38.341Z","type":"quit"}
+{"nick":"bengl_","new_nick":"bengl","date":"2017-09-04T18:37:46.551Z","type":"nick"}
+{"nick":"indutny","reason":"Excess Flood","date":"2017-09-04T18:42:06.918Z","type":"quit"}
+{"nick":"indutny","date":"2017-09-04T18:42:17.535Z","type":"join"}
+{"nick":"node-gh","date":"2017-09-04T19:00:54.261Z","type":"join"}
+{"nick":"node-gh","date":"2017-09-04T19:00:54.419Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-09-04T19:34:56.046Z","type":"quit"}
+{"nick":"seishun","date":"2017-09-04T19:41:37.624Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 260 seconds","date":"2017-09-04T20:48:22.653Z","type":"quit"}
+{"nick":"node-gh","date":"2017-09-04T21:15:27.475Z","type":"join"}
+{"nick":"node-gh","date":"2017-09-04T21:15:27.666Z","type":"part"}
+{"nick":"node-gh","date":"2017-09-04T23:56:51.479Z","type":"join"}
+{"nick":"node-gh","date":"2017-09-04T23:56:51.670Z","type":"part"}

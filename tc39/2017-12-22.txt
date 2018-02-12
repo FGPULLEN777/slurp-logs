@@ -1,0 +1,71 @@
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-12-22T00:13:14.022Z","type":"quit"}
+{"nick":"gskachkov","reason":"Read error: Connection reset by peer","date":"2017-12-22T00:41:39.866Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-12-22T00:43:31.081Z","type":"join"}
+{"nick":"AtumT_","reason":"Remote host closed the connection","date":"2017-12-22T01:16:48.517Z","type":"quit"}
+{"nick":"jwalden","date":"2017-12-22T03:16:46.435Z","type":"join"}
+{"nick":"jackhorton","message":"No worries! I can also file an issue in tc39/ecma402 if the initial thinking is that its incorrect.","date":"2017-12-22T03:48:53.195Z","type":"message"}
+{"nick":"gskachkov","reason":"Read error: Connection reset by peer","date":"2017-12-22T03:54:08.558Z","type":"quit"}
+{"nick":"gibson042","date":"2017-12-22T04:27:23.457Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-22T04:47:07.782Z","type":"quit"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2017-12-22T05:33:15.524Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2017-12-22T05:37:08.455Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-12-22T05:47:35.497Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-12-22T06:26:06.765Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2017-12-22T06:27:39.853Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-12-22T06:28:11.769Z","type":"join"}
+{"nick":"jwalden","reason":"Quit: ChatZilla 0.9.92-rdmsoft [XULRunner 35.0.1/20150122214805]","date":"2017-12-22T06:45:59.771Z","type":"quit"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-12-22T07:53:46.826Z","type":"quit"}
+{"nick":"gibson042","reason":"Ping timeout: 265 seconds","date":"2017-12-22T08:18:58.964Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-12-22T10:24:45.437Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-12-22T10:31:21.916Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-12-22T10:36:51.334Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2017-12-22T10:37:26.360Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-12-22T10:38:00.600Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2017-12-22T10:38:13.594Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-22T11:25:11.090Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-22T11:25:41.570Z","type":"join"}
+{"nick":"jmdyck","date":"2017-12-22T12:09:04.485Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-12-22T12:57:49.399Z","type":"join"}
+{"nick":"serbang","date":"2017-12-22T13:08:04.645Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-22T13:37:15.861Z","type":"quit"}
+{"nick":"mathiasbynens","message":"can someone with admin rights invite mathiasbynens-bot to tc39-transfer? (that’s the account I use to deploy to gh-pages through Travis CI)","date":"2017-12-22T13:56:04.971Z","type":"message"}
+{"nick":"floatleft","reason":"Ping timeout: 240 seconds","date":"2017-12-22T14:06:05.592Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-22T14:06:36.498Z","type":"join"}
+{"nick":"gibson042","date":"2017-12-22T14:08:05.578Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 248 seconds","date":"2017-12-22T14:12:17.563Z","type":"quit"}
+{"nick":"floatleft","reason":"Ping timeout: 260 seconds","date":"2017-12-22T14:13:16.485Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-22T14:13:25.324Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-12-22T14:23:31.850Z","type":"join"}
+{"nick":"gibson042","date":"2017-12-22T14:26:48.489Z","type":"join"}
+{"nick":"caridy","date":"2017-12-22T15:03:42.447Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-22T15:06:06.022Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-12-22T15:22:07.810Z","type":"join"}
+{"nick":"floatleft","reason":"Read error: Connection reset by peer","date":"2017-12-22T15:38:08.207Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-22T15:39:36.012Z","type":"join"}
+{"nick":"AtumT","date":"2017-12-22T16:38:14.537Z","type":"join"}
+{"nick":"darkSeid_","date":"2017-12-22T16:49:51.522Z","type":"join"}
+{"nick":"floatleft","reason":"Ping timeout: 248 seconds","date":"2017-12-22T16:52:15.901Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-22T16:52:54.531Z","type":"join"}
+{"nick":"darkSeid_","reason":"Read error: Connection reset by peer","date":"2017-12-22T16:56:54.677Z","type":"quit"}
+{"nick":"floatleft","reason":"Ping timeout: 260 seconds","date":"2017-12-22T16:59:31.417Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-22T17:00:08.905Z","type":"join"}
+{"nick":"darkSeid_","date":"2017-12-22T17:56:58.297Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-12-22T18:00:11.722Z","type":"quit"}
+{"nick":"caridy","date":"2017-12-22T18:00:48.169Z","type":"join"}
+{"nick":"floatleft","reason":"Ping timeout: 240 seconds","date":"2017-12-22T18:11:57.859Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-22T18:13:25.063Z","type":"join"}
+{"nick":"ljharb","message":"mathiasbynens: sure, i can do it - is it needed tho? tc39-transfer should just hold onto the repo for a brief window","date":"2017-12-22T18:40:20.090Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-22T18:42:19.378Z","type":"quit"}
+{"nick":"ljharb","message":"mathiasbynens: invited","date":"2017-12-22T18:44:26.540Z","type":"message"}
+{"nick":"bradleymeck","date":"2017-12-22T19:01:34.628Z","type":"join"}
+{"nick":"mathiasbynens","message":"ljharb: ah, right, then tc39 should be the inviting org","date":"2017-12-22T19:03:55.392Z","type":"message"}
+{"nick":"mathiasbynens","message":"ljharb: do you have admin rights there too?","date":"2017-12-22T19:23:24.741Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-22T19:40:18.852Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-12-22T20:03:34.473Z","type":"join"}
+{"nick":"ljharb","message":"mathiasbynens: i'm afraid not; bterlson, littledan, leobalter, and rex do tho","date":"2017-12-22T20:11:06.978Z","type":"message"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-12-22T20:19:45.819Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-12-22T20:31:26.926Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-12-22T21:12:19.134Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-12-22T21:20:41.680Z","type":"join"}
+{"nick":"floatleft","reason":"Ping timeout: 248 seconds","date":"2017-12-22T21:33:52.005Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-22T21:34:45.838Z","type":"join"}

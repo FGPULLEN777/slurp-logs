@@ -1,0 +1,105 @@
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T00:08:45.675Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-25T00:09:23.733Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T00:15:35.380Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-25T00:16:18.100Z","type":"join"}
+{"nick":"Fishrock123","reason":"Client Quit","date":"2017-08-25T00:19:49.185Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-25T02:32:26.411Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 248 seconds","date":"2017-08-25T02:37:53.568Z","type":"quit"}
+{"nick":"node-gh","date":"2017-08-25T04:54:57.982Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T04:54:58.091Z","type":"part"}
+{"nick":"evanlucas","reason":"Ping timeout: 248 seconds","date":"2017-08-25T07:12:32.041Z","type":"quit"}
+{"nick":"evanlucas","date":"2017-08-25T07:13:35.494Z","type":"join"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-08-25T07:13:36.156Z","type":"quit"}
+{"nick":"evanlucas","date":"2017-08-25T07:13:50.439Z","type":"join"}
+{"nick":"xadillax","date":"2017-08-25T08:06:20.610Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-25T08:07:24.098Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-25T08:07:39.595Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-25T08:11:06.774Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-25T08:13:38.416Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-25T08:15:37.382Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-25T08:16:03.369Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 264 seconds","date":"2017-08-25T08:20:46.323Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-25T08:36:04.583Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-25T08:39:37.095Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-25T08:40:49.003Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-25T08:50:44.807Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-25T08:52:49.603Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T08:53:09.524Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T08:53:09.597Z","type":"part"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-25T09:08:03.692Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-08-25T10:25:11.209Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-25T10:25:41.701Z","type":"join"}
+{"nick":"seishun","date":"2017-08-25T10:57:02.405Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-08-25T11:52:01.720Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-25T12:04:50.715Z","type":"join"}
+{"nick":"{slurp-nodejs}1","date":"2017-08-25T12:32:54.420Z","type":"join"}
+{"nick":"jbergstroem!~jbergstro@maple.io","topic":"we're the nodejs build group. https://ci.nodejs.org https://github.com/nodejs/build -- irc logs: http://logs.libuv.org/node-build/latest","date":"2017-08-25T12:32:54.420Z","type":"topic"}
+{"nick":"rmg","date":"2017-08-25T12:33:20.626Z","type":"join"}
+{"nick":"targos","date":"2017-08-25T13:19:50.701Z","type":"join"}
+{"nick":"chorrell","date":"2017-08-25T13:46:31.609Z","type":"join"}
+{"nick":"Trott","message":"Looks like test-mininodes-ubuntu1604-arm64_odroid_c2-1  is unreachable or something?  https://usercontent.irccloud-cdn.com/file/1WLPrZfo/Screen%20Shot%202017-08-25%20at%206.53.55%20AM.png","date":"2017-08-25T13:54:14.271Z","type":"message"}
+{"nick":"Trott","message":"Trying to ssh into it hangs for me. Not sure who the right person to ping is, so going with The Usual Suspects I guess: rvagg jbergstroem mhdawson_  joaocgreis","date":"2017-08-25T13:55:03.230Z","type":"message"}
+{"nick":"rvagg","message":"Noooooo that's two now and David hasn't got back to me about the #2. I did tell him it wasn't super urgent.","date":"2017-08-25T14:09:08.254Z","type":"message"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-25T14:09:26.739Z","type":"quit"}
+{"nick":"rvagg","message":"Trott: I'll email him now and cc you and introduce you to him, you can then hit him up directly when you have connectivity problems with the C2's. David is miniNodes and operates those 3 hosts for us.","date":"2017-08-25T14:09:59.039Z","type":"message"}
+{"nick":"chorrell","date":"2017-08-25T14:33:24.005Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-25T14:38:20.803Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 252 seconds","date":"2017-08-25T14:48:30.322Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-25T14:48:54.551Z","type":"join"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-25T15:53:14.146Z","type":"quit"}
+{"nick":"chorrell","date":"2017-08-25T15:55:32.925Z","type":"join"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-25T16:10:11.909Z","type":"quit"}
+{"nick":"targos","reason":"Quit: Leaving","date":"2017-08-25T16:11:29.003Z","type":"quit"}
+{"nick":"chorrell","date":"2017-08-25T16:41:11.021Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T17:16:59.657Z","type":"quit"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-25T17:24:41.478Z","type":"quit"}
+{"nick":"chorrell","date":"2017-08-25T17:26:23.482Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-25T18:18:29.629Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-08-25T18:22:35.475Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-25T18:26:23.479Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T18:34:40.615Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T18:34:40.767Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T18:41:33.379Z","type":"quit"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-25T18:43:57.329Z","type":"quit"}
+{"nick":"node-gh","date":"2017-08-25T18:48:46.630Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T18:48:46.854Z","type":"part"}
+{"nick":"Fishrock123","date":"2017-08-25T18:53:49.792Z","type":"join"}
+{"nick":"Trott","message":"So much 504!","date":"2017-08-25T18:54:36.963Z","type":"message"}
+{"nick":"chorrell","date":"2017-08-25T18:57:35.635Z","type":"join"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-25T19:11:37.692Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T19:13:08.886Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-25T19:13:47.500Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T19:13:54.659Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-25T19:28:32.808Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T19:28:59.610Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T19:28:59.762Z","type":"part"}
+{"nick":"chorrell","date":"2017-08-25T19:29:35.002Z","type":"join"}
+{"nick":"chorrell","reason":"Client Quit","date":"2017-08-25T19:29:37.875Z","type":"quit"}
+{"nick":"Trott","message":"https://usercontent.irccloud-cdn.com/file/CkbygJLh/Screen%20Shot%202017-08-25%20at%2012.32.11%20PM.png","date":"2017-08-25T19:32:40.600Z","type":"message"}
+{"nick":"refack","message":"For me it's slow but working","date":"2017-08-25T19:33:37.992Z","type":"message"}
+{"nick":"Trott","message":"I can't get https://ci.nodejs.org/job/node-daily-master/ to load. Does that URL load for you?","date":"2017-08-25T19:56:22.673Z","type":"message"}
+{"nick":"refack","message":"Not now","date":"2017-08-25T19:56:37.532Z","type":"message"}
+{"nick":"refack","message":"I have two guesses, it might be related to the C2s, or this could be a DOS attack (considering the general climate)","date":"2017-08-25T19:58:23.337Z","type":"message"}
+{"nick":"refack","message":"I'm trying to mark the C2s as offline so that Jenkins will not try to ping them","date":"2017-08-25T19:58:23.488Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T20:01:10.589Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-25T20:03:05.718Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T20:06:18.608Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T20:06:18.761Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-25T20:27:10.258Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T20:27:10.446Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-25T20:27:17.153Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T20:27:17.305Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-25T20:28:52.923Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T20:28:53.115Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T21:24:11.661Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-25T21:24:51.789Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T21:24:58.972Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-25T22:37:56.341Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 246 seconds","date":"2017-08-25T22:38:19.446Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T22:53:32.214Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-25T23:01:11.098Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T23:04:48.838Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-25T23:05:28.760Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-25T23:05:36.116Z","type":"quit"}
+{"nick":"node-gh","date":"2017-08-25T23:36:29.483Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-25T23:36:29.635Z","type":"part"}

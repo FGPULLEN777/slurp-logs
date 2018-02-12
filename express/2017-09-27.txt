@@ -1,0 +1,141 @@
+{"nick":"rorro","reason":"Ping timeout: 252 seconds","date":"2017-09-27T00:09:36.424Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-27T00:38:22.774Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-09-27T00:43:12.896Z","type":"quit"}
+{"nick":"colwem_","reason":"Ping timeout: 264 seconds","date":"2017-09-27T00:47:10.427Z","type":"quit"}
+{"nick":"Alina-malina","reason":"Ping timeout: 248 seconds","date":"2017-09-27T00:52:15.685Z","type":"quit"}
+{"nick":"ddelrio1986","reason":"Quit: Leaving","date":"2017-09-27T00:53:25.067Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T00:54:00.599Z","type":"join"}
+{"nick":"shoobie","reason":"Read error: Connection reset by peer","date":"2017-09-27T01:17:12.815Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-27T01:19:57.438Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-09-27T01:19:57.477Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-27T01:19:57.477Z","type":"join"}
+{"nick":"kakashiAL","reason":"Ping timeout: 260 seconds","date":"2017-09-27T03:00:47.677Z","type":"quit"}
+{"nick":"__Yiota","reason":"Ping timeout: 255 seconds","date":"2017-09-27T03:46:29.926Z","type":"quit"}
+{"nick":"Alina-malina","reason":"Ping timeout: 240 seconds","date":"2017-09-27T03:50:08.596Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T03:51:37.668Z","type":"join"}
+{"nick":"slajax","date":"2017-09-27T04:23:18.167Z","type":"join"}
+{"nick":"gildean_","date":"2017-09-27T04:24:45.206Z","type":"join"}
+{"nick":"Methos_","date":"2017-09-27T04:25:31.875Z","type":"join"}
+{"nick":"Auger","reason":"*.net *.split","date":"2017-09-27T04:29:50.703Z","type":"quit"}
+{"nick":"lu_tze","reason":"*.net *.split","date":"2017-09-27T04:29:50.869Z","type":"quit"}
+{"nick":"slajax_","reason":"*.net *.split","date":"2017-09-27T04:29:51.734Z","type":"quit"}
+{"nick":"gildean","reason":"*.net *.split","date":"2017-09-27T04:29:52.213Z","type":"quit"}
+{"nick":"GGMethos","reason":"*.net *.split","date":"2017-09-27T04:29:52.782Z","type":"quit"}
+{"nick":"_yoy_","reason":"Ping timeout: 240 seconds","date":"2017-09-27T04:32:12.612Z","type":"quit"}
+{"nick":"Auger","date":"2017-09-27T04:32:40.685Z","type":"join"}
+{"nick":"Alina-malina","reason":"Ping timeout: 240 seconds","date":"2017-09-27T04:32:42.592Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T04:33:48.634Z","type":"join"}
+{"nick":"YoY","date":"2017-09-27T04:35:34.027Z","type":"join"}
+{"nick":"lu_tze","date":"2017-09-27T04:36:51.300Z","type":"join"}
+{"nick":"Alina-malina","reason":"Changing host","date":"2017-09-27T04:52:03.519Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T04:52:03.600Z","type":"join"}
+{"nick":"lpin","date":"2017-09-27T05:39:06.828Z","type":"join"}
+{"nick":"Arcarc","date":"2017-09-27T06:27:08.607Z","type":"join"}
+{"nick":"ensyde","reason":"Quit: Leaving","date":"2017-09-27T06:31:22.556Z","type":"quit"}
+{"nick":"ShekharReddy","date":"2017-09-27T07:07:28.470Z","type":"join"}
+{"nick":"flaviodesousa","date":"2017-09-27T07:20:58.161Z","type":"join"}
+{"nick":"faraway","date":"2017-09-27T07:27:48.373Z","type":"join"}
+{"nick":"faraway","message":"Hi, form time to time, mostly after server weeks of running, my express setup becomes unresponsive. No requests are handled. There is most likely some middleware hanging in which I or the vendor forgot to handle a certain case an next or send is not called. Is there some middleware that can detect this some kind of timeout and to figure out in which middleware the whole thing got stuck?","date":"2017-09-27T07:30:57.295Z","type":"message"}
+{"nick":"lpin","reason":"Ping timeout: 240 seconds","date":"2017-09-27T07:43:42.476Z","type":"quit"}
+{"nick":"lpin","date":"2017-09-27T07:44:58.902Z","type":"join"}
+{"nick":"rorro","date":"2017-09-27T07:48:58.680Z","type":"join"}
+{"nick":"rorro","reason":"Ping timeout: 248 seconds","date":"2017-09-27T09:22:39.687Z","type":"quit"}
+{"nick":"kakashiAL","date":"2017-09-27T09:36:02.360Z","type":"join"}
+{"nick":"rorro","date":"2017-09-27T10:04:46.955Z","type":"join"}
+{"nick":"rorro","reason":"Ping timeout: 255 seconds","date":"2017-09-27T10:10:47.881Z","type":"quit"}
+{"nick":"rorro","date":"2017-09-27T10:18:49.675Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-09-27T10:25:11.577Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-09-27T10:25:42.493Z","type":"join"}
+{"nick":"__Yiota","date":"2017-09-27T10:52:22.020Z","type":"join"}
+{"nick":"shoobie","reason":"Ping timeout: 264 seconds","date":"2017-09-27T11:09:22.277Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-27T11:09:38.317Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-09-27T11:09:38.754Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-27T11:09:38.756Z","type":"join"}
+{"nick":"Alina-malina","reason":"Ping timeout: 240 seconds","date":"2017-09-27T11:26:42.321Z","type":"quit"}
+{"nick":"rorro","reason":"Quit: Leaving","date":"2017-09-27T11:27:09.105Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T11:29:01.331Z","type":"join"}
+{"nick":"nickduskey[m]","date":"2017-09-27T11:31:34.626Z","type":"join"}
+{"nick":"__Yiota","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-27T11:51:07.424Z","type":"quit"}
+{"nick":"faraway","reason":"Quit: faraway","date":"2017-09-27T11:56:38.931Z","type":"quit"}
+{"nick":"faraway","date":"2017-09-27T12:01:14.225Z","type":"join"}
+{"nick":"Alina-malina","reason":"Ping timeout: 240 seconds","date":"2017-09-27T12:02:42.252Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T12:05:28.826Z","type":"join"}
+{"nick":"Alina-malina","reason":"Ping timeout: 260 seconds","date":"2017-09-27T12:12:02.867Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T12:14:32.051Z","type":"join"}
+{"nick":"Alina-malina","reason":"Ping timeout: 255 seconds","date":"2017-09-27T12:33:58.999Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T12:35:30.603Z","type":"join"}
+{"nick":"Alina-malina","reason":"Changing host","date":"2017-09-27T12:40:38.342Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T12:40:38.409Z","type":"join"}
+{"nick":"ddelrio1986","date":"2017-09-27T12:58:13.645Z","type":"join"}
+{"nick":"faraway","reason":"Quit: faraway","date":"2017-09-27T13:22:53.418Z","type":"quit"}
+{"nick":"kalkulator","date":"2017-09-27T13:23:18.435Z","type":"join"}
+{"nick":"moura","date":"2017-09-27T13:24:52.099Z","type":"join"}
+{"nick":"faraway","date":"2017-09-27T13:27:16.145Z","type":"join"}
+{"nick":"faraway","reason":"Client Quit","date":"2017-09-27T13:27:20.411Z","type":"quit"}
+{"nick":"lanceball","date":"2017-09-27T13:40:48.054Z","type":"join"}
+{"nick":"lanceball","new_nick":"lance|afk","date":"2017-09-27T13:47:35.530Z","type":"nick"}
+{"nick":"__Yiota","date":"2017-09-27T13:51:32.621Z","type":"join"}
+{"nick":"qwebirc55035","date":"2017-09-27T13:52:16.696Z","type":"join"}
+{"nick":"qwebirc55035","message":"hi I have a small question regarding access tokens and refresh tokens","date":"2017-09-27T13:53:00.453Z","type":"message"}
+{"nick":"qwebirc55035","message":"should the refresh token be sent with every request, and if not, what is the best method for always renewing the access token on time?","date":"2017-09-27T13:53:31.625Z","type":"message"}
+{"nick":"__Yiota","reason":"Ping timeout: 255 seconds","date":"2017-09-27T13:56:14.889Z","type":"quit"}
+{"nick":"shoobie","reason":"Ping timeout: 248 seconds","date":"2017-09-27T14:10:09.426Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-27T14:10:21.680Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-09-27T14:10:22.091Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-27T14:10:22.092Z","type":"join"}
+{"nick":"AtumT","date":"2017-09-27T14:11:13.385Z","type":"join"}
+{"nick":"__Yiota","date":"2017-09-27T14:12:20.591Z","type":"join"}
+{"nick":"lance|afk","new_nick":"lanceball","date":"2017-09-27T14:18:04.440Z","type":"nick"}
+{"nick":"__Yiota","reason":"Read error: Connection reset by peer","date":"2017-09-27T14:51:45.147Z","type":"quit"}
+{"nick":"__Yiota","date":"2017-09-27T14:57:46.121Z","type":"join"}
+{"nick":"flaviodesousa","reason":"Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/","date":"2017-09-27T14:58:55.577Z","type":"quit"}
+{"nick":"__Yiota","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-27T15:02:31.950Z","type":"quit"}
+{"nick":"__Yiota","date":"2017-09-27T15:09:47.440Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-09-27T15:17:41.390Z","type":"join"}
+{"nick":"gildean_","new_nick":"gildean","date":"2017-09-27T15:18:03.642Z","type":"nick"}
+{"nick":"qwebirc55035","reason":"Quit: Page closed","date":"2017-09-27T15:19:41.042Z","type":"quit"}
+{"nick":"Hallz","date":"2017-09-27T15:26:12.663Z","type":"join"}
+{"nick":"Hallz","reason":"Client Quit","date":"2017-09-27T15:28:04.049Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-27T15:49:56.501Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-27T16:01:10.385Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-27T16:12:00.476Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-27T16:15:58.199Z","type":"join"}
+{"nick":"Arcarc","reason":"Ping timeout: 240 seconds","date":"2017-09-27T17:31:12.062Z","type":"quit"}
+{"nick":"Alina-malina","reason":"Ping timeout: 240 seconds","date":"2017-09-27T18:03:35.651Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T18:06:48.031Z","type":"join"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-09-27T18:12:36.303Z","type":"quit"}
+{"nick":"Alina-malina","reason":"Ping timeout: 255 seconds","date":"2017-09-27T18:15:32.016Z","type":"quit"}
+{"nick":"moura","reason":"Quit: My Mac has gone to sleep. ZZZzzz…","date":"2017-09-27T18:18:16.575Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T18:18:19.853Z","type":"join"}
+{"nick":"__Yiota","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-27T18:26:33.127Z","type":"quit"}
+{"nick":"__Yiota","date":"2017-09-27T18:27:48.015Z","type":"join"}
+{"nick":"Alina-malina","reason":"Changing host","date":"2017-09-27T18:32:17.276Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-27T18:32:17.316Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-27T18:34:44.596Z","type":"quit"}
+{"nick":"d3us","date":"2017-09-27T18:38:53.160Z","type":"join"}
+{"nick":"d3us","message":"hello, i have problem with npm install, propable i have to old node and npm version. I don't have information in packag.json wich wersion i should use. But i check few packages and then point on npm 4.5.1/4.15.0 do you know witch version of node i should install","date":"2017-09-27T18:41:34.829Z","type":"message"}
+{"nick":"d3us","message":"i am traing to start express app","date":"2017-09-27T18:42:24.534Z","type":"message"}
+{"nick":"d3us","reason":"Quit: Page closed","date":"2017-09-27T18:44:29.825Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-27T18:51:41.451Z","type":"join"}
+{"nick":"ShekharReddy","reason":"Quit: Connection closed for inactivity","date":"2017-09-27T19:05:44.523Z","type":"quit"}
+{"nick":"undertuga","reason":"Quit: Connection closed for inactivity","date":"2017-09-27T19:31:48.471Z","type":"quit"}
+{"nick":"csparks","date":"2017-09-27T19:39:27.133Z","type":"join"}
+{"nick":"shoobie","reason":"Ping timeout: 248 seconds","date":"2017-09-27T20:14:55.679Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-27T20:16:39.937Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-09-27T20:16:39.976Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-27T20:16:39.977Z","type":"join"}
+{"nick":"kalkulator","reason":"Quit: http://www.kiwiirc.com/ - A hand crafted IRC client","date":"2017-09-27T20:46:39.496Z","type":"quit"}
+{"nick":"kalkulator","date":"2017-09-27T20:57:34.868Z","type":"join"}
+{"nick":"kalkulator","reason":"Quit: http://www.kiwiirc.com/ - A hand crafted IRC client","date":"2017-09-27T21:09:36.478Z","type":"quit"}
+{"nick":"kalkulator","date":"2017-09-27T21:18:08.206Z","type":"join"}
+{"nick":"kalkulator","reason":"Quit: http://www.kiwiirc.com/ - A hand crafted IRC client","date":"2017-09-27T21:29:44.113Z","type":"quit"}
+{"nick":"jhirley","reason":"Quit: Leaving","date":"2017-09-27T21:47:28.222Z","type":"quit"}
+{"nick":"lanceball","new_nick":"lance|afk","date":"2017-09-27T21:51:08.028Z","type":"nick"}
+{"nick":"kalkulator","date":"2017-09-27T21:56:42.368Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-27T22:14:40.939Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-27T22:43:38.512Z","type":"join"}
+{"nick":"csparks","reason":"Ping timeout: 252 seconds","date":"2017-09-27T22:47:33.396Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-27T22:51:18.174Z","type":"quit"}
+{"nick":"csparks","date":"2017-09-27T23:07:24.425Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-09-27T23:52:30.386Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 248 seconds","date":"2017-09-27T23:56:49.382Z","type":"quit"}

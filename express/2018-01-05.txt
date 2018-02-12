@@ -1,0 +1,93 @@
+{"nick":"rorro","reason":"Quit: Leaving","date":"2018-01-05T00:43:52.802Z","type":"quit"}
+{"nick":"Tennis","reason":"Quit: Leaving","date":"2018-01-05T03:32:37.970Z","type":"quit"}
+{"nick":"Roughy","reason":"Quit: Meadow Fresh milk","date":"2018-01-05T03:54:27.059Z","type":"quit"}
+{"nick":"lpin","date":"2018-01-05T06:26:19.479Z","type":"join"}
+{"nick":"_ritchie_","date":"2018-01-05T07:05:51.368Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-05T07:15:51.792Z","type":"quit"}
+{"nick":"pubudu","date":"2018-01-05T08:44:51.014Z","type":"join"}
+{"nick":"pubudu","message":"Hi, does anyone know how I can execute some initial configuration before starting the express server? I know I can just put it right before creating the http server. But is there a better way to do it? My requirement is to populate an in memory data structure before my API starts up. _","date":"2018-01-05T08:48:55.607Z","type":"message"}
+{"nick":"Arcarc","date":"2018-01-05T08:52:10.777Z","type":"join"}
+{"nick":"bomb-on","reason":"Quit: zzz","date":"2018-01-05T09:25:21.412Z","type":"quit"}
+{"nick":"commma","message":"pubudu: that's the way to do it","date":"2018-01-05T09:45:53.402Z","type":"message"}
+{"nick":"bomb-on","date":"2018-01-05T09:49:07.341Z","type":"join"}
+{"nick":"pubudu","message":"@comma thank you","date":"2018-01-05T10:46:10.595Z","type":"message"}
+{"nick":"mquin","date":"2018-01-05T10:47:33.445Z","type":"part"}
+{"nick":"inky_","date":"2018-01-05T10:50:12.527Z","type":"join"}
+{"nick":"inky_","message":"how can i set the name of the file sent to the client via res.sendFile?","date":"2018-01-05T10:50:40.986Z","type":"message"}
+{"nick":"commma","message":"inky_: http://expressjs.com/en/api.html#res.sendFile","date":"2018-01-05T10:59:13.066Z","type":"message"}
+{"nick":"inky_","message":"commma: unfortunately it doesnt mention a way to set the filename. the only way i see is using res.download","date":"2018-01-05T11:00:37.293Z","type":"message"}
+{"nick":"commma","message":"inky_: yes it does","date":"2018-01-05T11:00:55.415Z","type":"message"}
+{"nick":"inky_","message":"which i find strange. imo it should be possible with res.sendFile","date":"2018-01-05T11:00:56.244Z","type":"message"}
+{"nick":"commma","message":"`res.sendFile(fileName, options, function (err) {`","date":"2018-01-05T11:01:09.157Z","type":"message"}
+{"nick":"inky_","message":"commma: no it doesnt","date":"2018-01-05T11:01:20.641Z","type":"message"}
+{"nick":"commma","message":"you want to change the name from that of the path itself?","date":"2018-01-05T11:01:34.364Z","type":"message"}
+{"nick":"inky_","message":"commma: thats the filename of the file you want to send. not the filename of the file the client receives","date":"2018-01-05T11:02:03.807Z","type":"message"}
+{"nick":"commma","message":"ahh you do, yeah in that case use `res.download`","date":"2018-01-05T11:02:34.858Z","type":"message"}
+{"nick":"inky_","message":"ok thanks","date":"2018-01-05T11:02:50.214Z","type":"message"}
+{"nick":"commma","message":"it just wraps `sendFile` after al","date":"2018-01-05T11:02:52.972Z","type":"message"}
+{"nick":"commma","message":"and extends it to allow you to change the name","date":"2018-01-05T11:03:17.964Z","type":"message"}
+{"nick":"commma","message":"no worries","date":"2018-01-05T11:03:26.208Z","type":"message"}
+{"nick":"inky_","message":"which is another thing i find strange ;D id have thought that sendfile is more specific than download buto k","date":"2018-01-05T11:03:31.073Z","type":"message"}
+{"nick":"commma","message":"hmm maybe the naming is a little confusing yeah, but it is actually more generic","date":"2018-01-05T11:04:45.780Z","type":"message"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-05T11:25:10.610Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-05T11:25:41.021Z","type":"join"}
+{"nick":"pubudu","reason":"Quit: Page closed","date":"2018-01-05T11:54:11.283Z","type":"quit"}
+{"nick":"inky_","reason":"Quit: Page closed","date":"2018-01-05T12:12:25.540Z","type":"quit"}
+{"nick":"lpin","reason":"Ping timeout: 265 seconds","date":"2018-01-05T12:45:07.440Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-05T13:39:06.220Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-05T13:45:34.474Z","type":"quit"}
+{"nick":"slajax","date":"2018-01-05T13:47:54.313Z","type":"join"}
+{"nick":"slajax_","reason":"Ping timeout: 248 seconds","date":"2018-01-05T13:48:16.101Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-05T14:15:44.214Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-05T14:26:01.522Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-05T14:34:12.413Z","type":"join"}
+{"nick":"Roughy","date":"2018-01-05T14:40:22.076Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-05T14:44:55.056Z","type":"quit"}
+{"nick":"rorro","date":"2018-01-05T14:55:25.855Z","type":"join"}
+{"nick":"ddelrio1986","date":"2018-01-05T15:00:07.032Z","type":"join"}
+{"nick":"_ritchie_","date":"2018-01-05T15:07:54.342Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-05T15:48:34.509Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-05T15:53:23.178Z","type":"join"}
+{"nick":"rorro","reason":"Ping timeout: 268 seconds","date":"2018-01-05T16:07:41.908Z","type":"quit"}
+{"nick":"Soopaman","date":"2018-01-05T16:15:07.619Z","type":"join"}
+{"nick":"ShekharReddy","date":"2018-01-05T16:19:21.441Z","type":"quit"}
+{"nick":"ShekharReddy","date":"2018-01-05T16:21:26.872Z","type":"join"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-05T16:26:06.411Z","type":"quit"}
+{"nick":"Soopaman","date":"2018-01-05T16:31:15.837Z","type":"join"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-05T16:42:35.894Z","type":"quit"}
+{"nick":"flaviodesousa","date":"2018-01-05T17:08:57.604Z","type":"join"}
+{"nick":"Arcarc","reason":"Ping timeout: 248 seconds","date":"2018-01-05T17:12:00.004Z","type":"quit"}
+{"nick":"bomb-on","reason":"Quit: zzz","date":"2018-01-05T17:20:29.007Z","type":"quit"}
+{"nick":"wolfcomm","date":"2018-01-05T17:32:24.481Z","type":"part"}
+{"nick":"bomb-on","date":"2018-01-05T17:38:26.044Z","type":"join"}
+{"nick":"inara","reason":"Quit: Leaving","date":"2018-01-05T17:42:35.632Z","type":"quit"}
+{"nick":"inara","date":"2018-01-05T17:45:11.518Z","type":"join"}
+{"nick":"Arcarc","date":"2018-01-05T17:46:27.945Z","type":"join"}
+{"nick":"flaviodesousa","reason":"Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/","date":"2018-01-05T17:48:08.083Z","type":"quit"}
+{"nick":"Soopaman","date":"2018-01-05T18:33:24.017Z","type":"join"}
+{"nick":"rorro","date":"2018-01-05T18:37:08.485Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-05T18:48:37.310Z","type":"quit"}
+{"nick":"ddelrio1986","reason":"Quit: This computer has gone to sleep","date":"2018-01-05T19:38:22.731Z","type":"quit"}
+{"nick":"ddelrio1986","date":"2018-01-05T19:38:35.860Z","type":"join"}
+{"nick":"ddelrio1986","reason":"Read error: Connection reset by peer","date":"2018-01-05T19:39:14.076Z","type":"quit"}
+{"nick":"ddelrio1986","date":"2018-01-05T19:39:25.869Z","type":"join"}
+{"nick":"ddelrio1986","reason":"Read error: Connection reset by peer","date":"2018-01-05T19:40:00.158Z","type":"quit"}
+{"nick":"ddelrio1986","date":"2018-01-05T19:46:34.518Z","type":"join"}
+{"nick":"ddelrio1986","reason":"Quit: This computer has gone to sleep","date":"2018-01-05T19:54:32.197Z","type":"quit"}
+{"nick":"ddelrio1986","date":"2018-01-05T19:54:52.490Z","type":"join"}
+{"nick":"ddelrio1986","reason":"Client Quit","date":"2018-01-05T19:55:18.425Z","type":"quit"}
+{"nick":"ddelrio1986","date":"2018-01-05T19:55:35.579Z","type":"join"}
+{"nick":"ddelrio1986","reason":"Read error: Connection reset by peer","date":"2018-01-05T19:56:09.818Z","type":"quit"}
+{"nick":"ddelrio1986","date":"2018-01-05T19:56:20.646Z","type":"join"}
+{"nick":"ddelrio1986","reason":"Read error: Connection reset by peer","date":"2018-01-05T19:56:55.918Z","type":"quit"}
+{"nick":"kweeb","date":"2018-01-05T19:57:15.392Z","type":"join"}
+{"nick":"kweeb","date":"2018-01-05T19:57:29.635Z","type":"part"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-05T20:23:01.184Z","type":"quit"}
+{"nick":"Soopaman","date":"2018-01-05T20:33:43.289Z","type":"join"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-05T20:43:44.226Z","type":"quit"}
+{"nick":"Soopaman","date":"2018-01-05T21:18:33.589Z","type":"join"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-05T21:39:01.258Z","type":"quit"}
+{"nick":"Fohlen","reason":"Remote host closed the connection","date":"2018-01-05T22:26:14.721Z","type":"quit"}
+{"nick":"Fohlen","date":"2018-01-05T22:41:46.535Z","type":"join"}
+{"nick":"ddelrio1986","date":"2018-01-05T23:19:30.058Z","type":"join"}
+{"nick":"ddelrio1986","reason":"Client Quit","date":"2018-01-05T23:22:06.372Z","type":"quit"}

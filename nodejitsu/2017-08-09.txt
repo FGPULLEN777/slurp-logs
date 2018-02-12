@@ -1,0 +1,19 @@
+{"nick":"ajpiano","reason":"*.net *.split","date":"2017-08-09T08:47:28.034Z","type":"quit"}
+{"nick":"tobie","reason":"*.net *.split","date":"2017-08-09T08:47:28.385Z","type":"quit"}
+{"nick":"ec\\","reason":"*.net *.split","date":"2017-08-09T08:47:32.311Z","type":"quit"}
+{"nick":"monokrome","reason":"*.net *.split","date":"2017-08-09T08:47:32.419Z","type":"quit"}
+{"nick":"YoY","reason":"*.net *.split","date":"2017-08-09T08:47:33.350Z","type":"quit"}
+{"nick":"ohama","reason":"*.net *.split","date":"2017-08-09T08:47:33.404Z","type":"quit"}
+{"nick":"vesse","reason":"*.net *.split","date":"2017-08-09T08:47:40.494Z","type":"quit"}
+{"nick":"funnel","reason":"*.net *.split","date":"2017-08-09T08:47:40.747Z","type":"quit"}
+{"nick":"jcrugzz","reason":"*.net *.split","date":"2017-08-09T08:47:43.123Z","type":"quit"}
+{"nick":"elliottcable","reason":"*.net *.split","date":"2017-08-09T08:47:47.305Z","type":"quit"}
+{"nick":"indexzero","reason":"*.net *.split","date":"2017-08-09T08:47:48.125Z","type":"quit"}
+{"nick":"SoreGums","reason":"*.net *.split","date":"2017-08-09T08:47:48.288Z","type":"quit"}
+{"nick":"wesbos","reason":"*.net *.split","date":"2017-08-09T08:47:51.981Z","type":"quit"}
+{"nick":"cronopio!~cronopio@191.98.12.204","topic":"Nodejitsu | Cloud Status: OK | http://status.nodejitsu.com | Private npm is here: https://www.nodejitsu.com/try/private-npm | Support hours: Mon-Fri 9am to 8pm EST | Iriscouch issues solved, report to support@nodejitsu.com if can't reach your instance |","date":"2017-08-09T09:31:10.525Z","type":"topic"}
+{"nick":"travis-ci","date":"2017-08-09T17:35:18.449Z","type":"join"}
+{"nick":"travis-ci","message":"indexzero/nconf#289 (gh-200 - f010f30 : indexzero): The build failed.","date":"2017-08-09T17:35:19.458Z","type":"message"}
+{"nick":"travis-ci","message":"Change view : https://github.com/indexzero/nconf/compare/57db01e71ee9^...f010f306d747","date":"2017-08-09T17:35:19.625Z","type":"message"}
+{"nick":"travis-ci","message":"Build details : https://travis-ci.org/indexzero/nconf/builds/262764028","date":"2017-08-09T17:35:19.625Z","type":"message"}
+{"nick":"travis-ci","date":"2017-08-09T17:35:19.625Z","type":"part"}

@@ -1,0 +1,47 @@
+{"nick":"frankdrey","date":"2017-07-31T00:04:58.199Z","type":"join"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-07-31T01:25:36.504Z","type":"quit"}
+{"nick":"n_tt","date":"2017-07-31T01:48:41.963Z","type":"join"}
+{"nick":"deep-book-gk","date":"2017-07-31T01:54:31.616Z","type":"join"}
+{"nick":"deep-book-gk","date":"2017-07-31T01:54:34.649Z","type":"part"}
+{"nick":"n_tt_","date":"2017-07-31T02:19:04.590Z","type":"join"}
+{"nick":"n_tt","reason":"Read error: Connection reset by peer","date":"2017-07-31T02:19:04.773Z","type":"quit"}
+{"nick":"frankdrey","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-07-31T03:43:28.358Z","type":"quit"}
+{"nick":"frankdrey","date":"2017-07-31T03:57:56.340Z","type":"join"}
+{"nick":"nahtnam","reason":"Quit: Connection closed for inactivity","date":"2017-07-31T04:23:19.908Z","type":"quit"}
+{"nick":"n_tt_","reason":"Remote host closed the connection","date":"2017-07-31T04:38:41.756Z","type":"quit"}
+{"nick":"n_tt","date":"2017-07-31T04:40:03.995Z","type":"join"}
+{"nick":"frankdrey","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-07-31T05:19:48.498Z","type":"quit"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-07-31T05:33:10.458Z","type":"quit"}
+{"nick":"frankdrey","date":"2017-07-31T05:36:43.612Z","type":"join"}
+{"nick":"ArchNoob","date":"2017-07-31T06:14:49.671Z","type":"join"}
+{"nick":"ArchNoob","reason":"Ping timeout: 240 seconds","date":"2017-07-31T06:32:16.700Z","type":"quit"}
+{"nick":"ok91","date":"2017-07-31T06:43:21.732Z","type":"join"}
+{"nick":"zotune_","reason":"Quit: Leaving","date":"2017-07-31T07:41:46.372Z","type":"quit"}
+{"nick":"mezod","date":"2017-07-31T07:51:39.104Z","type":"join"}
+{"nick":"ok91","reason":"Ping timeout: 240 seconds","date":"2017-07-31T08:44:16.576Z","type":"quit"}
+{"nick":"ArchNoob","date":"2017-07-31T08:51:39.301Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-07-31T09:19:32.556Z","type":"quit"}
+{"nick":"ArchNoob","reason":"Ping timeout: 260 seconds","date":"2017-07-31T10:04:36.619Z","type":"quit"}
+{"nick":"mezod","date":"2017-07-31T10:17:43.340Z","type":"join"}
+{"nick":"ok91","date":"2017-07-31T10:38:41.635Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-07-31T10:46:44.993Z","type":"quit"}
+{"nick":"ok91","reason":"Ping timeout: 268 seconds","date":"2017-07-31T10:52:28.632Z","type":"quit"}
+{"nick":"mezod","date":"2017-07-31T10:56:41.100Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-07-31T11:29:18.581Z","type":"quit"}
+{"nick":"mezod","date":"2017-07-31T12:15:20.620Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-07-31T14:39:54.032Z","type":"quit"}
+{"nick":"mezod","date":"2017-07-31T14:41:06.958Z","type":"join"}
+{"nick":"n_tt","date":"2017-07-31T14:45:34.219Z","type":"join"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-07-31T14:47:47.796Z","type":"quit"}
+{"nick":"ArchNoob","date":"2017-07-31T14:49:38.825Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-07-31T16:18:36.029Z","type":"quit"}
+{"nick":"mezod","date":"2017-07-31T16:40:58.234Z","type":"join"}
+{"nick":"ArchNoob","reason":"Ping timeout: 255 seconds","date":"2017-07-31T17:08:23.964Z","type":"quit"}
+{"nick":"ok91","date":"2017-07-31T17:58:22.933Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-07-31T18:00:59.965Z","type":"quit"}
+{"nick":"ok91","reason":"Ping timeout: 255 seconds","date":"2017-07-31T18:02:50.920Z","type":"quit"}
+{"nick":"ArchNoob","date":"2017-07-31T18:12:47.856Z","type":"join"}
+{"nick":"ok91","date":"2017-07-31T20:15:53.734Z","type":"join"}
+{"nick":"ArchNoob","reason":"Ping timeout: 246 seconds","date":"2017-07-31T20:25:29.557Z","type":"quit"}
+{"nick":"nahtnam","date":"2017-07-31T22:00:32.583Z","type":"join"}
+{"nick":"ok91","reason":"Ping timeout: 276 seconds","date":"2017-07-31T22:57:34.686Z","type":"quit"}

@@ -1,0 +1,33 @@
+{"nick":"ryan_ford","date":"2017-11-14T02:03:11.679Z","type":"join"}
+{"nick":"DarkGod","reason":"Ping timeout: 268 seconds","date":"2017-11-14T02:28:09.634Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-11-14T04:28:42.652Z","type":"join"}
+{"nick":"Soni","reason":"Ping timeout: 260 seconds","date":"2017-11-14T05:27:32.511Z","type":"quit"}
+{"nick":"Soni","date":"2017-11-14T05:34:39.034Z","type":"join"}
+{"nick":"Soni","reason":"Changing host","date":"2017-11-14T05:34:43.884Z","type":"quit"}
+{"nick":"Soni","date":"2017-11-14T05:34:43.952Z","type":"join"}
+{"nick":"rendar","date":"2017-11-14T07:00:51.369Z","type":"join"}
+{"nick":"mabynogy","date":"2017-11-14T07:00:52.813Z","type":"join"}
+{"nick":"mabynogy","reason":"Quit: Leaving","date":"2017-11-14T07:53:09.719Z","type":"quit"}
+{"nick":"mabynogy","date":"2017-11-14T07:53:30.991Z","type":"join"}
+{"nick":"DarkGod","date":"2017-11-14T08:37:39.578Z","type":"join"}
+{"nick":"SkyRocknRoll_","date":"2017-11-14T08:44:42.986Z","type":"join"}
+{"nick":"SkyRocknRoll_","reason":"Remote host closed the connection","date":"2017-11-14T09:44:39.519Z","type":"quit"}
+{"nick":"SkyRocknRoll_","date":"2017-11-14T09:45:20.429Z","type":"join"}
+{"nick":"SkyRocknRoll_","reason":"Ping timeout: 240 seconds","date":"2017-11-14T11:09:01.423Z","type":"quit"}
+{"nick":"SkyRocknRoll_","date":"2017-11-14T11:26:05.718Z","type":"join"}
+{"nick":"rendar","reason":"Ping timeout: 248 seconds","date":"2017-11-14T12:05:20.127Z","type":"quit"}
+{"nick":"rendar","date":"2017-11-14T12:21:42.524Z","type":"join"}
+{"nick":"rendar","reason":"Changing host","date":"2017-11-14T12:21:42.631Z","type":"quit"}
+{"nick":"rendar","date":"2017-11-14T12:21:42.632Z","type":"join"}
+{"nick":"SkyRocknRoll_","reason":"Ping timeout: 248 seconds","date":"2017-11-14T13:27:29.589Z","type":"quit"}
+{"nick":"mabynogy","reason":"Quit: Leaving","date":"2017-11-14T13:29:45.513Z","type":"quit"}
+{"nick":"Soni","reason":"Excess Flood","date":"2017-11-14T15:51:58.123Z","type":"quit"}
+{"nick":"Soni","date":"2017-11-14T15:52:31.494Z","type":"join"}
+{"nick":"mabynogy","date":"2017-11-14T17:23:13.471Z","type":"join"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-11-14T19:07:46.336Z","type":"quit"}
+{"nick":"ryan_ford","reason":"Ping timeout: 240 seconds","date":"2017-11-14T19:22:05.489Z","type":"quit"}
+{"nick":"Tobbik","date":"2017-11-14T20:53:52.983Z","type":"join"}
+{"nick":"Tobbik","reason":"Remote host closed the connection","date":"2017-11-14T21:51:21.795Z","type":"quit"}
+{"nick":"mabynogy","reason":"Quit: Leaving","date":"2017-11-14T22:55:08.075Z","type":"quit"}
+{"nick":"Soni","reason":"Excess Flood","date":"2017-11-14T23:33:47.708Z","type":"quit"}
+{"nick":"Soni","date":"2017-11-14T23:34:26.519Z","type":"join"}

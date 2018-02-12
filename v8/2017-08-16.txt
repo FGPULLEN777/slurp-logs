@@ -1,0 +1,51 @@
+{"nick":"Guest59","reason":"Quit: My Mac has gone to sleep. ZZZzzz…","date":"2017-08-16T00:01:22.624Z","type":"quit"}
+{"nick":"Guest59","date":"2017-08-16T00:05:25.513Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-08-16T00:13:40.688Z","type":"join"}
+{"nick":"plutoniix","date":"2017-08-16T00:21:57.265Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-16T00:52:23.138Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-08-16T01:56:35.568Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-16T02:16:55.523Z","type":"quit"}
+{"nick":"zv","reason":"Quit: WeeChat 1.9","date":"2017-08-16T06:34:33.955Z","type":"quit"}
+{"nick":"zv","date":"2017-08-16T06:37:06.725Z","type":"join"}
+{"nick":"choz","date":"2017-08-16T08:24:11.957Z","type":"join"}
+{"nick":"choz","reason":"\"Wkwkwk !\"","date":"2017-08-16T09:52:03.490Z","type":"part"}
+{"nick":"trungl-bot","message":"\u00034\u0002Tree closed\u000f by machenbach@google.com: closed - maintenance","date":"2017-08-16T09:52:50.952Z","type":"message"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-08-16T10:25:11.274Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-16T10:25:42.109Z","type":"join"}
+{"nick":"trungl-bot","message":"\u00033\u0002Tree opened\u000f by machenbach@google.com: open","date":"2017-08-16T10:31:09.972Z","type":"message"}
+{"nick":"plutoniix","reason":"Quit: Leaving","date":"2017-08-16T12:02:42.754Z","type":"quit"}
+{"nick":"choz","date":"2017-08-16T12:04:11.483Z","type":"join"}
+{"nick":"choz","message":"hi guys.. i have a question about playing a video or audio in android device.. i know it requires user gesture to initiate it, but sometimes it doesn't fail and not requiring user gesture at all.. any idea whats going on here?","date":"2017-08-16T12:04:53.173Z","type":"message"}
+{"nick":"bradleymeck","date":"2017-08-16T12:14:32.865Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-16T13:26:25.368Z","type":"quit"}
+{"nick":"choz","reason":"Quit: Cya!","date":"2017-08-16T13:39:19.589Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-08-16T13:43:36.687Z","type":"join"}
+{"nick":"plutoniix","date":"2017-08-16T14:38:31.947Z","type":"join"}
+{"nick":"bradleymeck","reason":"Ping timeout: 260 seconds","date":"2017-08-16T15:39:07.679Z","type":"quit"}
+{"nick":"seventh","date":"2017-08-16T15:41:04.640Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-08-16T15:41:57.118Z","type":"join"}
+{"nick":"plutoniix","reason":"Ping timeout: 255 seconds","date":"2017-08-16T15:59:37.997Z","type":"quit"}
+{"nick":"RT|Chatzilla","reason":"Quit: ChatZilla 0.9.86.1 [Firefox 2.0.0.22pre/2010030309]","date":"2017-08-16T16:05:35.462Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-08-16T16:12:29.697Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-16T17:01:30.063Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-08-16T17:30:09.506Z","type":"join"}
+{"nick":"plutoniix","reason":"Read error: Connection reset by peer","date":"2017-08-16T17:57:29.354Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-08-16T18:18:22.424Z","type":"join"}
+{"nick":"aklein","message":"caitp: you planning to send a CL for staging async iteration?","date":"2017-08-16T19:21:11.893Z","type":"message"}
+{"nick":"aklein","message":"caitp: (and then maybe an intent to ship?)","date":"2017-08-16T19:21:28.010Z","type":"message"}
+{"nick":"caitp","message":"didn't I already send it?","date":"2017-08-16T19:21:29.871Z","type":"message"}
+{"nick":"caitp","message":"I guess it's too bitrotten to 1-click rebase, but it's already there","date":"2017-08-16T19:22:16.701Z","type":"message"}
+{"nick":"aklein","message":"oh!","date":"2017-08-16T19:22:53.471Z","type":"message"}
+{"nick":"aklein","message":"ah yes, https://chromium-review.googlesource.com/c/466107","date":"2017-08-16T19:23:24.623Z","type":"message"}
+{"nick":"caitp","message":"behind master branch by only 2564 commits","date":"2017-08-16T19:26:18.357Z","type":"message"}
+{"nick":"caitp","message":"or more","date":"2017-08-16T19:26:34.684Z","type":"message"}
+{"nick":"aklein","message":"heh","date":"2017-08-16T19:27:58.926Z","type":"message"}
+{"nick":"aklein","message":"nice","date":"2017-08-16T19:27:59.979Z","type":"message"}
+{"nick":"seventh","reason":"Quit: ...","date":"2017-08-16T20:11:12.862Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2017-08-16T20:31:21.555Z","type":"quit"}
+{"nick":"plutoniix","reason":"Quit: Leaving","date":"2017-08-16T22:10:03.355Z","type":"quit"}
+{"nick":"RT|Chatzilla","date":"2017-08-16T22:26:31.728Z","type":"join"}
+{"nick":"Guest59_","date":"2017-08-16T23:07:40.273Z","type":"join"}
+{"nick":"Guest59","reason":"Ping timeout: 240 seconds","date":"2017-08-16T23:10:35.556Z","type":"quit"}
+{"nick":"Guest59_","reason":"Read error: Connection reset by peer","date":"2017-08-16T23:37:33.354Z","type":"quit"}
+{"nick":"Guest59","date":"2017-08-16T23:37:44.152Z","type":"join"}

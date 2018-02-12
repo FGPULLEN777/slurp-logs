@@ -1,0 +1,1565 @@
+{"nick":"jottr","reason":"Ping timeout: 256 seconds","date":"2018-01-13T00:00:02.774Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 240 seconds","date":"2018-01-13T00:01:27.787Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T00:01:47.503Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T00:01:48.633Z","type":"join"}
+{"nick":"finuit","date":"2018-01-13T00:01:48.702Z","type":"join"}
+{"nick":"justicefries","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T00:02:17.367Z","type":"quit"}
+{"nick":"vivekp_","reason":"Quit: This computer has gone to sleep","date":"2018-01-13T00:02:43.113Z","type":"quit"}
+{"nick":"vivekp_","date":"2018-01-13T00:04:58.676Z","type":"join"}
+{"nick":"horsey","date":"2018-01-13T00:05:34.641Z","type":"join"}
+{"nick":"chargen","date":"2018-01-13T00:05:46.290Z","type":"join"}
+{"nick":"mezod","date":"2018-01-13T00:06:54.167Z","type":"join"}
+{"nick":"platonic","date":"2018-01-13T00:07:35.777Z","type":"join"}
+{"nick":"Tudor___","date":"2018-01-13T00:09:12.839Z","type":"join"}
+{"nick":"justicefries","date":"2018-01-13T00:09:20.941Z","type":"join"}
+{"nick":"Sven_vB","message":"I started an interactive bash via xinetd in order to debug why my node service won't run. inside this bash, nodejs -p \"require.resolve('npm')\" can find npm when my working directory is /usr/lib/node_modules, but can't find it when cwd is /. any ideas why?","date":"2018-01-13T00:09:46.702Z","type":"message"}
+{"nick":"vivekp_","reason":"Quit: This computer has gone to sleep","date":"2018-01-13T00:10:09.231Z","type":"quit"}
+{"nick":"paraxial","reason":"Quit: The Lounge - https://thelounge.github.io","date":"2018-01-13T00:10:16.618Z","type":"quit"}
+{"nick":"chargen","reason":"Ping timeout: 255 seconds","date":"2018-01-13T00:10:20.199Z","type":"quit"}
+{"nick":"horsey","reason":"Ping timeout: 255 seconds","date":"2018-01-13T00:10:20.268Z","type":"quit"}
+{"nick":"Sven_vB","message":"using Node.js v6.12.3, npm v5.6.0, Ubuntu 14.04.5 LTS trusty","date":"2018-01-13T00:10:24.646Z","type":"message"}
+{"nick":"paraxial","date":"2018-01-13T00:10:42.662Z","type":"join"}
+{"nick":"CarlenWhite","reason":"Ping timeout: 240 seconds","date":"2018-01-13T00:11:05.475Z","type":"quit"}
+{"nick":"Tudor_","reason":"Ping timeout: 248 seconds","date":"2018-01-13T00:11:11.919Z","type":"quit"}
+{"nick":"mezod","reason":"Ping timeout: 256 seconds","date":"2018-01-13T00:11:22.799Z","type":"quit"}
+{"nick":"vivekp_","date":"2018-01-13T00:11:34.825Z","type":"join"}
+{"nick":"platonic","reason":"Ping timeout: 260 seconds","date":"2018-01-13T00:12:20.589Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T00:12:31.579Z","type":"join"}
+{"nick":"Sven_vB","action":"tries to find the docs that he though said /usr/lib/node_modules was a default search path","date":"2018-01-13T00:12:35.864Z","type":"action"}
+{"nick":"joepie91","message":"Sven_vB: I doubt it would be, that's not even a path that exists cross-distro","date":"2018-01-13T00:13:50.563Z","type":"message"}
+{"nick":"kakashiAL","reason":"Ping timeout: 256 seconds","date":"2018-01-13T00:14:12.806Z","type":"quit"}
+{"nick":"milardovich","date":"2018-01-13T00:14:46.784Z","type":"quit"}
+{"nick":"Sven_vB","message":"the \"modules\" API docs, chapter \"Loading from the global folders\", lists \"3: $PREFIX/lib/node\"","date":"2018-01-13T00:14:58.727Z","type":"message"}
+{"nick":"Sven_vB","message":"oh right, that's w/o _modules","date":"2018-01-13T00:15:09.356Z","type":"message"}
+{"nick":"tinyV0id","reason":"Quit: My PC went to BSOD","date":"2018-01-13T00:15:46.172Z","type":"quit"}
+{"nick":"Sven_vB","message":"found it. in my usual shells it works because /etc/profile.d/nodejs.sh has NODE_PATH=/usr/lib/nodejs:/usr/lib/node_modules:/usr/share/javascript","date":"2018-01-13T00:16:53.810Z","type":"message"}
+{"nick":"Sven_vB","message":"the more you know…","date":"2018-01-13T00:17:03.852Z","type":"message"}
+{"nick":"Lompostathe78","reason":"Remote host closed the connection","date":"2018-01-13T00:17:20.096Z","type":"quit"}
+{"nick":"Lompostathe78","date":"2018-01-13T00:17:40.775Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 260 seconds","date":"2018-01-13T00:18:10.643Z","type":"quit"}
+{"nick":"khamsin","reason":"Quit: Ping timeout (120 seconds)","date":"2018-01-13T00:18:16.811Z","type":"quit"}
+{"nick":"safe","reason":"Read error: Connection reset by peer","date":"2018-01-13T00:21:08.346Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T00:21:08.346Z","type":"join"}
+{"nick":"eckhardt","date":"2018-01-13T00:22:41.156Z","type":"join"}
+{"nick":"Gustavo6046","reason":"Quit: They make sleep time such a rigid and often unexpected for time it is a nuisance! Bah!","date":"2018-01-13T00:26:52.395Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T00:26:53.907Z","type":"quit"}
+{"nick":"greves","date":"2018-01-13T00:27:16.114Z","type":"join"}
+{"nick":"melvster","reason":"Ping timeout: 255 seconds","date":"2018-01-13T00:27:53.234Z","type":"quit"}
+{"nick":"greves","message":"Hi all, quick question: if I have a function that does a bunch of work and returns an `EventEmitter`, but when calling the function (and getting the EventEmitter), I don't subscribe until after the work is done, will the `emit` still happen?","date":"2018-01-13T00:29:00.091Z","type":"message"}
+{"nick":"knowlton","date":"2018-01-13T00:30:12.899Z","type":"join"}
+{"nick":"zumba_ad_","date":"2018-01-13T00:33:10.874Z","type":"join"}
+{"nick":"piyer","reason":"Read error: Connection reset by peer","date":"2018-01-13T00:34:10.522Z","type":"quit"}
+{"nick":"Sven_vB","message":"greves, all emits will happen, but no-one will hear them until someone subscribes.","date":"2018-01-13T00:34:21.791Z","type":"message"}
+{"nick":"piyer","date":"2018-01-13T00:34:25.521Z","type":"join"}
+{"nick":"smccarth_","date":"2018-01-13T00:34:30.314Z","type":"join"}
+{"nick":"xNinjaDNT","reason":"Ping timeout: 268 seconds","date":"2018-01-13T00:34:37.641Z","type":"quit"}
+{"nick":"mollusk","reason":"Quit: My MacBook Air has gone to sleep. ZZZzzz…","date":"2018-01-13T00:35:07.804Z","type":"quit"}
+{"nick":"greves","message":"ok great, that's what i thought. i built myself a race condition and just tested it out. now i know how to fix it :)","date":"2018-01-13T00:35:14.292Z","type":"message"}
+{"nick":"vivekp_","reason":"Quit: This computer has gone to sleep","date":"2018-01-13T00:35:22.317Z","type":"quit"}
+{"nick":"joepie91","message":"Sven_vB: yep, that's a bad practice though :)","date":"2018-01-13T00:35:45.776Z","type":"message"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T00:35:59.860Z","type":"quit"}
+{"nick":"Alina-malina","reason":"Ping timeout: 256 seconds","date":"2018-01-13T00:36:52.850Z","type":"quit"}
+{"nick":"eivarv","reason":"Quit: Sleep","date":"2018-01-13T00:37:59.808Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-13T00:38:27.960Z","type":"quit"}
+{"nick":"smccarthy","reason":"Ping timeout: 256 seconds","date":"2018-01-13T00:38:34.798Z","type":"quit"}
+{"nick":"bovard","reason":"Quit: This computer has gone to sleep","date":"2018-01-13T00:40:07.843Z","type":"quit"}
+{"nick":"vinleod","date":"2018-01-13T00:41:35.280Z","type":"join"}
+{"nick":"vdamewood","reason":"Ping timeout: 248 seconds","date":"2018-01-13T00:41:37.414Z","type":"quit"}
+{"nick":"anomaly44","reason":"Read error: Connection reset by peer","date":"2018-01-13T00:42:09.966Z","type":"quit"}
+{"nick":"xNinjaDNT","date":"2018-01-13T00:42:13.240Z","type":"join"}
+{"nick":"DLSteve","reason":"Quit: All rise, the honorable DLSteve has left the channel.","date":"2018-01-13T00:42:56.733Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T00:44:42.241Z","type":"join"}
+{"nick":"Alina-malina","date":"2018-01-13T00:45:02.219Z","type":"join"}
+{"nick":"orbyt_","date":"2018-01-13T00:45:17.411Z","type":"join"}
+{"nick":"vivekp_","date":"2018-01-13T00:45:24.785Z","type":"join"}
+{"nick":"zumba_ad_","reason":"Remote host closed the connection","date":"2018-01-13T00:45:38.303Z","type":"quit"}
+{"nick":"oxalorg","reason":"Quit: The Lounge - https://thelounge.github.io","date":"2018-01-13T00:47:19.216Z","type":"quit"}
+{"nick":"MeTonaTOR","reason":"Read error: Connection reset by peer","date":"2018-01-13T00:47:35.024Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T00:50:56.839Z","type":"quit"}
+{"nick":"oetjenj","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T00:51:43.129Z","type":"quit"}
+{"nick":"oetjenj","date":"2018-01-13T00:52:01.790Z","type":"join"}
+{"nick":"oetjenj","reason":"Client Quit","date":"2018-01-13T00:52:29.064Z","type":"quit"}
+{"nick":"oetjenj","date":"2018-01-13T00:52:48.821Z","type":"join"}
+{"nick":"oetjenj","reason":"Client Quit","date":"2018-01-13T00:53:15.390Z","type":"quit"}
+{"nick":"oetjenj","date":"2018-01-13T00:53:33.771Z","type":"join"}
+{"nick":"oetjenj","reason":"Client Quit","date":"2018-01-13T00:54:01.503Z","type":"quit"}
+{"nick":"oetjenj","date":"2018-01-13T00:54:20.369Z","type":"join"}
+{"nick":"JBreit","date":"2018-01-13T00:54:37.831Z","type":"join"}
+{"nick":"oetjenj","reason":"Client Quit","date":"2018-01-13T00:54:47.989Z","type":"quit"}
+{"nick":"oetjenj","date":"2018-01-13T00:55:06.771Z","type":"join"}
+{"nick":"oetjenj","reason":"Client Quit","date":"2018-01-13T00:55:34.149Z","type":"quit"}
+{"nick":"oetjenj","date":"2018-01-13T00:55:52.936Z","type":"join"}
+{"nick":"oetjenj","reason":"Client Quit","date":"2018-01-13T00:56:20.339Z","type":"quit"}
+{"nick":"finuit","reason":"Ping timeout: 256 seconds","date":"2018-01-13T00:56:27.651Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T00:56:30.126Z","type":"join"}
+{"nick":"oetjenj","date":"2018-01-13T00:56:38.777Z","type":"join"}
+{"nick":"oetjenj","reason":"Client Quit","date":"2018-01-13T00:57:06.637Z","type":"quit"}
+{"nick":"vivekp_","reason":"Quit: This computer has gone to sleep","date":"2018-01-13T00:57:11.925Z","type":"quit"}
+{"nick":"sz0","reason":"Quit: Connection closed for inactivity","date":"2018-01-13T00:57:12.733Z","type":"quit"}
+{"nick":"oetjenj","date":"2018-01-13T00:57:25.188Z","type":"join"}
+{"nick":"markh","date":"2018-01-13T00:57:26.183Z","type":"quit"}
+{"nick":"oetjenj","reason":"Client Quit","date":"2018-01-13T00:57:52.593Z","type":"quit"}
+{"nick":"Tennis","date":"2018-01-13T00:58:10.798Z","type":"join"}
+{"nick":"math0ne","reason":"Ping timeout: 240 seconds","date":"2018-01-13T01:00:11.997Z","type":"quit"}
+{"nick":"chargen","date":"2018-01-13T01:01:16.633Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T01:01:48.787Z","type":"quit"}
+{"nick":"sstercan","reason":"Ping timeout: 240 seconds","date":"2018-01-13T01:02:57.778Z","type":"quit"}
+{"nick":"ffx","reason":"Quit: Leaving...","date":"2018-01-13T01:03:52.471Z","type":"quit"}
+{"nick":"ffx","date":"2018-01-13T01:04:39.863Z","type":"join"}
+{"nick":"chargen","reason":"Ping timeout: 260 seconds","date":"2018-01-13T01:06:00.591Z","type":"quit"}
+{"nick":"ffx","reason":"Client Quit","date":"2018-01-13T01:06:01.086Z","type":"quit"}
+{"nick":"ffx","date":"2018-01-13T01:06:51.240Z","type":"join"}
+{"nick":"JBreit","reason":"Quit: Leaving","date":"2018-01-13T01:07:44.437Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T01:08:04.738Z","type":"join"}
+{"nick":"platonic","date":"2018-01-13T01:08:36.895Z","type":"join"}
+{"nick":"tcsc","reason":"Remote host closed the connection","date":"2018-01-13T01:09:22.611Z","type":"quit"}
+{"nick":"_6a68","reason":"Remote host closed the connection","date":"2018-01-13T01:09:22.679Z","type":"quit"}
+{"nick":"posidron","reason":"Remote host closed the connection","date":"2018-01-13T01:09:23.033Z","type":"quit"}
+{"nick":"janx","reason":"Remote host closed the connection","date":"2018-01-13T01:09:23.033Z","type":"quit"}
+{"nick":"orbyt_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T01:11:02.638Z","type":"quit"}
+{"nick":"smccarth_","reason":"Remote host closed the connection","date":"2018-01-13T01:13:16.908Z","type":"quit"}
+{"nick":"platonic","reason":"Ping timeout: 276 seconds","date":"2018-01-13T01:13:42.096Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T01:13:42.710Z","type":"quit"}
+{"nick":"lineus","reason":"Quit: leaving","date":"2018-01-13T01:15:52.005Z","type":"quit"}
+{"nick":"ffx","reason":"Quit: Leaving...","date":"2018-01-13T01:16:26.727Z","type":"quit"}
+{"nick":"ffx","date":"2018-01-13T01:17:13.854Z","type":"join"}
+{"nick":"lineus","date":"2018-01-13T01:17:34.814Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T01:18:33.648Z","type":"quit"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2018-01-13T01:20:01.049Z","type":"quit"}
+{"nick":"ed209","date":"2018-01-13T01:20:07.756Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T01:20:18.128Z","type":"join"}
+{"nick":"orbyt_","date":"2018-01-13T01:20:21.723Z","type":"join"}
+{"nick":"greves","reason":"Ping timeout: 255 seconds","date":"2018-01-13T01:20:32.237Z","type":"quit"}
+{"nick":"zumba_ad_","date":"2018-01-13T01:21:39.663Z","type":"join"}
+{"nick":"LeBlaaanc","date":"2018-01-13T01:22:40.260Z","type":"join"}
+{"nick":"zwliew","reason":"Quit: Connection closed for inactivity","date":"2018-01-13T01:24:56.913Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 240 seconds","date":"2018-01-13T01:25:27.827Z","type":"quit"}
+{"nick":"zumba_ad_","reason":"Remote host closed the connection","date":"2018-01-13T01:27:57.750Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T01:29:00.202Z","type":"join"}
+{"nick":"smccarthy","date":"2018-01-13T01:29:55.648Z","type":"join"}
+{"nick":"jsatk","date":"2018-01-13T01:32:12.642Z","type":"join"}
+{"nick":"ffx","reason":"Quit: Leaving...","date":"2018-01-13T01:33:30.578Z","type":"quit"}
+{"nick":"coot____","reason":"Ping timeout: 256 seconds","date":"2018-01-13T01:34:06.803Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T01:34:29.267Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T01:36:21.581Z","type":"join"}
+{"nick":"b4dger","date":"2018-01-13T01:36:46.910Z","type":"join"}
+{"nick":"mnemonicj","reason":"Quit: bye!","date":"2018-01-13T01:38:10.804Z","type":"quit"}
+{"nick":"clintar","date":"2018-01-13T01:38:13.238Z","type":"join"}
+{"nick":"zumba_ad_","date":"2018-01-13T01:38:29.802Z","type":"join"}
+{"nick":"mnemonicj","date":"2018-01-13T01:39:26.814Z","type":"join"}
+{"nick":"smccarthy","reason":"Remote host closed the connection","date":"2018-01-13T01:39:46.670Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 260 seconds","date":"2018-01-13T01:41:00.591Z","type":"quit"}
+{"nick":"Hu0p","date":"2018-01-13T01:41:36.478Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T01:41:47.648Z","type":"quit"}
+{"nick":"smccarthy","date":"2018-01-13T01:43:50.753Z","type":"join"}
+{"nick":"dh1tw","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-01-13T01:45:55.253Z","type":"quit"}
+{"nick":"Hu0p","reason":"Quit: Do Macbooks Dream of Electric Sheep?","date":"2018-01-13T01:46:48.557Z","type":"quit"}
+{"nick":"b4dger","reason":"Quit: WeeChat 2.0.1","date":"2018-01-13T01:47:05.055Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T01:47:15.212Z","type":"join"}
+{"nick":"mnemonicj","reason":"Quit: bye!","date":"2018-01-13T01:47:20.850Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T01:47:21.750Z","type":"join"}
+{"nick":"mnemonicj","date":"2018-01-13T01:49:47.765Z","type":"join"}
+{"nick":"mnemonicj","reason":"Client Quit","date":"2018-01-13T01:51:50.365Z","type":"quit"}
+{"nick":"Hu0p","date":"2018-01-13T01:52:09.707Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T01:52:48.719Z","type":"quit"}
+{"nick":"mnemonicj","date":"2018-01-13T01:54:23.968Z","type":"join"}
+{"nick":"b4dger","date":"2018-01-13T01:56:26.687Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 255 seconds","date":"2018-01-13T01:56:32.306Z","type":"quit"}
+{"nick":"RikSolo","reason":"Quit: byebye","date":"2018-01-13T01:57:08.929Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T01:58:07.585Z","type":"join"}
+{"nick":"b4dger","reason":"Client Quit","date":"2018-01-13T02:00:00.927Z","type":"quit"}
+{"nick":"zumba_ad_","reason":"Remote host closed the connection","date":"2018-01-13T02:00:40.626Z","type":"quit"}
+{"nick":"piyer","reason":"Remote host closed the connection","date":"2018-01-13T02:00:56.617Z","type":"quit"}
+{"nick":"eckhardt","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-13T02:01:14.738Z","type":"quit"}
+{"nick":"piyer","date":"2018-01-13T02:01:29.824Z","type":"join"}
+{"nick":"RikSolo","date":"2018-01-13T02:01:32.243Z","type":"join"}
+{"nick":"tkore","reason":"Read error: Connection reset by peer","date":"2018-01-13T02:01:55.407Z","type":"quit"}
+{"nick":"zumba_ad_","date":"2018-01-13T02:02:44.879Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T02:02:56.927Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T02:03:19.624Z","type":"quit"}
+{"nick":"gambl0re","reason":"Ping timeout: 256 seconds","date":"2018-01-13T02:05:50.739Z","type":"quit"}
+{"nick":"piyer","reason":"Ping timeout: 256 seconds","date":"2018-01-13T02:06:09.656Z","type":"quit"}
+{"nick":"vinleod","new_nick":"vdamewood","date":"2018-01-13T02:06:25.382Z","type":"nick"}
+{"nick":"horsey","date":"2018-01-13T02:06:31.003Z","type":"join"}
+{"nick":"digitalnomad91","date":"2018-01-13T02:06:45.404Z","type":"join"}
+{"nick":"ironfroggy","reason":"Remote host closed the connection","date":"2018-01-13T02:08:27.467Z","type":"quit"}
+{"nick":"chargen","date":"2018-01-13T02:08:37.736Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T02:08:56.790Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T02:09:35.656Z","type":"join"}
+{"nick":"greves","date":"2018-01-13T02:09:45.814Z","type":"join"}
+{"nick":"posidron","date":"2018-01-13T02:10:51.740Z","type":"join"}
+{"nick":"horsey","reason":"Ping timeout: 256 seconds","date":"2018-01-13T02:11:30.712Z","type":"quit"}
+{"nick":"elans_","reason":"Quit: Leaving","date":"2018-01-13T02:11:56.571Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T02:12:52.198Z","type":"join"}
+{"nick":"bwn","date":"2018-01-13T02:14:11.623Z","type":"join"}
+{"nick":"superlou","date":"2018-01-13T02:14:12.276Z","type":"join"}
+{"nick":"chargen","reason":"Ping timeout: 256 seconds","date":"2018-01-13T02:14:20.711Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T02:15:13.622Z","type":"quit"}
+{"nick":"zumba_ad_","reason":"Remote host closed the connection","date":"2018-01-13T02:15:14.182Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T02:16:38.771Z","type":"join"}
+{"nick":"mnemonicj","reason":"Quit: bye!","date":"2018-01-13T02:18:21.600Z","type":"quit"}
+{"nick":"mnemonicj","date":"2018-01-13T02:20:14.070Z","type":"join"}
+{"nick":"roadrunneratwast","date":"2018-01-13T02:21:06.002Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T02:22:16.728Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T02:22:17.081Z","type":"quit"}
+{"nick":"VoradorPT","reason":"Quit: Leaving","date":"2018-01-13T02:23:28.688Z","type":"quit"}
+{"nick":"roadrunneratwast","message":"hi.  do people here use sequelize or another orm?","date":"2018-01-13T02:25:34.330Z","type":"message"}
+{"nick":"_6a68","date":"2018-01-13T02:26:17.677Z","type":"join"}
+{"nick":"jsatk","date":"2018-01-13T02:26:57.634Z","type":"join"}
+{"nick":"ktilcu","date":"2018-01-13T02:26:57.797Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T02:27:17.450Z","type":"join"}
+{"nick":"Xiti","reason":"Quit: Xiti","date":"2018-01-13T02:30:06.856Z","type":"quit"}
+{"nick":"Xiti","date":"2018-01-13T02:32:38.262Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T02:32:59.872Z","type":"quit"}
+{"nick":"MarkyC","date":"2018-01-13T02:35:18.343Z","type":"join"}
+{"nick":"GreenJello","message":"roadrunneratwast, a lot of people don't use ORMs for all projects","date":"2018-01-13T02:36:09.087Z","type":"message"}
+{"nick":"GreenJello","message":"roadrunneratwast, knex is pretty common, which is just a query builder","date":"2018-01-13T02:36:25.527Z","type":"message"}
+{"nick":"DeltaHeavy","message":"Most here use Knex from what I can tell","date":"2018-01-13T02:36:43.196Z","type":"message"}
+{"nick":"roadrunneratwast","message":"thanks greenjello. i am going to do a bit more studying and ask a better question.  i think i need to get a better grasp of promises","date":"2018-01-13T02:36:53.197Z","type":"message"}
+{"nick":"GreenJello","message":"roadrunneratwast, I've seen a lot of people with weird sequelize issues","date":"2018-01-13T02:37:18.232Z","type":"message"}
+{"nick":"GreenJello","message":"there's also bookshelf, which is less popular, but built on top of knex","date":"2018-01-13T02:37:33.719Z","type":"message"}
+{"nick":"roadrunneratwast","message":"cool. i will hit you all up once i try some stuff out","date":"2018-01-13T02:37:59.587Z","type":"message"}
+{"nick":"knowlton","date":"2018-01-13T02:38:27.245Z","type":"join"}
+{"nick":"MarkyC","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T02:40:59.776Z","type":"quit"}
+{"nick":"anjibaicha__","date":"2018-01-13T02:41:14.198Z","type":"join"}
+{"nick":"pijiu","message":"zsoc,","date":"2018-01-13T02:42:49.910Z","type":"message"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T02:43:47.251Z","type":"quit"}
+{"nick":"wafflejock","date":"2018-01-13T02:45:38.238Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T02:47:48.783Z","type":"join"}
+{"nick":"happyhippo","reason":"Ping timeout: 276 seconds","date":"2018-01-13T02:49:20.146Z","type":"quit"}
+{"nick":"piyer","date":"2018-01-13T02:49:41.883Z","type":"join"}
+{"nick":"tcsc","date":"2018-01-13T02:50:02.957Z","type":"join"}
+{"nick":"justicefries","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T02:52:55.504Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T02:53:26.746Z","type":"quit"}
+{"nick":"ktilcu","reason":"Read error: Connection reset by peer","date":"2018-01-13T02:55:55.197Z","type":"quit"}
+{"nick":"ktilcu","date":"2018-01-13T02:56:26.803Z","type":"join"}
+{"nick":"dman777","date":"2018-01-13T02:56:59.804Z","type":"join"}
+{"nick":"anjibaicha__","reason":"Quit: anjibaicha__","date":"2018-01-13T02:57:40.616Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T02:58:56.828Z","type":"join"}
+{"nick":"Tennis","reason":"Quit: Leaving","date":"2018-01-13T03:00:40.014Z","type":"quit"}
+{"nick":"PaulCapestany","reason":"Quit: .","date":"2018-01-13T03:01:16.656Z","type":"quit"}
+{"nick":"chargen","date":"2018-01-13T03:01:16.657Z","type":"join"}
+{"nick":"orbyt_","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-13T03:02:18.047Z","type":"quit"}
+{"nick":"PaulCapestany","date":"2018-01-13T03:02:18.155Z","type":"join"}
+{"nick":"PaulCapestany","reason":"Client Quit","date":"2018-01-13T03:02:36.379Z","type":"quit"}
+{"nick":"happyhippo","date":"2018-01-13T03:03:24.626Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T03:04:50.783Z","type":"quit"}
+{"nick":"PaulCapestany","date":"2018-01-13T03:05:22.274Z","type":"join"}
+{"nick":"chargen","reason":"Ping timeout: 256 seconds","date":"2018-01-13T03:05:39.628Z","type":"quit"}
+{"nick":"vivekp_","date":"2018-01-13T03:06:49.562Z","type":"join"}
+{"nick":"vivekp_","reason":"Client Quit","date":"2018-01-13T03:06:53.882Z","type":"quit"}
+{"nick":"orbyt_","date":"2018-01-13T03:08:08.228Z","type":"join"}
+{"nick":"eastwoot","reason":"Quit: Going offline, see ya! (www.adiirc.com)","date":"2018-01-13T03:08:31.311Z","type":"quit"}
+{"nick":"Mia","reason":"Quit: Leaving","date":"2018-01-13T03:10:11.420Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T03:10:32.229Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T03:11:53.729Z","type":"quit"}
+{"nick":"roadrunneratwast","reason":"Quit: Leaving.","date":"2018-01-13T03:12:00.352Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T03:13:07.607Z","type":"join"}
+{"nick":"MarkyC","date":"2018-01-13T03:13:24.090Z","type":"join"}
+{"nick":"janx","date":"2018-01-13T03:14:08.817Z","type":"join"}
+{"nick":"MarkyC","reason":"Client Quit","date":"2018-01-13T03:14:29.483Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T03:16:11.229Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T03:17:15.623Z","type":"join"}
+{"nick":"prometh","reason":"Quit: My Mac Mini has gone to sleep. ZZZzzz…","date":"2018-01-13T03:18:31.462Z","type":"quit"}
+{"nick":"piyer","reason":"Remote host closed the connection","date":"2018-01-13T03:19:09.738Z","type":"quit"}
+{"nick":"piyer","date":"2018-01-13T03:19:41.168Z","type":"join"}
+{"nick":"Circlefusion","date":"2018-01-13T03:19:51.848Z","type":"join"}
+{"nick":"tm","reason":"Ping timeout: 265 seconds","date":"2018-01-13T03:20:21.515Z","type":"quit"}
+{"nick":"mcgritch","date":"2018-01-13T03:20:30.064Z","type":"join"}
+{"nick":"vivekp_","date":"2018-01-13T03:22:29.335Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 260 seconds","date":"2018-01-13T03:22:30.692Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T03:22:41.114Z","type":"quit"}
+{"nick":"vdamewood","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-13T03:23:42.200Z","type":"quit"}
+{"nick":"tm","date":"2018-01-13T03:23:48.404Z","type":"join"}
+{"nick":"piyer","reason":"Ping timeout: 240 seconds","date":"2018-01-13T03:23:57.849Z","type":"quit"}
+{"nick":"mcgritch","reason":"Ping timeout: 260 seconds","date":"2018-01-13T03:25:14.981Z","type":"quit"}
+{"nick":"troyhitch","date":"2018-01-13T03:25:16.776Z","type":"join"}
+{"nick":"LeBlaaanc","reason":"Read error: Connection reset by peer","date":"2018-01-13T03:26:08.938Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T03:26:21.866Z","type":"join"}
+{"nick":"troyhitch","reason":"Client Quit","date":"2018-01-13T03:26:25.771Z","type":"quit"}
+{"nick":"drewmcmillan","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T03:26:28.507Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T03:26:59.011Z","type":"join"}
+{"nick":"patterson","reason":"Quit: I quit","date":"2018-01-13T03:27:15.528Z","type":"quit"}
+{"nick":"heydenweb","reason":"Ping timeout: 268 seconds","date":"2018-01-13T03:27:17.639Z","type":"quit"}
+{"nick":"vivekp_","reason":"Quit: This computer has gone to sleep","date":"2018-01-13T03:28:04.950Z","type":"quit"}
+{"nick":"superlou","reason":"Quit: Leaving","date":"2018-01-13T03:28:56.227Z","type":"quit"}
+{"nick":"zumba_ad_","date":"2018-01-13T03:31:41.538Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T03:31:43.676Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T03:32:08.827Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T03:32:14.663Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T03:33:01.820Z","type":"join"}
+{"nick":"melvster","date":"2018-01-13T03:35:02.227Z","type":"join"}
+{"nick":"dconroy","date":"2018-01-13T03:36:05.789Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T03:38:38.748Z","type":"quit"}
+{"nick":"JBreit","date":"2018-01-13T03:39:46.891Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T03:40:47.677Z","type":"quit"}
+{"nick":"falafel","date":"2018-01-13T03:41:06.305Z","type":"join"}
+{"nick":"jsatk","date":"2018-01-13T03:41:14.590Z","type":"join"}
+{"nick":"c9clc","date":"2018-01-13T03:43:04.649Z","type":"join"}
+{"nick":"dconroy","reason":"Read error: Connection reset by peer","date":"2018-01-13T03:46:09.242Z","type":"quit"}
+{"nick":"Atemu","date":"2018-01-13T03:48:05.456Z","type":"join"}
+{"nick":"c9clc","reason":"Quit: Lost terminal","date":"2018-01-13T03:48:41.839Z","type":"quit"}
+{"nick":"h12o","date":"2018-01-13T03:48:48.219Z","type":"join"}
+{"nick":"beefjoe","date":"2018-01-13T03:48:56.444Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T03:49:02.773Z","type":"join"}
+{"nick":"Atemu","reason":"Client Quit","date":"2018-01-13T03:49:11.477Z","type":"quit"}
+{"nick":"bobbydoogle","reason":"Quit: Leaving","date":"2018-01-13T03:51:05.893Z","type":"quit"}
+{"nick":"bobbydoogle1","reason":"Quit: Leaving","date":"2018-01-13T03:51:05.973Z","type":"quit"}
+{"nick":"tenchi4614","reason":"Ping timeout: 240 seconds","date":"2018-01-13T03:52:27.808Z","type":"quit"}
+{"nick":"happyhippo","reason":"Ping timeout: 276 seconds","date":"2018-01-13T03:52:56.873Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T03:54:23.583Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T03:54:38.725Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T03:54:59.734Z","type":"join"}
+{"nick":"plexigras","reason":"Ping timeout: 255 seconds","date":"2018-01-13T03:56:41.941Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T03:57:43.654Z","type":"join"}
+{"nick":"tkore","date":"2018-01-13T03:59:06.796Z","type":"join"}
+{"nick":"mnemonicj","reason":"Quit: bye!","date":"2018-01-13T04:03:02.663Z","type":"quit"}
+{"nick":"zumba_ad_","reason":"Remote host closed the connection","date":"2018-01-13T04:03:08.534Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T04:03:28.129Z","type":"quit"}
+{"nick":"mnemonicj","date":"2018-01-13T04:04:49.881Z","type":"join"}
+{"nick":"digitalnomad91","reason":"Ping timeout: 256 seconds","date":"2018-01-13T04:06:51.615Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T04:07:12.315Z","type":"join"}
+{"nick":"chargen","date":"2018-01-13T04:07:15.627Z","type":"join"}
+{"nick":"horsey","date":"2018-01-13T04:07:21.098Z","type":"join"}
+{"nick":"horsey","reason":"Read error: Connection reset by peer","date":"2018-01-13T04:09:23.976Z","type":"quit"}
+{"nick":"horsey","date":"2018-01-13T04:09:46.148Z","type":"join"}
+{"nick":"platonic","date":"2018-01-13T04:11:37.782Z","type":"join"}
+{"nick":"cig0","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T04:11:51.343Z","type":"quit"}
+{"nick":"chargen","reason":"Ping timeout: 260 seconds","date":"2018-01-13T04:12:05.702Z","type":"quit"}
+{"nick":"Cache_Money","date":"2018-01-13T04:12:25.318Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T04:12:46.815Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T04:12:53.268Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T04:12:58.746Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T04:14:36.802Z","type":"join"}
+{"nick":"platonic","reason":"Ping timeout: 255 seconds","date":"2018-01-13T04:16:29.255Z","type":"quit"}
+{"nick":"Cache_Money","reason":"Ping timeout: 276 seconds","date":"2018-01-13T04:17:38.776Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T04:20:08.762Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T04:21:16.714Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T04:21:35.675Z","type":"join"}
+{"nick":"Crabalocker","reason":"Read error: Connection reset by peer","date":"2018-01-13T04:21:53.267Z","type":"quit"}
+{"nick":"medikoo-bot1","date":"2018-01-13T04:22:00.635Z","type":"join"}
+{"nick":"Crabalocker","date":"2018-01-13T04:22:13.826Z","type":"join"}
+{"nick":"ghormoon","reason":"Ping timeout: 248 seconds","date":"2018-01-13T04:23:28.088Z","type":"quit"}
+{"nick":"tenchi4614","date":"2018-01-13T04:24:19.151Z","type":"join"}
+{"nick":"medikoo-bot","reason":"Read error: Connection reset by peer","date":"2018-01-13T04:24:23.909Z","type":"quit"}
+{"nick":"ghormoon","date":"2018-01-13T04:26:08.771Z","type":"join"}
+{"nick":"Cache_Money","date":"2018-01-13T04:26:44.959Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T04:26:51.818Z","type":"join"}
+{"nick":"Cache_Money","reason":"Client Quit","date":"2018-01-13T04:27:22.096Z","type":"quit"}
+{"nick":"Cache_Money","date":"2018-01-13T04:28:04.654Z","type":"join"}
+{"nick":"alexweissman","date":"2018-01-13T04:28:51.320Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T04:32:36.792Z","type":"quit"}
+{"nick":"clintar","reason":"Remote host closed the connection","date":"2018-01-13T04:32:37.786Z","type":"quit"}
+{"nick":"Cache_Money","reason":"Ping timeout: 256 seconds","date":"2018-01-13T04:32:56.203Z","type":"quit"}
+{"nick":"argo","date":"2018-01-13T04:33:20.463Z","type":"join"}
+{"nick":"zumba_ad_","date":"2018-01-13T04:34:16.591Z","type":"join"}
+{"nick":"clintar","date":"2018-01-13T04:34:33.768Z","type":"join"}
+{"nick":"digitalnomad91","date":"2018-01-13T04:36:48.371Z","type":"join"}
+{"nick":"cotko4","reason":"Ping timeout: 240 seconds","date":"2018-01-13T04:37:35.508Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T04:39:09.587Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T04:39:54.712Z","type":"join"}
+{"nick":"oetjenj","date":"2018-01-13T04:40:09.614Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T04:40:27.317Z","type":"join"}
+{"nick":"Cabanossi","reason":"Ping timeout: 276 seconds","date":"2018-01-13T04:41:08.108Z","type":"quit"}
+{"nick":"Cabanossi","date":"2018-01-13T04:41:40.467Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T04:46:12.740Z","type":"quit"}
+{"nick":"math0ne","date":"2018-01-13T04:49:45.750Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T04:50:42.268Z","type":"join"}
+{"nick":"math0ne","reason":"Read error: Connection reset by peer","date":"2018-01-13T04:50:46.861Z","type":"quit"}
+{"nick":"math0ne","date":"2018-01-13T04:52:22.208Z","type":"join"}
+{"nick":"belmoussaoui","reason":"Ping timeout: 256 seconds","date":"2018-01-13T04:54:08.793Z","type":"quit"}
+{"nick":"math0ne","reason":"Read error: Connection reset by peer","date":"2018-01-13T04:54:46.977Z","type":"quit"}
+{"nick":"orbyt_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T04:55:51.405Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T04:56:05.255Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T04:56:58.806Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T04:57:50.740Z","type":"join"}
+{"nick":"JBreit","reason":"Quit: Leaving","date":"2018-01-13T04:59:25.250Z","type":"quit"}
+{"nick":"Cache_Money","date":"2018-01-13T05:00:18.487Z","type":"join"}
+{"nick":"mr_lou","date":"2018-01-13T05:00:19.058Z","type":"join"}
+{"nick":"DeltaHeavy","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-13T05:02:21.820Z","type":"quit"}
+{"nick":"melvster","reason":"Ping timeout: 255 seconds","date":"2018-01-13T05:02:23.232Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T05:03:56.731Z","type":"join"}
+{"nick":"math0ne","date":"2018-01-13T05:04:17.617Z","type":"join"}
+{"nick":"Cache_Money","reason":"Ping timeout: 256 seconds","date":"2018-01-13T05:04:39.654Z","type":"quit"}
+{"nick":"eckhardt","date":"2018-01-13T05:05:43.830Z","type":"join"}
+{"nick":"Nico2","date":"2018-01-13T05:06:23.845Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T05:06:36.748Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T05:06:55.191Z","type":"join"}
+{"nick":"DeltaHeavy","date":"2018-01-13T05:07:15.254Z","type":"join"}
+{"nick":"chargen","date":"2018-01-13T05:07:50.997Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T05:09:27.208Z","type":"quit"}
+{"nick":"zivester","reason":"Ping timeout: 240 seconds","date":"2018-01-13T05:09:27.858Z","type":"quit"}
+{"nick":"horsey","reason":"Remote host closed the connection","date":"2018-01-13T05:11:08.968Z","type":"quit"}
+{"nick":"chargen","reason":"Ping timeout: 248 seconds","date":"2018-01-13T05:12:32.016Z","type":"quit"}
+{"nick":"saraf","date":"2018-01-13T05:12:36.710Z","type":"join"}
+{"nick":"vivekp_","date":"2018-01-13T05:12:41.827Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 255 seconds","date":"2018-01-13T05:15:26.244Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T05:15:59.964Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T05:16:08.951Z","type":"join"}
+{"nick":"vivekp_","reason":"Ping timeout: 276 seconds","date":"2018-01-13T05:18:44.769Z","type":"quit"}
+{"nick":"melvster","date":"2018-01-13T05:20:04.361Z","type":"join"}
+{"nick":"Nico2","reason":"Read error: Connection reset by peer","date":"2018-01-13T05:20:33.558Z","type":"quit"}
+{"nick":"Nico2","date":"2018-01-13T05:21:18.970Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 248 seconds","date":"2018-01-13T05:21:36.015Z","type":"quit"}
+{"nick":"Nico2","reason":"Read error: Connection reset by peer","date":"2018-01-13T05:22:36.967Z","type":"quit"}
+{"nick":"Nico2","date":"2018-01-13T05:23:18.292Z","type":"join"}
+{"nick":"Nico2","reason":"Read error: Connection reset by peer","date":"2018-01-13T05:23:56.388Z","type":"quit"}
+{"nick":"Nico2","date":"2018-01-13T05:24:15.590Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T05:24:32.264Z","type":"join"}
+{"nick":"jsatk","reason":"Remote host closed the connection","date":"2018-01-13T05:24:48.326Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T05:24:58.721Z","type":"join"}
+{"nick":"dman777","reason":"Quit: Lost terminal","date":"2018-01-13T05:25:00.538Z","type":"quit"}
+{"nick":"heydenweb","date":"2018-01-13T05:26:00.716Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T05:30:17.240Z","type":"quit"}
+{"nick":"beefjoe","reason":"Remote host closed the connection","date":"2018-01-13T05:31:21.408Z","type":"quit"}
+{"nick":"DeafGoose","reason":"Ping timeout: 260 seconds","date":"2018-01-13T05:31:25.644Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T05:32:52.185Z","type":"join"}
+{"nick":"DeafGoose","date":"2018-01-13T05:35:43.440Z","type":"join"}
+{"nick":"konsolebox","reason":"Ping timeout: 264 seconds","date":"2018-01-13T05:38:09.246Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T05:38:23.184Z","type":"quit"}
+{"nick":"konsolebox","date":"2018-01-13T05:39:46.272Z","type":"join"}
+{"nick":"h12o","reason":"Ping timeout: 255 seconds","date":"2018-01-13T05:41:32.201Z","type":"quit"}
+{"nick":"tk__","date":"2018-01-13T05:41:40.911Z","type":"part"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T05:41:44.791Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T05:42:31.643Z","type":"join"}
+{"nick":"h12o","date":"2018-01-13T05:45:00.671Z","type":"join"}
+{"nick":"tkmedia","date":"2018-01-13T05:45:37.748Z","type":"join"}
+{"nick":"roadrunneratwast","date":"2018-01-13T05:46:48.830Z","type":"join"}
+{"nick":"roadrunneratwast","date":"2018-01-13T05:47:13.443Z","type":"part"}
+{"nick":"knowlton","date":"2018-01-13T05:49:19.249Z","type":"join"}
+{"nick":"h12o","reason":"Ping timeout: 256 seconds","date":"2018-01-13T05:49:59.714Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T05:51:07.600Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T05:51:47.871Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T05:54:35.243Z","type":"quit"}
+{"nick":"zumba_ad_","reason":"Remote host closed the connection","date":"2018-01-13T05:57:00.519Z","type":"quit"}
+{"nick":"Roughy","reason":"Quit: Meadow Fresh milk","date":"2018-01-13T05:58:25.748Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T05:59:37.276Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 248 seconds","date":"2018-01-13T05:59:59.950Z","type":"quit"}
+{"nick":"greves","reason":"Ping timeout: 256 seconds","date":"2018-01-13T06:00:26.800Z","type":"quit"}
+{"nick":"ktilcu","reason":"Remote host closed the connection","date":"2018-01-13T06:00:29.768Z","type":"quit"}
+{"nick":"ktilcu","date":"2018-01-13T06:01:08.005Z","type":"join"}
+{"nick":"justicefries","date":"2018-01-13T06:04:26.300Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T06:05:23.221Z","type":"quit"}
+{"nick":"ktilcu","reason":"Ping timeout: 276 seconds","date":"2018-01-13T06:06:11.860Z","type":"quit"}
+{"nick":"chargen","date":"2018-01-13T06:06:29.622Z","type":"join"}
+{"nick":"jsatk","date":"2018-01-13T06:08:29.105Z","type":"join"}
+{"nick":"Aikar","message":"any tips to debug native memory leaks? ive got some dep creating a leak","date":"2018-01-13T06:08:36.167Z","type":"message"}
+{"nick":"chargen","reason":"Ping timeout: 260 seconds","date":"2018-01-13T06:11:05.636Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T06:12:20.185Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T06:17:11.620Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T06:17:43.596Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T06:17:59.235Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-13T06:18:42.263Z","type":"join"}
+{"nick":"saraf","reason":"Quit: Leaving","date":"2018-01-13T06:20:43.389Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Ping timeout: 255 seconds","date":"2018-01-13T06:23:23.234Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T06:25:41.631Z","type":"quit"}
+{"nick":"pdemier","reason":"Ping timeout: 256 seconds","date":"2018-01-13T06:25:56.830Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T06:26:20.765Z","type":"join"}
+{"nick":"h12o","date":"2018-01-13T06:27:57.844Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T06:28:06.583Z","type":"join"}
+{"nick":"eckhardt","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-13T06:28:09.442Z","type":"quit"}
+{"nick":"oetjenj","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T06:29:34.946Z","type":"quit"}
+{"nick":"giraffe","reason":"Quit: ZNC - http://znc.in","date":"2018-01-13T06:31:13.421Z","type":"quit"}
+{"nick":"smccarthy","reason":"Remote host closed the connection","date":"2018-01-13T06:32:15.173Z","type":"quit"}
+{"nick":"lpin","date":"2018-01-13T06:32:41.368Z","type":"join"}
+{"nick":"h12o","reason":"Ping timeout: 256 seconds","date":"2018-01-13T06:32:44.765Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T06:33:44.187Z","type":"quit"}
+{"nick":"pdemier","date":"2018-01-13T06:34:06.499Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T06:35:00.845Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T06:35:16.467Z","type":"join"}
+{"nick":"marthinal","date":"2018-01-13T06:39:09.763Z","type":"join"}
+{"nick":"marthinal","reason":"Client Quit","date":"2018-01-13T06:39:09.763Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 265 seconds","date":"2018-01-13T06:40:56.406Z","type":"quit"}
+{"nick":"Neo4","reason":"Ping timeout: 255 seconds","date":"2018-01-13T06:44:05.647Z","type":"quit"}
+{"nick":"CarlenWhite","date":"2018-01-13T06:44:29.476Z","type":"join"}
+{"nick":"giraffe","date":"2018-01-13T06:44:37.395Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T06:46:04.706Z","type":"join"}
+{"nick":"Neo4","date":"2018-01-13T06:47:04.886Z","type":"join"}
+{"nick":"LocaMocha","date":"2018-01-13T06:48:24.310Z","type":"join"}
+{"nick":"Lionel_Debroux","reason":"Ping timeout: 240 seconds","date":"2018-01-13T06:48:35.469Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T06:51:45.659Z","type":"quit"}
+{"nick":"rhonabwy","reason":"Ping timeout: 276 seconds","date":"2018-01-13T06:53:05.103Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T06:54:24.842Z","type":"join"}
+{"nick":"pdemier","reason":"Ping timeout: 265 seconds","date":"2018-01-13T06:54:57.511Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T06:59:56.771Z","type":"quit"}
+{"nick":"kommunicate","reason":"Ping timeout: 260 seconds","date":"2018-01-13T07:00:05.626Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T07:00:57.698Z","type":"join"}
+{"nick":"chargen","date":"2018-01-13T07:05:49.198Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T07:06:29.609Z","type":"quit"}
+{"nick":"justicefries","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T07:08:52.414Z","type":"quit"}
+{"nick":"chargen","reason":"Ping timeout: 255 seconds","date":"2018-01-13T07:10:11.223Z","type":"quit"}
+{"nick":"Hu0p","reason":"Quit: Do Macbooks Dream of Electric Sheep?","date":"2018-01-13T07:11:59.647Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T07:16:17.240Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 264 seconds","date":"2018-01-13T07:21:57.200Z","type":"quit"}
+{"nick":"Lionel_Debroux","date":"2018-01-13T07:23:17.523Z","type":"join"}
+{"nick":"pijiu","reason":"Read error: Connection reset by peer","date":"2018-01-13T07:24:17.735Z","type":"quit"}
+{"nick":"h12o","date":"2018-01-13T07:25:07.510Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T07:27:40.829Z","type":"join"}
+{"nick":"rendar","date":"2018-01-13T07:27:43.715Z","type":"join"}
+{"nick":"dconroy","date":"2018-01-13T07:28:59.832Z","type":"join"}
+{"nick":"darutoko","date":"2018-01-13T07:31:43.233Z","type":"join"}
+{"nick":"digitalnomad91","reason":"Ping timeout: 256 seconds","date":"2018-01-13T07:32:33.655Z","type":"quit"}
+{"nick":"h12o","reason":"Ping timeout: 255 seconds","date":"2018-01-13T07:32:41.225Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T07:33:22.725Z","type":"quit"}
+{"nick":"wallyduchamp","date":"2018-01-13T07:35:12.286Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T07:37:49.391Z","type":"join"}
+{"nick":"rhonabwy","date":"2018-01-13T07:38:24.005Z","type":"join"}
+{"nick":"zumba_ad_","date":"2018-01-13T07:39:09.897Z","type":"join"}
+{"nick":"iczero","reason":"Ping timeout: 240 seconds","date":"2018-01-13T07:39:27.832Z","type":"quit"}
+{"nick":"T-2000","reason":"Read error: Connection reset by peer","date":"2018-01-13T07:41:39.409Z","type":"quit"}
+{"nick":"dconroy","reason":"Max SendQ exceeded","date":"2018-01-13T07:41:41.082Z","type":"quit"}
+{"nick":"T-2000","date":"2018-01-13T07:42:08.335Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 260 seconds","date":"2018-01-13T07:43:15.590Z","type":"quit"}
+{"nick":"nanoz","date":"2018-01-13T07:45:42.886Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T07:52:20.275Z","type":"join"}
+{"nick":"chargen","date":"2018-01-13T07:55:13.885Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T07:57:53.208Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T07:59:22.838Z","type":"join"}
+{"nick":"zumba_ad_","reason":"Remote host closed the connection","date":"2018-01-13T08:00:12.818Z","type":"quit"}
+{"nick":"Flynnn","reason":"Ping timeout: 255 seconds","date":"2018-01-13T08:01:02.346Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T08:05:08.828Z","type":"quit"}
+{"nick":"cthulchu","reason":"Ping timeout: 256 seconds","date":"2018-01-13T08:06:55.515Z","type":"quit"}
+{"nick":"safe","date":"2018-01-13T08:07:13.805Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T08:11:22.863Z","type":"join"}
+{"nick":"ch007m","date":"2018-01-13T08:11:40.752Z","type":"join"}
+{"nick":"wallyduchamp","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-13T08:11:48.321Z","type":"quit"}
+{"nick":"donguston","date":"2018-01-13T08:13:11.374Z","type":"join"}
+{"nick":"toi","date":"2018-01-13T08:14:06.936Z","type":"join"}
+{"nick":"platonic","date":"2018-01-13T08:14:30.189Z","type":"join"}
+{"nick":"^^^^","reason":"Remote host closed the connection","date":"2018-01-13T08:16:10.001Z","type":"quit"}
+{"nick":"h12o","date":"2018-01-13T08:16:31.597Z","type":"join"}
+{"nick":"^^^^","date":"2018-01-13T08:16:49.466Z","type":"join"}
+{"nick":"^^^^","reason":"Remote host closed the connection","date":"2018-01-13T08:17:20.442Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T08:17:30.299Z","type":"quit"}
+{"nick":"^^^^","date":"2018-01-13T08:17:59.754Z","type":"join"}
+{"nick":"apparition","date":"2018-01-13T08:18:31.239Z","type":"join"}
+{"nick":"platonic","reason":"Ping timeout: 276 seconds","date":"2018-01-13T08:20:05.805Z","type":"quit"}
+{"nick":"^esc","reason":"Ping timeout: 268 seconds","date":"2018-01-13T08:20:12.634Z","type":"quit"}
+{"nick":"jrm","reason":"Quit: ciao","date":"2018-01-13T08:20:54.760Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T08:21:23.235Z","type":"join"}
+{"nick":"jrm","date":"2018-01-13T08:21:26.759Z","type":"join"}
+{"nick":"hextileX","date":"2018-01-13T08:21:48.420Z","type":"join"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-01-13T08:21:58.136Z","type":"quit"}
+{"nick":"Alina-malina","reason":"Changing host","date":"2018-01-13T08:23:10.386Z","type":"quit"}
+{"nick":"Alina-malina","date":"2018-01-13T08:23:10.491Z","type":"join"}
+{"nick":"marthinal","date":"2018-01-13T08:24:43.660Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 240 seconds","date":"2018-01-13T08:26:27.766Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T08:28:38.305Z","type":"join"}
+{"nick":"sterns","reason":"Remote host closed the connection","date":"2018-01-13T08:28:43.377Z","type":"quit"}
+{"nick":"h12o","reason":"Ping timeout: 256 seconds","date":"2018-01-13T08:29:47.592Z","type":"quit"}
+{"nick":"marthinal","reason":"Remote host closed the connection","date":"2018-01-13T08:30:16.991Z","type":"quit"}
+{"nick":"wlp1s1","date":"2018-01-13T08:30:18.948Z","type":"join"}
+{"nick":"h12o","date":"2018-01-13T08:32:29.210Z","type":"join"}
+{"nick":"smccarthy","date":"2018-01-13T08:32:42.470Z","type":"join"}
+{"nick":"toi","reason":"Ping timeout: 276 seconds","date":"2018-01-13T08:33:05.794Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T08:34:23.755Z","type":"quit"}
+{"nick":"Hu0p","date":"2018-01-13T08:35:34.782Z","type":"join"}
+{"nick":"ch007m","date":"2018-01-13T08:36:44.125Z","type":"join"}
+{"nick":"smccarthy","reason":"Ping timeout: 256 seconds","date":"2018-01-13T08:36:57.411Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T08:40:52.285Z","type":"join"}
+{"nick":"led_ir22","reason":"Quit: led_ir22","date":"2018-01-13T08:44:17.322Z","type":"quit"}
+{"nick":"math0ne","reason":"Ping timeout: 256 seconds","date":"2018-01-13T08:45:05.716Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T08:46:35.443Z","type":"quit"}
+{"nick":"wsieroci","date":"2018-01-13T08:46:56.614Z","type":"join"}
+{"nick":"Hu0p","reason":"Quit: Do Macbooks Dream of Electric Sheep?","date":"2018-01-13T08:47:09.347Z","type":"quit"}
+{"nick":"Keanu73","date":"2018-01-13T08:47:34.266Z","type":"join"}
+{"nick":"h12o","reason":"Ping timeout: 255 seconds","date":"2018-01-13T08:48:44.243Z","type":"quit"}
+{"nick":"mollusk","date":"2018-01-13T08:48:58.992Z","type":"join"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-01-13T08:49:34.878Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T08:49:51.244Z","type":"join"}
+{"nick":"mati","date":"2018-01-13T08:51:06.454Z","type":"join"}
+{"nick":"oetjenj","date":"2018-01-13T08:52:35.580Z","type":"join"}
+{"nick":"mollusk","reason":"Quit: My MacBook Air has gone to sleep. ZZZzzz…","date":"2018-01-13T08:54:23.848Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T08:55:17.647Z","type":"quit"}
+{"nick":"Neuromancer","reason":"Ping timeout: 265 seconds","date":"2018-01-13T08:56:16.684Z","type":"quit"}
+{"nick":"sergey","date":"2018-01-13T08:58:10.850Z","type":"join"}
+{"nick":"Neo4","reason":"Quit: Neo4","date":"2018-01-13T09:00:01.448Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T09:01:04.276Z","type":"join"}
+{"nick":"marthinal","date":"2018-01-13T09:01:35.869Z","type":"join"}
+{"nick":"fatalhalt","date":"2018-01-13T09:02:13.559Z","type":"join"}
+{"nick":"apparition","reason":"Quit: My iMac has gone to sleep. ZZZzzz…","date":"2018-01-13T09:03:13.963Z","type":"quit"}
+{"nick":"led_ir22","date":"2018-01-13T09:05:31.266Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T09:06:44.229Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T09:09:50.231Z","type":"join"}
+{"nick":"horsey","date":"2018-01-13T09:12:35.609Z","type":"join"}
+{"nick":"mati","reason":"Remote host closed the connection","date":"2018-01-13T09:13:58.500Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T09:15:17.221Z","type":"quit"}
+{"nick":"runeo","date":"2018-01-13T09:16:07.857Z","type":"join"}
+{"nick":"horsey","reason":"Ping timeout: 255 seconds","date":"2018-01-13T09:17:32.204Z","type":"quit"}
+{"nick":"nast","date":"2018-01-13T09:20:03.805Z","type":"join"}
+{"nick":"nzm","date":"2018-01-13T09:20:07.676Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T09:23:30.849Z","type":"join"}
+{"nick":"pijiu","date":"2018-01-13T09:23:58.834Z","type":"join"}
+{"nick":"nast","reason":"Quit: Leaving","date":"2018-01-13T09:26:14.195Z","type":"quit"}
+{"nick":"Nico2","reason":"Read error: Connection reset by peer","date":"2018-01-13T09:27:08.817Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T09:29:38.870Z","type":"quit"}
+{"nick":"beerdrop","reason":"Ping timeout: 268 seconds","date":"2018-01-13T09:29:53.639Z","type":"quit"}
+{"nick":"ahmedelgabri","date":"2018-01-13T09:31:23.858Z","type":"join"}
+{"nick":"ch007m","date":"2018-01-13T09:31:55.754Z","type":"join"}
+{"nick":"sstercan","date":"2018-01-13T09:32:25.449Z","type":"join"}
+{"nick":"Planet_E_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T09:33:27.440Z","type":"quit"}
+{"nick":"roomcayz","date":"2018-01-13T09:34:54.553Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T09:36:25.855Z","type":"join"}
+{"nick":"roomcayz","reason":"Client Quit","date":"2018-01-13T09:38:29.928Z","type":"quit"}
+{"nick":"roomcayz","date":"2018-01-13T09:39:09.486Z","type":"join"}
+{"nick":"apparition","date":"2018-01-13T09:39:46.646Z","type":"join"}
+{"nick":"milardovich","date":"2018-01-13T09:40:31.636Z","type":"join"}
+{"nick":"beerdrop","date":"2018-01-13T09:41:11.923Z","type":"join"}
+{"nick":"milardovich","reason":"Remote host closed the connection","date":"2018-01-13T09:41:51.424Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T09:42:38.894Z","type":"quit"}
+{"nick":"belmoussaoui","date":"2018-01-13T09:47:05.777Z","type":"join"}
+{"nick":"nzm","reason":"Quit: nzm","date":"2018-01-13T09:49:39.642Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T09:52:25.822Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T09:58:15.390Z","type":"quit"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-01-13T09:58:53.059Z","type":"quit"}
+{"nick":"ccapndave","date":"2018-01-13T10:02:28.628Z","type":"join"}
+{"nick":"ccapndave","message":"Can I run a node file as if it was in a different folder?","date":"2018-01-13T10:02:44.088Z","type":"message"}
+{"nick":"gdainti","date":"2018-01-13T10:02:47.234Z","type":"join"}
+{"nick":"ccapndave","message":"So even though I have it in a subdirectory I can still import \"./package.json\" (for example), and __dirname refers to the directory abov","date":"2018-01-13T10:03:17.504Z","type":"message"}
+{"nick":"ccapndave","message":"I tried using a symbolic link, but that didn't seem to work","date":"2018-01-13T10:03:27.580Z","type":"message"}
+{"nick":"knowlton","date":"2018-01-13T10:03:57.501Z","type":"join"}
+{"nick":"fatalhalt","reason":"Quit: fatal halt","date":"2018-01-13T10:04:02.746Z","type":"quit"}
+{"nick":"geirha","message":"just put it in the same dir, or use the correct relative path","date":"2018-01-13T10:08:11.743Z","type":"message"}
+{"nick":"patterson","date":"2018-01-13T10:08:57.784Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T10:09:19.400Z","type":"quit"}
+{"nick":"peepdurple","date":"2018-01-13T10:09:26.618Z","type":"join"}
+{"nick":"EyePulp","date":"2018-01-13T10:09:37.131Z","type":"join"}
+{"nick":"peepdurple","reason":"Client Quit","date":"2018-01-13T10:09:37.457Z","type":"quit"}
+{"nick":"peepdurple","date":"2018-01-13T10:09:56.677Z","type":"join"}
+{"nick":"runeo","reason":"Quit: runeo","date":"2018-01-13T10:10:09.041Z","type":"quit"}
+{"nick":"fatalhalt","date":"2018-01-13T10:10:17.923Z","type":"join"}
+{"nick":"ljharb","message":"ccapndave: process.cwd()","date":"2018-01-13T10:10:32.484Z","type":"message"}
+{"nick":"ljharb","message":"ccapndave: __dirname always refers to the file's location","date":"2018-01-13T10:10:38.353Z","type":"message"}
+{"nick":"runeo","date":"2018-01-13T10:10:56.883Z","type":"join"}
+{"nick":"DeltaHeavy","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-13T10:11:09.599Z","type":"quit"}
+{"nick":"ccapndave","message":"geirha: Its a pretty complicated bundling script with lots of rebasing and copying and changing the paths isn't as simple as it seems (I tried twice now :) )","date":"2018-01-13T10:12:09.386Z","type":"message"}
+{"nick":"ccapndave","message":"I'll try with process.cwd","date":"2018-01-13T10:12:14.497Z","type":"message"}
+{"nick":"mezod","date":"2018-01-13T10:13:39.986Z","type":"join"}
+{"nick":"AtumT","date":"2018-01-13T10:13:54.792Z","type":"join"}
+{"nick":"EyePulp","reason":"Ping timeout: 256 seconds","date":"2018-01-13T10:14:18.732Z","type":"quit"}
+{"nick":"runeo","reason":"Read error: Connection reset by peer","date":"2018-01-13T10:14:33.983Z","type":"quit"}
+{"nick":"runeo","date":"2018-01-13T10:15:53.799Z","type":"join"}
+{"nick":"wlp1s1","reason":"Ping timeout: 256 seconds","date":"2018-01-13T10:18:35.684Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T10:19:02.676Z","type":"join"}
+{"nick":"iczero","date":"2018-01-13T10:19:20.231Z","type":"join"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2018-01-13T10:20:00.312Z","type":"quit"}
+{"nick":"ed209","date":"2018-01-13T10:20:06.577Z","type":"join"}
+{"nick":"smccarthy","date":"2018-01-13T10:20:21.827Z","type":"join"}
+{"nick":"joobz","date":"2018-01-13T10:23:31.794Z","type":"join"}
+{"nick":"joobz","reason":"Client Quit","date":"2018-01-13T10:24:22.592Z","type":"quit"}
+{"nick":"joobz","date":"2018-01-13T10:24:32.631Z","type":"join"}
+{"nick":"marthinal","reason":"Remote host closed the connection","date":"2018-01-13T10:24:35.885Z","type":"quit"}
+{"nick":"ccapndave","date":"2018-01-13T10:24:39.848Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T10:24:49.579Z","type":"quit"}
+{"nick":"marthinal","date":"2018-01-13T10:25:01.602Z","type":"join"}
+{"nick":"smccarthy","reason":"Ping timeout: 276 seconds","date":"2018-01-13T10:25:32.758Z","type":"quit"}
+{"nick":"hextileX","reason":"Quit: hextileX","date":"2018-01-13T10:27:34.115Z","type":"quit"}
+{"nick":"chargen","reason":"Ping timeout: 276 seconds","date":"2018-01-13T10:28:47.882Z","type":"quit"}
+{"nick":"marthinal","reason":"Ping timeout: 260 seconds","date":"2018-01-13T10:29:30.630Z","type":"quit"}
+{"nick":"jscriptStudent","date":"2018-01-13T10:30:42.861Z","type":"join"}
+{"nick":"dbclk","date":"2018-01-13T10:30:44.387Z","type":"join"}
+{"nick":"krystianbajno","date":"2018-01-13T10:34:24.335Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T10:35:10.399Z","type":"join"}
+{"nick":"runeo","reason":"Ping timeout: 276 seconds","date":"2018-01-13T10:36:35.826Z","type":"quit"}
+{"nick":"sstercan","reason":"Ping timeout: 265 seconds","date":"2018-01-13T10:38:15.450Z","type":"quit"}
+{"nick":"chargen","date":"2018-01-13T10:38:29.828Z","type":"join"}
+{"nick":"nast","date":"2018-01-13T10:39:10.691Z","type":"join"}
+{"nick":"ilyaigpetrov","date":"2018-01-13T10:39:10.923Z","type":"join"}
+{"nick":"safe","reason":"Read error: Connection reset by peer","date":"2018-01-13T10:39:48.829Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T10:40:47.187Z","type":"quit"}
+{"nick":"DukeDrake","date":"2018-01-13T10:41:31.022Z","type":"join"}
+{"nick":"DukeDrake","message":"hi","date":"2018-01-13T10:41:33.326Z","type":"message"}
+{"nick":"DukeDrake","message":"I'm a little stuck .... (still beginner)","date":"2018-01-13T10:43:52.284Z","type":"message"}
+{"nick":"DukeDrake","message":"hang on, I think I got it xD","date":"2018-01-13T10:44:18.982Z","type":"message"}
+{"nick":"Mia","date":"2018-01-13T10:44:19.274Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T10:45:51.004Z","type":"join"}
+{"nick":"JustAnotherIdiot","date":"2018-01-13T10:46:30.265Z","type":"join"}
+{"nick":"joobz","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-01-13T10:46:30.333Z","type":"quit"}
+{"nick":"LiftLeft","reason":"Remote host closed the connection","date":"2018-01-13T10:46:40.297Z","type":"quit"}
+{"nick":"geirha","message":"phew, that was easy!","date":"2018-01-13T10:48:19.866Z","type":"message"}
+{"nick":"DukeDrake","message":"xD","date":"2018-01-13T10:50:16.966Z","type":"message"}
+{"nick":"knowlton","reason":"Ping timeout: 248 seconds","date":"2018-01-13T10:51:12.004Z","type":"quit"}
+{"nick":"marthinal","date":"2018-01-13T10:51:56.275Z","type":"join"}
+{"nick":"blackrose3","date":"2018-01-13T10:54:15.377Z","type":"part"}
+{"nick":"nast","reason":"Quit: Leaving","date":"2018-01-13T10:56:49.463Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T10:58:27.876Z","type":"join"}
+{"nick":"ams__","date":"2018-01-13T10:58:59.892Z","type":"join"}
+{"nick":"joobz","date":"2018-01-13T10:59:25.850Z","type":"join"}
+{"nick":"marthinal","reason":"Remote host closed the connection","date":"2018-01-13T11:02:01.935Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T11:04:32.876Z","type":"quit"}
+{"nick":"JustAnotherIdiot","new_nick":"LiftLeft","date":"2018-01-13T11:05:35.871Z","type":"nick"}
+{"nick":"pdemier","date":"2018-01-13T11:07:20.229Z","type":"join"}
+{"nick":"horsey","date":"2018-01-13T11:13:30.665Z","type":"join"}
+{"nick":"dbclk","reason":"Ping timeout: 255 seconds","date":"2018-01-13T11:13:38.267Z","type":"quit"}
+{"nick":"nzm","date":"2018-01-13T11:14:21.134Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T11:14:21.862Z","type":"join"}
+{"nick":"hextileX","date":"2018-01-13T11:15:20.283Z","type":"join"}
+{"nick":"knoxy","date":"2018-01-13T11:17:03.767Z","type":"join"}
+{"nick":"platonic","date":"2018-01-13T11:17:08.287Z","type":"join"}
+{"nick":"eivarv","date":"2018-01-13T11:17:32.679Z","type":"join"}
+{"nick":"pdemier","reason":"Ping timeout: 264 seconds","date":"2018-01-13T11:17:45.723Z","type":"quit"}
+{"nick":"chargen","reason":"Ping timeout: 276 seconds","date":"2018-01-13T11:18:12.000Z","type":"quit"}
+{"nick":"horsey","reason":"Ping timeout: 264 seconds","date":"2018-01-13T11:18:21.891Z","type":"quit"}
+{"nick":"nzm","reason":"Client Quit","date":"2018-01-13T11:18:51.908Z","type":"quit"}
+{"nick":"nzm","date":"2018-01-13T11:19:08.611Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T11:20:08.874Z","type":"quit"}
+{"nick":"platonic","reason":"Ping timeout: 256 seconds","date":"2018-01-13T11:22:18.792Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T11:24:01.777Z","type":"join"}
+{"nick":"DukeDrake","reason":"Quit: Verlassend","date":"2018-01-13T11:24:48.110Z","type":"quit"}
+{"nick":"hextileX","reason":"Quit: hextileX","date":"2018-01-13T11:24:48.192Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-13T11:25:11.616Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-13T11:25:42.213Z","type":"join"}
+{"nick":"MeTonaTOR","date":"2018-01-13T11:26:49.463Z","type":"join"}
+{"nick":"GreenJello","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T11:27:07.831Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T11:29:40.808Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T11:33:35.738Z","type":"join"}
+{"nick":"Quatroking","date":"2018-01-13T11:34:48.836Z","type":"join"}
+{"nick":"Gustavo6046","date":"2018-01-13T11:35:59.757Z","type":"join"}
+{"nick":"kommunicate","date":"2018-01-13T11:36:29.581Z","type":"join"}
+{"nick":"T-2000_","date":"2018-01-13T11:37:31.292Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T11:39:18.754Z","type":"quit"}
+{"nick":"Delta-One","reason":"Ping timeout: 248 seconds","date":"2018-01-13T11:39:45.406Z","type":"quit"}
+{"nick":"chat_","reason":"Ping timeout: 240 seconds","date":"2018-01-13T11:39:57.802Z","type":"quit"}
+{"nick":"T-2000","reason":"Ping timeout: 276 seconds","date":"2018-01-13T11:40:17.895Z","type":"quit"}
+{"nick":"naiveai","reason":"\"WeeChat 2.0.1\"","date":"2018-01-13T11:40:26.654Z","type":"part"}
+{"nick":"synthetic11000","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-13T11:41:04.317Z","type":"quit"}
+{"nick":"nzm","reason":"Quit: nzm","date":"2018-01-13T11:41:35.729Z","type":"quit"}
+{"nick":"cotko4","date":"2018-01-13T11:44:33.199Z","type":"join"}
+{"nick":"ahmed_elgabri","date":"2018-01-13T11:47:01.568Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T11:48:05.977Z","type":"join"}
+{"nick":"peepdurple","reason":"Ping timeout: 256 seconds","date":"2018-01-13T11:48:41.651Z","type":"quit"}
+{"nick":"dowwie","date":"2018-01-13T11:48:49.645Z","type":"join"}
+{"nick":"dowwie","reason":"Changing host","date":"2018-01-13T11:48:49.713Z","type":"quit"}
+{"nick":"dowwie","date":"2018-01-13T11:48:49.714Z","type":"join"}
+{"nick":"ahmedelgabri","reason":"Ping timeout: 256 seconds","date":"2018-01-13T11:50:04.925Z","type":"quit"}
+{"nick":"mnemonicj","reason":"Quit: bye!","date":"2018-01-13T11:52:34.100Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 248 seconds","date":"2018-01-13T11:53:35.832Z","type":"quit"}
+{"nick":"mnemonicj","date":"2018-01-13T11:53:53.880Z","type":"join"}
+{"nick":"DeafGoose","date":"2018-01-13T11:56:53.050Z","type":"part"}
+{"nick":"marthinal","date":"2018-01-13T11:57:13.932Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T11:57:50.896Z","type":"join"}
+{"nick":"chat_","date":"2018-01-13T11:58:58.310Z","type":"join"}
+{"nick":"marthinal","reason":"Remote host closed the connection","date":"2018-01-13T12:00:37.499Z","type":"quit"}
+{"nick":"pdemier","date":"2018-01-13T12:01:28.785Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 240 seconds","date":"2018-01-13T12:02:57.794Z","type":"quit"}
+{"nick":"h12o","date":"2018-01-13T12:03:34.762Z","type":"join"}
+{"nick":"plexigras","date":"2018-01-13T12:05:50.519Z","type":"join"}
+{"nick":"marthinal","date":"2018-01-13T12:06:28.266Z","type":"join"}
+{"nick":"marthinal","reason":"Remote host closed the connection","date":"2018-01-13T12:07:25.614Z","type":"quit"}
+{"nick":"marthinal","date":"2018-01-13T12:07:51.637Z","type":"join"}
+{"nick":"h12o","reason":"Ping timeout: 256 seconds","date":"2018-01-13T12:08:12.955Z","type":"quit"}
+{"nick":"drewmcmillan","date":"2018-01-13T12:08:59.805Z","type":"join"}
+{"nick":"pdemier","reason":"Ping timeout: 276 seconds","date":"2018-01-13T12:09:32.828Z","type":"quit"}
+{"nick":"Cassiopaya","date":"2018-01-13T12:10:32.135Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T12:11:16.840Z","type":"join"}
+{"nick":"chargen","date":"2018-01-13T12:11:26.591Z","type":"join"}
+{"nick":"marthinal","reason":"Remote host closed the connection","date":"2018-01-13T12:11:33.791Z","type":"quit"}
+{"nick":"marthinal","date":"2018-01-13T12:11:40.626Z","type":"join"}
+{"nick":"marthinal","reason":"Remote host closed the connection","date":"2018-01-13T12:12:37.435Z","type":"quit"}
+{"nick":"marthinal","date":"2018-01-13T12:13:04.813Z","type":"join"}
+{"nick":"jscriptStudent","reason":"Remote host closed the connection","date":"2018-01-13T12:13:34.223Z","type":"quit"}
+{"nick":"Arcarc","date":"2018-01-13T12:14:09.219Z","type":"join"}
+{"nick":"smccarthy","date":"2018-01-13T12:14:50.684Z","type":"join"}
+{"nick":"marthinal","reason":"Ping timeout: 256 seconds","date":"2018-01-13T12:17:16.738Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T12:17:20.754Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T12:19:11.067Z","type":"join"}
+{"nick":"smccarthy","reason":"Ping timeout: 256 seconds","date":"2018-01-13T12:19:18.679Z","type":"quit"}
+{"nick":"Cassiopaya","reason":"Ping timeout: 260 seconds","date":"2018-01-13T12:19:45.672Z","type":"quit"}
+{"nick":"PingMe1235813","date":"2018-01-13T12:20:19.337Z","type":"join"}
+{"nick":"PingMe1235813","new_nick":"MortezaE","date":"2018-01-13T12:20:34.908Z","type":"nick"}
+{"nick":"marthinal","date":"2018-01-13T12:20:35.040Z","type":"join"}
+{"nick":"dowwie","reason":"Ping timeout: 256 seconds","date":"2018-01-13T12:21:33.642Z","type":"quit"}
+{"nick":"dowwie","date":"2018-01-13T12:23:00.759Z","type":"join"}
+{"nick":"dowwie","reason":"Changing host","date":"2018-01-13T12:23:00.867Z","type":"quit"}
+{"nick":"dowwie","date":"2018-01-13T12:23:00.867Z","type":"join"}
+{"nick":"dowwie","reason":"Remote host closed the connection","date":"2018-01-13T12:23:13.309Z","type":"quit"}
+{"nick":"Guest86420","date":"2018-01-13T12:23:28.034Z","type":"join"}
+{"nick":"chargen","reason":"Ping timeout: 260 seconds","date":"2018-01-13T12:23:50.589Z","type":"quit"}
+{"nick":"Cassiopaya","date":"2018-01-13T12:24:58.341Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 260 seconds","date":"2018-01-13T12:25:00.588Z","type":"quit"}
+{"nick":"Guest86420","reason":"Ping timeout: 248 seconds","date":"2018-01-13T12:28:48.045Z","type":"quit"}
+{"nick":"alweezy","date":"2018-01-13T12:28:57.918Z","type":"join"}
+{"nick":"dowwie_","date":"2018-01-13T12:29:54.832Z","type":"join"}
+{"nick":"h12o","date":"2018-01-13T12:31:22.745Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T12:33:49.907Z","type":"join"}
+{"nick":"h12o","reason":"Ping timeout: 256 seconds","date":"2018-01-13T12:35:58.734Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T12:39:26.934Z","type":"quit"}
+{"nick":"vdamewood","date":"2018-01-13T12:41:27.902Z","type":"join"}
+{"nick":"chargen","date":"2018-01-13T12:44:08.374Z","type":"join"}
+{"nick":"coot____","date":"2018-01-13T12:44:46.547Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T12:48:06.510Z","type":"join"}
+{"nick":"Neuromancer","date":"2018-01-13T12:48:57.472Z","type":"join"}
+{"nick":"Bin4ry","date":"2018-01-13T12:49:19.450Z","type":"join"}
+{"nick":"jimlei","reason":"Remote host closed the connection","date":"2018-01-13T12:49:21.194Z","type":"quit"}
+{"nick":"ffx","date":"2018-01-13T12:52:20.647Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T12:53:39.457Z","type":"quit"}
+{"nick":"jimlei","date":"2018-01-13T12:55:59.599Z","type":"join"}
+{"nick":"ch007m","date":"2018-01-13T12:59:06.718Z","type":"join"}
+{"nick":"gambl0re","date":"2018-01-13T12:59:14.276Z","type":"join"}
+{"nick":"oetjenj","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T13:02:18.421Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T13:02:38.790Z","type":"join"}
+{"nick":"RLa","date":"2018-01-13T13:03:21.880Z","type":"join"}
+{"nick":"alweezy","reason":"Remote host closed the connection","date":"2018-01-13T13:05:16.134Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 264 seconds","date":"2018-01-13T13:08:09.210Z","type":"quit"}
+{"nick":"alweezy","date":"2018-01-13T13:09:55.748Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T13:10:27.120Z","type":"join"}
+{"nick":"MortezaE","reason":"Ping timeout: 255 seconds","date":"2018-01-13T13:11:32.349Z","type":"quit"}
+{"nick":"MortezaE","date":"2018-01-13T13:11:57.866Z","type":"join"}
+{"nick":"horsey","date":"2018-01-13T13:14:18.738Z","type":"join"}
+{"nick":"dh1tw","date":"2018-01-13T13:15:16.779Z","type":"join"}
+{"nick":"MortezaE","reason":"Remote host closed the connection","date":"2018-01-13T13:15:46.408Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T13:15:57.766Z","type":"quit"}
+{"nick":"MortezaE","date":"2018-01-13T13:16:09.461Z","type":"join"}
+{"nick":"Immilkshake","date":"2018-01-13T13:16:14.174Z","type":"join"}
+{"nick":"apparition","reason":"Quit: Bye","date":"2018-01-13T13:17:06.209Z","type":"quit"}
+{"nick":"Immilkshake","reason":"Client Quit","date":"2018-01-13T13:18:58.317Z","type":"quit"}
+{"nick":"horsey","reason":"Ping timeout: 265 seconds","date":"2018-01-13T13:19:12.411Z","type":"quit"}
+{"nick":"OSaucey","date":"2018-01-13T13:19:58.275Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T13:20:26.397Z","type":"join"}
+{"nick":"marthinal","reason":"Remote host closed the connection","date":"2018-01-13T13:20:44.778Z","type":"quit"}
+{"nick":"marthinal","date":"2018-01-13T13:21:11.926Z","type":"join"}
+{"nick":"belmoussaoui","reason":"Quit: belmoussaoui","date":"2018-01-13T13:21:11.927Z","type":"quit"}
+{"nick":"kommunicate","reason":"Ping timeout: 256 seconds","date":"2018-01-13T13:21:37.594Z","type":"quit"}
+{"nick":"OSaucey","message":"I'm trying to store a buffer in a levelDB; however, the buffer I am fetching doesn't match the buffer the I put in. It's close but it has some extra bytes near the start. Here's my output https://gist.github.com/anonymous/53ed3375dc0dd90ba30f3a9cba502eca What's causing this?","date":"2018-01-13T13:22:38.011Z","type":"message"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-01-13T13:22:54.010Z","type":"quit"}
+{"nick":"pijiu","message":"zsoc,","date":"2018-01-13T13:24:06.111Z","type":"message"}
+{"nick":"marthinal","reason":"Ping timeout: 256 seconds","date":"2018-01-13T13:25:35.653Z","type":"quit"}
+{"nick":"pijiu","message":"guys how can I have parsed json 'players' object at line 12 here? https://hastebin.com/maxeyufave.php","date":"2018-01-13T13:25:37.177Z","type":"message"}
+{"nick":"pijiu","message":"cant figure out where to put json:true there","date":"2018-01-13T13:25:47.512Z","type":"message"}
+{"nick":"knowlton","reason":"Ping timeout: 265 seconds","date":"2018-01-13T13:25:58.413Z","type":"quit"}
+{"nick":"pijiu","message":"(its not php) :)","date":"2018-01-13T13:26:03.399Z","type":"message"}
+{"nick":"pijiu","message":"at line 14, sorry","date":"2018-01-13T13:26:19.675Z","type":"message"}
+{"nick":"Delta-One","date":"2018-01-13T13:26:31.270Z","type":"join"}
+{"nick":"OSaucey","message":"Here's the relevant bit of my code BTW https://gist.github.com/anonymous/79161cc62ffe6f329f9299a8d6b90529","date":"2018-01-13T13:27:30.407Z","type":"message"}
+{"nick":"raynold","reason":"Quit: Connection closed for inactivity","date":"2018-01-13T13:29:20.647Z","type":"quit"}
+{"nick":"vdamewood","reason":"Ping timeout: 255 seconds","date":"2018-01-13T13:29:32.264Z","type":"quit"}
+{"nick":"joobz","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-13T13:30:34.501Z","type":"quit"}
+{"nick":"Keanu73","reason":"Ping timeout: 255 seconds","date":"2018-01-13T13:34:29.252Z","type":"quit"}
+{"nick":"gambl0re","reason":"Ping timeout: 255 seconds","date":"2018-01-13T13:34:56.241Z","type":"quit"}
+{"nick":"shoky","message":"OSaucey: it's putting the utf-8 replacement character instead of your bytes that are >127","date":"2018-01-13T13:36:02.793Z","type":"message"}
+{"nick":"AtumT_","date":"2018-01-13T13:36:06.628Z","type":"join"}
+{"nick":"shoky","message":"OSaucey: the bytes are signed, i guess","date":"2018-01-13T13:36:14.648Z","type":"message"}
+{"nick":"knowlton","date":"2018-01-13T13:36:25.817Z","type":"join"}
+{"nick":"pijiu","message":"having no problem parsing json at first line, but cant figure out how to do it at line 14","date":"2018-01-13T13:36:34.353Z","type":"message"}
+{"nick":"alweezy","reason":"Remote host closed the connection","date":"2018-01-13T13:37:41.466Z","type":"quit"}
+{"nick":"pijiu","message":"(using request promise)","date":"2018-01-13T13:37:58.020Z","type":"message"}
+{"nick":"OSaucey","message":"shoky: how do I make it behave itself and store bytes as unsigned?","date":"2018-01-13T13:38:09.343Z","type":"message"}
+{"nick":"shoky","message":"OSaucey: no idea, never used levelDB","date":"2018-01-13T13:38:46.958Z","type":"message"}
+{"nick":"AtumT","reason":"Ping timeout: 276 seconds","date":"2018-01-13T13:39:54.400Z","type":"quit"}
+{"nick":"wsieroci","reason":"Remote host closed the connection","date":"2018-01-13T13:40:15.386Z","type":"quit"}
+{"nick":"gambl0re","date":"2018-01-13T13:40:36.946Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 240 seconds","date":"2018-01-13T13:41:28.135Z","type":"quit"}
+{"nick":"jcrawford","reason":"Quit: Linkinus - http://linkinus.com","date":"2018-01-13T13:42:03.377Z","type":"quit"}
+{"nick":"OSaucey","message":"shoky: Got it. There's a valueEncoding property that can be set","date":"2018-01-13T13:42:48.563Z","type":"message"}
+{"nick":"OSaucey","message":"Thanks!","date":"2018-01-13T13:42:51.032Z","type":"message"}
+{"nick":"superlou","date":"2018-01-13T13:43:40.785Z","type":"join"}
+{"nick":"shoky","message":"neat","date":"2018-01-13T13:43:48.393Z","type":"message"}
+{"nick":"gdainti","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T13:43:59.889Z","type":"quit"}
+{"nick":"charmander","message":"Buffer.toString is a mistake =/","date":"2018-01-13T13:45:00.378Z","type":"message"}
+{"nick":"kommunicate","date":"2018-01-13T13:46:02.649Z","type":"join"}
+{"nick":"ams__","reason":"Quit: Connection closed for inactivity","date":"2018-01-13T13:46:03.864Z","type":"quit"}
+{"nick":"gambl0re","reason":"Remote host closed the connection","date":"2018-01-13T13:46:25.543Z","type":"quit"}
+{"nick":"pijiu","message":"Sharaal,","date":"2018-01-13T13:46:28.846Z","type":"message"}
+{"nick":"Sven_vB","reason":"Remote host closed the connection","date":"2018-01-13T13:47:35.419Z","type":"quit"}
+{"nick":"Bin4ry","reason":"Ping timeout: 256 seconds","date":"2018-01-13T13:48:16.402Z","type":"quit"}
+{"nick":"gambl0re","date":"2018-01-13T13:49:18.791Z","type":"join"}
+{"nick":"AtumT","date":"2018-01-13T13:49:47.892Z","type":"join"}
+{"nick":"AtumT_","reason":"Ping timeout: 256 seconds","date":"2018-01-13T13:50:31.656Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T13:50:42.553Z","type":"join"}
+{"nick":"^esc","date":"2018-01-13T13:52:41.982Z","type":"join"}
+{"nick":"cthulchu","date":"2018-01-13T13:54:12.324Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 260 seconds","date":"2018-01-13T13:56:35.608Z","type":"quit"}
+{"nick":"kakashiAL","date":"2018-01-13T13:56:50.591Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T13:57:27.520Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2018-01-13T13:57:43.410Z","type":"quit"}
+{"nick":"ffx","reason":"Quit: Leaving...","date":"2018-01-13T13:59:07.618Z","type":"quit"}
+{"nick":"cthulchu","reason":"Ping timeout: 255 seconds","date":"2018-01-13T13:59:41.252Z","type":"quit"}
+{"nick":"patterson","reason":"Quit: I quit","date":"2018-01-13T14:00:31.195Z","type":"quit"}
+{"nick":"OSaucey","reason":"\"KVIrc 4.2.0 Equilibrium http://www.kvirc.net/\"","date":"2018-01-13T14:01:13.736Z","type":"part"}
+{"nick":"Bin4ry","date":"2018-01-13T14:02:37.236Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T14:02:59.810Z","type":"quit"}
+{"nick":"winegoddess","date":"2018-01-13T14:06:18.125Z","type":"join"}
+{"nick":"smccarthy","date":"2018-01-13T14:08:53.648Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T14:09:31.884Z","type":"join"}
+{"nick":"JBreit","date":"2018-01-13T14:09:44.913Z","type":"join"}
+{"nick":"mezod","date":"2018-01-13T14:09:57.715Z","type":"join"}
+{"nick":"JBreit","reason":"Client Quit","date":"2018-01-13T14:10:42.382Z","type":"quit"}
+{"nick":"JBreit","date":"2018-01-13T14:11:00.829Z","type":"join"}
+{"nick":"Cache_Money","date":"2018-01-13T14:12:20.834Z","type":"join"}
+{"nick":"smccarthy","reason":"Ping timeout: 256 seconds","date":"2018-01-13T14:13:11.663Z","type":"quit"}
+{"nick":"ahmedelgabri","date":"2018-01-13T14:13:39.498Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 248 seconds","date":"2018-01-13T14:14:55.903Z","type":"quit"}
+{"nick":"ahmed_elgabri","reason":"Ping timeout: 256 seconds","date":"2018-01-13T14:16:35.650Z","type":"quit"}
+{"nick":"Cache_Money","reason":"Ping timeout: 276 seconds","date":"2018-01-13T14:17:35.876Z","type":"quit"}
+{"nick":"carif","reason":"Remote host closed the connection","date":"2018-01-13T14:17:49.548Z","type":"quit"}
+{"nick":"carif","date":"2018-01-13T14:19:09.821Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T14:23:34.472Z","type":"join"}
+{"nick":"pmurias","date":"2018-01-13T14:24:17.499Z","type":"join"}
+{"nick":"pmurias","message":"if I want to have an api that takes three values for a bunch of flags: disabled, enabled and reversed what would be a nice api?","date":"2018-01-13T14:25:05.949Z","type":"message"}
+{"nick":"pmurias","message":"or is a bitmask acceptable?","date":"2018-01-13T14:25:41.411Z","type":"message"}
+{"nick":"pmurias","message":"example: uca.compare(a, b, uca.PRIMARY | uca.TERTIARY_REVERSED)","date":"2018-01-13T14:27:03.888Z","type":"message"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T14:29:17.804Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T14:30:04.555Z","type":"join"}
+{"nick":"burakgazi","date":"2018-01-13T14:31:59.967Z","type":"join"}
+{"nick":"efdee","message":"so, has the peer dependencies + npm link problem been fixed yet in node? it's been a while since i've tried.","date":"2018-01-13T14:32:35.124Z","type":"message"}
+{"nick":"kakashiAL","reason":"Ping timeout: 260 seconds","date":"2018-01-13T14:32:45.560Z","type":"quit"}
+{"nick":"Keanu73","date":"2018-01-13T14:33:26.348Z","type":"join"}
+{"nick":"kakashiAL","date":"2018-01-13T14:35:45.273Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T14:35:48.036Z","type":"quit"}
+{"nick":"MortezaE","reason":"Quit: Leaving","date":"2018-01-13T14:36:45.276Z","type":"quit"}
+{"nick":"happyhippo","date":"2018-01-13T14:36:49.418Z","type":"join"}
+{"nick":"alweezy","date":"2018-01-13T14:37:54.647Z","type":"join"}
+{"nick":"kakashiAL","reason":"Ping timeout: 255 seconds","date":"2018-01-13T14:41:05.235Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T14:41:50.879Z","type":"join"}
+{"nick":"wsieroci","date":"2018-01-13T14:43:18.313Z","type":"join"}
+{"nick":"pijiu","message":"efdee, im still continuing solving my yesterday's async/then/request-promise issue, could you please check and guide me how can I get 'players' as json object at line 14? i've managed to do it in a way of forEach(players) then json.parse but there must be other way i believe","date":"2018-01-13T14:43:33.496Z","type":"message"}
+{"nick":"pijiu","message":"other better way","date":"2018-01-13T14:43:37.929Z","type":"message"}
+{"nick":"pijiu","message":"https://hastebin.com/maxeyufave.php","date":"2018-01-13T14:43:38.981Z","type":"message"}
+{"nick":"Tennis","date":"2018-01-13T14:46:15.768Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T14:47:29.844Z","type":"quit"}
+{"nick":"efdee","message":"i'm not sure i understand the question","date":"2018-01-13T14:48:20.281Z","type":"message"}
+{"nick":"efdee","message":"what do you mean with \"get players as a json object\"","date":"2018-01-13T14:48:33.185Z","type":"message"}
+{"nick":"pijiu","message":"like json:true as in line 3 efdee","date":"2018-01-13T14:49:09.463Z","type":"message"}
+{"nick":"pijiu","message":"so 'friends' at line 5 is json object","date":"2018-01-13T14:49:44.257Z","type":"message"}
+{"nick":"pijiu","message":"but 'players' at line 14 is not","date":"2018-01-13T14:49:53.310Z","type":"message"}
+{"nick":"pijiu","message":"i.e not parsed","date":"2018-01-13T14:50:01.719Z","type":"message"}
+{"nick":"efdee","message":"right. because in line 3 you pass \"{ url: url, json: true }\" to request, and in line 11 you just pass url strings","date":"2018-01-13T14:50:17.548Z","type":"message"}
+{"nick":"Bin4ry","reason":"Ping timeout: 260 seconds","date":"2018-01-13T14:50:50.568Z","type":"quit"}
+{"nick":"pijiu","message":"indeed, how can i fix it? where shall i state that it must be json parsed and how?","date":"2018-01-13T14:50:51.626Z","type":"message"}
+{"nick":"efdee","message":"so in line 11, instead of writing urls.map(request), you could first map all the urls to a similar object","date":"2018-01-13T14:50:55.703Z","type":"message"}
+{"nick":"efdee","message":"eg. urls.map(url => ({ url: url, json: true })).map(request)","date":"2018-01-13T14:51:16.911Z","type":"message"}
+{"nick":"pijiu","message":"tyvm trying it now","date":"2018-01-13T14:51:25.486Z","type":"message"}
+{"nick":"pijiu","message":"worked like a charm","date":"2018-01-13T14:53:19.564Z","type":"message"}
+{"nick":"pijiu","message":"<3 efdee","date":"2018-01-13T14:53:22.443Z","type":"message"}
+{"nick":"efdee","message":"do you understand what we did?","date":"2018-01-13T14:53:26.451Z","type":"message"}
+{"nick":"pijiu","message":"yes, we did what i wantd to do but lacked understanding of syntax knowledge","date":"2018-01-13T14:53:44.734Z","type":"message"}
+{"nick":"pijiu","message":"we stated that it shall be reuested as json not string","date":"2018-01-13T14:54:02.003Z","type":"message"}
+{"nick":"efdee","message":"yes, instead of passing a single string to the request function, we now pass an object containing the url and the json:true value","date":"2018-01-13T14:54:27.847Z","type":"message"}
+{"nick":"pijiu","message":"yes i just was dumb enough not to know where to put that json:true there","date":"2018-01-13T14:54:50.270Z","type":"message"}
+{"nick":"coot____","reason":"Remote host closed the connection","date":"2018-01-13T14:55:06.156Z","type":"quit"}
+{"nick":"pijiu","message":"thanks for enlightening me","date":"2018-01-13T14:55:08.621Z","type":"message"}
+{"nick":"pijiu","message":"i knew that it shall be there, just didnt knew where.","date":"2018-01-13T14:55:32.904Z","type":"message"}
+{"nick":"pijiu","message":"thx again.","date":"2018-01-13T14:55:39.109Z","type":"message"}
+{"nick":"knowlton","date":"2018-01-13T14:57:21.410Z","type":"join"}
+{"nick":"kommunicate","reason":"Ping timeout: 256 seconds","date":"2018-01-13T14:57:23.663Z","type":"quit"}
+{"nick":"kommunicate","date":"2018-01-13T14:58:27.807Z","type":"join"}
+{"nick":"samsch","date":"2018-01-13T14:59:28.748Z","type":"join"}
+{"nick":"ZLSA__","date":"2018-01-13T15:01:14.015Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T15:03:04.176Z","type":"quit"}
+{"nick":"gambl0re","reason":"Remote host closed the connection","date":"2018-01-13T15:04:53.883Z","type":"quit"}
+{"nick":"e14","date":"2018-01-13T15:04:55.847Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T15:06:46.334Z","type":"join"}
+{"nick":"alweezy","reason":"Ping timeout: 256 seconds","date":"2018-01-13T15:07:35.627Z","type":"quit"}
+{"nick":"Hoffman","date":"2018-01-13T15:08:26.264Z","type":"join"}
+{"nick":"Bin4ry","date":"2018-01-13T15:12:10.468Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T15:12:51.081Z","type":"quit"}
+{"nick":"pijiu2","date":"2018-01-13T15:13:50.414Z","type":"join"}
+{"nick":"pijiu2","reason":"Max SendQ exceeded","date":"2018-01-13T15:14:19.751Z","type":"quit"}
+{"nick":"drewmcmillan","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T15:14:33.148Z","type":"quit"}
+{"nick":"pijiu2","date":"2018-01-13T15:14:53.968Z","type":"join"}
+{"nick":"horsey","date":"2018-01-13T15:15:13.098Z","type":"join"}
+{"nick":"sembiance","message":"hey, I wanted more letters, so I just changed UTF8 to UTF9 but now things are not working. Help?","date":"2018-01-13T15:15:21.518Z","type":"message"}
+{"nick":"sembiance","action":"smiles with a big evil smile.","date":"2018-01-13T15:15:52.553Z","type":"action"}
+{"nick":"knowlton","date":"2018-01-13T15:16:14.251Z","type":"join"}
+{"nick":"pijiu","reason":"Ping timeout: 256 seconds","date":"2018-01-13T15:16:20.772Z","type":"quit"}
+{"nick":"samsch","message":"hehehehehehe","date":"2018-01-13T15:18:33.881Z","type":"message"}
+{"nick":"horsey","reason":"Ping timeout: 256 seconds","date":"2018-01-13T15:19:44.714Z","type":"quit"}
+{"nick":"Max_","date":"2018-01-13T15:20:23.772Z","type":"join"}
+{"nick":"platonic","date":"2018-01-13T15:20:25.186Z","type":"join"}
+{"nick":"Cassiopaya","reason":"Read error: Connection reset by peer","date":"2018-01-13T15:20:33.791Z","type":"quit"}
+{"nick":"Max_","reason":"Client Quit","date":"2018-01-13T15:21:11.938Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T15:21:35.249Z","type":"quit"}
+{"nick":"Mongoose","date":"2018-01-13T15:23:23.427Z","type":"join"}
+{"nick":"platonic","reason":"Ping timeout: 255 seconds","date":"2018-01-13T15:25:38.264Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T15:27:58.325Z","type":"join"}
+{"nick":"rendar","reason":"Ping timeout: 276 seconds","date":"2018-01-13T15:28:27.124Z","type":"quit"}
+{"nick":"ThePendulum","message":">:D","date":"2018-01-13T15:28:55.012Z","type":"message"}
+{"nick":"Roughy","date":"2018-01-13T15:30:22.644Z","type":"join"}
+{"nick":"krystianbajno","reason":"Remote host closed the connection","date":"2018-01-13T15:31:49.280Z","type":"quit"}
+{"nick":"toi","date":"2018-01-13T15:32:17.849Z","type":"join"}
+{"nick":"Mongoose","date":"2018-01-13T15:33:07.615Z","type":"part"}
+{"nick":"Mongoose","date":"2018-01-13T15:33:16.018Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T15:33:17.654Z","type":"quit"}
+{"nick":"Mongoose","reason":"Quit: Leaving","date":"2018-01-13T15:33:25.495Z","type":"quit"}
+{"nick":"zuQe8","date":"2018-01-13T15:33:34.211Z","type":"join"}
+{"nick":"TaiLopez","date":"2018-01-13T15:34:13.744Z","type":"join"}
+{"nick":"rendar","date":"2018-01-13T15:35:16.963Z","type":"join"}
+{"nick":"rendar","reason":"Excess Flood","date":"2018-01-13T15:35:18.515Z","type":"quit"}
+{"nick":"TaiLopez","message":"Hello","date":"2018-01-13T15:35:19.787Z","type":"message"}
+{"nick":"rendar","date":"2018-01-13T15:35:36.809Z","type":"join"}
+{"nick":"rendar","reason":"Changing host","date":"2018-01-13T15:35:36.877Z","type":"quit"}
+{"nick":"rendar","date":"2018-01-13T15:35:36.878Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T15:35:38.300Z","type":"join"}
+{"nick":"rendar","reason":"Excess Flood","date":"2018-01-13T15:35:38.962Z","type":"quit"}
+{"nick":"rendar","date":"2018-01-13T15:35:57.832Z","type":"join"}
+{"nick":"rendar","reason":"Changing host","date":"2018-01-13T15:35:57.900Z","type":"quit"}
+{"nick":"rendar","date":"2018-01-13T15:35:57.900Z","type":"join"}
+{"nick":"rendar","reason":"Excess Flood","date":"2018-01-13T15:35:59.952Z","type":"quit"}
+{"nick":"rendar","date":"2018-01-13T15:36:18.264Z","type":"join"}
+{"nick":"rendar","reason":"Changing host","date":"2018-01-13T15:36:18.332Z","type":"quit"}
+{"nick":"rendar","date":"2018-01-13T15:36:18.332Z","type":"join"}
+{"nick":"rendar","reason":"Excess Flood","date":"2018-01-13T15:36:20.631Z","type":"quit"}
+{"nick":"ThePendulum","message":"Hello","date":"2018-01-13T15:37:10.356Z","type":"message"}
+{"nick":"rendar","date":"2018-01-13T15:38:02.929Z","type":"join"}
+{"nick":"toi","reason":"Ping timeout: 276 seconds","date":"2018-01-13T15:40:08.842Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T15:40:56.183Z","type":"quit"}
+{"nick":"smccarthy","date":"2018-01-13T15:42:01.212Z","type":"join"}
+{"nick":"VoradorPT","date":"2018-01-13T15:44:49.799Z","type":"join"}
+{"nick":"superlou","reason":"Quit: Leaving","date":"2018-01-13T15:44:53.434Z","type":"quit"}
+{"nick":"belmoussaoui","date":"2018-01-13T15:46:50.272Z","type":"join"}
+{"nick":"smccarthy","reason":"Ping timeout: 260 seconds","date":"2018-01-13T15:47:25.583Z","type":"quit"}
+{"nick":"b4dger","date":"2018-01-13T15:49:08.700Z","type":"join"}
+{"nick":"Gustavo6046","reason":"Read error: Connection reset by peer","date":"2018-01-13T15:49:46.893Z","type":"quit"}
+{"nick":"iffraff","reason":"Ping timeout: 256 seconds","date":"2018-01-13T15:49:46.894Z","type":"quit"}
+{"nick":"toi","date":"2018-01-13T15:49:51.637Z","type":"join"}
+{"nick":"TaiLopez","message":"in my nodejs im working with a poloniex api and I have a noob question but I havent found any answers online.  So if I am returning json data its just being shown as [object Object].   I want to know how I can be able to not have anything be returned as [object Object] but the actual data.","date":"2018-01-13T15:50:34.505Z","type":"message"}
+{"nick":"knowlton","date":"2018-01-13T15:51:16.764Z","type":"join"}
+{"nick":"samsch","message":"TaiLopez, \"[object Object]\" is the \"toString()\" value of an object. If you want to see the JSON (string) representation of the data, you can JSON.stringify(data).","date":"2018-01-13T15:52:54.933Z","type":"message"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T15:56:34.741Z","type":"quit"}
+{"nick":"sstercan","date":"2018-01-13T15:58:59.779Z","type":"join"}
+{"nick":"STRML","reason":"Quit: ZNC - http://znc.in","date":"2018-01-13T16:00:22.175Z","type":"quit"}
+{"nick":"iffraff","date":"2018-01-13T16:01:05.226Z","type":"join"}
+{"nick":"alphawarrior","date":"2018-01-13T16:01:47.719Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T16:02:20.057Z","type":"join"}
+{"nick":"Omnipotent_","reason":"Changing host","date":"2018-01-13T16:03:13.178Z","type":"quit"}
+{"nick":"Omnipotent_","date":"2018-01-13T16:03:13.178Z","type":"join"}
+{"nick":"Omnipotent_","new_nick":"Omnipotent","date":"2018-01-13T16:03:18.441Z","type":"nick"}
+{"nick":"STRML","date":"2018-01-13T16:03:31.916Z","type":"join"}
+{"nick":"belmoussaoui","reason":"Quit: belmoussaoui","date":"2018-01-13T16:03:55.231Z","type":"quit"}
+{"nick":"Mia","reason":"Read error: Connection reset by peer","date":"2018-01-13T16:04:10.294Z","type":"quit"}
+{"nick":"DukeDrake","date":"2018-01-13T16:04:31.739Z","type":"join"}
+{"nick":"soosfarm","date":"2018-01-13T16:06:24.313Z","type":"join"}
+{"nick":"DukeDrake","message":"I'm using node.js via Apache Proxy. Everything works, except if I try to send ajax request via POST (it works via GET). in that case apache answers with 404 .... anyone know how to fix this?","date":"2018-01-13T16:07:06.411Z","type":"message"}
+{"nick":"knowlton","reason":"Ping timeout: 248 seconds","date":"2018-01-13T16:07:59.990Z","type":"quit"}
+{"nick":"Delta-One","reason":"Ping timeout: 255 seconds","date":"2018-01-13T16:10:38.211Z","type":"quit"}
+{"nick":"shoky","message":"DukeDrake: does a POST work without apache in the middle?  do you have a POST handler on that route?","date":"2018-01-13T16:11:21.307Z","type":"message"}
+{"nick":"DukeDrake","message":"shoky: a post handler?","date":"2018-01-13T16:12:48.592Z","type":"message"}
+{"nick":"Bin4ry","reason":"Ping timeout: 264 seconds","date":"2018-01-13T16:13:33.209Z","type":"quit"}
+{"nick":"DukeDrake","message":"ahhh ... I need an \"app.post\"?","date":"2018-01-13T16:13:44.649Z","type":"message"}
+{"nick":"shoky","message":"in express, yeah","date":"2018-01-13T16:13:55.825Z","type":"message"}
+{"nick":"toi","reason":"Ping timeout: 256 seconds","date":"2018-01-13T16:15:35.604Z","type":"quit"}
+{"nick":"DukeDrake","message":"ah, it works now! =)","date":"2018-01-13T16:15:55.423Z","type":"message"}
+{"nick":"DukeDrake","message":"thanks a lot","date":"2018-01-13T16:15:58.697Z","type":"message"}
+{"nick":"mollusk","date":"2018-01-13T16:17:14.291Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T16:18:05.280Z","type":"join"}
+{"nick":"toi","date":"2018-01-13T16:19:27.949Z","type":"join"}
+{"nick":"JBreit","reason":"Quit: Leaving","date":"2018-01-13T16:19:48.446Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T16:23:46.707Z","type":"quit"}
+{"nick":"Delta-One","date":"2018-01-13T16:24:59.025Z","type":"join"}
+{"nick":"sstercan","reason":"Ping timeout: 256 seconds","date":"2018-01-13T16:26:02.806Z","type":"quit"}
+{"nick":"Gustavo6046","date":"2018-01-13T16:32:26.519Z","type":"join"}
+{"nick":"Gustavo6046","reason":"Max SendQ exceeded","date":"2018-01-13T16:33:16.457Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T16:33:47.254Z","type":"join"}
+{"nick":"Gustavo6046","date":"2018-01-13T16:36:01.661Z","type":"join"}
+{"nick":"devc","date":"2018-01-13T16:37:15.225Z","type":"join"}
+{"nick":"Soopaman","date":"2018-01-13T16:37:17.794Z","type":"join"}
+{"nick":"devc_","reason":"Ping timeout: 272 seconds","date":"2018-01-13T16:37:24.995Z","type":"quit"}
+{"nick":"gdainti","date":"2018-01-13T16:37:29.509Z","type":"join"}
+{"nick":"sstercan","date":"2018-01-13T16:37:35.783Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T16:39:11.480Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T16:41:18.264Z","type":"join"}
+{"nick":"chat_","reason":"Ping timeout: 256 seconds","date":"2018-01-13T16:44:29.688Z","type":"quit"}
+{"nick":"Hoffman","reason":"Ping timeout: 264 seconds","date":"2018-01-13T16:44:45.209Z","type":"quit"}
+{"nick":"x405","date":"2018-01-13T16:44:48.271Z","type":"join"}
+{"nick":"EyePulp","date":"2018-01-13T16:44:57.406Z","type":"join"}
+{"nick":"Hu0p","date":"2018-01-13T16:45:22.984Z","type":"join"}
+{"nick":"EyePulp","reason":"Remote host closed the connection","date":"2018-01-13T16:46:49.315Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T16:47:00.719Z","type":"quit"}
+{"nick":"drewmcmillan","date":"2018-01-13T16:50:07.035Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T16:51:30.804Z","type":"join"}
+{"nick":"Taylor","reason":"Quit: Be back soon","date":"2018-01-13T16:55:32.933Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T16:57:12.785Z","type":"quit"}
+{"nick":"joeyy","reason":"Read error: Connection reset by peer","date":"2018-01-13T16:59:40.749Z","type":"quit"}
+{"nick":"joeyy","date":"2018-01-13T17:00:08.242Z","type":"join"}
+{"nick":"Taylor","date":"2018-01-13T17:00:53.653Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T17:00:55.783Z","type":"join"}
+{"nick":"jottr","date":"2018-01-13T17:01:40.972Z","type":"join"}
+{"nick":"kommunicate","reason":"Quit: Leaving","date":"2018-01-13T17:03:50.558Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T17:06:16.789Z","type":"quit"}
+{"nick":"sstercan","reason":"Ping timeout: 240 seconds","date":"2018-01-13T17:06:58.853Z","type":"quit"}
+{"nick":"mollusk","reason":"Quit: My MacBook Air has gone to sleep. ZZZzzz…","date":"2018-01-13T17:08:06.326Z","type":"quit"}
+{"nick":"x405","reason":"Remote host closed the connection","date":"2018-01-13T17:08:32.531Z","type":"quit"}
+{"nick":"roomcayz","reason":"Remote host closed the connection","date":"2018-01-13T17:09:05.807Z","type":"quit"}
+{"nick":"e14","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T17:09:08.474Z","type":"quit"}
+{"nick":"cotko4","reason":"Ping timeout: 255 seconds","date":"2018-01-13T17:10:02.296Z","type":"quit"}
+{"nick":"plutoniix","date":"2018-01-13T17:11:15.031Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T17:12:53.642Z","type":"join"}
+{"nick":"nanoz","reason":"Ping timeout: 276 seconds","date":"2018-01-13T17:13:44.822Z","type":"quit"}
+{"nick":"horsey","date":"2018-01-13T17:16:03.632Z","type":"join"}
+{"nick":"rho_","date":"2018-01-13T17:17:10.766Z","type":"join"}
+{"nick":"rho_","new_nick":"rho","date":"2018-01-13T17:18:06.670Z","type":"nick"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T17:18:29.957Z","type":"quit"}
+{"nick":"x405","date":"2018-01-13T17:19:27.993Z","type":"join"}
+{"nick":"rho","reason":"Client Quit","date":"2018-01-13T17:20:41.266Z","type":"quit"}
+{"nick":"horsey","reason":"Ping timeout: 255 seconds","date":"2018-01-13T17:20:50.555Z","type":"quit"}
+{"nick":"greves","date":"2018-01-13T17:20:51.883Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T17:21:25.034Z","type":"join"}
+{"nick":"krystianbajno","date":"2018-01-13T17:22:58.076Z","type":"join"}
+{"nick":"b4dger","reason":"Quit: WeeChat 2.0.1","date":"2018-01-13T17:23:06.628Z","type":"quit"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-13T17:24:05.392Z","type":"quit"}
+{"nick":"belmoussaoui","date":"2018-01-13T17:24:41.169Z","type":"join"}
+{"nick":"greves","reason":"Client Quit","date":"2018-01-13T17:24:41.338Z","type":"quit"}
+{"nick":"toi","reason":"Ping timeout: 276 seconds","date":"2018-01-13T17:24:47.883Z","type":"quit"}
+{"nick":"knoxy","reason":"Remote host closed the connection","date":"2018-01-13T17:25:47.188Z","type":"quit"}
+{"nick":"kiltzman","date":"2018-01-13T17:26:37.599Z","type":"join"}
+{"nick":"kiltzman","reason":"Max SendQ exceeded","date":"2018-01-13T17:26:38.674Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T17:26:59.614Z","type":"quit"}
+{"nick":"kiltzman","date":"2018-01-13T17:28:03.214Z","type":"join"}
+{"nick":"kiltzman","reason":"Max SendQ exceeded","date":"2018-01-13T17:28:04.284Z","type":"quit"}
+{"nick":"InverseRhombus","date":"2018-01-13T17:30:08.178Z","type":"join"}
+{"nick":"LocaMocha","new_nick":"Sauvin","date":"2018-01-13T17:31:14.880Z","type":"nick"}
+{"nick":"roomcayz","date":"2018-01-13T17:32:38.246Z","type":"join"}
+{"nick":"toi","date":"2018-01-13T17:35:38.278Z","type":"join"}
+{"nick":"graffix","date":"2018-01-13T17:35:42.363Z","type":"join"}
+{"nick":"Booster2ooo","date":"2018-01-13T17:36:14.273Z","type":"join"}
+{"nick":"Booster2ooo","reason":"Remote host closed the connection","date":"2018-01-13T17:36:35.982Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T17:36:43.855Z","type":"join"}
+{"nick":"IanLiu","date":"2018-01-13T17:39:26.411Z","type":"join"}
+{"nick":"smccarthy","date":"2018-01-13T17:39:54.653Z","type":"join"}
+{"nick":"toi","reason":"Ping timeout: 255 seconds","date":"2018-01-13T17:40:11.258Z","type":"quit"}
+{"nick":"raynold","date":"2018-01-13T17:40:56.939Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T17:42:20.831Z","type":"quit"}
+{"nick":"orbyt_","date":"2018-01-13T17:43:58.902Z","type":"join"}
+{"nick":"smccarthy","reason":"Ping timeout: 256 seconds","date":"2018-01-13T17:44:33.653Z","type":"quit"}
+{"nick":"DukeDrake","reason":"Ping timeout: 255 seconds","date":"2018-01-13T17:46:29.304Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T17:51:03.623Z","type":"join"}
+{"nick":"schneid3306","date":"2018-01-13T17:51:30.975Z","type":"join"}
+{"nick":"math0ne","date":"2018-01-13T17:53:57.878Z","type":"join"}
+{"nick":"justicefries","date":"2018-01-13T17:55:24.044Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T17:56:42.708Z","type":"quit"}
+{"nick":"jottr","reason":"Ping timeout: 276 seconds","date":"2018-01-13T17:57:56.826Z","type":"quit"}
+{"nick":"dbclk","date":"2018-01-13T17:58:51.011Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T18:01:38.054Z","type":"join"}
+{"nick":"drewmcmillan","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T18:02:06.746Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T18:02:44.189Z","type":"join"}
+{"nick":"drewmcmillan","date":"2018-01-13T18:04:03.990Z","type":"join"}
+{"nick":"sterns","date":"2018-01-13T18:04:42.246Z","type":"join"}
+{"nick":"lightstalker","reason":"Ping timeout: 252 seconds","date":"2018-01-13T18:06:26.844Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 240 seconds","date":"2018-01-13T18:06:57.784Z","type":"quit"}
+{"nick":"jottr","date":"2018-01-13T18:10:13.319Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 255 seconds","date":"2018-01-13T18:11:41.249Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T18:12:05.255Z","type":"join"}
+{"nick":"cthulchu","date":"2018-01-13T18:12:06.679Z","type":"join"}
+{"nick":"Soopaman","date":"2018-01-13T18:13:43.641Z","type":"join"}
+{"nick":"jottr","reason":"Ping timeout: 256 seconds","date":"2018-01-13T18:14:50.777Z","type":"quit"}
+{"nick":"eject_ck","date":"2018-01-13T18:14:54.451Z","type":"join"}
+{"nick":"eshlox","date":"2018-01-13T18:15:29.966Z","type":"join"}
+{"nick":"eject_ck","message":"I want to intercept ssl traffic between nodejs client and some API https server. I setup https proxy (fiddler) and now want divert nodejs traffic via proxy without changing application code. I tried with npm config set https-proxy http://192.168.1.1:8888 and export HTTPS_PROXY=http://192.168.1.1:8888 - both seems like not affect application (with restart of course). Need help to figure how fix this,.","date":"2018-01-13T18:17:40.500Z","type":"message"}
+{"nick":"knowlton","date":"2018-01-13T18:17:42.490Z","type":"join"}
+{"nick":"sterns","reason":"Quit: Leaving","date":"2018-01-13T18:18:29.479Z","type":"quit"}
+{"nick":"e14","date":"2018-01-13T18:18:34.877Z","type":"join"}
+{"nick":"eivarv","reason":"Quit: Sleep","date":"2018-01-13T18:18:39.557Z","type":"quit"}
+{"nick":"eject_ck","message":"node -v - v0.10.29","date":"2018-01-13T18:18:49.561Z","type":"message"}
+{"nick":"jsatk","reason":"Ping timeout: 255 seconds","date":"2018-01-13T18:20:41.255Z","type":"quit"}
+{"nick":"x405","reason":"Remote host closed the connection","date":"2018-01-13T18:21:11.344Z","type":"quit"}
+{"nick":"ch007m","date":"2018-01-13T18:21:34.721Z","type":"join"}
+{"nick":"x405","date":"2018-01-13T18:21:46.225Z","type":"join"}
+{"nick":"ljharb","message":"eject_ck: that's ancient and EOL; upgrade to 6 or 8","date":"2018-01-13T18:21:56.512Z","type":"message"}
+{"nick":"eject_ck","message":"ljharb: tell this to IoT device vendor )","date":"2018-01-13T18:23:03.346Z","type":"message"}
+{"nick":"platonic","date":"2018-01-13T18:23:24.828Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T18:23:27.446Z","type":"quit"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-13T18:23:51.799Z","type":"quit"}
+{"nick":"Soopaman","date":"2018-01-13T18:25:14.961Z","type":"join"}
+{"nick":"jsatk","date":"2018-01-13T18:25:38.733Z","type":"join"}
+{"nick":"x405","reason":"Ping timeout: 255 seconds","date":"2018-01-13T18:26:05.659Z","type":"quit"}
+{"nick":"platonic","reason":"Ping timeout: 276 seconds","date":"2018-01-13T18:28:30.858Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T18:30:33.603Z","type":"join"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-01-13T18:32:21.166Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T18:34:07.572Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T18:36:09.647Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T18:36:35.741Z","type":"join"}
+{"nick":"x405","date":"2018-01-13T18:37:42.823Z","type":"join"}
+{"nick":"math0ne","reason":"Read error: Connection reset by peer","date":"2018-01-13T18:37:46.353Z","type":"quit"}
+{"nick":"ddelrio1986","date":"2018-01-13T18:38:14.599Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T18:38:35.036Z","type":"join"}
+{"nick":"math0ne","date":"2018-01-13T18:39:13.694Z","type":"join"}
+{"nick":"ddelrio1986","reason":"Client Quit","date":"2018-01-13T18:39:24.490Z","type":"quit"}
+{"nick":"Soopaman","message":"are there any recommended TDD suites frameworks or approaches?","date":"2018-01-13T18:39:57.855Z","type":"message"}
+{"nick":"mr_lou","reason":"Quit: Ex-Chat","date":"2018-01-13T18:40:00.624Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T18:41:29.451Z","type":"quit"}
+{"nick":"oetjenj","date":"2018-01-13T18:42:09.644Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 248 seconds","date":"2018-01-13T18:44:15.902Z","type":"quit"}
+{"nick":"vdamewood","date":"2018-01-13T18:45:48.257Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T18:46:48.633Z","type":"join"}
+{"nick":"Planet_EN","date":"2018-01-13T18:47:48.729Z","type":"join"}
+{"nick":"Gustavo6046","reason":"Read error: Connection reset by peer","date":"2018-01-13T18:48:09.157Z","type":"quit"}
+{"nick":"turboteddy","date":"2018-01-13T18:49:11.858Z","type":"join"}
+{"nick":"Gustavo6046","date":"2018-01-13T18:49:56.330Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T18:52:33.582Z","type":"quit"}
+{"nick":"e14","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T18:53:03.589Z","type":"quit"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-13T18:55:46.100Z","type":"quit"}
+{"nick":"darutoko","reason":"Quit: Any sufficiently advanced technology is indistinguishable from magic. (Arthur C. Clarke)","date":"2018-01-13T18:55:55.280Z","type":"quit"}
+{"nick":"synthetic11000","date":"2018-01-13T18:57:11.887Z","type":"join"}
+{"nick":"belmoussaoui","reason":"Quit: belmoussaoui","date":"2018-01-13T18:59:26.726Z","type":"quit"}
+{"nick":"philzz","date":"2018-01-13T19:02:01.407Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T19:02:57.672Z","type":"join"}
+{"nick":"drewmcmillan","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T19:03:17.906Z","type":"quit"}
+{"nick":"dowwie_","reason":"Remote host closed the connection","date":"2018-01-13T19:05:19.927Z","type":"quit"}
+{"nick":"dowwie","date":"2018-01-13T19:05:36.622Z","type":"join"}
+{"nick":"dowwie","reason":"Changing host","date":"2018-01-13T19:05:36.691Z","type":"quit"}
+{"nick":"dowwie","date":"2018-01-13T19:05:36.691Z","type":"join"}
+{"nick":"rendar","date":"2018-01-13T19:05:49.280Z","type":"quit"}
+{"nick":"e14","date":"2018-01-13T19:07:08.316Z","type":"join"}
+{"nick":"Soopaman","date":"2018-01-13T19:07:59.266Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T19:08:25.580Z","type":"quit"}
+{"nick":"Rev_Illo","date":"2018-01-13T19:11:05.894Z","type":"join"}
+{"nick":"horsey","date":"2018-01-13T19:17:14.747Z","type":"join"}
+{"nick":"eject_ck","reason":"Ping timeout: 276 seconds","date":"2018-01-13T19:17:14.909Z","type":"quit"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-13T19:18:20.301Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T19:18:38.480Z","type":"join"}
+{"nick":"drewmcmillan","date":"2018-01-13T19:21:27.107Z","type":"join"}
+{"nick":"horsey","reason":"Ping timeout: 255 seconds","date":"2018-01-13T19:21:53.241Z","type":"quit"}
+{"nick":"drewmcmi_","date":"2018-01-13T19:22:49.831Z","type":"join"}
+{"nick":"melvster","reason":"Ping timeout: 276 seconds","date":"2018-01-13T19:23:05.760Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 265 seconds","date":"2018-01-13T19:24:07.435Z","type":"quit"}
+{"nick":"drewmcmillan","reason":"Read error: Connection reset by peer","date":"2018-01-13T19:24:33.428Z","type":"quit"}
+{"nick":"e14","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T19:24:48.044Z","type":"quit"}
+{"nick":"drewmcmi_","reason":"Read error: Connection reset by peer","date":"2018-01-13T19:25:04.174Z","type":"quit"}
+{"nick":"kus_","date":"2018-01-13T19:25:36.497Z","type":"join"}
+{"nick":"drewmcmillan","date":"2018-01-13T19:25:39.724Z","type":"join"}
+{"nick":"jkridner","date":"2018-01-13T19:26:22.248Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T19:28:53.788Z","type":"join"}
+{"nick":"justicefries","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T19:29:01.954Z","type":"quit"}
+{"nick":"e14","date":"2018-01-13T19:29:59.100Z","type":"join"}
+{"nick":"justicefries","date":"2018-01-13T19:31:27.838Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T19:34:11.151Z","type":"quit"}
+{"nick":"e14","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T19:34:50.760Z","type":"quit"}
+{"nick":"Planet_EN","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T19:38:16.998Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T19:40:11.976Z","type":"join"}
+{"nick":"graffix","reason":"Quit: graffix","date":"2018-01-13T19:40:18.684Z","type":"quit"}
+{"nick":"sterns","date":"2018-01-13T19:41:05.878Z","type":"join"}
+{"nick":"x405","reason":"Remote host closed the connection","date":"2018-01-13T19:41:52.448Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T19:41:58.641Z","type":"join"}
+{"nick":"sterns","reason":"Client Quit","date":"2018-01-13T19:42:01.494Z","type":"quit"}
+{"nick":"x405","date":"2018-01-13T19:42:27.274Z","type":"join"}
+{"nick":"Neo4","date":"2018-01-13T19:42:30.763Z","type":"join"}
+{"nick":"Literphor","date":"2018-01-13T19:42:57.986Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 248 seconds","date":"2018-01-13T19:45:35.905Z","type":"quit"}
+{"nick":"Tennis","reason":"Quit: Leaving","date":"2018-01-13T19:45:58.477Z","type":"quit"}
+{"nick":"x405","reason":"Ping timeout: 255 seconds","date":"2018-01-13T19:46:38.266Z","type":"quit"}
+{"nick":"milardovich","date":"2018-01-13T19:50:39.229Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T19:51:49.669Z","type":"join"}
+{"nick":"plutoniix","reason":"Quit: Leaving","date":"2018-01-13T19:52:19.856Z","type":"quit"}
+{"nick":"Rev_Illo","reason":"Quit: You can never quit. Winners never quit, and quitters never win.","date":"2018-01-13T19:53:18.638Z","type":"quit"}
+{"nick":"e14","date":"2018-01-13T19:56:37.066Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T19:57:09.657Z","type":"quit"}
+{"nick":"xkapastel","date":"2018-01-13T19:58:56.973Z","type":"join"}
+{"nick":"Kkiro","reason":"Read error: Connection reset by peer","date":"2018-01-13T20:00:04.351Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T20:00:21.228Z","type":"join"}
+{"nick":"e14","reason":"Client Quit","date":"2018-01-13T20:00:58.022Z","type":"quit"}
+{"nick":"Kkiro","date":"2018-01-13T20:02:05.060Z","type":"join"}
+{"nick":"Kkiro","reason":"Changing host","date":"2018-01-13T20:02:05.130Z","type":"quit"}
+{"nick":"Kkiro","date":"2018-01-13T20:02:05.130Z","type":"join"}
+{"nick":"e14","date":"2018-01-13T20:05:00.190Z","type":"join"}
+{"nick":"Circlefusion","reason":"Remote host closed the connection","date":"2018-01-13T20:05:50.605Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T20:05:54.847Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T20:09:04.314Z","type":"join"}
+{"nick":"smccarthy","date":"2018-01-13T20:10:44.885Z","type":"join"}
+{"nick":"jkridner","reason":"Remote host closed the connection","date":"2018-01-13T20:12:10.355Z","type":"quit"}
+{"nick":"hiby007","date":"2018-01-13T20:12:11.647Z","type":"join"}
+{"nick":"turboteddy","reason":"Quit: /q","date":"2018-01-13T20:12:17.922Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T20:12:27.652Z","type":"quit"}
+{"nick":"e14","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T20:13:24.862Z","type":"quit"}
+{"nick":"pmurias","reason":"Ping timeout: 256 seconds","date":"2018-01-13T20:14:24.904Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T20:14:32.235Z","type":"quit"}
+{"nick":"Planet_EN","date":"2018-01-13T20:14:36.649Z","type":"join"}
+{"nick":"splargle","date":"2018-01-13T20:14:53.274Z","type":"join"}
+{"nick":"chargen","reason":"Ping timeout: 256 seconds","date":"2018-01-13T20:17:48.806Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T20:17:51.199Z","type":"join"}
+{"nick":"math0ne","reason":"Ping timeout: 256 seconds","date":"2018-01-13T20:18:41.694Z","type":"quit"}
+{"nick":"e14","date":"2018-01-13T20:19:14.898Z","type":"join"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2018-01-13T20:20:00.305Z","type":"quit"}
+{"nick":"ed209","date":"2018-01-13T20:20:06.587Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T20:21:30.877Z","type":"join"}
+{"nick":"safe","date":"2018-01-13T20:22:26.775Z","type":"join"}
+{"nick":"runeo","date":"2018-01-13T20:22:42.851Z","type":"join"}
+{"nick":"platonic","date":"2018-01-13T20:24:38.886Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 255 seconds","date":"2018-01-13T20:25:47.228Z","type":"quit"}
+{"nick":"gsathya`","new_nick":"gsathya","date":"2018-01-13T20:27:04.596Z","type":"nick"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T20:27:27.045Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T20:28:49.274Z","type":"join"}
+{"nick":"platonic","reason":"Ping timeout: 276 seconds","date":"2018-01-13T20:30:02.885Z","type":"quit"}
+{"nick":"sterns","date":"2018-01-13T20:31:52.841Z","type":"join"}
+{"nick":"pmurias","date":"2018-01-13T20:32:24.262Z","type":"join"}
+{"nick":"theWhisper_","date":"2018-01-13T20:33:33.349Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T20:34:20.327Z","type":"quit"}
+{"nick":"e14","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T20:35:26.451Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T20:36:41.279Z","type":"join"}
+{"nick":"MarkyC","date":"2018-01-13T20:37:12.430Z","type":"join"}
+{"nick":"Quatroking","reason":"Read error: Connection reset by peer","date":"2018-01-13T20:37:34.172Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T20:39:07.311Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 255 seconds","date":"2018-01-13T20:41:32.264Z","type":"quit"}
+{"nick":"IanLiu_","date":"2018-01-13T20:42:01.383Z","type":"join"}
+{"nick":"carif","reason":"Remote host closed the connection","date":"2018-01-13T20:42:20.251Z","type":"quit"}
+{"nick":"IanLiu_","reason":"Remote host closed the connection","date":"2018-01-13T20:42:42.460Z","type":"quit"}
+{"nick":"carif","date":"2018-01-13T20:43:34.778Z","type":"join"}
+{"nick":"IanLiu","reason":"Ping timeout: 256 seconds","date":"2018-01-13T20:43:52.790Z","type":"quit"}
+{"nick":"kfoonamalik","date":"2018-01-13T20:43:56.790Z","type":"join"}
+{"nick":"chargen","date":"2018-01-13T20:44:16.839Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T20:44:26.714Z","type":"quit"}
+{"nick":"Neo4","reason":"Quit: Neo4","date":"2018-01-13T20:44:56.845Z","type":"quit"}
+{"nick":"carif","reason":"Remote host closed the connection","date":"2018-01-13T20:44:57.999Z","type":"quit"}
+{"nick":"dbclk","reason":"Ping timeout: 276 seconds","date":"2018-01-13T20:44:59.832Z","type":"quit"}
+{"nick":"sstercan","date":"2018-01-13T20:46:48.818Z","type":"join"}
+{"nick":"jsatk","date":"2018-01-13T20:47:20.460Z","type":"join"}
+{"nick":"oetjenj","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T20:47:21.649Z","type":"quit"}
+{"nick":"MarkyC","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T20:47:24.946Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T20:48:27.815Z","type":"join"}
+{"nick":"carif","date":"2018-01-13T20:48:55.851Z","type":"join"}
+{"nick":"chargen","reason":"Ping timeout: 276 seconds","date":"2018-01-13T20:49:32.813Z","type":"quit"}
+{"nick":"BSaboia","date":"2018-01-13T20:50:42.939Z","type":"join"}
+{"nick":"pmurias","date":"2018-01-13T20:52:28.340Z","type":"part"}
+{"nick":"IanLiu","date":"2018-01-13T20:53:21.799Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T20:54:04.719Z","type":"quit"}
+{"nick":"eshlox","reason":"Quit: Connection closed for inactivity","date":"2018-01-13T20:54:59.601Z","type":"quit"}
+{"nick":"jkridner","date":"2018-01-13T20:57:49.825Z","type":"join"}
+{"nick":"jkridner|pd","date":"2018-01-13T20:58:50.786Z","type":"join"}
+{"nick":"IanLiu","reason":"Ping timeout: 276 seconds","date":"2018-01-13T20:59:17.828Z","type":"quit"}
+{"nick":"saul","message":"hey dudes","date":"2018-01-13T21:00:04.990Z","type":"message"}
+{"nick":"saul","message":"https://pastebin.com/VCcy7Pz2","date":"2018-01-13T21:00:06.973Z","type":"message"}
+{"nick":"saul","message":"see that first call to NumRegUnico?","date":"2018-01-13T21:00:25.044Z","type":"message"}
+{"nick":"saul","message":"is there a clean way to enclose that with an if","date":"2018-01-13T21:00:35.440Z","type":"message"}
+{"nick":"saul","message":"so that it only runs in some cases","date":"2018-01-13T21:00:41.131Z","type":"message"}
+{"nick":"jsatk","reason":"Ping timeout: 265 seconds","date":"2018-01-13T21:00:47.477Z","type":"quit"}
+{"nick":"saul","message":"but if i dont run it i cant just run .then() off of nothing","date":"2018-01-13T21:00:49.610Z","type":"message"}
+{"nick":"knowlton","date":"2018-01-13T21:00:50.239Z","type":"join"}
+{"nick":"saul","message":"what's the nice way to do this ;/","date":"2018-01-13T21:00:55.716Z","type":"message"}
+{"nick":"saul","message":"instead of writing some silly empty promise and running that when I dont want to run NumRegUnico ...","date":"2018-01-13T21:01:18.392Z","type":"message"}
+{"nick":"jsatk","date":"2018-01-13T21:01:22.793Z","type":"join"}
+{"nick":"jkridner","reason":"Ping timeout: 276 seconds","date":"2018-01-13T21:02:32.760Z","type":"quit"}
+{"nick":"IanLiu","date":"2018-01-13T21:03:15.455Z","type":"join"}
+{"nick":"shoky_","date":"2018-01-13T21:04:27.851Z","type":"join"}
+{"nick":"patterson","date":"2018-01-13T21:04:45.610Z","type":"join"}
+{"nick":"shoky","reason":"Ping timeout: 248 seconds","date":"2018-01-13T21:06:07.998Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T21:06:17.249Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 276 seconds","date":"2018-01-13T21:06:27.653Z","type":"quit"}
+{"nick":"geirha","message":"Promise.resolve().then(() => { if (...) return NumRegDUnico(...); })","date":"2018-01-13T21:06:29.175Z","type":"message"}
+{"nick":"jottr","date":"2018-01-13T21:06:58.123Z","type":"join"}
+{"nick":"raynold","reason":"Quit: Connection closed for inactivity","date":"2018-01-13T21:07:13.055Z","type":"quit"}
+{"nick":"dre_","date":"2018-01-13T21:08:35.380Z","type":"join"}
+{"nick":"saul","message":"geirha: awesome","date":"2018-01-13T21:08:38.308Z","type":"message"}
+{"nick":"kfoonamalik","reason":"Ping timeout: 256 seconds","date":"2018-01-13T21:09:22.795Z","type":"quit"}
+{"nick":"IanLiu","reason":"Ping timeout: 248 seconds","date":"2018-01-13T21:09:51.934Z","type":"quit"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-13T21:09:59.713Z","type":"quit"}
+{"nick":"jkridner|pd","reason":"Remote host closed the connection","date":"2018-01-13T21:10:06.023Z","type":"quit"}
+{"nick":"jkridner","date":"2018-01-13T21:10:58.259Z","type":"join"}
+{"nick":"IanLiu","date":"2018-01-13T21:13:17.709Z","type":"join"}
+{"nick":"net8floz","date":"2018-01-13T21:14:31.825Z","type":"join"}
+{"nick":"prometh","date":"2018-01-13T21:14:41.406Z","type":"join"}
+{"nick":"ch007m","date":"2018-01-13T21:14:52.731Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T21:15:42.857Z","type":"join"}
+{"nick":"net8floz","reason":"Remote host closed the connection","date":"2018-01-13T21:17:07.346Z","type":"quit"}
+{"nick":"MarkyC","date":"2018-01-13T21:17:37.295Z","type":"join"}
+{"nick":"horsey","date":"2018-01-13T21:17:53.320Z","type":"join"}
+{"nick":"jsatk","date":"2018-01-13T21:18:37.614Z","type":"join"}
+{"nick":"jkridner","reason":"Remote host closed the connection","date":"2018-01-13T21:19:13.490Z","type":"quit"}
+{"nick":"kunok","date":"2018-01-13T21:19:20.071Z","type":"join"}
+{"nick":"kunok","reason":"Client Quit","date":"2018-01-13T21:19:41.236Z","type":"quit"}
+{"nick":"kunok","date":"2018-01-13T21:20:19.406Z","type":"join"}
+{"nick":"kunok","reason":"Client Quit","date":"2018-01-13T21:21:08.137Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T21:21:23.860Z","type":"quit"}
+{"nick":"theWhisper_","reason":"Ping timeout: 276 seconds","date":"2018-01-13T21:21:23.928Z","type":"quit"}
+{"nick":"kunok","date":"2018-01-13T21:21:57.002Z","type":"join"}
+{"nick":"math0ne","date":"2018-01-13T21:22:25.263Z","type":"join"}
+{"nick":"horsey","reason":"Ping timeout: 276 seconds","date":"2018-01-13T21:22:41.806Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T21:23:05.823Z","type":"quit"}
+{"nick":"kunok","message":"hi","date":"2018-01-13T21:25:05.016Z","type":"message"}
+{"nick":"kunok","message":"I am building authentication as a proxy microservice. Can passport be used to authorize 1 express application and then let client send requests via that service towards other services?","date":"2018-01-13T21:25:50.331Z","type":"message"}
+{"nick":"kunok","message":"Basically I have express application that lets user login or register, and it generates jwt, it is also a web proxy which redirects requests to private network of services","date":"2018-01-13T21:26:29.668Z","type":"message"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-01-13T21:26:37.714Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T21:26:55.622Z","type":"join"}
+{"nick":"kunok","message":"I noticed that Passport creates req.user property, but my current implementation uses req.headerrs","date":"2018-01-13T21:26:56.596Z","type":"message"}
+{"nick":"kunok","message":"I am not sure I can move req.user prop so easily","date":"2018-01-13T21:27:07.612Z","type":"message"}
+{"nick":"splargle","reason":"Quit: My MacBook Air has gone to sleep. ZZZzzz…","date":"2018-01-13T21:28:20.212Z","type":"quit"}
+{"nick":"noobist","date":"2018-01-13T21:29:50.649Z","type":"join"}
+{"nick":"noobist","reason":"Client Quit","date":"2018-01-13T21:29:50.989Z","type":"quit"}
+{"nick":"toi","date":"2018-01-13T21:30:41.219Z","type":"join"}
+{"nick":"MarkyC","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T21:31:45.556Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T21:32:21.653Z","type":"quit"}
+{"nick":"jkridner","date":"2018-01-13T21:33:05.646Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T21:33:35.769Z","type":"join"}
+{"nick":"hiby007","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-01-13T21:34:26.207Z","type":"quit"}
+{"nick":"Nirvana","new_nick":"Nirvana_2nd","date":"2018-01-13T21:35:45.036Z","type":"nick"}
+{"nick":"whitsan","date":"2018-01-13T21:36:23.271Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T21:39:09.617Z","type":"quit"}
+{"nick":"jxv","date":"2018-01-13T21:39:22.422Z","type":"join"}
+{"nick":"jkridner","reason":"Remote host closed the connection","date":"2018-01-13T21:41:31.059Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T21:41:49.781Z","type":"join"}
+{"nick":"gdainti","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T21:43:13.788Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T21:46:26.557Z","type":"join"}
+{"nick":"x405","date":"2018-01-13T21:46:33.245Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T21:47:20.720Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T21:48:21.753Z","type":"join"}
+{"nick":"re1","reason":"Read error: Connection reset by peer","date":"2018-01-13T21:50:19.533Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T21:54:09.596Z","type":"quit"}
+{"nick":"ilyaigpetrov","reason":"Quit: Connection closed for inactivity","date":"2018-01-13T21:57:43.263Z","type":"quit"}
+{"nick":"jcarpenter2","date":"2018-01-13T21:59:03.923Z","type":"join"}
+{"nick":"chargen","date":"2018-01-13T22:00:08.815Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T22:02:49.409Z","type":"join"}
+{"nick":"vdamewood","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-13T22:03:28.443Z","type":"quit"}
+{"nick":"jkridner","date":"2018-01-13T22:04:46.821Z","type":"join"}
+{"nick":"chargen","reason":"Ping timeout: 256 seconds","date":"2018-01-13T22:04:54.728Z","type":"quit"}
+{"nick":"x405","reason":"Remote host closed the connection","date":"2018-01-13T22:06:49.496Z","type":"quit"}
+{"nick":"x405","date":"2018-01-13T22:07:24.885Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 265 seconds","date":"2018-01-13T22:08:27.444Z","type":"quit"}
+{"nick":"teamcoltra","date":"2018-01-13T22:09:18.686Z","type":"join"}
+{"nick":"preilly","message":"I'm trying to use node_acl in an express application. And I'm not sure how to reference acl in my routes.","date":"2018-01-13T22:09:32.622Z","type":"message"}
+{"nick":"lightstalker","date":"2018-01-13T22:09:57.503Z","type":"join"}
+{"nick":"raynold","date":"2018-01-13T22:10:36.003Z","type":"join"}
+{"nick":"dre_","reason":"Remote host closed the connection","date":"2018-01-13T22:11:01.056Z","type":"quit"}
+{"nick":"x405","reason":"Ping timeout: 276 seconds","date":"2018-01-13T22:12:06.031Z","type":"quit"}
+{"nick":"dre_","date":"2018-01-13T22:12:21.814Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T22:12:39.839Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 260 seconds","date":"2018-01-13T22:14:45.699Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T22:15:17.749Z","type":"join"}
+{"nick":"digitalnomad91","date":"2018-01-13T22:18:32.311Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T22:18:35.826Z","type":"quit"}
+{"nick":"runeo","reason":"Ping timeout: 276 seconds","date":"2018-01-13T22:18:35.895Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T22:19:19.837Z","type":"join"}
+{"nick":"jkridner","reason":"Remote host closed the connection","date":"2018-01-13T22:20:52.870Z","type":"quit"}
+{"nick":"x405","date":"2018-01-13T22:22:30.268Z","type":"join"}
+{"nick":"e14","date":"2018-01-13T22:24:14.199Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T22:24:44.892Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T22:25:05.787Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T22:25:18.183Z","type":"join"}
+{"nick":"alexi5","date":"2018-01-13T22:26:21.630Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-13T22:28:28.090Z","type":"quit"}
+{"nick":"jackespio","date":"2018-01-13T22:29:32.647Z","type":"join"}
+{"nick":"ahmed_elgabri","date":"2018-01-13T22:30:14.228Z","type":"join"}
+{"nick":"toi","reason":"Ping timeout: 255 seconds","date":"2018-01-13T22:30:26.301Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T22:30:37.847Z","type":"join"}
+{"nick":"justicefries","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T22:31:59.195Z","type":"quit"}
+{"nick":"belmoussaoui","date":"2018-01-13T22:32:56.640Z","type":"join"}
+{"nick":"ahmedelgabri","reason":"Ping timeout: 256 seconds","date":"2018-01-13T22:33:14.811Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-13T22:33:21.720Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 255 seconds","date":"2018-01-13T22:33:35.288Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T22:34:19.242Z","type":"join"}
+{"nick":"drewmcmillan","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T22:34:28.582Z","type":"quit"}
+{"nick":"lucasem","date":"2018-01-13T22:35:40.231Z","type":"part"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T22:36:48.157Z","type":"quit"}
+{"nick":"gdainti","date":"2018-01-13T22:37:11.223Z","type":"join"}
+{"nick":"jottr_","date":"2018-01-13T22:37:22.287Z","type":"join"}
+{"nick":"brad_","date":"2018-01-13T22:39:20.529Z","type":"join"}
+{"nick":"jottr","reason":"Ping timeout: 276 seconds","date":"2018-01-13T22:39:23.899Z","type":"quit"}
+{"nick":"pdemier","date":"2018-01-13T22:41:08.795Z","type":"join"}
+{"nick":"CustosLimen","reason":"\"Leaving\"","date":"2018-01-13T22:41:21.621Z","type":"part"}
+{"nick":"jkridner","date":"2018-01-13T22:41:34.740Z","type":"join"}
+{"nick":"smccarthy","reason":"Remote host closed the connection","date":"2018-01-13T22:41:37.362Z","type":"quit"}
+{"nick":"Keanu73","reason":"Ping timeout: 255 seconds","date":"2018-01-13T22:41:41.285Z","type":"quit"}
+{"nick":"harmaahylje","reason":"Quit: leaving","date":"2018-01-13T22:41:58.303Z","type":"quit"}
+{"nick":"harmaahylje","date":"2018-01-13T22:42:17.686Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T22:43:57.887Z","type":"join"}
+{"nick":"x405","reason":"Remote host closed the connection","date":"2018-01-13T22:44:35.157Z","type":"quit"}
+{"nick":"x405","date":"2018-01-13T22:45:10.657Z","type":"join"}
+{"nick":"drewmcmillan","date":"2018-01-13T22:46:13.324Z","type":"join"}
+{"nick":"jkridner","reason":"Ping timeout: 256 seconds","date":"2018-01-13T22:46:16.740Z","type":"quit"}
+{"nick":"kunok","reason":"Quit: Page closed","date":"2018-01-13T22:46:43.437Z","type":"quit"}
+{"nick":"plexigras","reason":"Ping timeout: 256 seconds","date":"2018-01-13T22:49:06.822Z","type":"quit"}
+{"nick":"x405","reason":"Ping timeout: 256 seconds","date":"2018-01-13T22:49:25.603Z","type":"quit"}
+{"nick":"sergey","date":"2018-01-13T22:49:45.993Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T22:49:47.834Z","type":"quit"}
+{"nick":"plexigras","date":"2018-01-13T22:51:12.188Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T22:52:50.346Z","type":"join"}
+{"nick":"vyorkin","date":"2018-01-13T22:54:13.813Z","type":"join"}
+{"nick":"alexi5_","date":"2018-01-13T22:54:20.709Z","type":"join"}
+{"nick":"Soopaman","date":"2018-01-13T22:55:56.756Z","type":"join"}
+{"nick":"Soopaman","reason":"Max SendQ exceeded","date":"2018-01-13T22:56:00.791Z","type":"quit"}
+{"nick":"Soopaman","date":"2018-01-13T22:56:21.854Z","type":"join"}
+{"nick":"Soopaman","reason":"Max SendQ exceeded","date":"2018-01-13T22:56:28.768Z","type":"quit"}
+{"nick":"alexi5","reason":"Ping timeout: 268 seconds","date":"2018-01-13T22:56:29.631Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 255 seconds","date":"2018-01-13T22:56:32.220Z","type":"quit"}
+{"nick":"Soopaman","date":"2018-01-13T22:56:52.762Z","type":"join"}
+{"nick":"smccarthy","date":"2018-01-13T22:57:41.806Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 240 seconds","date":"2018-01-13T22:57:57.855Z","type":"quit"}
+{"nick":"eb0t-","reason":"Read error: Connection reset by peer","date":"2018-01-13T22:58:50.975Z","type":"quit"}
+{"nick":"zumba_ad_","date":"2018-01-13T22:59:00.766Z","type":"join"}
+{"nick":"eb0t","reason":"Read error: Connection reset by peer","date":"2018-01-13T22:59:25.651Z","type":"quit"}
+{"nick":"qard","date":"2018-01-13T22:59:45.910Z","type":"join"}
+{"nick":"chargen","date":"2018-01-13T23:00:28.634Z","type":"join"}
+{"nick":"zumba_ad_","reason":"Remote host closed the connection","date":"2018-01-13T23:01:42.232Z","type":"quit"}
+{"nick":"zumba_ad_","date":"2018-01-13T23:02:22.833Z","type":"join"}
+{"nick":"harmaahylje","reason":"Quit: Lost terminal","date":"2018-01-13T23:02:57.480Z","type":"quit"}
+{"nick":"harmaahylje","date":"2018-01-13T23:03:21.657Z","type":"join"}
+{"nick":"roomcayz","reason":"Remote host closed the connection","date":"2018-01-13T23:03:31.383Z","type":"quit"}
+{"nick":"movlw","date":"2018-01-13T23:05:25.860Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2018-01-13T23:05:56.728Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T23:06:22.324Z","type":"join"}
+{"nick":"InverseRhombus","reason":"Quit: Leaving","date":"2018-01-13T23:07:39.140Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T23:07:40.589Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T23:08:08.657Z","type":"quit"}
+{"nick":"e14","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T23:11:18.383Z","type":"quit"}
+{"nick":"philzz","reason":"Read error: Connection reset by peer","date":"2018-01-13T23:11:30.860Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 260 seconds","date":"2018-01-13T23:11:55.595Z","type":"quit"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-13T23:13:10.578Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T23:14:09.282Z","type":"join"}
+{"nick":"wsieroci","reason":"Remote host closed the connection","date":"2018-01-13T23:16:22.833Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 260 seconds","date":"2018-01-13T23:16:35.642Z","type":"quit"}
+{"nick":"chargen","reason":"Ping timeout: 260 seconds","date":"2018-01-13T23:17:10.575Z","type":"quit"}
+{"nick":"horsey","date":"2018-01-13T23:18:41.341Z","type":"join"}
+{"nick":"drewmcmillan","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T23:18:41.775Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 255 seconds","date":"2018-01-13T23:19:29.213Z","type":"quit"}
+{"nick":"carif","reason":"Remote host closed the connection","date":"2018-01-13T23:19:34.984Z","type":"quit"}
+{"nick":"drewmcmillan","date":"2018-01-13T23:19:36.837Z","type":"join"}
+{"nick":"jottr_","reason":"Ping timeout: 256 seconds","date":"2018-01-13T23:20:01.692Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T23:20:23.483Z","type":"join"}
+{"nick":"drewmcmillan","reason":"Client Quit","date":"2018-01-13T23:20:37.875Z","type":"quit"}
+{"nick":"carif","date":"2018-01-13T23:20:40.809Z","type":"join"}
+{"nick":"dre_","reason":"Remote host closed the connection","date":"2018-01-13T23:21:06.187Z","type":"quit"}
+{"nick":"jottr_","date":"2018-01-13T23:21:44.273Z","type":"join"}
+{"nick":"horsey","reason":"Ping timeout: 276 seconds","date":"2018-01-13T23:23:35.823Z","type":"quit"}
+{"nick":"jsatk","reason":"Ping timeout: 255 seconds","date":"2018-01-13T23:24:53.227Z","type":"quit"}
+{"nick":"gdainti","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T23:25:00.780Z","type":"quit"}
+{"nick":"jscriptStudent","date":"2018-01-13T23:25:15.670Z","type":"join"}
+{"nick":"jsatk","date":"2018-01-13T23:25:37.817Z","type":"join"}
+{"nick":"jscriptStudent","reason":"Read error: Connection reset by peer","date":"2018-01-13T23:26:31.420Z","type":"quit"}
+{"nick":"platonic","date":"2018-01-13T23:27:25.493Z","type":"join"}
+{"nick":"jscriptStudent","date":"2018-01-13T23:27:26.246Z","type":"join"}
+{"nick":"ahrs","reason":"Remote host closed the connection","date":"2018-01-13T23:27:58.745Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T23:29:01.364Z","type":"join"}
+{"nick":"ahrs","date":"2018-01-13T23:29:07.773Z","type":"join"}
+{"nick":"belmoussaoui","reason":"Ping timeout: 276 seconds","date":"2018-01-13T23:30:05.886Z","type":"quit"}
+{"nick":"e14","date":"2018-01-13T23:30:21.384Z","type":"join"}
+{"nick":"oetjenj","date":"2018-01-13T23:31:56.625Z","type":"join"}
+{"nick":"teamcoltra","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T23:31:59.710Z","type":"quit"}
+{"nick":"platonic","reason":"Ping timeout: 255 seconds","date":"2018-01-13T23:32:05.208Z","type":"quit"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T23:35:17.775Z","type":"quit"}
+{"nick":"jottr_","reason":"Quit: WeeChat 2.0.1","date":"2018-01-13T23:36:07.456Z","type":"quit"}
+{"nick":"oetjenj","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T23:39:20.427Z","type":"quit"}
+{"nick":"brad_","reason":"Quit: Lost terminal","date":"2018-01-13T23:39:34.948Z","type":"quit"}
+{"nick":"knowlton","date":"2018-01-13T23:40:13.925Z","type":"join"}
+{"nick":"pdemier","reason":"Ping timeout: 268 seconds","date":"2018-01-13T23:42:45.141Z","type":"quit"}
+{"nick":"jscriptStudent","reason":"Remote host closed the connection","date":"2018-01-13T23:43:12.711Z","type":"quit"}
+{"nick":"jsatk","reason":"Remote host closed the connection","date":"2018-01-13T23:43:36.894Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T23:43:54.719Z","type":"join"}
+{"nick":"gdainti","date":"2018-01-13T23:45:26.328Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 276 seconds","date":"2018-01-13T23:46:20.879Z","type":"quit"}
+{"nick":"pdemier","date":"2018-01-13T23:48:10.509Z","type":"join"}
+{"nick":"knowlton","date":"2018-01-13T23:48:28.388Z","type":"join"}
+{"nick":"splargle","date":"2018-01-13T23:49:19.725Z","type":"join"}
+{"nick":"jsatk","reason":"Ping timeout: 256 seconds","date":"2018-01-13T23:52:53.642Z","type":"quit"}
+{"nick":"arpu","reason":"Ping timeout: 240 seconds","date":"2018-01-13T23:53:32.012Z","type":"quit"}
+{"nick":"jsatk","date":"2018-01-13T23:53:44.643Z","type":"join"}
+{"nick":"knowlton","reason":"Ping timeout: 256 seconds","date":"2018-01-13T23:54:16.798Z","type":"quit"}
+{"nick":"sstercan","reason":"Read error: Connection reset by peer","date":"2018-01-13T23:54:40.431Z","type":"quit"}
+{"nick":"e14","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T23:54:51.416Z","type":"quit"}
+{"nick":"gdainti","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-13T23:55:50.743Z","type":"quit"}
+{"nick":"cthulchu","message":"guys, what is the most performant/elegant way to find characters in a string?","date":"2018-01-13T23:56:31.604Z","type":"message"}
+{"nick":"sstercan","date":"2018-01-13T23:56:50.801Z","type":"join"}
+{"nick":"cthulchu","message":"no, okay","date":"2018-01-13T23:56:56.467Z","type":"message"}
+{"nick":"cthulchu","message":"not a good question","date":"2018-01-13T23:57:00.641Z","type":"message"}
+{"nick":"cthulchu","message":"I'll start from the beginning","date":"2018-01-13T23:57:05.812Z","type":"message"}
+{"nick":"cthulchu","message":"I request pages. I need to analyze the content. Do I always get the pages in utf-8 in Node's strings?","date":"2018-01-13T23:58:05.125Z","type":"message"}
+{"nick":"jxv","reason":"Quit: string on the can snapped off","date":"2018-01-13T23:58:13.643Z","type":"quit"}
+{"nick":"cthulchu","message":"sorry, I'm a bit confused with codepages","date":"2018-01-13T23:58:14.142Z","type":"message"}
+{"nick":"charmander","message":"cthulchu: depends on how you’re requesting them","date":"2018-01-13T23:58:19.832Z","type":"message"}
+{"nick":"thallada","reason":"Quit: WeeChat 2.0.1","date":"2018-01-13T23:58:22.427Z","type":"quit"}
+{"nick":"cthulchu","message":"oh","date":"2018-01-13T23:58:25.313Z","type":"message"}
+{"nick":"charmander","message":"once you have a string, it’s UTF-16-ish","date":"2018-01-13T23:58:27.586Z","type":"message"}
+{"nick":"charmander","message":"it would be up to whatever converted the bytes into a string","date":"2018-01-13T23:58:34.604Z","type":"message"}
+{"nick":"cthulchu","message":"yes, I have it","date":"2018-01-13T23:58:35.803Z","type":"message"}
+{"nick":"cthulchu","message":"okay","date":"2018-01-13T23:58:45.640Z","type":"message"}
+{"nick":"cthulchu","message":"but how does it know what codepage to use?","date":"2018-01-13T23:58:53.964Z","type":"message"}
+{"nick":"cthulchu","message":"for convertation","date":"2018-01-13T23:58:57.845Z","type":"message"}
+{"nick":"charmander","message":"depends on what “it” is","date":"2018-01-13T23:59:23.252Z","type":"message"}
+{"nick":"cthulchu","message":"request, I think","date":"2018-01-13T23:59:29.330Z","type":"message"}
+{"nick":"cthulchu","message":"I think it would be request's job","date":"2018-01-13T23:59:43.229Z","type":"message"}

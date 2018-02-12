@@ -1,0 +1,54 @@
+{"nick":"node-gh","date":"2017-08-26T00:20:40.168Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T00:20:40.359Z","type":"part"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-08-26T00:45:19.443Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-26T00:55:13.306Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T01:03:09.075Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T01:03:09.228Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-26T01:05:51.946Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T01:05:52.099Z","type":"part"}
+{"nick":"rvagg","message":"Oh, FYI folks, `node/build/tools/jenkins-status` works as a node app, `node ./` and it'll print down hosts and the reasons. I find it considerably more helpful than ci.nodejs.org/computer","date":"2017-08-26T01:07:37.507Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-26T01:10:30.372Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-26T01:11:11.220Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-26T01:11:17.634Z","type":"quit"}
+{"nick":"node-gh","date":"2017-08-26T01:17:14.449Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T01:17:14.601Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-26T01:26:39.058Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T01:26:39.210Z","type":"part"}
+{"nick":"Fishrock123","date":"2017-08-26T02:12:30.761Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 260 seconds","date":"2017-08-26T02:17:12.613Z","type":"quit"}
+{"nick":"node-gh","date":"2017-08-26T06:14:50.155Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T06:14:50.307Z","type":"part"}
+{"nick":"seishun","date":"2017-08-26T09:01:50.578Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-08-26T10:25:10.530Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-26T10:25:41.293Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T11:48:34.637Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T11:48:34.789Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-26T11:50:02.157Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T11:50:02.309Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-26T14:10:58.616Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T14:10:58.768Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-08-26T14:26:17.518Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-26T14:28:10.800Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-08-26T14:32:47.467Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-26T15:23:37.223Z","type":"join"}
+{"nick":"xadillax","date":"2017-08-26T15:24:07.018Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-26T15:49:19.601Z","type":"quit"}
+{"nick":"node-gh","date":"2017-08-26T15:50:08.445Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T15:50:08.597Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-08-26T16:08:05.516Z","type":"quit"}
+{"nick":"node-gh","date":"2017-08-26T16:21:06.615Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T16:21:06.767Z","type":"part"}
+{"nick":"seishun","date":"2017-08-26T16:47:03.629Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T17:13:02.571Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T17:13:02.723Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-26T17:13:32.459Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T17:13:32.609Z","type":"part"}
+{"nick":"node-gh","date":"2017-08-26T17:38:17.859Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T17:38:18.011Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 260 seconds","date":"2017-08-26T19:08:07.641Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-26T19:23:08.863Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T19:43:05.875Z","type":"join"}
+{"nick":"node-gh","date":"2017-08-26T19:43:06.026Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-08-26T20:17:35.473Z","type":"quit"}
+{"nick":"seishun","date":"2017-08-26T20:42:15.466Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 260 seconds","date":"2017-08-26T21:19:22.618Z","type":"quit"}

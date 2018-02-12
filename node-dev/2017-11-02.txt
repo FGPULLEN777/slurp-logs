@@ -1,0 +1,366 @@
+{"nick":"cakoose","message":"Re: the mathiasbynens.be article — I agree that async/await has a more strict call/return structure, but the structure of promises is pretty good as well.  In the article’s example: while the promise doesn’t contain a reference to `a` itself, it does contain a reference to the `() => c()` closure.  If the stack trace includes that line of code (which is lexically inside `a`), it’s still very useful for debugging.  You don’t necessarily need to","date":"2017-11-02T00:02:27.026Z","type":"message"}
+{"nick":"cakoose","message":"capture+store the stack trace at every call.","date":"2017-11-02T00:02:27.584Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-11-02T00:03:53.455Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T00:03:53.649Z","type":"part"}
+{"nick":"BridgeAR","date":"2017-11-02T00:08:09.566Z","type":"join"}
+{"nick":"Trott","message":"refack: git bisect again and this time it indicated https://github.com/nodejs/node/commit/e567402aba903f7d828d428f1f5738bbf884636c as the source of the trouble. That is considerably more believable.  And I've reproduced multiple times in CI. (Immediately prior commit comes up clean, that one produces problems.) I'll post info in the issue tracker.","date":"2017-11-02T00:10:50.117Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-11-02T00:16:13.873Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T00:16:14.065Z","type":"part"}
+{"nick":"gsathya","message":"cakoose: Node should be able to give you the current function that throws (if that's what you mean)","date":"2017-11-02T00:18:22.513Z","type":"message"}
+{"nick":"peteley","date":"2017-11-02T00:19:55.375Z","type":"join"}
+{"nick":"cakoose","message":"gsathya: Yeah.  More broadly, if I can determine the current promise/async object, I can look at it’s “then” pointer and include that function in the stack trace as well.  That information might help the developer figure out how the exception was caused.","date":"2017-11-02T00:20:25.152Z","type":"message"}
+{"nick":"gibfahn","reason":"Quit: Connection closed for inactivity","date":"2017-11-02T00:20:30.656Z","type":"quit"}
+{"nick":"refack","message":"Trott, looks promising, the test uses crypto to generate the async error.","date":"2017-11-02T00:21:28.508Z","type":"message"}
+{"nick":"gsathya","message":"cakoose: What is a \"then\" pointer? Is it the callback passed to .then or the function that calls .then?","date":"2017-11-02T00:22:28.656Z","type":"message"}
+{"nick":"cakoose","message":"The callback passed to .then (I hope).","date":"2017-11-02T00:22:53.526Z","type":"message"}
+{"nick":"Trott","message":"refack: I'm done for now, have to go do something else, so nothing more from me any time soon today. I'd love to see this get fixed before Code + Learn next week.","date":"2017-11-02T00:22:54.596Z","type":"message"}
+{"nick":"gsathya","message":"If it's the callback then yes, you should get that as part of the stacktrace because it's all on the stack","date":"2017-11-02T00:23:28.289Z","type":"message"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-11-02T00:24:27.181Z","type":"quit"}
+{"nick":"cakoose","message":"gsathya: While I agree that “the function that calls .then” would allow providing a more typical stack trace, “the callback passed to .then” is still more useful than nothing.","date":"2017-11-02T00:24:28.347Z","type":"message"}
+{"nick":"cakoose","message":"gsathya: Thanks for the confirmation; will try and dive into the code when I have more time.","date":"2017-11-02T00:25:01.596Z","type":"message"}
+{"nick":"gsathya","message":"cakoose: https://gist.github.com/gsathya/b32b8173aa39843e0ce1f948671f2e32","date":"2017-11-02T00:26:24.084Z","type":"message"}
+{"nick":"gsathya","message":"Trott: \\o","date":"2017-11-02T00:27:36.196Z","type":"message"}
+{"nick":"joepie91","reason":"Ping timeout: 246 seconds","date":"2017-11-02T00:33:12.853Z","type":"quit"}
+{"nick":"cakoose","message":"gsathya: I think your Gist makes sense to me, but just to make sure I’m not missing something: was there something specific you wanted to show me?","date":"2017-11-02T00:43:44.411Z","type":"message"}
+{"nick":"gsathya","message":"cakoose: That the callback passed to .then does show up on the stack trace","date":"2017-11-02T00:44:59.074Z","type":"message"}
+{"nick":"cakoose","message":"gsathya: Ah, I see. The case I was focusing on is when the stuff before that throws an exception.","date":"2017-11-02T00:46:41.545Z","type":"message"}
+{"nick":"cakoose","message":"gsathya: (Though as I mentioned to refack, I’m pretty new to Node, so I might be missing something important.)","date":"2017-11-02T00:47:29.102Z","type":"message"}
+{"nick":"cakoose","message":"gsathya: https://gist.github.com/cakoose/558fe25faf504354a4eff24766ab62aa","date":"2017-11-02T00:51:38.712Z","type":"message"}
+{"nick":"cakoose","message":"I thought that maybe, in Node or V8, you could inspect the state of various objects on the stack to figure out the `.then` chain and include that in the stacktrace as well.","date":"2017-11-02T00:53:17.311Z","type":"message"}
+{"nick":"joepie91","date":"2017-11-02T01:01:10.498Z","type":"join"}
+{"nick":"maclover7","message":"joyee: am I okay to start sending lerna PRs to nodejs/automation?","date":"2017-11-02T01:40:15.679Z","type":"message"}
+{"nick":"maclover7","message":"also, would you be able to enable travis on the repo?","date":"2017-11-02T01:40:25.830Z","type":"message"}
+{"nick":"nikhil","reason":"Quit: Connection closed for inactivity","date":"2017-11-02T01:59:34.288Z","type":"quit"}
+{"nick":"gsathya","message":"cakoose: In that example '() => d()' never runs because the previous promise is rejected","date":"2017-11-02T02:05:40.612Z","type":"message"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-11-02T02:07:16.687Z","type":"quit"}
+{"nick":"joyee","date":"2017-11-02T02:07:34.495Z","type":"join"}
+{"nick":"cakoose","message":"gsathya: Yes, it never runs, but it is the thing that would run next.  And including it in the stack trace would help pinpoint where the exception ocurred.","date":"2017-11-02T02:08:26.745Z","type":"message"}
+{"nick":"JamesMGreene","date":"2017-11-02T02:09:31.995Z","type":"join"}
+{"nick":"joyee","message":"maclover7: Hmm, should we put the code in the nodejs/automation repo tho?","date":"2017-11-02T02:10:29.260Z","type":"message"}
+{"nick":"joyee","message":"Right now everyone in the automation team has write access, and people have indicated they would want to keep the list short for the code in https://github.com/nodejs/automation/issues/8","date":"2017-11-02T02:11:27.932Z","type":"message"}
+{"nick":"cakoose","message":"gsathya: Even “standard” stack traces sort of do the same thing.  Each stack frame stores the return address, which can be seen as the address of the code that will execute next, rather than the code that called you.  This viewpoint makes even more sense when you think of tail call optimization, where your caller is no longer on the stack.","date":"2017-11-02T02:11:38.840Z","type":"message"}
+{"nick":"cakoose","reason":"Quit: cakoose","date":"2017-11-02T02:29:39.243Z","type":"quit"}
+{"nick":"cakoose","date":"2017-11-02T02:42:44.677Z","type":"join"}
+{"nick":"cakoose","reason":"Client Quit","date":"2017-11-02T02:47:02.243Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T02:54:15.497Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T02:54:15.652Z","type":"part"}
+{"nick":"JamesMGreene","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-11-02T03:00:06.280Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T03:07:40.462Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T03:07:40.770Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T03:16:45.533Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T03:16:45.661Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T03:19:25.484Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T03:19:25.639Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T03:20:02.601Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T03:20:02.756Z","type":"part"}
+{"nick":"srl295","reason":"Quit: Connection closed for inactivity","date":"2017-11-02T03:30:06.156Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-02T04:25:08.456Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 248 seconds","date":"2017-11-02T04:29:21.464Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T04:44:38.330Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T04:44:38.479Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T04:45:38.308Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T04:45:38.460Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T04:56:38.477Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T04:56:38.627Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T05:34:56.079Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T05:34:56.234Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T05:36:04.254Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T05:36:04.446Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T05:38:23.485Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T05:38:23.640Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T05:39:22.958Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T05:39:23.113Z","type":"part"}
+{"nick":"cakoose","date":"2017-11-02T05:42:27.256Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-02T06:08:52.025Z","type":"quit"}
+{"nick":"pk26","date":"2017-11-02T06:12:08.971Z","type":"join"}
+{"nick":"lpin","date":"2017-11-02T06:33:03.597Z","type":"join"}
+{"nick":"BridgeAR","date":"2017-11-02T06:37:04.090Z","type":"join"}
+{"nick":"cakoose","reason":"Quit: cakoose","date":"2017-11-02T06:45:38.052Z","type":"quit"}
+{"nick":"cakoose","date":"2017-11-02T06:48:58.803Z","type":"join"}
+{"nick":"pk26","reason":"Quit: Page closed","date":"2017-11-02T06:49:57.332Z","type":"quit"}
+{"nick":"cakoose","reason":"Client Quit","date":"2017-11-02T06:51:50.906Z","type":"quit"}
+{"nick":"cakoose","date":"2017-11-02T06:52:56.625Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T06:54:59.595Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T06:54:59.750Z","type":"part"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-11-02T07:23:20.118Z","type":"quit"}
+{"nick":"cakoose","reason":"Quit: cakoose","date":"2017-11-02T07:25:28.747Z","type":"quit"}
+{"nick":"cakoose","date":"2017-11-02T07:28:37.384Z","type":"join"}
+{"nick":"gibfahn","date":"2017-11-02T07:30:35.575Z","type":"join"}
+{"nick":"cakoose","reason":"Quit: cakoose","date":"2017-11-02T08:34:51.308Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T08:51:37.655Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T08:51:37.810Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T08:51:55.086Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T08:51:55.240Z","type":"part"}
+{"nick":"aqrln","date":"2017-11-02T09:25:54.997Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 248 seconds","date":"2017-11-02T09:30:08.002Z","type":"quit"}
+{"nick":"AtumT","date":"2017-11-02T09:32:23.673Z","type":"join"}
+{"nick":"seishun","date":"2017-11-02T09:47:49.880Z","type":"join"}
+{"nick":"gibfahn","reason":"Quit: Connection closed for inactivity","date":"2017-11-02T09:50:22.543Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-02T10:25:11.498Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-02T10:25:42.428Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T10:36:13.003Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T10:36:13.158Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T10:39:00.255Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T10:39:00.450Z","type":"part"}
+{"nick":"joyee_","date":"2017-11-02T10:50:20.871Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-11-02T10:50:41.559Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T11:09:54.435Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T11:09:54.590Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T11:12:09.629Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T11:12:09.784Z","type":"part"}
+{"nick":"bhughes","reason":"Ping timeout: 264 seconds","date":"2017-11-02T11:22:34.267Z","type":"quit"}
+{"nick":"bhughes","date":"2017-11-02T11:29:08.756Z","type":"join"}
+{"nick":"mcollina","message":"rvagg: the machine is back up","date":"2017-11-02T11:33:34.868Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-11-02T11:42:57.514Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T11:42:57.669Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T11:58:19.561Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T11:58:19.717Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-11-02T12:06:24.099Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-02T12:27:46.850Z","type":"join"}
+{"nick":"apapirovski","message":"Does anyone understand / have insight into the specific reasons that led to npm not releasing a version over the past several weeks that could support node 9?","date":"2017-11-02T12:28:35.306Z","type":"message"}
+{"nick":"apapirovski","message":"The amount of issues on github projects and on twitter re: node 9 being unstable, etc. because npm doesn't work with it is pretty ridiculous","date":"2017-11-02T12:29:25.217Z","type":"message"}
+{"nick":"bhughes","reason":"Ping timeout: 258 seconds","date":"2017-11-02T12:38:28.594Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-02T12:41:14.132Z","type":"join"}
+{"nick":"bhughes","date":"2017-11-02T12:42:23.089Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T12:53:34.755Z","type":"quit"}
+{"nick":"lance|afk","new_nick":"lanceball","date":"2017-11-02T12:54:17.356Z","type":"nick"}
+{"nick":"apapirovski","date":"2017-11-02T12:54:17.900Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 260 seconds","date":"2017-11-02T13:00:07.598Z","type":"quit"}
+{"nick":"evanlucas","date":"2017-11-02T13:06:52.960Z","type":"join"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-11-02T13:10:28.832Z","type":"quit"}
+{"nick":"evanlucas","date":"2017-11-02T13:10:50.337Z","type":"join"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-11-02T13:10:52.960Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-11-02T13:14:35.307Z","type":"join"}
+{"nick":"evanlucas","date":"2017-11-02T13:19:06.484Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-02T13:25:21.445Z","type":"join"}
+{"nick":"maclover7","message":"joyee: yeah, i'd say nodejs/automation for sure","date":"2017-11-02T13:27:42.856Z","type":"message"}
+{"nick":"maclover7","message":"imho it's ok a bunch of people have write access to the repo","date":"2017-11-02T13:27:52.852Z","type":"message"}
+{"nick":"maclover7","message":"but npm access should be limited to like one or two people","date":"2017-11-02T13:28:04.015Z","type":"message"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-11-02T13:28:27.445Z","type":"quit"}
+{"nick":"evanlucas","date":"2017-11-02T13:28:45.605Z","type":"join"}
+{"nick":"joyee_","message":"I think we can reserve automation for documentations","date":"2017-11-02T13:28:46.809Z","type":"message"}
+{"nick":"joyee_","message":"But then..they could be in the monorepo I guess","date":"2017-11-02T13:29:10.179Z","type":"message"}
+{"nick":"maclover7","message":"yeah","date":"2017-11-02T13:29:20.086Z","type":"message"}
+{"nick":"maclover7","message":"personally i prefer monorepo","date":"2017-11-02T13:29:25.351Z","type":"message"}
+{"nick":"maclover7","message":"also because now there's a lot of tools being transferred over","date":"2017-11-02T13:29:56.817Z","type":"message"}
+{"nick":"maclover7","message":"keeping everything in one repo rather than like 10 would be easier imho","date":"2017-11-02T13:30:08.612Z","type":"message"}
+{"nick":"joyee_","message":"I would still want to wait for https://github.com/nodejs/automation/issues/8","date":"2017-11-02T13:30:44.667Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-11-02T13:30:53.750Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T13:30:53.906Z","type":"part"}
+{"nick":"joyee_","message":"before we move things into automation repo","date":"2017-11-02T13:30:54.404Z","type":"message"}
+{"nick":"joyee_","message":"The monorepo transition don't have to wait for that tho","date":"2017-11-02T13:31:18.206Z","type":"message"}
+{"nick":"joyee_","message":"Just can't be pushed","date":"2017-11-02T13:31:49.827Z","type":"message"}
+{"nick":"maclover7","message":"ok","date":"2017-11-02T13:33:02.953Z","type":"message"}
+{"nick":"maclover7","message":"forgot to comment on that issue, just did","date":"2017-11-02T13:33:10.494Z","type":"message"}
+{"nick":"maclover7","message":"i'll start working on moving over branch-diff (seems smallest) later today","date":"2017-11-02T13:33:32.989Z","type":"message"}
+{"nick":"joyee_","message":"Or I can change the access of the automation team on the automation repo to read, before we sort things out","date":"2017-11-02T13:33:33.545Z","type":"message"}
+{"nick":"maclover7","message":"^ hmm interesting","date":"2017-11-02T13:33:50.127Z","type":"message"}
+{"nick":"maclover7","message":"maybe everyone read until you need to be write?","date":"2017-11-02T13:33:57.780Z","type":"message"}
+{"nick":"maclover7","message":"if that makes sense","date":"2017-11-02T13:34:09.043Z","type":"message"}
+{"nick":"joyee_","message":"That would be the automation-collaborator team that I proposed in that thread","date":"2017-11-02T13:34:19.646Z","type":"message"}
+{"nick":"joyee_","message":"Although read access does not mean anything when the repo is public","date":"2017-11-02T13:34:39.118Z","type":"message"}
+{"nick":"joyee_","message":"It's readable anyway","date":"2017-11-02T13:34:47.822Z","type":"message"}
+{"nick":"maclover7","message":"yeah, kinda redundant","date":"2017-11-02T13:35:36.074Z","type":"message"}
+{"nick":"maclover7","message":"although","date":"2017-11-02T13:35:37.360Z","type":"message"}
+{"nick":"maclover7","message":"good to have a team handle for pinging","date":"2017-11-02T13:35:54.531Z","type":"message"}
+{"nick":"joyee_","message":"Yeah, I am leaning towards @nodejs/automation for pings, @nodejs/automation-collaborators for write access, @nodejs/automation-admins for admin access","date":"2017-11-02T13:36:47.845Z","type":"message"}
+{"nick":"maclover7","message":"+1","date":"2017-11-02T13:38:58.655Z","type":"message"}
+{"nick":"maclover7","message":"i was going to say in my comment have a mini tsc that holds the npm release keys","date":"2017-11-02T13:39:14.470Z","type":"message"}
+{"nick":"maclover7","message":"but i figured that was a bit much","date":"2017-11-02T13:39:18.400Z","type":"message"}
+{"nick":"joyee_","message":"well that would actually be more like nodejs/release","date":"2017-11-02T13:42:12.557Z","type":"message"}
+{"nick":"joyee_","message":"the release team member does not have to be TSC","date":"2017-11-02T13:42:22.213Z","type":"message"}
+{"nick":"joyee_","message":"they are just willing to do releases, although npm releases are much simpler","date":"2017-11-02T13:42:44.556Z","type":"message"}
+{"nick":"joyee_","message":"For the releases I am actually interested in giving https://github.com/semantic-release/semantic-release a try","date":"2017-11-02T13:43:33.280Z","type":"message"}
+{"nick":"joyee_","message":"But not sure if it works out with the monorepo idea","date":"2017-11-02T13:44:44.053Z","type":"message"}
+{"nick":"maclover7","message":"does it release on every commit?","date":"2017-11-02T13:44:59.923Z","type":"message"}
+{"nick":"joyee_","message":"Or...does it? It means we have a release branch for everything","date":"2017-11-02T13:45:09.497Z","type":"message"}
+{"nick":"joyee_","message":"Yes, but we don't have to use the master branch","date":"2017-11-02T13:45:22.760Z","type":"message"}
+{"nick":"maclover7","message":"> When semantic-release is set up it will do that after every successful continuous integration build of your master branch (or any other branch you specify) and publish the new version for you","date":"2017-11-02T13:45:50.738Z","type":"message"}
+{"nick":"maclover7","message":"i feel like we wouldn't need a release for every commit","date":"2017-11-02T13:46:19.673Z","type":"message"}
+{"nick":"maclover7","message":"idk","date":"2017-11-02T13:46:20.131Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-11-02T13:46:43.441Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T13:46:43.596Z","type":"part"}
+{"nick":"joyee_","message":"Well if we have a release branch, then it will only build when we merge things from master to release","date":"2017-11-02T13:46:45.258Z","type":"message"}
+{"nick":"maclover7","message":"ah yeah, true","date":"2017-11-02T13:47:19.754Z","type":"message"}
+{"nick":"joyee_","message":"Although...it seems kinda hard if we need to release everything at once","date":"2017-11-02T13:47:34.817Z","type":"message"}
+{"nick":"joyee_","message":"Gonna think over it for a few more days","date":"2017-11-02T13:47:49.525Z","type":"message"}
+{"nick":"maclover7","message":"yeah that's also something we gotta figure out","date":"2017-11-02T13:47:55.068Z","type":"message"}
+{"nick":"maclover7","message":"do one release push for all tools, even if some have no changes?","date":"2017-11-02T13:48:04.210Z","type":"message"}
+{"nick":"joyee_","message":"Why not","date":"2017-11-02T13:48:13.328Z","type":"message"}
+{"nick":"joyee_","message":"If people want to have a bundle of all the tools","date":"2017-11-02T13:48:24.546Z","type":"message"}
+{"nick":"joyee_","message":"The essential collaborator toolkit!","date":"2017-11-02T13:48:41.764Z","type":"message"}
+{"nick":"maclover7","message":"haha","date":"2017-11-02T13:48:45.724Z","type":"message"}
+{"nick":"maclover7","message":"yeah, i'm fine with it personally","date":"2017-11-02T13:48:49.168Z","type":"message"}
+{"nick":"maclover7","message":"i didn't know if people wouldn't like that though","date":"2017-11-02T13:48:53.924Z","type":"message"}
+{"nick":"joyee_","message":"Personally I kinda like that","date":"2017-11-02T13:49:27.853Z","type":"message"}
+{"nick":"joyee_","message":"I didn't know about a few tools before people start proposing to move them into the foundation","date":"2017-11-02T13:49:45.695Z","type":"message"}
+{"nick":"joyee_","message":"Put them into a bundle increases visibility","date":"2017-11-02T13:49:55.516Z","type":"message"}
+{"nick":"maclover7","message":"yeah","date":"2017-11-02T13:50:22.765Z","type":"message"}
+{"nick":"maclover7","message":"didn't realize everyone had so many little node scripts all over the place","date":"2017-11-02T13:50:34.628Z","type":"message"}
+{"nick":"joyee_","message":"I had a bunch in my ~/.zshrc","date":"2017-11-02T13:50:45.443Z","type":"message"}
+{"nick":"maclover7","message":"hopefully","date":"2017-11-02T13:51:27.074Z","type":"message"}
+{"nick":"maclover7","message":"since things will be more packaged together","date":"2017-11-02T13:51:31.965Z","type":"message"}
+{"nick":"maclover7","message":"people can try and standardize on workflow for stuff","date":"2017-11-02T13:51:38.853Z","type":"message"}
+{"nick":"joyee_","message":"Hopefully we can handle most of the work to bots!","date":"2017-11-02T13:52:00.963Z","type":"message"}
+{"nick":"joyee_","message":"hand over","date":"2017-11-02T13:52:05.772Z","type":"message"}
+{"nick":"maclover7","message":"haha","date":"2017-11-02T13:52:45.805Z","type":"message"}
+{"nick":"maclover7","message":"yes, please!","date":"2017-11-02T13:52:47.759Z","type":"message"}
+{"nick":"joyee_","message":"I really don't like seeing human landing commits :S","date":"2017-11-02T13:52:49.428Z","type":"message"}
+{"nick":"joyee_","message":"But we need to figure out a lot of stuff before we can trust a bot to do that","date":"2017-11-02T13:53:19.035Z","type":"message"}
+{"nick":"joyee_","message":"like flaky CI","date":"2017-11-02T13:53:23.655Z","type":"message"}
+{"nick":"joyee_","message":"So, baby steps, get the tools good enough for humans to use, hand over to bots when they are automated to a point that we don't really need to do much","date":"2017-11-02T13:54:49.936Z","type":"message"}
+{"nick":"maclover7","message":"yep, exactly","date":"2017-11-02T13:56:26.924Z","type":"message"}
+{"nick":"joepie91","reason":"Read error: Connection reset by peer","date":"2017-11-02T14:02:51.791Z","type":"quit"}
+{"nick":"joepie91___","date":"2017-11-02T14:03:09.479Z","type":"join"}
+{"nick":"joepie91___","new_nick":"joepie91","date":"2017-11-02T14:04:45.859Z","type":"nick"}
+{"nick":"jsumners","date":"2017-11-02T14:11:23.129Z","type":"join"}
+{"nick":"jsumners","message":"jbergstroem, the rsync endpoint is out of sync again","date":"2017-11-02T14:11:46.985Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-11-02T14:16:28.821Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T14:16:28.976Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-11-02T14:25:03.989Z","type":"quit"}
+{"nick":"Ultrasauce","reason":"Read error: Connection reset by peer","date":"2017-11-02T14:26:01.878Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T14:29:21.912Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T14:29:22.067Z","type":"part"}
+{"nick":"nikhil","date":"2017-11-02T14:29:25.013Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T14:30:16.275Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T14:30:16.430Z","type":"part"}
+{"nick":"seishun","date":"2017-11-02T14:36:51.625Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2017-11-02T14:54:41.641Z","type":"quit"}
+{"nick":"joyee_","reason":"Remote host closed the connection","date":"2017-11-02T15:36:47.151Z","type":"quit"}
+{"nick":"joyee","date":"2017-11-02T15:37:21.749Z","type":"join"}
+{"nick":"lanceball","new_nick":"lance|afk","date":"2017-11-02T15:58:57.698Z","type":"nick"}
+{"nick":"nodejs-gh","date":"2017-11-02T15:59:02.627Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T15:59:02.782Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T16:05:53.450Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T16:23:38.604Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T16:23:38.798Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T16:26:49.527Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T16:26:49.682Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T16:27:32.328Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T16:27:32.483Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T16:29:11.607Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T16:29:11.801Z","type":"part"}
+{"nick":"apapirovski","date":"2017-11-02T16:33:29.507Z","type":"join"}
+{"nick":"seishun","reason":"Remote host closed the connection","date":"2017-11-02T16:53:28.366Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T16:56:38.889Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T16:56:39.082Z","type":"part"}
+{"nick":"seishun","date":"2017-11-02T17:07:22.962Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T17:08:30.997Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T17:08:31.152Z","type":"part"}
+{"nick":"nikhil","reason":"Quit: Connection closed for inactivity","date":"2017-11-02T17:09:11.737Z","type":"quit"}
+{"nick":"joyee_","date":"2017-11-02T17:13:24.618Z","type":"join"}
+{"nick":"lpin","message":"refack did you see https://github.com/nodejs/node/pull/16692?","date":"2017-11-02T17:13:52.697Z","type":"message"}
+{"nick":"lpin","message":"yes you did, ignore me","date":"2017-11-02T17:14:27.582Z","type":"message"}
+{"nick":"seishun","reason":"Ping timeout: 252 seconds","date":"2017-11-02T17:14:38.110Z","type":"quit"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-11-02T17:16:27.750Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-02T17:20:45.111Z","type":"join"}
+{"nick":"qard","date":"2017-11-02T17:26:27.996Z","type":"join"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-11-02T17:28:17.621Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-02T17:28:22.595Z","type":"join"}
+{"nick":"AtumT","date":"2017-11-02T17:28:34.084Z","type":"join"}
+{"nick":"lance|afk","new_nick":"lanceball","date":"2017-11-02T17:47:46.233Z","type":"nick"}
+{"nick":"bradleymeck","date":"2017-11-02T17:49:15.576Z","type":"join"}
+{"nick":"joyee_","reason":"Remote host closed the connection","date":"2017-11-02T17:50:42.779Z","type":"quit"}
+{"nick":"aqrln","reason":"Ping timeout: 246 seconds","date":"2017-11-02T17:51:23.565Z","type":"quit"}
+{"nick":"cakoose","date":"2017-11-02T18:17:32.366Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T18:26:55.259Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-02T18:31:35.791Z","type":"join"}
+{"nick":"cakoose","reason":"Quit: cakoose","date":"2017-11-02T18:34:55.899Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T18:40:25.584Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T18:40:25.740Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T18:41:19.588Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T18:41:19.796Z","type":"part"}
+{"nick":"joyee","date":"2017-11-02T18:41:58.598Z","type":"join"}
+{"nick":"aqrln","date":"2017-11-02T18:43:10.574Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 260 seconds","date":"2017-11-02T18:46:37.604Z","type":"quit"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-11-02T18:59:08.964Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2017-11-02T18:59:51.620Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T19:00:22.482Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T19:00:22.638Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T19:02:02.621Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T19:02:02.776Z","type":"part"}
+{"nick":"cakoose","date":"2017-11-02T19:13:22.750Z","type":"join"}
+{"nick":"cakoose","reason":"Client Quit","date":"2017-11-02T19:18:14.586Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T19:19:44.558Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T19:19:44.713Z","type":"part"}
+{"nick":"aqrln","reason":"Ping timeout: 258 seconds","date":"2017-11-02T19:33:14.582Z","type":"quit"}
+{"nick":"joyee","date":"2017-11-02T19:33:16.750Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-11-02T19:37:27.755Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-02T19:43:35.750Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-11-02T19:47:57.751Z","type":"quit"}
+{"nick":"BridgeAR","date":"2017-11-02T19:50:31.607Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T19:53:22.486Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T19:53:22.643Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T19:54:32.503Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T19:54:32.659Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T19:57:42.580Z","type":"quit"}
+{"nick":"Ultrasauce","date":"2017-11-02T19:57:57.781Z","type":"join"}
+{"nick":"stan_","date":"2017-11-02T19:58:20.994Z","type":"join"}
+{"nick":"stan_","message":"hi","date":"2017-11-02T19:58:34.130Z","type":"message"}
+{"nick":"stan_","new_nick":"Guest28749","date":"2017-11-02T19:58:44.824Z","type":"nick"}
+{"nick":"Guest28749","reason":"Client Quit","date":"2017-11-02T20:01:20.268Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-02T20:01:37.578Z","type":"join"}
+{"nick":"tniessen","message":"hi stan_","date":"2017-11-02T20:03:29.539Z","type":"message"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-11-02T20:05:52.092Z","type":"quit"}
+{"nick":"aqrln","reason":"Ping timeout: 258 seconds","date":"2017-11-02T20:06:12.602Z","type":"quit"}
+{"nick":"joyee","date":"2017-11-02T20:14:24.031Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-11-02T20:19:11.887Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-02T20:30:23.978Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 240 seconds","date":"2017-11-02T20:34:27.751Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-02T20:40:20.523Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-02T20:45:43.753Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T20:47:08.751Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T20:47:08.943Z","type":"part"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-11-02T20:53:42.765Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-11-02T20:53:57.752Z","type":"quit"}
+{"nick":"jsumners","reason":"Quit: Leaving","date":"2017-11-02T20:54:30.937Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T20:56:30.930Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T20:56:31.085Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T21:02:39.876Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-02T21:02:50.492Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-02T21:04:14.487Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T21:08:12.469Z","type":"quit"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-11-02T21:13:05.482Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T21:18:05.557Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T21:18:05.711Z","type":"part"}
+{"nick":"aqrln","date":"2017-11-02T21:18:06.361Z","type":"join"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-11-02T21:27:36.462Z","type":"quit"}
+{"nick":"joyee","date":"2017-11-02T21:29:00.954Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-11-02T21:48:01.319Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-02T21:50:28.876Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 255 seconds","date":"2017-11-02T21:56:01.955Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-02T22:08:35.751Z","type":"join"}
+{"nick":"gibfahn_","date":"2017-11-02T22:12:04.958Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-11-02T22:12:57.752Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:22:24.958Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:22:25.113Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:33:22.268Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:33:22.423Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:35:41.959Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:35:42.114Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:36:16.963Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:36:17.154Z","type":"part"}
+{"nick":"apapirovski","date":"2017-11-02T22:37:17.701Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-02T22:37:41.194Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:43:05.577Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:43:05.734Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:43:44.986Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:43:45.179Z","type":"part"}
+{"nick":"aqrln","date":"2017-11-02T22:44:50.601Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:52:08.616Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:52:08.771Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:53:13.554Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T22:53:13.709Z","type":"part"}
+{"nick":"aqrln","reason":"Ping timeout: 260 seconds","date":"2017-11-02T23:05:37.655Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-11-02T23:13:07.527Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-02T23:13:30.751Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-11-02T23:27:27.752Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-02T23:28:50.468Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 248 seconds","date":"2017-11-02T23:36:01.551Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-02T23:40:31.125Z","type":"join"}
+{"nick":"nikhil","date":"2017-11-02T23:41:32.450Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-02T23:44:07.343Z","type":"quit"}
+{"nick":"qard","date":"2017-11-02T23:44:34.668Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-11-02T23:57:27.754Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-02T23:59:26.608Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-02T23:59:26.765Z","type":"part"}

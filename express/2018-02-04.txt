@@ -1,0 +1,133 @@
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-04T00:18:08.275Z","type":"quit"}
+{"nick":"phishy","date":"2018-02-04T00:21:20.266Z","type":"join"}
+{"nick":"rancyd","date":"2018-02-04T00:34:14.642Z","type":"join"}
+{"nick":"Roughy","reason":"Quit: Meadow Fresh milk","date":"2018-02-04T01:08:27.564Z","type":"quit"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-04T01:42:47.269Z","type":"quit"}
+{"nick":"phishy","date":"2018-02-04T01:57:32.933Z","type":"join"}
+{"nick":"mven","reason":"Remote host closed the connection","date":"2018-02-04T04:50:53.611Z","type":"quit"}
+{"nick":"mven","date":"2018-02-04T05:41:38.641Z","type":"join"}
+{"nick":"commma_","date":"2018-02-04T06:08:02.744Z","type":"join"}
+{"nick":"tolmasky__","date":"2018-02-04T06:08:17.776Z","type":"join"}
+{"nick":"bengl_","date":"2018-02-04T06:08:28.939Z","type":"join"}
+{"nick":"HannahWolfe_","date":"2018-02-04T06:08:33.738Z","type":"join"}
+{"nick":"Methos_","date":"2018-02-04T06:13:44.686Z","type":"join"}
+{"nick":"GGMethos","reason":"*.net *.split","date":"2018-02-04T06:15:31.818Z","type":"quit"}
+{"nick":"commma","reason":"*.net *.split","date":"2018-02-04T06:15:34.141Z","type":"quit"}
+{"nick":"HannahWolfe","reason":"*.net *.split","date":"2018-02-04T06:15:34.335Z","type":"quit"}
+{"nick":"bengl","reason":"*.net *.split","date":"2018-02-04T06:15:34.336Z","type":"quit"}
+{"nick":"Ryuno-Ki[m]","reason":"*.net *.split","date":"2018-02-04T06:15:34.631Z","type":"quit"}
+{"nick":"tolmasky","reason":"*.net *.split","date":"2018-02-04T06:15:34.825Z","type":"quit"}
+{"nick":"commma_","new_nick":"commma","date":"2018-02-04T06:15:37.186Z","type":"nick"}
+{"nick":"bengl_","new_nick":"bengl","date":"2018-02-04T06:15:37.879Z","type":"nick"}
+{"nick":"tolmasky__","new_nick":"tolmasky","date":"2018-02-04T06:15:39.416Z","type":"nick"}
+{"nick":"HannahWolfe_","new_nick":"HannahWolfe","date":"2018-02-04T06:15:39.416Z","type":"nick"}
+{"nick":"Ryuno-Ki[m]","date":"2018-02-04T06:22:15.774Z","type":"join"}
+{"nick":"lpin","date":"2018-02-04T06:25:27.633Z","type":"join"}
+{"nick":"galileo","reason":"Remote host closed the connection","date":"2018-02-04T07:01:48.009Z","type":"quit"}
+{"nick":"Roughy","date":"2018-02-04T09:03:04.768Z","type":"join"}
+{"nick":"lpin","reason":"Ping timeout: 260 seconds","date":"2018-02-04T09:14:30.253Z","type":"quit"}
+{"nick":"lpin","date":"2018-02-04T10:58:49.518Z","type":"join"}
+{"nick":"lpin","reason":"Read error: Connection reset by peer","date":"2018-02-04T11:02:00.252Z","type":"quit"}
+{"nick":"lpin","date":"2018-02-04T11:02:27.991Z","type":"join"}
+{"nick":"Arcarc","date":"2018-02-04T11:05:20.060Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-02-04T11:25:10.476Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-02-04T11:25:41.763Z","type":"join"}
+{"nick":"arup_r","date":"2018-02-04T14:06:04.563Z","type":"join"}
+{"nick":"arup_r","message":"Hey can anyone tell me why my app not seeing the file? Error: https://i.gyazo.com/7f190825ddeccd8bd261cabb980a4d00.png and code: https://github.com/aruprakshit/epress-app . all routes are showing errors no such file or directroy.","date":"2018-02-04T14:23:30.138Z","type":"message"}
+{"nick":"Roughy","message":"paths need to be absolute or root provided to sendFile, it has no idea \"about.html\" is","date":"2018-02-04T14:54:17.966Z","type":"message"}
+{"nick":"Roughy","message":"+where","date":"2018-02-04T14:54:25.130Z","type":"message"}
+{"nick":"Roughy","message":"res.sendFile( path.join(__dirname, 'views', 'about.html'));","date":"2018-02-04T14:57:05.431Z","type":"message"}
+{"nick":"Roughy","message":"works fine","date":"2018-02-04T14:57:06.331Z","type":"message"}
+{"nick":"arup_r","message":"Roughy: so express.static(...) does not help when rendering html files?","date":"2018-02-04T14:58:00.467Z","type":"message"}
+{"nick":"Roughy","message":"meanwhile the static you've got above the routes allows :8080/about.html to work","date":"2018-02-04T14:58:06.280Z","type":"message"}
+{"nick":"Roughy","message":"about != about.html","date":"2018-02-04T14:58:34.100Z","type":"message"}
+{"nick":"arup_r","message":"I meant sendFile() function doesn't look up there?","date":"2018-02-04T14:59:55.574Z","type":"message"}
+{"nick":"arup_r","message":"what I registered with express.static(...) ?","date":"2018-02-04T15:00:14.088Z","type":"message"}
+{"nick":"arup_r","message":"I saw https://codeforgeek.com/2015/01/render-html-file-expressjs/ .. but it doesn't work in my example.","date":"2018-02-04T15:00:34.420Z","type":"message"}
+{"nick":"Roughy","message":"it serves the files in folder /views to root, basically short for app.use('/', express.static(__dirname + '/views'));","date":"2018-02-04T15:03:13.277Z","type":"message"}
+{"nick":"Roughy","message":"you can also do","date":"2018-02-04T15:03:55.374Z","type":"message"}
+{"nick":"Roughy","message":"app.use('/about', express.static(__dirname + '/views/about.html'))","date":"2018-02-04T15:03:56.125Z","type":"message"}
+{"nick":"arup_r","message":"ok","date":"2018-02-04T15:07:59.988Z","type":"message"}
+{"nick":"Roughy","message":"I'm not super familiar with serving static stuff in express, but as far as I understand what the guy in the tutorial is trying to do is... not how thngs are supposed to work","date":"2018-02-04T15:08:38.146Z","type":"message"}
+{"nick":"Roughy","message":"you can also do app.use(express.static(__dirname + '/views'), {extensions:['html']});","date":"2018-02-04T15:13:01.088Z","type":"message"}
+{"nick":"Roughy","message":"allowing you to access 8080:about   without the .html extension, without having to specify the individual routes","date":"2018-02-04T15:13:28.751Z","type":"message"}
+{"nick":"arup_r","message":"yes extension will work i tested.  but it breaks when url `/` :) I am using `root` option, looks cleaner. https://github.com/aruprakshit/epress-app/blob/master/app.js","date":"2018-02-04T15:15:28.236Z","type":"message"}
+{"nick":"arup_r","message":"but thanks Roughy for your time to teach me","date":"2018-02-04T15:15:44.882Z","type":"message"}
+{"nick":"arup_r","message":"today is my first day in ExpressJs","date":"2018-02-04T15:16:11.439Z","type":"message"}
+{"nick":"Roughy","message":"ｖ（｀・ω・´） ｖ","date":"2018-02-04T15:17:16.413Z","type":"message"}
+{"nick":"arup_r","message":"how long have you been using express? I am a Rails developer.","date":"2018-02-04T15:18:09.140Z","type":"message"}
+{"nick":"Roughy","message":"Technically a couple of months, but I only use it to serve webapp bundles and api endpoints","date":"2018-02-04T15:20:37.943Z","type":"message"}
+{"nick":"Roughy","action":"has never had to serve static stuff and thus just googled your questions","date":"2018-02-04T15:21:02.425Z","type":"action"}
+{"nick":"arup_r","message":"ok","date":"2018-02-04T15:24:41.103Z","type":"message"}
+{"nick":"arup_r","message":"what backend framework you use?","date":"2018-02-04T15:24:58.764Z","type":"message"}
+{"nick":"arup_r","message":"i am learning it for same reason.. write backend in rails ( API ). then use express to server react bundle. :D","date":"2018-02-04T15:27:08.229Z","type":"message"}
+{"nick":"Roughy","message":"redux with redux-first router and react for server-side rendering bundled with webpack, api endpoints are just express + orm (wetland)","date":"2018-02-04T15:28:24.208Z","type":"message"}
+{"nick":"arup_r","reason":"Remote host closed the connection","date":"2018-02-04T15:29:52.477Z","type":"quit"}
+{"nick":"arup___","date":"2018-02-04T16:27:49.971Z","type":"join"}
+{"nick":"arup___","message":"nice","date":"2018-02-04T16:27:51.847Z","type":"message"}
+{"nick":"arup___","message":"never heard of this","date":"2018-02-04T16:29:47.568Z","type":"message"}
+{"nick":"arup___","message":"redux-first","date":"2018-02-04T16:30:03.092Z","type":"message"}
+{"nick":"Roughy","message":"wandered through react-router and redux-router first, finding them to be... unwieldy","date":"2018-02-04T16:31:53.392Z","type":"message"}
+{"nick":"Roughy","message":"https://github.com/faceyspacey/redux-first-router","date":"2018-02-04T16:32:12.016Z","type":"message"}
+{"nick":"arup___","message":"yeah recently learning react router. Have done 1 react project so far. Will be glad if I get some react/redux projects.. Lets see when happens. :)","date":"2018-02-04T16:33:15.053Z","type":"message"}
+{"nick":"arup___","message":"react router is little messed up :p","date":"2018-02-04T16:35:45.193Z","type":"message"}
+{"nick":"arup___","date":"2018-02-04T16:51:22.085Z","type":"quit"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-04T16:55:02.432Z","type":"quit"}
+{"nick":"phishy","date":"2018-02-04T16:56:05.799Z","type":"join"}
+{"nick":"_ritchie_","date":"2018-02-04T17:10:39.176Z","type":"join"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-04T17:17:39.870Z","type":"quit"}
+{"nick":"Arcarc","reason":"Ping timeout: 248 seconds","date":"2018-02-04T17:22:07.855Z","type":"quit"}
+{"nick":"phishy","date":"2018-02-04T17:30:06.884Z","type":"join"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-04T17:39:33.421Z","type":"quit"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-02-04T17:50:55.660Z","type":"quit"}
+{"nick":"crush","date":"2018-02-04T18:14:47.984Z","type":"join"}
+{"nick":"phishy","date":"2018-02-04T18:17:17.399Z","type":"join"}
+{"nick":"crush","reason":"Ping timeout: 260 seconds","date":"2018-02-04T18:19:45.060Z","type":"quit"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-02-04T18:31:24.456Z","type":"quit"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-04T18:46:40.152Z","type":"quit"}
+{"nick":"phishy","date":"2018-02-04T18:50:43.520Z","type":"join"}
+{"nick":"phishy","reason":"Client Quit","date":"2018-02-04T18:54:50.731Z","type":"quit"}
+{"nick":"Tennis","date":"2018-02-04T19:17:13.276Z","type":"join"}
+{"nick":"MTennis","date":"2018-02-04T19:23:58.898Z","type":"join"}
+{"nick":"MTennis","reason":"Client Quit","date":"2018-02-04T19:26:40.816Z","type":"quit"}
+{"nick":"Tennis","reason":"Ping timeout: 240 seconds","date":"2018-02-04T19:27:48.223Z","type":"quit"}
+{"nick":"phishy","date":"2018-02-04T20:16:11.887Z","type":"join"}
+{"nick":"galileo","date":"2018-02-04T20:21:19.250Z","type":"join"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-04T20:32:46.225Z","type":"quit"}
+{"nick":"pavelexpertov","date":"2018-02-04T23:29:53.391Z","type":"join"}
+{"nick":"UANNC7neglect","date":"2018-02-04T23:47:47.760Z","type":"join"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  gvwiyrekhu: lohfu bengl tellnes ▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:47:49.151Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  hqenwstgmz: automatical dashed enntee ▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:47:49.618Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  uinndiq: _6a68 MLM_ fcanela ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:47:54.082Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  omdgfuqdhi: dsnow kba fcanela ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄��","date":"2018-02-04T23:47:54.866Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  kgtyi: tellnes HannahWolfe Methos_ ▄▄▄▄▄▄▄▄▄▄▄▄","date":"2018-02-04T23:48:00.089Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  osyebbfcfp: towb rancyd AlHafoudh ▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:48:00.421Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  yfdhxenc: EvilJStoker Roughy dmarr ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:48:05.141Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  ijgqmxslke: commma towb cd ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:48:05.335Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  tpizggfbe: Methos_ codedmart gajus ▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:48:09.121Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  iieqdxin: Omnipotent_ Roughy rajkumar[m] ▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:48:09.437Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  lgdwupo: tobie Omnipotent_ benjick ▄▄▄▄▄▄▄▄▄▄▄","date":"2018-02-04T23:48:14.379Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  lqlrxzef: rajkumar[m] smokeysea[m] codedmart ▄▄▄▄▄▄▄▄▄▄","date":"2018-02-04T23:48:14.573Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  oqmskz: Roughy dahl dyyylan ▄▄▄▄▄▄▄▄▄▄▄▄▄▄","date":"2018-02-04T23:48:20.489Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  utfffwyanp: towb dmarr siel ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:48:20.684Z","type":"message"}
+{"victim":"UANNC7neglect","nick":"commma","reason":"UANNC7neglect","date":"2018-02-04T23:48:28.151Z","type":"kick"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  rschhu: gajus jakutis jaredrhine ▄▄▄▄▄▄▄▄▄▄▄▄▄▄","date":"2018-02-04T23:48:29.698Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  tutky: mylesborins jakutis tobie ▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:48:29.932Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  jovxhsd: genpaku enntee HannahWolfe ▄▄▄▄▄▄▄▄▄▄▄","date":"2018-02-04T23:48:34.293Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  eisrriem: rajkumar[m] jaredrhine galileo ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:48:34.501Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  frszmpx: Ryuno-Ki[m] mven bordeaux_facile_ ▄▄▄▄▄▄▄▄▄▄▄","date":"2018-02-04T23:48:39.335Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  zrpkxictd: pavelexpertov bengl kba ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:48:39.530Z","type":"message"}
+{"nick":"Roughy","date":"2018-02-04T23:48:45.226Z","type":"part"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  sjonb: mven tolmasky Fohlen ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:49:00.807Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  tcwhrbs: AlHafoudh Ryuno-Ki[m] bordeaux_facile_ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:49:01.001Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  cgjkosdynt: kba bengl EvilJStoker ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:49:01.002Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  fskxo: rancyd tobie MarkusDBX ▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:49:01.002Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  rdbpzav: inara siel _6a68 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:49:02.832Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  xeyodm: galileo gildean Roughy ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:49:03.026Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  nzevzrm: Methos_ enntee MarkusDBX ▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:49:04.805Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  tppam: automatical dmarr cd ▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:49:05.000Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  ctucpbb: dyyylan DanKnox lanceball ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄","date":"2018-02-04T23:49:06.793Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  vadvinloq: DanKnox lilmonkey dyyylan ▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:49:06.989Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  bmyrswm: enntee pavelexpertov MarkusDBX ▄▄▄▄▄▄▄▄▄▄��","date":"2018-02-04T23:49:09.476Z","type":"message"}
+{"nick":"UANNC7neglect","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ IRC.SUPERNETS.ORG #SUPERBOWL SUPERBOWL PARTY RIGHT NOW LIVE CHATTING AND PLAY BY PLAY COMMENTARY GOING ON NOW!! ASK CHRONO FOR DETAILS!!  rowsrkfwny: mattwc mertimor tnguyen14 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\u0001","date":"2018-02-04T23:49:09.671Z","type":"message"}
+{"nick":"pavelexpertov","reason":"Quit: Leaving","date":"2018-02-04T23:53:29.513Z","type":"quit"}

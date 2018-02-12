@@ -1,0 +1,70 @@
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-09-19T00:00:02.321Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-09-19T00:33:22.470Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-09-19T01:34:13.430Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 246 seconds","date":"2017-09-19T02:13:35.697Z","type":"quit"}
+{"nick":"gibson042","date":"2017-09-19T02:29:48.327Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-09-19T02:41:54.865Z","type":"quit"}
+{"nick":"gibson042","reason":"Remote host closed the connection","date":"2017-09-19T03:02:48.795Z","type":"quit"}
+{"nick":"jmdyck","reason":"Quit: Leaving.","date":"2017-09-19T03:32:06.915Z","type":"quit"}
+{"nick":"howdoi","date":"2017-09-19T03:38:31.545Z","type":"join"}
+{"nick":"howdoi","reason":"*.net *.split","date":"2017-09-19T06:05:26.021Z","type":"quit"}
+{"nick":"gkatsev","reason":"*.net *.split","date":"2017-09-19T06:05:28.580Z","type":"quit"}
+{"nick":"aklein","reason":"*.net *.split","date":"2017-09-19T06:05:29.051Z","type":"quit"}
+{"nick":"jeffmo","reason":"*.net *.split","date":"2017-09-19T06:05:29.051Z","type":"quit"}
+{"nick":"surma","reason":"*.net *.split","date":"2017-09-19T06:05:29.947Z","type":"quit"}
+{"nick":"gkatsev","date":"2017-09-19T06:05:41.937Z","type":"join"}
+{"nick":"howdoi","date":"2017-09-19T06:06:11.744Z","type":"join"}
+{"nick":"jeffmo","date":"2017-09-19T06:06:29.862Z","type":"join"}
+{"nick":"mylesborins","reason":"Ping timeout: 240 seconds","date":"2017-09-19T06:07:51.456Z","type":"quit"}
+{"nick":"Jasuruzakovgmail","reason":"Ping timeout: 246 seconds","date":"2017-09-19T06:09:04.047Z","type":"quit"}
+{"nick":"M-IvanSanchez","reason":"Ping timeout: 246 seconds","date":"2017-09-19T06:09:09.985Z","type":"quit"}
+{"nick":"wha121[m]","reason":"Ping timeout: 264 seconds","date":"2017-09-19T06:09:22.918Z","type":"quit"}
+{"nick":"aklein","date":"2017-09-19T06:10:52.159Z","type":"join"}
+{"nick":"surma","date":"2017-09-19T06:10:52.200Z","type":"join"}
+{"nick":"mylesborins","date":"2017-09-19T06:10:53.007Z","type":"join"}
+{"nick":"Jasuruzakovgmail","date":"2017-09-19T07:16:23.178Z","type":"join"}
+{"nick":"wha121[m]","date":"2017-09-19T07:50:10.639Z","type":"join"}
+{"nick":"M-IvanSanchez","date":"2017-09-19T07:50:11.192Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-09-19T08:27:51.335Z","type":"join"}
+{"nick":"AtumT","date":"2017-09-19T10:13:09.387Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-09-19T10:25:13.468Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-09-19T10:25:44.059Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-09-19T11:31:18.770Z","type":"quit"}
+{"nick":"jmdyck","date":"2017-09-19T12:11:03.563Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-09-19T12:37:41.960Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-09-19T13:15:45.017Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-09-19T13:40:47.693Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-09-19T14:50:56.176Z","type":"join"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-09-19T14:59:22.504Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-09-19T15:45:21.107Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-09-19T15:59:53.681Z","type":"join"}
+{"nick":"not-an-aardvark","date":"2017-09-19T16:11:39.000Z","type":"join"}
+{"nick":"spectranaut_","date":"2017-09-19T17:41:42.022Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-09-19T18:51:23.274Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-09-19T19:03:13.523Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-09-19T19:29:29.423Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-19T19:58:22.679Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-19T20:02:04.586Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-19T21:55:13.399Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-19T21:55:53.638Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-19T21:56:00.241Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-19T21:58:49.856Z","type":"join"}
+{"nick":"dilijev","message":"ping - can anyone give me context on the above?","date":"2017-09-19T22:12:57.942Z","type":"message"}
+{"nick":"dilijev","message":"> 262 - Section 2: \"A conforming implementation of ECMAScript must interpret source text input in conformance with the latest version of the Unicode Standard and ISO/IEC 10646.\" // 402 Section 4.2: \"Subsets of Unicode: Some operations, such as collation, operate on strings that can include characters from the entire Unicode character set. However, both the Unicode standard and the ECMAScript standard allow","date":"2017-09-19T22:13:00.017Z","type":"message"}
+{"nick":"dilijev","message":"implementations","date":"2017-09-19T22:13:00.130Z","type":"message"}
+{"nick":"dilijev","message":"> to limit their functionality to subsets of the Unicode character set.\"","date":"2017-09-19T22:13:13.881Z","type":"message"}
+{"nick":"bradleymeck","message":"dilijev: some things like Node have configurable amount of ICU for Intl when building : https://github.com/nodejs/node/wiki/Intl","date":"2017-09-19T22:16:58.199Z","type":"message"}
+{"nick":"dilijev","message":"well sure, that's an implementation that does subset (it's not clear whether the small-icu version is a \"subset of the Unicode character set\" although it does seem to be a subset of the locale database anyway","date":"2017-09-19T22:18:33.376Z","type":"message"}
+{"nick":"dilijev","message":"But my question is less about who does this and why and whether the text in 262 actually allows this as 402 claims","date":"2017-09-19T22:18:52.530Z","type":"message"}
+{"nick":"dilijev","message":"s/and whether/and more about whether/","date":"2017-09-19T22:19:17.145Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-19T22:22:36.897Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-09-19T22:23:17.697Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-09-19T22:23:24.197Z","type":"quit"}
+{"nick":"dilijev","message":"Unless as bterlson just mentioned to me that the Unicode standard itself allows subsets","date":"2017-09-19T22:40:07.660Z","type":"message"}
+{"nick":"dilijev","message":"* unless ... the Unicode standard itself actually happens to allow subsets","date":"2017-09-19T22:40:38.160Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-09-19T22:42:11.896Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-09-19T23:08:27.599Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-09-19T23:24:18.206Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-09-19T23:28:41.142Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-09-19T23:41:29.198Z","type":"quit"}
+{"nick":"jmdyck","message":"@bterlson","date":"2017-09-19T23:56:02.316Z","type":"message"}

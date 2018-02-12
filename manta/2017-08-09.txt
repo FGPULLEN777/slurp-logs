@@ -1,0 +1,77 @@
+{"nick":"jhendricks","reason":"Quit: Leaving.","date":"2017-08-09T00:34:41.250Z","type":"quit"}
+{"nick":"happy-dude","reason":"Quit: Connection closed for inactivity","date":"2017-08-09T00:34:54.939Z","type":"quit"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2017-08-09T01:20:01.088Z","type":"quit"}
+{"nick":"ed209","date":"2017-08-09T01:20:08.688Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2017-08-09T01:43:52.795Z","type":"quit"}
+{"nick":"bahamat","date":"2017-08-09T03:17:48.394Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2017-08-09T03:47:52.073Z","type":"quit"}
+{"nick":"bahamat","date":"2017-08-09T03:53:22.919Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2017-08-09T04:10:43.131Z","type":"quit"}
+{"nick":"bahamat","date":"2017-08-09T04:12:42.640Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2017-08-09T04:29:46.671Z","type":"quit"}
+{"nick":"bahamat","date":"2017-08-09T05:10:36.871Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2017-08-09T06:17:03.548Z","type":"quit"}
+{"nick":"Magnap[m]","reason":"*.net *.split","date":"2017-08-09T08:47:19.817Z","type":"quit"}
+{"nick":"ed209","reason":"*.net *.split","date":"2017-08-09T08:47:23.049Z","type":"quit"}
+{"nick":"noresult","reason":"*.net *.split","date":"2017-08-09T08:47:25.500Z","type":"quit"}
+{"nick":"Teknix","reason":"*.net *.split","date":"2017-08-09T08:47:25.743Z","type":"quit"}
+{"nick":"nahamu","reason":"*.net *.split","date":"2017-08-09T08:47:27.113Z","type":"quit"}
+{"nick":"Smithx10","reason":"*.net *.split","date":"2017-08-09T08:47:28.166Z","type":"quit"}
+{"nick":"_Tenchi_","reason":"*.net *.split","date":"2017-08-09T08:47:28.275Z","type":"quit"}
+{"nick":"dobson","reason":"*.net *.split","date":"2017-08-09T08:47:28.276Z","type":"quit"}
+{"nick":"elijahZ24","reason":"*.net *.split","date":"2017-08-09T08:47:30.370Z","type":"quit"}
+{"nick":"echelog-1","reason":"*.net *.split","date":"2017-08-09T08:47:31.431Z","type":"quit"}
+{"nick":"kshannon","reason":"*.net *.split","date":"2017-08-09T08:47:32.133Z","type":"quit"}
+{"nick":"rmustacc","reason":"*.net *.split","date":"2017-08-09T08:47:32.502Z","type":"quit"}
+{"nick":"bdha","reason":"*.net *.split","date":"2017-08-09T08:47:32.556Z","type":"quit"}
+{"nick":"johngrasty","reason":"*.net *.split","date":"2017-08-09T08:47:34.685Z","type":"quit"}
+{"nick":"hile_","reason":"*.net *.split","date":"2017-08-09T08:47:36.463Z","type":"quit"}
+{"nick":"melloc","reason":"*.net *.split","date":"2017-08-09T08:47:36.628Z","type":"quit"}
+{"nick":"jayschmidt","reason":"*.net *.split","date":"2017-08-09T08:47:38.397Z","type":"quit"}
+{"nick":"adulteratedjedi","reason":"*.net *.split","date":"2017-08-09T08:47:39.644Z","type":"quit"}
+{"nick":"jperkin","reason":"*.net *.split","date":"2017-08-09T08:47:41.922Z","type":"quit"}
+{"nick":"jinni","reason":"*.net *.split","date":"2017-08-09T08:47:43.743Z","type":"quit"}
+{"nick":"Techno","reason":"*.net *.split","date":"2017-08-09T08:47:43.798Z","type":"quit"}
+{"nick":"goberle","reason":"*.net *.split","date":"2017-08-09T08:47:45.112Z","type":"quit"}
+{"nick":"jbk","reason":"*.net *.split","date":"2017-08-09T08:47:45.221Z","type":"quit"}
+{"nick":"Guest92412","reason":"*.net *.split","date":"2017-08-09T08:47:47.194Z","type":"quit"}
+{"nick":"nocsi","reason":"*.net *.split","date":"2017-08-09T08:47:47.879Z","type":"quit"}
+{"nick":"adamrg","reason":"*.net *.split","date":"2017-08-09T08:47:48.234Z","type":"quit"}
+{"nick":"glasspelican","reason":"*.net *.split","date":"2017-08-09T08:47:49.563Z","type":"quit"}
+{"nick":"jzu_","reason":"*.net *.split","date":"2017-08-09T08:47:52.299Z","type":"quit"}
+{"nick":"LiftedKilt","reason":"*.net *.split","date":"2017-08-09T08:47:54.187Z","type":"quit"}
+{"nick":"falanx_","reason":"*.net *.split","date":"2017-08-09T08:47:54.730Z","type":"quit"}
+{"nick":"_jared_","reason":"*.net *.split","date":"2017-08-09T08:47:55.130Z","type":"quit"}
+{"nick":"jen20","reason":"*.net *.split","date":"2017-08-09T08:47:55.916Z","type":"quit"}
+{"nick":"rmustacc!~daemar@zelgadis.fingolfin.org","topic":"Manta: Big Data Unix | Now Open Source! -- https://github.com/joyent/manta | http://apidocs.joyent.com/manta/  | http://logs.libuv.org/manta/latest","date":"2017-08-09T09:31:10.528Z","type":"topic"}
+{"nick":"dillona","date":"2017-08-09T09:34:35.794Z","type":"join"}
+{"nick":"elijahZ241","date":"2017-08-09T09:34:35.964Z","type":"join"}
+{"nick":"elijahZ24","reason":"Read error: Connection reset by peer","date":"2017-08-09T09:34:35.964Z","type":"quit"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2017-08-09T10:20:00.332Z","type":"quit"}
+{"nick":"ed209","date":"2017-08-09T10:20:07.493Z","type":"join"}
+{"nick":"glasspelican","reason":"Remote host closed the connection","date":"2017-08-09T15:48:00.756Z","type":"quit"}
+{"nick":"dap_","date":"2017-08-09T16:00:16.227Z","type":"join"}
+{"nick":"jhendricks","date":"2017-08-09T16:15:51.528Z","type":"join"}
+{"nick":"glasspelican","date":"2017-08-09T16:16:42.973Z","type":"join"}
+{"nick":"Smithx10","message":"Is there anyway to collect time series data from Manta?","date":"2017-08-09T16:18:58.477Z","type":"message"}
+{"nick":"Smithx10","message":"or Monitoring so I can see how many jobs are running / how long they are running for?","date":"2017-08-09T16:19:23.435Z","type":"message"}
+{"nick":"jayschmidt","message":"check out the metering: https://github.com/joyent/manta-mackerel","date":"2017-08-09T16:21:09.944Z","type":"message"}
+{"nick":"Smithx10","message":"jayschmidt:  is that in flight?","date":"2017-08-09T16:22:04.918Z","type":"message"}
+{"nick":"jayschmidt","message":"no, it's post","date":"2017-08-09T16:22:30.157Z","type":"message"}
+{"nick":"Smithx10","message":"like will i be able to collect for example every 5 seconds or something data,  or would i need to write  like a prom exporter","date":"2017-08-09T16:22:37.051Z","type":"message"}
+{"nick":"jayschmidt","message":"ah","date":"2017-08-09T16:22:41.012Z","type":"message"}
+{"nick":"Smithx10","message":"to collect data about the job, etc","date":"2017-08-09T16:22:51.003Z","type":"message"}
+{"nick":"jayschmidt","message":"And you've looked at how marlin-dashboard pulls data?","date":"2017-08-09T16:22:53.677Z","type":"message"}
+{"nick":"Smithx10","message":"not yet","date":"2017-08-09T16:22:58.288Z","type":"message"}
+{"nick":"Smithx10","message":"figured id ask first","date":"2017-08-09T16:23:01.584Z","type":"message"}
+{"nick":"Smithx10","message":"it uses kang right?","date":"2017-08-09T16:23:08.962Z","type":"message"}
+{"nick":"jayschmidt","message":"yes","date":"2017-08-09T16:23:13.636Z","type":"message"}
+{"nick":"Smithx10","message":"or khang* or whatever","date":"2017-08-09T16:23:14.208Z","type":"message"}
+{"nick":"Smithx10","message":"i probably could poll khang","date":"2017-08-09T16:23:21.377Z","type":"message"}
+{"nick":"jayschmidt","message":"kang as in kodos and kang","date":"2017-08-09T16:23:23.292Z","type":"message"}
+{"nick":"bahamat","date":"2017-08-09T16:35:24.872Z","type":"join"}
+{"nick":"jhendricks1","date":"2017-08-09T18:44:11.625Z","type":"join"}
+{"nick":"jhendricks","reason":"Read error: Connection reset by peer","date":"2017-08-09T18:44:11.830Z","type":"quit"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2017-08-09T20:20:01.319Z","type":"quit"}
+{"nick":"ed209","date":"2017-08-09T20:20:09.010Z","type":"join"}
+{"nick":"pmooney","date":"2017-08-09T21:26:27.400Z","type":"join"}

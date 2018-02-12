@@ -1,0 +1,60 @@
+{"nick":"Fishrock123","date":"2017-08-29T00:00:24.007Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-29T00:29:06.396Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-29T00:29:46.206Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-29T00:29:53.142Z","type":"quit"}
+{"nick":"d0ruk","reason":"Ping timeout: 246 seconds","date":"2017-08-29T01:07:07.637Z","type":"quit"}
+{"nick":"d0ruk","date":"2017-08-29T01:09:12.143Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-29T02:24:19.318Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-29T03:10:28.030Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-29T03:18:05.341Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-29T03:30:52.100Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-29T03:31:32.908Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-29T03:31:39.463Z","type":"quit"}
+{"nick":"joocain2","reason":"Ping timeout: 268 seconds","date":"2017-08-29T03:56:46.105Z","type":"quit"}
+{"nick":"joocain2","date":"2017-08-29T03:58:18.046Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-29T04:06:58.211Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-08-29T04:11:01.168Z","type":"quit"}
+{"nick":"joocain2","reason":"Ping timeout: 268 seconds","date":"2017-08-29T04:57:48.973Z","type":"quit"}
+{"nick":"edef","reason":"Ping timeout: 246 seconds","date":"2017-08-29T04:58:07.760Z","type":"quit"}
+{"nick":"edef","date":"2017-08-29T04:58:31.790Z","type":"join"}
+{"nick":"joocain2","date":"2017-08-29T04:59:05.140Z","type":"join"}
+{"nick":"rendar","date":"2017-08-29T07:20:27.866Z","type":"join"}
+{"nick":"saghul","date":"2017-08-29T07:57:14.930Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-08-29T10:25:10.305Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-29T10:25:40.704Z","type":"join"}
+{"nick":"mich","date":"2017-08-29T12:34:59.127Z","type":"join"}
+{"nick":"mich","reason":"Client Quit","date":"2017-08-29T12:36:19.916Z","type":"quit"}
+{"nick":"joocain2","reason":"Remote host closed the connection","date":"2017-08-29T13:34:43.570Z","type":"quit"}
+{"nick":"joocain2","date":"2017-08-29T13:34:59.026Z","type":"join"}
+{"nick":"phnz","date":"2017-08-29T14:10:40.153Z","type":"join"}
+{"nick":"phnz","message":"hi guys","date":"2017-08-29T14:10:50.229Z","type":"message"}
+{"nick":"phnz","reason":"Client Quit","date":"2017-08-29T14:11:43.681Z","type":"quit"}
+{"nick":"phnz","date":"2017-08-29T14:16:35.846Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-29T14:37:59.275Z","type":"join"}
+{"nick":"d0ruk","reason":"Ping timeout: 248 seconds","date":"2017-08-29T14:45:53.317Z","type":"quit"}
+{"nick":"d0ruk","date":"2017-08-29T14:48:00.487Z","type":"join"}
+{"nick":"d0ruk","reason":"Remote host closed the connection","date":"2017-08-29T15:33:56.812Z","type":"quit"}
+{"nick":"d0ruk","date":"2017-08-29T15:42:07.978Z","type":"join"}
+{"nick":"vtjnash_","date":"2017-08-29T15:43:34.184Z","type":"join"}
+{"nick":"vtjnash_","message":"What's an appropriate interval to bump PR? I submitted 3 bugfix and 1 feature PR last week and would like to know what I need to iterate on them.","date":"2017-08-29T15:51:44.568Z","type":"message"}
+{"nick":"sgimeno","message":"vtjnash_, sorry, I think it's a little slow lately (summer time probably)","date":"2017-08-29T16:03:19.237Z","type":"message"}
+{"nick":"sgimeno","message":"I'll try to take a look to some of those tomorrow, at least the unix side","date":"2017-08-29T16:04:10.566Z","type":"message"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-29T16:23:19.377Z","type":"quit"}
+{"nick":"d0ruk","reason":"Read error: Connection reset by peer","date":"2017-08-29T16:29:57.514Z","type":"quit"}
+{"nick":"vtjnash_","reason":"Ping timeout: 260 seconds","date":"2017-08-29T16:38:10.194Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-29T17:44:25.782Z","type":"quit"}
+{"nick":"saghul","date":"2017-08-29T17:51:20.655Z","type":"join"}
+{"nick":"benjamingr_","date":"2017-08-29T18:30:11.670Z","type":"join"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-08-29T18:33:43.419Z","type":"quit"}
+{"nick":"niska","reason":"Quit: Leaving","date":"2017-08-29T18:59:57.710Z","type":"quit"}
+{"nick":"niska","date":"2017-08-29T19:04:58.300Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-29T19:16:46.314Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 248 seconds","date":"2017-08-29T19:22:09.316Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-29T19:24:19.585Z","type":"join"}
+{"nick":"ryoshu","date":"2017-08-29T19:29:23.272Z","type":"join"}
+{"nick":"ryoshu","message":"hi","date":"2017-08-29T19:29:28.409Z","type":"message"}
+{"nick":"ryoshu","message":"I noted that libuv needs some netbsd love","date":"2017-08-29T19:29:41.647Z","type":"message"}
+{"nick":"genio","message":"\\o/","date":"2017-08-29T19:37:26.954Z","type":"message"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-08-29T22:32:09.780Z","type":"quit"}
+{"nick":"mattloring","reason":"Read error: Connection reset by peer","date":"2017-08-29T23:58:02.588Z","type":"quit"}
+{"nick":"mattloring","date":"2017-08-29T23:58:22.434Z","type":"join"}

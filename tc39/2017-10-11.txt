@@ -1,0 +1,118 @@
+{"nick":"jmdyck1","date":"2017-10-11T00:24:00.005Z","type":"join"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-10-11T00:42:20.812Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-10-11T00:49:28.389Z","type":"quit"}
+{"nick":"Domenic","message":"I think that'll find a method named `call` on the super object and call it with the `this` value","date":"2017-10-11T01:00:42.897Z","type":"message"}
+{"nick":"gibson042","date":"2017-10-11T01:05:45.724Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-11T01:15:14.859Z","type":"join"}
+{"nick":"bradleymeck","reason":"Client Quit","date":"2017-10-11T01:17:04.099Z","type":"quit"}
+{"nick":"caiolima","message":"Domenic: What I'm confused here is that by spec, Function.prototype.call should be receive a function as parameter as well","date":"2017-10-11T01:18:48.116Z","type":"message"}
+{"nick":"caiolima","message":"https://tc39.github.io/ecma262/#sec-function.prototype.call","date":"2017-10-11T01:18:49.925Z","type":"message"}
+{"nick":"caiolima","message":"\"func\"","date":"2017-10-11T01:19:02.082Z","type":"message"}
+{"nick":"Domenic","message":"caiolima: \"When the call method is called ****on an object func***...\"","date":"2017-10-11T01:19:41.999Z","type":"message"}
+{"nick":"caiolima","message":"Domenic: In such case, \"super\" is not an object, right?","date":"2017-10-11T01:22:26.314Z","type":"message"}
+{"nick":"Domenic","message":"Why not?","date":"2017-10-11T01:22:33.175Z","type":"message"}
+{"nick":"caiolima","message":"Domenic: I can't just \"let a = super\"","date":"2017-10-11T01:23:35.443Z","type":"message"}
+{"nick":"Domenic","message":"That doesn't have anything to do with it being an object or not","date":"2017-10-11T01:23:44.584Z","type":"message"}
+{"nick":"caiolima","message":"Domenic: Ok, but if it is an object, is it Callable?","date":"2017-10-11T01:24:05.454Z","type":"message"}
+{"nick":"Domenic","message":"Not all objects are callable","date":"2017-10-11T01:24:13.547Z","type":"message"}
+{"nick":"Domenic","message":"Try calling it and find out!","date":"2017-10-11T01:24:22.327Z","type":"message"}
+{"nick":"Domenic","message":"Well, no, that won't work","date":"2017-10-11T01:24:27.937Z","type":"message"}
+{"nick":"Domenic","message":"I think in this case the super is callable","date":"2017-10-11T01:24:51.519Z","type":"message"}
+{"nick":"Domenic","message":"Since it's an instance of B which is an instance of Function so should be callable","date":"2017-10-11T01:25:12.233Z","type":"message"}
+{"nick":"Domenic","message":"basically that line is equivalent to Function.prototype.call.call(this, this)","date":"2017-10-11T01:25:52.627Z","type":"message"}
+{"nick":"Domenic","message":"Pretty sure that's right","date":"2017-10-11T01:25:59.027Z","type":"message"}
+{"nick":"caiolima","message":"Domenic: I see.","date":"2017-10-11T01:26:39.333Z","type":"message"}
+{"nick":"Domenic","message":"consider `class B extends D { t() { super.foo(bar); }`. Then it is equivalent to `D.prototype.foo.call(this, bar)`. Just pattern match back into place.","date":"2017-10-11T01:26:56.812Z","type":"message"}
+{"nick":"caiolima","message":"No problems them. Just checking if I'm not messing something around","date":"2017-10-11T01:27:11.836Z","type":"message"}
+{"nick":"caiolima","message":"then*","date":"2017-10-11T01:27:19.155Z","type":"message"}
+{"nick":"Domenic","message":"It's pretty trippy what you're doing :)","date":"2017-10-11T01:27:23.691Z","type":"message"}
+{"nick":"caiolima","message":"Domenic: Thanks.","date":"2017-10-11T01:27:30.413Z","type":"message"}
+{"nick":"caiolima","message":"Domenic: well...I'm testing if my change on \"super.call\" isn't inserting new bugs","date":"2017-10-11T01:28:48.154Z","type":"message"}
+{"nick":"caiolima","message":"basically fixing this bug here: https://bugs.webkit.org/show_bug.cgi?id=177230","date":"2017-10-11T01:29:08.546Z","type":"message"}
+{"nick":"rbuckton","reason":"Quit: Connection closed for inactivity","date":"2017-10-11T01:31:28.236Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-11T02:11:27.035Z","type":"join"}
+{"nick":"spion_","reason":"Ping timeout: 240 seconds","date":"2017-10-11T02:21:05.569Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2017-10-11T02:25:12.516Z","type":"quit"}
+{"nick":"spion","date":"2017-10-11T02:25:50.749Z","type":"join"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-10-11T03:53:50.135Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2017-10-11T04:35:08.709Z","type":"join"}
+{"nick":"jmdyck1","reason":"Quit: Leaving.","date":"2017-10-11T05:01:29.420Z","type":"quit"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2017-10-11T05:03:11.083Z","type":"quit"}
+{"nick":"bathos","message":"is there a mechanism / is there a proposed mechanism for custom pseudoclasses in web components (or something equivalent?) — in some cases, css vars do the trick, but in others it doesn’t work out that way","date":"2017-10-11T05:28:44.889Z","type":"message"}
+{"nick":"bathos","message":"oops, wrong channel :x","date":"2017-10-11T05:29:25.483Z","type":"message"}
+{"nick":"bathos","reason":"Quit: bathos","date":"2017-10-11T06:29:51.172Z","type":"quit"}
+{"nick":"howdoi","date":"2017-10-11T07:50:40.615Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 246 seconds","date":"2017-10-11T08:10:50.682Z","type":"quit"}
+{"nick":"cloudshu","reason":"Quit: Connection closed for inactivity","date":"2017-10-11T09:19:49.118Z","type":"quit"}
+{"nick":"rwaldron","reason":"Remote host closed the connection","date":"2017-10-11T10:09:27.817Z","type":"quit"}
+{"nick":"leobalter","reason":"Remote host closed the connection","date":"2017-10-11T10:09:27.857Z","type":"quit"}
+{"nick":"leobalter","date":"2017-10-11T10:11:28.333Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-11T10:25:10.911Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-11T10:25:41.185Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-10-11T10:34:53.589Z","type":"quit"}
+{"nick":"tobie","reason":"Read error: Connection reset by peer","date":"2017-10-11T11:02:32.842Z","type":"quit"}
+{"nick":"maggiepint","reason":"Ping timeout: 240 seconds","date":"2017-10-11T11:02:35.638Z","type":"quit"}
+{"nick":"tobie","date":"2017-10-11T11:03:08.645Z","type":"join"}
+{"nick":"dherman","reason":"Ping timeout: 255 seconds","date":"2017-10-11T11:03:26.960Z","type":"quit"}
+{"nick":"dherman","date":"2017-10-11T11:04:44.884Z","type":"join"}
+{"nick":"maggiepint","date":"2017-10-11T11:05:54.968Z","type":"join"}
+{"nick":"abernix","date":"2017-10-11T11:07:34.791Z","type":"join"}
+{"nick":"abernix","reason":"Quit: Bye","date":"2017-10-11T11:46:32.030Z","type":"quit"}
+{"nick":"jmdyck","date":"2017-10-11T11:54:57.130Z","type":"join"}
+{"nick":"AtumT","date":"2017-10-11T12:44:28.683Z","type":"join"}
+{"nick":"gibson042","date":"2017-10-11T13:02:18.680Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-11T13:10:00.806Z","type":"join"}
+{"nick":"bathos","date":"2017-10-11T13:20:48.192Z","type":"join"}
+{"nick":"rwaldron","date":"2017-10-11T14:13:22.587Z","type":"join"}
+{"nick":"bathos","reason":"Quit: bathos","date":"2017-10-11T14:16:37.425Z","type":"quit"}
+{"nick":"bathos","date":"2017-10-11T14:18:02.761Z","type":"join"}
+{"nick":"jmdyck1","date":"2017-10-11T15:03:01.673Z","type":"join"}
+{"nick":"jmdyck1","reason":"Client Quit","date":"2017-10-11T15:05:24.040Z","type":"quit"}
+{"nick":"jmdyck1","date":"2017-10-11T15:09:00.521Z","type":"join"}
+{"nick":"jmdyck1","date":"2017-10-11T15:10:21.679Z","type":"part"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-10-11T15:23:49.495Z","type":"quit"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-10-11T15:24:07.370Z","type":"quit"}
+{"nick":"caridy","date":"2017-10-11T15:25:27.787Z","type":"join"}
+{"nick":"bathos","reason":"Quit: bathos","date":"2017-10-11T16:45:53.828Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-10-11T16:47:06.711Z","type":"join"}
+{"nick":"bathos","date":"2017-10-11T16:51:39.934Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-11T17:06:11.294Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2017-10-11T17:18:39.158Z","type":"quit"}
+{"nick":"boaz","date":"2017-10-11T18:10:42.734Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-10-11T19:11:42.717Z","type":"join"}
+{"nick":"Havvy","reason":"Read error: Connection reset by peer","date":"2017-10-11T19:34:55.402Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-11T19:38:44.690Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-11T19:39:20.788Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 258 seconds","date":"2017-10-11T19:43:46.767Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-11T19:49:51.689Z","type":"join"}
+{"nick":"bathos","reason":"Quit: bathos","date":"2017-10-11T20:31:07.197Z","type":"quit"}
+{"nick":"bathos","date":"2017-10-11T20:36:51.549Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-11T20:41:32.598Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-11T20:42:10.694Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 258 seconds","date":"2017-10-11T20:46:38.884Z","type":"quit"}
+{"nick":"bathos","reason":"Quit: bathos","date":"2017-10-11T20:47:37.494Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-11T21:00:59.609Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-11T21:13:08.306Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-11T21:13:29.908Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-11T21:13:58.526Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-11T21:14:16.752Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-11T21:14:45.399Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-11T21:24:37.642Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-11T21:26:34.910Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-11T21:26:56.883Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-11T21:27:23.209Z","type":"quit"}
+{"nick":"bathos","date":"2017-10-11T21:31:05.808Z","type":"join"}
+{"nick":"Draggor","reason":"Ping timeout: 248 seconds","date":"2017-10-11T21:31:13.979Z","type":"quit"}
+{"nick":"bathos","reason":"Client Quit","date":"2017-10-11T21:32:06.973Z","type":"quit"}
+{"nick":"Draggor","date":"2017-10-11T21:36:35.729Z","type":"join"}
+{"nick":"Draggor","reason":"Ping timeout: 260 seconds","date":"2017-10-11T21:41:22.767Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2017-10-11T21:43:21.724Z","type":"join"}
+{"nick":"Draggor","date":"2017-10-11T21:45:47.892Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-10-11T22:00:33.774Z","type":"join"}
+{"nick":"bathos","date":"2017-10-11T22:09:49.504Z","type":"join"}
+{"nick":"bathos","reason":"Client Quit","date":"2017-10-11T22:10:57.291Z","type":"quit"}
+{"nick":"bathos","date":"2017-10-11T22:41:00.928Z","type":"join"}
+{"nick":"STRML","reason":"Quit: ZNC - http://znc.in","date":"2017-10-11T23:24:55.365Z","type":"quit"}
+{"nick":"STRML","date":"2017-10-11T23:29:23.690Z","type":"join"}
+{"nick":"gskachkov","date":"2017-10-11T23:54:48.188Z","type":"join"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-10-11T23:55:25.124Z","type":"quit"}

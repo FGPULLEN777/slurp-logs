@@ -1,0 +1,91 @@
+{"nick":"rbuckton","date":"2018-02-01T00:14:21.300Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2018-02-01T00:55:22.398Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-01T01:22:22.331Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-01T01:23:44.803Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-01T01:42:01.531Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2018-02-01T01:46:07.769Z","type":"quit"}
+{"nick":"rbuckton","reason":"Quit: Connection closed for inactivity","date":"2018-02-01T03:17:46.285Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-01T03:41:42.599Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 252 seconds","date":"2018-02-01T03:42:56.688Z","type":"quit"}
+{"nick":"keith_miller","reason":"Ping timeout: 264 seconds","date":"2018-02-01T03:46:33.251Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-01T03:52:22.765Z","type":"join"}
+{"nick":"gibson042","date":"2018-02-01T04:02:55.812Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-01T04:49:50.091Z","type":"quit"}
+{"nick":"caridy_","reason":"Remote host closed the connection","date":"2018-02-01T04:50:11.448Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-01T04:50:26.983Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-02-01T04:51:05.373Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-01T04:52:04.376Z","type":"join"}
+{"nick":"caridy","reason":"Read error: Connection reset by peer","date":"2018-02-01T04:52:05.331Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-01T04:52:11.145Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-02-01T04:52:20.318Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-01T05:00:11.272Z","type":"join"}
+{"nick":"caridy","date":"2018-02-01T05:01:06.479Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-02-01T05:01:15.281Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-01T05:06:52.280Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-02-01T05:07:00.863Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-01T05:07:30.521Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-02-01T05:09:03.353Z","type":"quit"}
+{"nick":"caridy_","date":"2018-02-01T05:09:10.451Z","type":"join"}
+{"nick":"caridy_","reason":"Remote host closed the connection","date":"2018-02-01T05:09:17.651Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-01T05:41:45.700Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-01T05:42:13.147Z","type":"join"}
+{"nick":"keith_miller","reason":"Ping timeout: 240 seconds","date":"2018-02-01T05:46:18.152Z","type":"quit"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2018-02-01T05:49:08.091Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-01T05:57:29.791Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-01T06:22:44.052Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2018-02-01T06:22:50.298Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-01T06:23:10.951Z","type":"join"}
+{"nick":"keith_miller","reason":"Ping timeout: 248 seconds","date":"2018-02-01T06:27:44.085Z","type":"quit"}
+{"nick":"jwalden","reason":"Quit: ChatZilla 0.9.92-rdmsoft [XULRunner 35.0.1/20150122214805]","date":"2018-02-01T07:20:35.683Z","type":"quit"}
+{"nick":"AtumT","date":"2018-02-01T08:58:19.764Z","type":"join"}
+{"nick":"aklein","reason":"Ping timeout: 276 seconds","date":"2018-02-01T11:12:08.747Z","type":"quit"}
+{"nick":"aklein","date":"2018-02-01T11:13:00.193Z","type":"join"}
+{"nick":"mylesborins","reason":"Remote host closed the connection","date":"2018-02-01T11:25:08.053Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-02-01T11:25:33.898Z","type":"join"}
+{"nick":"bradleymeck","date":"2018-02-01T11:29:11.452Z","type":"join"}
+{"nick":"michal_wadas","date":"2018-02-01T11:36:02.339Z","type":"join"}
+{"nick":"gskachkov","date":"2018-02-01T11:50:12.391Z","type":"join"}
+{"nick":"jmdyck","date":"2018-02-01T13:08:33.689Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-01T13:50:28.009Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-01T13:51:40.391Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-01T14:07:19.535Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-01T14:46:37.752Z","type":"join"}
+{"nick":"Fishrock123","date":"2018-02-01T15:00:10.712Z","type":"join"}
+{"nick":"caridy","date":"2018-02-01T15:09:27.437Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-02-01T15:09:35.190Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-01T15:10:01.519Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-02-01T15:10:10.412Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-01T15:10:17.283Z","type":"join"}
+{"nick":"michal_wadas","reason":"Read error: Connection reset by peer","date":"2018-02-01T15:18:57.319Z","type":"quit"}
+{"nick":"gskachkov","reason":"Read error: Connection reset by peer","date":"2018-02-01T15:28:58.697Z","type":"quit"}
+{"nick":"gskachkov","date":"2018-02-01T15:32:17.596Z","type":"join"}
+{"nick":"gskachkov","reason":"Ping timeout: 260 seconds","date":"2018-02-01T15:37:00.248Z","type":"quit"}
+{"nick":"gskachkov","date":"2018-02-01T16:39:25.122Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2018-02-01T16:42:14.429Z","type":"quit"}
+{"nick":"gsathya","reason":"Quit: WeeChat 1.5","date":"2018-02-01T16:56:11.041Z","type":"quit"}
+{"nick":"gsathya","date":"2018-02-01T16:58:09.152Z","type":"join"}
+{"nick":"Domenic","message":"Wait is [1, 2, 3][-0] === 1 just because \"-0\".toString() === \"0\"? That makes so much more sense...","date":"2018-02-01T17:00:12.170Z","type":"message"}
+{"nick":"annevk","message":"Domenic: so you think a collection can have -0 items? 😃","date":"2018-02-01T17:49:21.279Z","type":"message"}
+{"nick":"Domenic","message":"annevk: well, I'm not sure whether its 0 items are a mathematical number value or an ES value.","date":"2018-02-01T17:49:43.460Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-01T17:57:00.514Z","type":"quit"}
+{"nick":"rbuckton","date":"2018-02-01T18:06:23.761Z","type":"join"}
+{"nick":"keith_miller","date":"2018-02-01T19:02:00.492Z","type":"join"}
+{"nick":"bradleymeck","date":"2018-02-01T19:17:58.776Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-02-01T20:06:40.931Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-01T20:10:23.443Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-02-01T20:28:29.189Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-02-01T20:46:59.246Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-01T20:47:31.726Z","type":"join"}
+{"nick":"Fishrock123","date":"2018-02-01T20:49:14.132Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-01T20:53:20.935Z","type":"quit"}
+{"nick":"ljharb","message":"lulz","date":"2018-02-01T20:56:53.193Z","type":"message"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-02-01T21:02:28.586Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-01T21:03:04.428Z","type":"join"}
+{"nick":"jwalden","date":"2018-02-01T21:36:53.835Z","type":"join"}
+{"nick":"bradleymeck","date":"2018-02-01T22:09:20.484Z","type":"join"}
+{"nick":"diervo","date":"2018-02-01T22:56:46.283Z","type":"join"}
+{"nick":"jwalden","reason":"Ping timeout: 276 seconds","date":"2018-02-01T23:14:56.803Z","type":"quit"}
+{"nick":"jwalden","date":"2018-02-01T23:27:04.220Z","type":"join"}
+{"nick":"AtumT_","date":"2018-02-01T23:45:06.205Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 246 seconds","date":"2018-02-01T23:48:18.669Z","type":"quit"}
+{"nick":"AtumT_","reason":"Ping timeout: 240 seconds","date":"2018-02-01T23:59:18.174Z","type":"quit"}

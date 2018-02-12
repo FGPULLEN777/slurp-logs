@@ -1,0 +1,27 @@
+{"nick":"texinwien_","date":"2018-02-11T04:19:55.046Z","type":"join"}
+{"nick":"texinwien_","reason":"Ping timeout: 260 seconds","date":"2018-02-11T04:28:05.012Z","type":"quit"}
+{"nick":"dimi1947","date":"2018-02-11T07:07:03.292Z","type":"join"}
+{"nick":"dimi1947","reason":"Quit: Leaving","date":"2018-02-11T07:33:17.746Z","type":"quit"}
+{"nick":"ShekharReddy","date":"2018-02-11T08:06:29.910Z","type":"join"}
+{"nick":"macskay","reason":"Ping timeout: 240 seconds","date":"2018-02-11T08:39:05.505Z","type":"quit"}
+{"nick":"ahmedelgabri","date":"2018-02-11T08:48:03.102Z","type":"join"}
+{"nick":"macskay","date":"2018-02-11T09:23:28.535Z","type":"join"}
+{"nick":"macskay","reason":"Ping timeout: 240 seconds","date":"2018-02-11T09:31:05.492Z","type":"quit"}
+{"nick":"pombreda","date":"2018-02-11T09:43:52.235Z","type":"join"}
+{"nick":"ShekharReddy","reason":"Quit: Connection closed for inactivity","date":"2018-02-11T10:14:44.923Z","type":"quit"}
+{"nick":"macskay","date":"2018-02-11T10:21:10.534Z","type":"join"}
+{"nick":"texinwien_","date":"2018-02-11T10:55:53.994Z","type":"join"}
+{"nick":"DoubleMalt","date":"2018-02-11T11:02:34.146Z","type":"join"}
+{"nick":"DoubleMalt","reason":"Remote host closed the connection","date":"2018-02-11T11:02:36.684Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-02-11T11:25:11.608Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-02-11T11:25:42.089Z","type":"join"}
+{"nick":"texinwien_","reason":"Remote host closed the connection","date":"2018-02-11T11:32:14.860Z","type":"quit"}
+{"nick":"WebDragon","date":"2018-02-11T15:19:30.648Z","type":"join"}
+{"nick":"WebDragon","reason":"Client Quit","date":"2018-02-11T15:20:41.165Z","type":"quit"}
+{"nick":"rkoller","date":"2018-02-11T16:20:23.663Z","type":"join"}
+{"nick":"nvahalik","date":"2018-02-11T20:16:49.008Z","type":"join"}
+{"nick":"ahmedelgabri","reason":"Quit: WeeChat 2.0.1","date":"2018-02-11T21:37:27.057Z","type":"quit"}
+{"nick":"nvahalik","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-11T21:52:21.316Z","type":"quit"}
+{"nick":"nvahalik","date":"2018-02-11T22:16:38.401Z","type":"join"}
+{"nick":"axsuul","date":"2018-02-11T22:30:44.891Z","type":"join"}
+{"nick":"nvahalik","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-11T22:45:43.204Z","type":"quit"}

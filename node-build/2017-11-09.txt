@@ -1,0 +1,175 @@
+{"nick":"node-gh","date":"2017-11-09T00:29:21.560Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T00:29:21.782Z","type":"part"}
+{"nick":"chorrell","date":"2017-11-09T00:37:21.778Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-09T01:02:13.957Z","type":"quit"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-09T01:02:20.592Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-11-09T01:09:24.494Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-09T01:21:11.690Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T01:21:11.874Z","type":"part"}
+{"nick":"apapirovski","date":"2017-11-09T01:27:38.151Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 250 seconds","date":"2017-11-09T01:32:13.690Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-09T01:32:13.873Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T01:32:13.873Z","type":"part"}
+{"nick":"apapirovski","date":"2017-11-09T01:39:53.898Z","type":"join"}
+{"nick":"apapirovski","reason":"Read error: Connection reset by peer","date":"2017-11-09T01:46:35.841Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-09T01:47:58.556Z","type":"join"}
+{"nick":"apapirov_","date":"2017-11-09T01:49:30.940Z","type":"join"}
+{"nick":"apapirovski","reason":"Read error: Connection reset by peer","date":"2017-11-09T01:49:30.941Z","type":"quit"}
+{"nick":"chorrell","date":"2017-11-09T02:05:30.958Z","type":"join"}
+{"nick":"chorrell","reason":"Client Quit","date":"2017-11-09T02:06:43.935Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-09T02:18:44.295Z","type":"join"}
+{"nick":"apapirov_","reason":"Read error: Connection reset by peer","date":"2017-11-09T02:19:04.007Z","type":"quit"}
+{"nick":"apapirovski","reason":"Read error: Connection reset by peer","date":"2017-11-09T02:19:12.559Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-09T02:19:40.624Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-09T02:26:08.134Z","type":"quit"}
+{"nick":"gibfahn_","reason":"Quit: Connection closed for inactivity","date":"2017-11-09T02:37:03.775Z","type":"quit"}
+{"nick":"sgimeno","reason":"Ping timeout: 248 seconds","date":"2017-11-09T02:51:12.785Z","type":"quit"}
+{"nick":"sgimeno","date":"2017-11-09T02:51:30.360Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 250 seconds","date":"2017-11-09T03:13:37.883Z","type":"quit"}
+{"nick":"joyee","date":"2017-11-09T03:13:59.484Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-09T03:16:59.846Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-09T03:29:14.551Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-09T03:44:36.042Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-09T03:46:10.069Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-09T04:06:18.604Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-09T04:13:17.286Z","type":"quit"}
+{"nick":"xadillax","date":"2017-11-09T04:34:36.169Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-11-09T04:34:44.206Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-09T04:50:11.692Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T04:50:11.961Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T05:45:43.117Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T05:45:43.299Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T05:47:52.803Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T05:47:53.026Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T05:48:23.973Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T05:48:24.156Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T05:49:42.684Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T05:49:42.868Z","type":"part"}
+{"nick":"xadillax","date":"2017-11-09T05:50:56.932Z","type":"join"}
+{"nick":"xadillax_","date":"2017-11-09T05:55:12.929Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 268 seconds","date":"2017-11-09T05:55:46.752Z","type":"quit"}
+{"nick":"xadillax_","reason":"Remote host closed the connection","date":"2017-11-09T05:57:04.211Z","type":"quit"}
+{"nick":"xadillax","date":"2017-11-09T05:57:32.874Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 250 seconds","date":"2017-11-09T06:01:45.691Z","type":"quit"}
+{"nick":"xadillax","date":"2017-11-09T06:02:23.230Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T06:05:47.663Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T06:05:47.846Z","type":"part"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-11-09T06:10:52.860Z","type":"quit"}
+{"nick":"xadillax","date":"2017-11-09T06:11:04.874Z","type":"join"}
+{"nick":"lanceball_","date":"2017-11-09T06:11:59.995Z","type":"join"}
+{"nick":"lanceball","reason":"Ping timeout: 248 seconds","date":"2017-11-09T06:15:02.412Z","type":"quit"}
+{"nick":"mhdawson__","date":"2017-11-09T06:15:32.891Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-11-09T06:18:57.316Z","type":"quit"}
+{"nick":"xadillax","date":"2017-11-09T06:20:33.873Z","type":"join"}
+{"nick":"mhdawson_","reason":"*.net *.split","date":"2017-11-09T06:22:51.039Z","type":"quit"}
+{"nick":"mhdawson__","new_nick":"mhdawson_","date":"2017-11-09T06:22:53.900Z","type":"nick"}
+{"nick":"mhdawson_","new_nick":"Guest67514","date":"2017-11-09T06:23:23.722Z","type":"nick"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-11-09T06:26:51.812Z","type":"quit"}
+{"nick":"rvagg","message":"refack: 'jenkins-beta' tag for you to experiment with, two ubuntu 16.04 containers, will explain in my next PR but you can use them for what you like, they're not in regular rotation","date":"2017-11-09T06:29:16.073Z","type":"message"}
+{"nick":"rvagg","message":"s/tag/label","date":"2017-11-09T06:29:39.271Z","type":"message"}
+{"nick":"xadillax","date":"2017-11-09T06:31:19.681Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-11-09T06:33:36.060Z","type":"quit"}
+{"nick":"rvagg","message":"refack: test-packetnet-ubuntu1604-x64-2 is offline \"test\", is that still meant to be offline? it's a jenkins-workspace host and pretty important","date":"2017-11-09T08:15:28.986Z","type":"message"}
+{"nick":"xadillax","date":"2017-11-09T08:31:26.748Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T08:31:58.961Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T08:31:59.144Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T08:36:00.643Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T08:36:00.826Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T08:53:59.234Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T08:53:59.234Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T08:54:23.767Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T08:54:23.950Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T08:56:05.690Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T08:56:05.910Z","type":"part"}
+{"nick":"tniessen","reason":"Quit: Ping timeout (120 seconds)","date":"2017-11-09T09:29:52.431Z","type":"quit"}
+{"nick":"tniessen","date":"2017-11-09T09:32:09.894Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T10:18:00.526Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T10:18:00.746Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T10:21:11.863Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T10:21:12.045Z","type":"part"}
+{"nick":"seishun","date":"2017-11-09T10:31:27.551Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-11-09T11:13:28.409Z","type":"quit"}
+{"nick":"xadillax","date":"2017-11-09T11:13:55.652Z","type":"join"}
+{"nick":"xadillax","reason":"Ping timeout: 240 seconds","date":"2017-11-09T11:18:08.460Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-09T11:25:13.653Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-09T11:25:44.487Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 260 seconds","date":"2017-11-09T12:05:17.597Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-09T12:18:18.796Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T12:18:18.980Z","type":"part"}
+{"nick":"apapirovski","date":"2017-11-09T12:27:27.850Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T12:41:50.999Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T12:41:51.183Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-09T12:46:11.646Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-09T12:53:09.054Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-09T13:05:20.972Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-09T13:05:24.717Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-09T13:20:17.185Z","type":"join"}
+{"nick":"refack","message":"`test-packetnet-ubuntu1604-x64-2` back online","date":"2017-11-09T13:23:32.173Z","type":"message"}
+{"nick":"rvagg","message":"major hiccup on arm cluster, nfs host went down, disk problem","date":"2017-11-09T13:25:25.709Z","type":"message"}
+{"nick":"rvagg","message":"I think it's ok now but I need to check the disk","date":"2017-11-09T13:25:34.234Z","type":"message"}
+{"nick":"refack","message":"I just read a paper that recently manufactured spinning disks stopped failing with \"bathtub\" distribution, in that they live longer than 2xMTBF and fail with poisson distribution","date":"2017-11-09T13:31:32.570Z","type":"message"}
+{"nick":"rvagg","message":"refack: theories on why? just improvements in manufacturing?","date":"2017-11-09T13:43:47.855Z","type":"message"}
+{"nick":"rvagg","message":"sounds very strange","date":"2017-11-09T13:44:27.623Z","type":"message"}
+{"nick":"refack","message":"It's an empirical study done in Cloud providers. I think mostly because MFG is better and spindle speed at still at 7200RPM","date":"2017-11-09T13:45:38.049Z","type":"message"}
+{"nick":"refack","message":"BTW: I have a crazy HD story. I had fire ants eating into an HD till it failed. I tried to exterminate them, so they retaliated and ate my replacement HD a month later.","date":"2017-11-09T13:49:21.236Z","type":"message"}
+{"nick":"refack","message":"I took them to a recovery lab, they called me an hour later, hysterical \"Take this s**t out of here, it's crawling with live ants\"","date":"2017-11-09T13:50:19.148Z","type":"message"}
+{"nick":"rvagg","message":"wow, they can chew through metal? I didn't know that","date":"2017-11-09T13:55:07.789Z","type":"message"}
+{"nick":"rvagg","message":"crazy","date":"2017-11-09T13:55:08.997Z","type":"message"}
+{"nick":"refack","message":"I think they chewed through the seals","date":"2017-11-09T13:55:50.807Z","type":"message"}
+{"nick":"rvagg","message":"having had to manually destroy many disks before, I know how impressive a feat that would be","date":"2017-11-09T13:55:51.207Z","type":"message"}
+{"nick":"rvagg","message":"ugh, ccache not being used on a bunch of hosts","date":"2017-11-09T14:09:20.004Z","type":"message"}
+{"nick":"node-gh","date":"2017-11-09T14:25:28.027Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T14:25:28.254Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T14:27:43.837Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T14:27:44.021Z","type":"part"}
+{"nick":"chorrell","date":"2017-11-09T14:42:06.771Z","type":"join"}
+{"nick":"seishun","message":"hey, could someone look into https://github.com/nodejs/build/pull/797? I need to know whether gcc is going to be upgraded on all ubuntu1404 machines before I proceed with other OSs (cc rvagg)","date":"2017-11-09T14:52:08.185Z","type":"message"}
+{"nick":"lanceball_","new_nick":"lanceball","date":"2017-11-09T15:04:45.220Z","type":"nick"}
+{"nick":"lanceball","reason":"Changing host","date":"2017-11-09T15:05:34.348Z","type":"quit"}
+{"nick":"lanceball","date":"2017-11-09T15:05:34.531Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T15:06:03.758Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T15:06:03.977Z","type":"part"}
+{"nick":"evanlucas","date":"2017-11-09T15:20:30.488Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T16:08:46.950Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T16:08:47.133Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T16:14:02.555Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T16:14:02.687Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T16:15:36.924Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T16:15:37.107Z","type":"part"}
+{"nick":"gibfahn_","date":"2017-11-09T16:35:26.011Z","type":"join"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-09T17:34:27.459Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-09T18:00:40.627Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-09T18:00:43.126Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-09T18:15:51.254Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-09T18:16:25.874Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 268 seconds","date":"2017-11-09T18:29:20.828Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-09T18:33:27.278Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-09T18:33:36.256Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-09T18:33:51.527Z","type":"join"}
+{"nick":"seishun","date":"2017-11-09T18:34:57.209Z","type":"join"}
+{"nick":"gibfahn_","reason":"Quit: Connection closed for inactivity","date":"2017-11-09T18:49:20.766Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-09T19:04:25.101Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-09T19:11:12.912Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-09T19:46:15.786Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-09T19:46:54.149Z","type":"join"}
+{"nick":"Fishrock","date":"2017-11-09T19:50:49.975Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-11-09T19:50:51.985Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-09T20:06:18.695Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T20:06:18.880Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 268 seconds","date":"2017-11-09T20:33:17.908Z","type":"quit"}
+{"nick":"Fishrock","reason":"Remote host closed the connection","date":"2017-11-09T20:34:39.904Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-09T21:14:04.545Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-09T21:35:48.816Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-09T21:36:12.304Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 250 seconds","date":"2017-11-09T21:39:29.692Z","type":"quit"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-11-09T22:02:03.694Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-09T22:08:38.657Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T22:14:32.013Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T22:14:32.195Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-11-09T22:32:32.063Z","type":"quit"}
+{"nick":"node-gh","date":"2017-11-09T22:41:44.800Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T22:41:44.983Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T22:44:42.434Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T22:44:42.617Z","type":"part"}
+{"nick":"node-gh","date":"2017-11-09T23:10:47.536Z","type":"join"}
+{"nick":"node-gh","date":"2017-11-09T23:10:47.728Z","type":"part"}

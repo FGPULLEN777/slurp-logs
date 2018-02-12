@@ -1,0 +1,28 @@
+{"nick":"evanlucas","date":"2017-12-09T01:49:47.694Z","type":"join"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-12-09T01:49:50.609Z","type":"quit"}
+{"nick":"tniessen","reason":"*.net *.split","date":"2017-12-09T05:06:08.177Z","type":"quit"}
+{"nick":"phillipj","reason":"*.net *.split","date":"2017-12-09T05:06:11.579Z","type":"quit"}
+{"nick":"sgimeno","reason":"*.net *.split","date":"2017-12-09T05:06:12.031Z","type":"quit"}
+{"nick":"mattloring","reason":"*.net *.split","date":"2017-12-09T05:06:12.604Z","type":"quit"}
+{"nick":"lanceball","reason":"*.net *.split","date":"2017-12-09T05:06:21.591Z","type":"quit"}
+{"nick":"mylesborins","reason":"*.net *.split","date":"2017-12-09T05:06:26.206Z","type":"quit"}
+{"nick":"lanceball","date":"2017-12-09T05:11:09.368Z","type":"join"}
+{"nick":"mylesborins","date":"2017-12-09T05:13:25.139Z","type":"join"}
+{"nick":"tniessen","date":"2017-12-09T05:15:08.264Z","type":"join"}
+{"nick":"phillipj","date":"2017-12-09T05:39:58.714Z","type":"join"}
+{"nick":"sgimeno","date":"2017-12-09T05:39:58.784Z","type":"join"}
+{"nick":"mattloring","date":"2017-12-09T05:39:58.784Z","type":"join"}
+{"nick":"seishun","date":"2017-12-09T10:36:30.370Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-09T11:25:13.452Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-09T11:25:42.560Z","type":"join"}
+{"nick":"Trott","message":"freebsd is totally broken on CI. Not sure what's going on because stuff is weird in the Jenkins interface. Normally, I'd ping jbergstroem for freebsd stuff, but haven't seen him around forever so taking a bit of a guess here.... rvagg  joaocgreis  refack","date":"2017-12-09T13:06:36.888Z","type":"message"}
+{"nick":"Trott","message":"https://ci.nodejs.org/job/node-test-commit-freebsd/13949/console","date":"2017-12-09T13:07:04.940Z","type":"message"}
+{"nick":"Trott","message":"https://www.irccloud.com/pastebin/IOqvzX8G/","date":"2017-12-09T13:07:19.146Z","type":"message"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-12-09T13:07:44.021Z","type":"quit"}
+{"nick":"seishun","date":"2017-12-09T13:20:50.602Z","type":"join"}
+{"nick":"node-gh","date":"2017-12-09T20:12:55.956Z","type":"join"}
+{"nick":"node-gh","date":"2017-12-09T20:12:56.024Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-12-09T22:46:27.818Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-12-09T23:12:54.751Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-12-09T23:32:59.391Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-12-09T23:59:58.619Z","type":"join"}

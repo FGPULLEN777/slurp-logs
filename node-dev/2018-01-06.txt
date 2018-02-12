@@ -1,0 +1,82 @@
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2018-01-06T01:03:15.002Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2018-01-06T01:14:51.495Z","type":"join"}
+{"nick":"dave0x6d","reason":"Quit: Connection closed for inactivity","date":"2018-01-06T01:29:48.297Z","type":"quit"}
+{"nick":"dave0x6d","date":"2018-01-06T01:51:11.241Z","type":"join"}
+{"nick":"BridgeAR","date":"2018-01-06T01:51:58.552Z","type":"join"}
+{"nick":"not-an-aardvark_","date":"2018-01-06T02:19:36.884Z","type":"join"}
+{"nick":"bret_","date":"2018-01-06T02:19:57.329Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T02:24:52.412Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T02:24:52.573Z","type":"part"}
+{"nick":"tellnes_","date":"2018-01-06T02:25:33.251Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"*.net *.split","date":"2018-01-06T02:26:47.717Z","type":"quit"}
+{"nick":"Fusl","reason":"*.net *.split","date":"2018-01-06T02:26:48.855Z","type":"quit"}
+{"nick":"bret","reason":"*.net *.split","date":"2018-01-06T02:26:49.949Z","type":"quit"}
+{"nick":"tellnes","reason":"*.net *.split","date":"2018-01-06T02:26:51.814Z","type":"quit"}
+{"nick":"not-an-aardvark_","new_nick":"not-an-aardvark","date":"2018-01-06T02:26:52.053Z","type":"nick"}
+{"nick":"bret_","new_nick":"bret","date":"2018-01-06T02:27:00.597Z","type":"nick"}
+{"nick":"Fusl","date":"2018-01-06T02:34:15.137Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-01-06T02:53:09.916Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2018-01-06T02:53:22.576Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-01-06T03:22:52.411Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T03:37:42.813Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T03:37:42.882Z","type":"part"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2018-01-06T03:44:09.968Z","type":"quit"}
+{"nick":"al-damiri","reason":"Quit: Connection closed for inactivity","date":"2018-01-06T03:50:09.632Z","type":"quit"}
+{"nick":"JamesMGreene","date":"2018-01-06T04:20:36.008Z","type":"join"}
+{"nick":"JamesMGreene","reason":"Ping timeout: 248 seconds","date":"2018-01-06T04:39:59.924Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-01-06T04:55:42.936Z","type":"quit"}
+{"nick":"howdoi","date":"2018-01-06T05:39:44.580Z","type":"join"}
+{"nick":"dave0x6d","reason":"Quit: Connection closed for inactivity","date":"2018-01-06T05:49:48.323Z","type":"quit"}
+{"nick":"mollusk","reason":"Quit: My MacBook Air has gone to sleep. ZZZzzz…","date":"2018-01-06T06:11:02.127Z","type":"quit"}
+{"nick":"lpin","date":"2018-01-06T06:13:49.295Z","type":"join"}
+{"nick":"marthinal","date":"2018-01-06T07:33:53.910Z","type":"join"}
+{"nick":"mollusk","date":"2018-01-06T09:39:40.582Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2018-01-06T10:13:15.056Z","type":"quit"}
+{"nick":"seishun","date":"2018-01-06T10:14:21.554Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-06T11:25:11.028Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-06T11:25:41.730Z","type":"join"}
+{"nick":"dave0x6d","date":"2018-01-06T12:36:11.603Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2018-01-06T12:51:57.762Z","type":"quit"}
+{"nick":"BridgeAR","date":"2018-01-06T12:59:42.108Z","type":"join"}
+{"nick":"bradleymeck","date":"2018-01-06T13:15:56.920Z","type":"join"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2018-01-06T13:18:55.654Z","type":"quit"}
+{"nick":"AtumT","date":"2018-01-06T13:24:19.077Z","type":"join"}
+{"nick":"seishun","date":"2018-01-06T13:32:52.895Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-01-06T14:38:57.726Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-01-06T14:40:20.982Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T14:40:21.053Z","type":"part"}
+{"nick":"bradleymeck","date":"2018-01-06T14:40:50.995Z","type":"join"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2018-01-06T15:07:31.625Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-01-06T17:48:37.492Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T17:48:37.560Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-06T17:49:09.489Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T17:49:09.563Z","type":"part"}
+{"nick":"BridgeAR","date":"2018-01-06T18:03:05.772Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T18:04:11.932Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T18:04:12.039Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-06T18:08:37.456Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T18:08:37.563Z","type":"part"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-01-06T18:31:12.433Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2018-01-06T18:55:07.481Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T18:58:54.957Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T18:58:55.026Z","type":"part"}
+{"nick":"bradleymeck","date":"2018-01-06T19:05:12.847Z","type":"join"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-06T19:17:59.378Z","type":"quit"}
+{"nick":"BridgeAR","reason":"Ping timeout: 240 seconds","date":"2018-01-06T19:27:57.808Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-01-06T19:57:43.356Z","type":"quit"}
+{"nick":"marthinal","date":"2018-01-06T20:07:11.913Z","type":"join"}
+{"nick":"mollusk","reason":"Quit: My MacBook Air has gone to sleep. ZZZzzz…","date":"2018-01-06T20:33:37.794Z","type":"quit"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2018-01-06T20:38:18.575Z","type":"quit"}
+{"nick":"mollusk","date":"2018-01-06T20:45:53.159Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T21:22:30.599Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T21:22:30.599Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-06T21:22:39.933Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T21:22:40.001Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2018-01-06T21:26:52.747Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-01-06T21:44:50.272Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T21:44:50.340Z","type":"part"}
+{"nick":"reydelcompas","date":"2018-01-06T21:52:21.930Z","type":"join"}
+{"nick":"bradleymeck","date":"2018-01-06T21:52:53.889Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T22:11:40.945Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-06T22:11:41.013Z","type":"part"}
+{"nick":"BridgeAR","date":"2018-01-06T22:23:43.283Z","type":"join"}

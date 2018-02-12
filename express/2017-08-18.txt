@@ -1,0 +1,128 @@
+{"nick":"integraljustin","date":"2017-08-18T00:13:03.978Z","type":"join"}
+{"nick":"integraljustin","message":"hello!","date":"2017-08-18T00:13:08.497Z","type":"message"}
+{"nick":"integraljustin","message":"I'm running into strange url parsing / routing issue between mac and linux","date":"2017-08-18T00:13:25.680Z","type":"message"}
+{"nick":"integraljustin","message":"specifically with URI encoding paths","date":"2017-08-18T00:13:39.542Z","type":"message"}
+{"nick":"integraljustin","message":"I am submitting a GET request with a URI encoding param: \"/fatsals\" => \"/%2Ffatsals\"","date":"2017-08-18T00:14:24.044Z","type":"message"}
+{"nick":"integraljustin","message":"on Mac, when I pass this into my server, the server logs the request with the encoded param","date":"2017-08-18T00:14:45.122Z","type":"message"}
+{"nick":"integraljustin","message":"\"/fatsals GET /data-access/realms/%2Ffatsals 200 4.665 ms - 2\"","date":"2017-08-18T00:14:49.449Z","type":"message"}
+{"nick":"integraljustin","message":"But when I do the same on Linux","date":"2017-08-18T00:14:57.826Z","type":"message"}
+{"nick":"integraljustin","message":"\"fatsals GET /data-access/realms/fatsals 200 9.991 ms - 2\"","date":"2017-08-18T00:14:58.981Z","type":"message"}
+{"nick":"integraljustin","message":"is logged, without the URI encoded param","date":"2017-08-18T00:15:04.222Z","type":"message"}
+{"nick":"integraljustin","message":"Anyone run into this before?","date":"2017-08-18T00:15:12.143Z","type":"message"}
+{"nick":"integraljustin","message":"I specifically need to be able to access the URI encoded path, to avoid the ambiguity of any / in my route parameter","date":"2017-08-18T00:15:31.265Z","type":"message"}
+{"nick":"integraljustin","reason":"Quit: Page closed","date":"2017-08-18T00:29:07.922Z","type":"quit"}
+{"nick":"AtumT_","reason":"Remote host closed the connection","date":"2017-08-18T00:38:41.820Z","type":"quit"}
+{"nick":"Guest89737","reason":"Ping timeout: 246 seconds","date":"2017-08-18T01:23:51.868Z","type":"quit"}
+{"nick":"cydrobolt","date":"2017-08-18T01:26:14.959Z","type":"join"}
+{"nick":"cydrobolt","reason":"Changing host","date":"2017-08-18T01:26:15.165Z","type":"quit"}
+{"nick":"cydrobolt","date":"2017-08-18T01:26:15.165Z","type":"join"}
+{"nick":"MachinShin","reason":"Ping timeout: 276 seconds","date":"2017-08-18T01:41:40.657Z","type":"quit"}
+{"nick":"MachinShin","date":"2017-08-18T01:41:56.912Z","type":"join"}
+{"nick":"johnnyfive","reason":"Ping timeout: 246 seconds","date":"2017-08-18T02:35:22.473Z","type":"quit"}
+{"nick":"johnnyfive","date":"2017-08-18T02:40:14.997Z","type":"join"}
+{"nick":"einnjo","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-18T02:48:28.838Z","type":"quit"}
+{"nick":"quarters","date":"2017-08-18T03:15:51.882Z","type":"join"}
+{"nick":"HelloMiles","reason":"Quit: Connection closed for inactivity","date":"2017-08-18T03:34:24.051Z","type":"quit"}
+{"nick":"LeBlaaanc","date":"2017-08-18T03:57:26.409Z","type":"join"}
+{"nick":"ShekharReddy","date":"2017-08-18T04:16:59.677Z","type":"join"}
+{"nick":"al-damiri","reason":"Quit: Connection closed for inactivity","date":"2017-08-18T04:43:35.838Z","type":"quit"}
+{"nick":"lpin","date":"2017-08-18T04:58:00.735Z","type":"join"}
+{"nick":"quarters","reason":"Changing host","date":"2017-08-18T05:06:33.538Z","type":"quit"}
+{"nick":"quarters","date":"2017-08-18T05:06:33.742Z","type":"join"}
+{"nick":"quarters","reason":"Changing host","date":"2017-08-18T05:06:33.742Z","type":"quit"}
+{"nick":"quarters","date":"2017-08-18T05:06:33.742Z","type":"join"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2017-08-18T06:55:39.359Z","type":"quit"}
+{"nick":"Soopaman","date":"2017-08-18T07:01:45.476Z","type":"join"}
+{"nick":"xall","date":"2017-08-18T07:29:54.827Z","type":"join"}
+{"nick":"xall","reason":"Quit: xall","date":"2017-08-18T08:15:01.324Z","type":"quit"}
+{"nick":"duzi","date":"2017-08-18T08:19:03.996Z","type":"join"}
+{"nick":"kume","date":"2017-08-18T08:47:38.973Z","type":"join"}
+{"nick":"kume","reason":"Client Quit","date":"2017-08-18T08:48:07.730Z","type":"quit"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2017-08-18T08:54:17.867Z","type":"quit"}
+{"nick":"duzi","reason":"Quit: Leaving","date":"2017-08-18T09:43:46.651Z","type":"quit"}
+{"nick":"duzi","date":"2017-08-18T09:44:09.800Z","type":"join"}
+{"nick":"duzi","reason":"Quit: Leaving","date":"2017-08-18T09:51:34.544Z","type":"quit"}
+{"nick":"xehbit","reason":"Ping timeout: 255 seconds","date":"2017-08-18T10:05:04.059Z","type":"quit"}
+{"nick":"xehbit","date":"2017-08-18T10:06:28.463Z","type":"join"}
+{"nick":"xall","date":"2017-08-18T10:17:23.537Z","type":"join"}
+{"nick":"mylesborins","reason":"Remote host closed the connection","date":"2017-08-18T10:25:09.600Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-18T10:25:50.349Z","type":"join"}
+{"nick":"duzi","date":"2017-08-18T10:28:21.882Z","type":"join"}
+{"nick":"AtumT","date":"2017-08-18T10:29:10.868Z","type":"join"}
+{"nick":"xall","reason":"Ping timeout: 240 seconds","date":"2017-08-18T11:03:35.512Z","type":"quit"}
+{"nick":"xall","date":"2017-08-18T11:06:40.890Z","type":"join"}
+{"nick":"hal","date":"2017-08-18T12:26:58.409Z","type":"join"}
+{"nick":"hal","new_nick":"Guest61961","date":"2017-08-18T12:27:21.856Z","type":"nick"}
+{"nick":"xall","reason":"Ping timeout: 255 seconds","date":"2017-08-18T12:58:16.920Z","type":"quit"}
+{"nick":"einnjo","date":"2017-08-18T13:09:27.537Z","type":"join"}
+{"nick":"LeBlaaanc","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-18T13:39:30.263Z","type":"quit"}
+{"nick":"Guest61961","reason":"Quit: Leaving","date":"2017-08-18T13:48:47.283Z","type":"quit"}
+{"nick":"LeBlaaanc","date":"2017-08-18T14:10:41.257Z","type":"join"}
+{"nick":"al-damiri","date":"2017-08-18T14:39:53.445Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-18T14:50:45.465Z","type":"join"}
+{"nick":"frozennString","date":"2017-08-18T14:51:24.386Z","type":"join"}
+{"nick":"frozennString","message":"hey guys","date":"2017-08-18T14:51:41.957Z","type":"message"}
+{"nick":"frozennString","message":"just started learning express","date":"2017-08-18T14:51:57.175Z","type":"message"}
+{"nick":"frozennString","message":"any suggestions for me?","date":"2017-08-18T14:52:05.634Z","type":"message"}
+{"nick":"frozennString","reason":"Client Quit","date":"2017-08-18T14:53:08.175Z","type":"quit"}
+{"nick":"fees","date":"2017-08-18T15:07:53.565Z","type":"join"}
+{"nick":"duzi","reason":"Ping timeout: 268 seconds","date":"2017-08-18T15:19:05.884Z","type":"quit"}
+{"nick":"Soopaman","date":"2017-08-18T15:28:15.629Z","type":"join"}
+{"nick":"NicolaiOvitch","date":"2017-08-18T15:33:23.873Z","type":"join"}
+{"nick":"NicolaiOvitch","message":"HO HEY","date":"2017-08-18T15:33:26.017Z","type":"message"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2017-08-18T15:47:13.769Z","type":"quit"}
+{"nick":"HelloMiles","date":"2017-08-18T15:49:50.815Z","type":"join"}
+{"nick":"NicolaiOvitch","reason":"\"Leaving\"","date":"2017-08-18T16:09:31.631Z","type":"part"}
+{"nick":"duzi","date":"2017-08-18T16:10:32.903Z","type":"join"}
+{"nick":"shoobie","reason":"Ping timeout: 240 seconds","date":"2017-08-18T16:22:21.359Z","type":"quit"}
+{"nick":"shoobie","date":"2017-08-18T16:24:34.536Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-08-18T16:24:34.739Z","type":"quit"}
+{"nick":"shoobie","date":"2017-08-18T16:24:34.740Z","type":"join"}
+{"nick":"apoorv_","date":"2017-08-18T17:01:10.004Z","type":"join"}
+{"nick":"apoorv_","reason":"Client Quit","date":"2017-08-18T17:02:54.703Z","type":"quit"}
+{"nick":"apoorv_","date":"2017-08-18T17:03:15.909Z","type":"join"}
+{"nick":"duzi","reason":"Ping timeout: 268 seconds","date":"2017-08-18T17:05:09.890Z","type":"quit"}
+{"nick":"flaviodesousa","reason":"Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/","date":"2017-08-18T17:05:44.187Z","type":"quit"}
+{"nick":"apoorv_","reason":"Client Quit","date":"2017-08-18T17:06:43.887Z","type":"quit"}
+{"nick":"duzi","date":"2017-08-18T17:07:33.884Z","type":"join"}
+{"nick":"duzi","reason":"Ping timeout: 268 seconds","date":"2017-08-18T17:34:08.883Z","type":"quit"}
+{"nick":"duzi","date":"2017-08-18T17:47:07.980Z","type":"join"}
+{"nick":"gp_","date":"2017-08-18T17:49:55.903Z","type":"join"}
+{"nick":"gp_","message":"Hi everyone, I'm new to Express, can someone tell me why if I console.log something inside .get('/:value', function(req, res) {...}), besides the output expected I also get an output `favicon.ico' ?","date":"2017-08-18T17:55:19.581Z","type":"message"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-08-18T17:55:43.507Z","type":"quit"}
+{"nick":"commma","message":"gp_: because you're hitting the endpoint from the browser which sends a favicon request alongside","date":"2017-08-18T17:58:08.299Z","type":"message"}
+{"nick":"gp_","message":"thanks comma!","date":"2017-08-18T18:07:44.070Z","type":"message"}
+{"nick":"gp_","message":"Do you know how I should avoid that?","date":"2017-08-18T18:08:13.416Z","type":"message"}
+{"nick":"commma","message":"you don't, that's on the browser, not express","date":"2017-08-18T18:08:45.704Z","type":"message"}
+{"nick":"commma","message":"just give it the favicon it wants","date":"2017-08-18T18:08:50.348Z","type":"message"}
+{"nick":"gp_","message":"Okay. Thank you.","date":"2017-08-18T18:09:25.341Z","type":"message"}
+{"nick":"gp_","message":"I'll try","date":"2017-08-18T18:09:28.638Z","type":"message"}
+{"nick":"gp_","reason":"Remote host closed the connection","date":"2017-08-18T18:55:49.229Z","type":"quit"}
+{"nick":"duzi","reason":"Quit: Leaving","date":"2017-08-18T19:45:19.970Z","type":"quit"}
+{"nick":"duzi","date":"2017-08-18T19:45:50.904Z","type":"join"}
+{"nick":"fees","reason":"Remote host closed the connection","date":"2017-08-18T20:05:46.451Z","type":"quit"}
+{"nick":"remote","date":"2017-08-18T20:17:21.125Z","type":"join"}
+{"nick":"duzi","reason":"Remote host closed the connection","date":"2017-08-18T20:29:42.306Z","type":"quit"}
+{"nick":"duzi","date":"2017-08-18T20:32:45.899Z","type":"join"}
+{"nick":"einnjo","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-18T20:46:18.168Z","type":"quit"}
+{"nick":"Alina-malina","reason":"Ping timeout: 260 seconds","date":"2017-08-18T20:47:02.614Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-08-18T20:49:53.058Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-18T20:52:39.186Z","type":"quit"}
+{"nick":"ShekharReddy","reason":"Quit: Connection closed for inactivity","date":"2017-08-18T21:00:40.568Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-18T21:06:34.951Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-08-18T21:39:11.521Z","type":"quit"}
+{"nick":"einnjo","date":"2017-08-18T21:41:43.831Z","type":"join"}
+{"nick":"duzi","reason":"Quit: Leaving","date":"2017-08-18T21:46:33.212Z","type":"quit"}
+{"nick":"einnjo","reason":"Ping timeout: 255 seconds","date":"2017-08-18T21:46:34.931Z","type":"quit"}
+{"nick":"Alina-malina","reason":"Ping timeout: 255 seconds","date":"2017-08-18T22:03:43.042Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-08-18T22:04:51.427Z","type":"join"}
+{"nick":"LeBlaaanc","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-18T22:20:01.742Z","type":"quit"}
+{"nick":"GGMethos","reason":"Quit: WeeChat 1.4","date":"2017-08-18T22:35:10.464Z","type":"quit"}
+{"nick":"Methos","date":"2017-08-18T22:39:55.528Z","type":"join"}
+{"nick":"Methos","new_nick":"Guest98617","date":"2017-08-18T22:40:20.151Z","type":"nick"}
+{"nick":"Guest98617","new_nick":"GGMethos","date":"2017-08-18T22:42:29.383Z","type":"nick"}
+{"nick":"LeBlaaanc","date":"2017-08-18T23:00:28.669Z","type":"join"}
+{"nick":"Alina-malina","reason":"Ping timeout: 240 seconds","date":"2017-08-18T23:09:01.468Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-08-18T23:12:29.905Z","type":"join"}
+{"nick":"Alina-malina","reason":"Ping timeout: 255 seconds","date":"2017-08-18T23:22:52.952Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-08-18T23:25:27.955Z","type":"join"}

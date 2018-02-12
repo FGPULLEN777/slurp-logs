@@ -1,0 +1,28 @@
+{"nick":"joshonth_","reason":"Quit: Computer has gone to sleep.","date":"2017-10-15T00:04:12.439Z","type":"quit"}
+{"nick":"n_tt","date":"2017-10-15T02:30:10.144Z","type":"join"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-10-15T04:03:11.919Z","type":"quit"}
+{"nick":"n_tt","date":"2017-10-15T05:00:34.055Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-15T05:09:44.968Z","type":"quit"}
+{"nick":"joshonth_","date":"2017-10-15T05:32:00.678Z","type":"join"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-10-15T05:38:52.055Z","type":"quit"}
+{"nick":"Cohedrin_","date":"2017-10-15T07:01:20.557Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Client Quit","date":"2017-10-15T07:01:37.164Z","type":"quit"}
+{"nick":"joshonth_","reason":"Quit: Computer has gone to sleep.","date":"2017-10-15T08:03:38.116Z","type":"quit"}
+{"nick":"joshonth_","date":"2017-10-15T08:24:50.609Z","type":"join"}
+{"nick":"joshonth_","reason":"Quit: Computer has gone to sleep.","date":"2017-10-15T08:53:39.111Z","type":"quit"}
+{"nick":"n_tt","date":"2017-10-15T09:40:07.782Z","type":"join"}
+{"nick":"n_tt","reason":"Ping timeout: 260 seconds","date":"2017-10-15T09:44:52.639Z","type":"quit"}
+{"nick":"joshonth_","date":"2017-10-15T15:51:21.782Z","type":"join"}
+{"nick":"joshonth_","reason":"Quit: Computer has gone to sleep.","date":"2017-10-15T16:55:05.981Z","type":"quit"}
+{"nick":"joshonth_","date":"2017-10-15T17:42:31.138Z","type":"join"}
+{"nick":"joshonth_","reason":"Quit: Computer has gone to sleep.","date":"2017-10-15T18:04:00.847Z","type":"quit"}
+{"nick":"mezod","date":"2017-10-15T18:31:33.140Z","type":"join"}
+{"nick":"Cohedrin_","date":"2017-10-15T19:43:04.870Z","type":"join"}
+{"nick":"joshonth_","date":"2017-10-15T19:50:11.276Z","type":"join"}
+{"nick":"joshonth_","reason":"Quit: Computer has gone to sleep.","date":"2017-10-15T20:23:52.107Z","type":"quit"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-10-15T21:20:44.254Z","type":"quit"}
+{"nick":"mezod","date":"2017-10-15T21:48:38.794Z","type":"join"}
+{"nick":"joshonth_","date":"2017-10-15T22:21:01.642Z","type":"join"}
+{"nick":"joshonth_","reason":"Quit: Computer has gone to sleep.","date":"2017-10-15T22:50:23.262Z","type":"quit"}
+{"nick":"joshonth_","date":"2017-10-15T23:07:00.760Z","type":"join"}
+{"nick":"Cohedrin_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-15T23:45:50.062Z","type":"quit"}

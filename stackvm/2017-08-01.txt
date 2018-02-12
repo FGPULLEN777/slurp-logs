@@ -1,0 +1,52 @@
+{"nick":"lmatteis","reason":"Quit: Connection closed for inactivity","date":"2017-08-01T00:10:20.040Z","type":"quit"}
+{"nick":"phated","reason":"Remote host closed the connection","date":"2017-08-01T00:45:32.465Z","type":"quit"}
+{"nick":"phated","date":"2017-08-01T00:46:08.640Z","type":"join"}
+{"nick":"phated","reason":"Ping timeout: 276 seconds","date":"2017-08-01T00:51:19.678Z","type":"quit"}
+{"nick":"https_GK1wmSU","date":"2017-08-01T01:53:10.681Z","type":"join"}
+{"nick":"https_GK1wmSU","date":"2017-08-01T01:53:52.540Z","type":"part"}
+{"nick":"npeihl","reason":"Ping timeout: 258 seconds","date":"2017-08-01T01:54:31.246Z","type":"quit"}
+{"nick":"ekristen","date":"2017-08-01T03:20:47.768Z","type":"join"}
+{"nick":"ekristen","reason":"Read error: Connection reset by peer","date":"2017-08-01T03:32:00.946Z","type":"quit"}
+{"nick":"joepie91","reason":"Excess Flood","date":"2017-08-01T04:24:34.532Z","type":"quit"}
+{"nick":"joepie91","date":"2017-08-01T04:25:45.278Z","type":"join"}
+{"nick":"joepie91","reason":"Changing host","date":"2017-08-01T04:25:45.401Z","type":"quit"}
+{"nick":"joepie91","date":"2017-08-01T04:25:45.456Z","type":"join"}
+{"nick":"https___GK1wmSU","date":"2017-08-01T05:28:26.832Z","type":"join"}
+{"nick":"https___GK1wmSU","date":"2017-08-01T05:30:10.324Z","type":"part"}
+{"nick":"pfrazee","reason":"Quit: Connection closed for inactivity","date":"2017-08-01T05:31:42.927Z","type":"quit"}
+{"nick":"null_radix","reason":"Ping timeout: 246 seconds","date":"2017-08-01T07:44:01.503Z","type":"quit"}
+{"nick":"null_radix","date":"2017-08-01T07:49:43.949Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-08-01T10:25:11.324Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-01T10:25:41.970Z","type":"join"}
+{"nick":"null_radix[m]","reason":"Ping timeout: 246 seconds","date":"2017-08-01T13:02:38.663Z","type":"quit"}
+{"nick":"foreigneye[m]","reason":"Ping timeout: 246 seconds","date":"2017-08-01T13:03:20.601Z","type":"quit"}
+{"nick":"foreigneye[m]","date":"2017-08-01T13:43:00.688Z","type":"join"}
+{"nick":"null_radix[m]","date":"2017-08-01T13:58:56.001Z","type":"join"}
+{"nick":"contrahax","reason":"Quit: Sleeping","date":"2017-08-01T14:28:44.466Z","type":"quit"}
+{"nick":"pewpew","date":"2017-08-01T14:40:48.396Z","type":"join"}
+{"nick":"contrahax","date":"2017-08-01T14:42:56.641Z","type":"join"}
+{"nick":"pfrazee","date":"2017-08-01T14:43:36.034Z","type":"join"}
+{"nick":"contrahax","reason":"Quit: Sleeping","date":"2017-08-01T15:36:03.651Z","type":"quit"}
+{"nick":"npeihl","date":"2017-08-01T15:53:02.794Z","type":"join"}
+{"nick":"bret","message":"whats npe again?","date":"2017-08-01T16:02:22.636Z","type":"message"}
+{"nick":"noffle","message":"bret: null pointer exception? what's the context?","date":"2017-08-01T16:07:32.250Z","type":"message"}
+{"nick":"contrahax","date":"2017-08-01T16:09:11.563Z","type":"join"}
+{"nick":"bret","message":"jfhbrook mentioned it","date":"2017-08-01T16:09:31.042Z","type":"message"}
+{"nick":"bret","message":"https://github.com/zeke/npe","date":"2017-08-01T16:09:41.044Z","type":"message"}
+{"nick":"bret","message":"safe edits to package.json","date":"2017-08-01T16:09:51.020Z","type":"message"}
+{"nick":"bret","message":"no more missing commas","date":"2017-08-01T16:09:57.044Z","type":"message"}
+{"nick":"noffle","message":"that's way cooler than nullpointerexception :)","date":"2017-08-01T16:24:55.148Z","type":"message"}
+{"nick":"noffle","message":"what I'd really like is to be able to write 'npe', have it open package.json in $EDITOR, and then post-write, patch up all of my forgotten commas or single quotes","date":"2017-08-01T16:26:48.763Z","type":"message"}
+{"nick":"contrahax","reason":"Quit: Sleeping","date":"2017-08-01T16:42:05.334Z","type":"quit"}
+{"nick":"contrahax","date":"2017-08-01T16:49:19.630Z","type":"join"}
+{"nick":"contrahax","reason":"Quit: Sleeping","date":"2017-08-01T18:10:15.275Z","type":"quit"}
+{"nick":"contrahax","date":"2017-08-01T18:10:36.534Z","type":"join"}
+{"nick":"phated","date":"2017-08-01T19:01:40.642Z","type":"join"}
+{"nick":"jfhbrook","message":"you can probably convince your editor to lint on the fly","date":"2017-08-01T19:31:15.560Z","type":"message"}
+{"nick":"jfhbrook","message":"you can certainly do this w/ commit hooks, which like, not the same but eh?","date":"2017-08-01T19:31:28.337Z","type":"message"}
+{"nick":"phated","reason":"Remote host closed the connection","date":"2017-08-01T20:44:26.722Z","type":"quit"}
+{"nick":"phated","date":"2017-08-01T20:45:07.937Z","type":"join"}
+{"nick":"phated","reason":"Ping timeout: 240 seconds","date":"2017-08-01T20:49:14.891Z","type":"quit"}
+{"nick":"ike_","date":"2017-08-01T22:26:11.701Z","type":"join"}
+{"nick":"https_GK1wmSU","date":"2017-08-01T23:05:14.540Z","type":"join"}
+{"nick":"https_GK1wmSU","date":"2017-08-01T23:05:43.656Z","type":"part"}

@@ -1,0 +1,26 @@
+{"nick":"ryan_ford","date":"2017-11-02T01:27:13.998Z","type":"join"}
+{"nick":"SkyRocknRoll","date":"2017-11-02T04:16:22.838Z","type":"join"}
+{"nick":"DarkGod","reason":"Ping timeout: 248 seconds","date":"2017-11-02T04:25:35.995Z","type":"quit"}
+{"nick":"travis-ci","date":"2017-11-02T05:07:48.001Z","type":"join"}
+{"nick":"travis-ci","message":"zhaozg/luvit#18 (dev - 084a1f2 : George Zhao): The build passed.","date":"2017-11-02T05:07:48.881Z","type":"message"}
+{"nick":"travis-ci","message":"Change view : https://github.com/zhaozg/luvit/compare/02f6234baf00^...084a1f239f13","date":"2017-11-02T05:07:49.033Z","type":"message"}
+{"nick":"travis-ci","message":"Build details : https://travis-ci.org/zhaozg/luvit/builds/296101780","date":"2017-11-02T05:07:49.034Z","type":"message"}
+{"nick":"travis-ci","date":"2017-11-02T05:07:49.034Z","type":"part"}
+{"nick":"rendar","date":"2017-11-02T06:36:53.838Z","type":"join"}
+{"nick":"dg_","date":"2017-11-02T08:35:58.280Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Ping timeout: 246 seconds","date":"2017-11-02T09:39:54.832Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-11-02T09:56:58.525Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Remote host closed the connection","date":"2017-11-02T13:11:47.205Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-11-02T14:02:17.107Z","type":"join"}
+{"nick":"ryan_ford","reason":"Ping timeout: 248 seconds","date":"2017-11-02T14:46:24.015Z","type":"quit"}
+{"nick":"ryan_ford","date":"2017-11-02T14:59:59.685Z","type":"join"}
+{"nick":"SinisterRectus","date":"2017-11-02T17:40:32.533Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Remote host closed the connection","date":"2017-11-02T17:50:05.770Z","type":"quit"}
+{"nick":"ryan_ford","reason":"Ping timeout: 240 seconds","date":"2017-11-02T19:19:27.753Z","type":"quit"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-11-02T19:25:38.240Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-11-02T20:09:59.449Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Ping timeout: 240 seconds","date":"2017-11-02T20:14:21.294Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-11-02T20:27:18.458Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Ping timeout: 240 seconds","date":"2017-11-02T21:04:27.776Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-11-02T21:22:21.683Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Remote host closed the connection","date":"2017-11-02T21:30:42.786Z","type":"quit"}

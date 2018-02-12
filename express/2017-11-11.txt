@@ -1,0 +1,40 @@
+{"nick":"myNameIsMyName51","date":"2017-11-11T01:44:08.490Z","type":"join"}
+{"nick":"myNameIsMyName51","reason":"Client Quit","date":"2017-11-11T01:44:23.479Z","type":"quit"}
+{"nick":"ensyde","reason":"Quit: Leaving","date":"2017-11-11T01:54:57.699Z","type":"quit"}
+{"nick":"teod","date":"2017-11-11T02:34:45.041Z","type":"join"}
+{"nick":"lpin","date":"2017-11-11T06:21:20.485Z","type":"join"}
+{"nick":"fbenoit","date":"2017-11-11T06:24:22.753Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 240 seconds","date":"2017-11-11T06:29:12.024Z","type":"quit"}
+{"nick":"fbenoit","date":"2017-11-11T08:25:14.844Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 250 seconds","date":"2017-11-11T08:30:19.793Z","type":"quit"}
+{"nick":"tsujp","date":"2017-11-11T08:37:16.971Z","type":"join"}
+{"nick":"tsujp","message":"Hey everyone. I have an expressjs application with an index.js page, just the website's root. I want to have the ability to start and pause a worker process which listens to some websocket api from the main page. Just a simple button. What's the best way to structure this? I've looked at libraries like PM2 but have no clue how to set up the code so that I can start/pause this worker process, and where to put the code for such a proce","date":"2017-11-11T08:38:07.546Z","type":"message"}
+{"nick":"tsujp","message":"This is imporant because I want the user to then be able to close localhost/index.js, basically localhost/index.js is only for turning it on and off","date":"2017-11-11T08:38:52.899Z","type":"message"}
+{"nick":"tsujp","message":"That worker process which listens to the websocket api","date":"2017-11-11T08:38:59.223Z","type":"message"}
+{"nick":"fbenoit","date":"2017-11-11T09:23:13.321Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 268 seconds","date":"2017-11-11T09:28:21.782Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-11T11:25:11.523Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-11T11:25:42.799Z","type":"join"}
+{"nick":"shoobie_","date":"2017-11-11T11:27:27.514Z","type":"join"}
+{"nick":"shoobie","reason":"Ping timeout: 240 seconds","date":"2017-11-11T11:29:57.791Z","type":"quit"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-11T12:36:11.972Z","type":"quit"}
+{"nick":"shoobie_","reason":"Remote host closed the connection","date":"2017-11-11T14:18:14.131Z","type":"quit"}
+{"nick":"shoobie","date":"2017-11-11T14:18:32.058Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-11-11T14:18:32.133Z","type":"quit"}
+{"nick":"shoobie","date":"2017-11-11T14:18:32.133Z","type":"join"}
+{"nick":"Arcarc","date":"2017-11-11T14:43:50.322Z","type":"join"}
+{"nick":"mven_","reason":"Ping timeout: 268 seconds","date":"2017-11-11T15:52:32.877Z","type":"quit"}
+{"nick":"mven","date":"2017-11-11T16:06:34.085Z","type":"join"}
+{"nick":"mven","reason":"Ping timeout: 248 seconds","date":"2017-11-11T16:26:07.961Z","type":"quit"}
+{"nick":"mven","date":"2017-11-11T16:27:30.602Z","type":"join"}
+{"nick":"lpin","reason":"Read error: Connection reset by peer","date":"2017-11-11T16:35:45.694Z","type":"quit"}
+{"nick":"Arcarc","reason":"Ping timeout: 268 seconds","date":"2017-11-11T16:52:58.811Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-11T16:59:16.489Z","type":"join"}
+{"nick":"tsujp","reason":"Ping timeout: 260 seconds","date":"2017-11-11T17:26:25.056Z","type":"quit"}
+{"nick":"anextrandom","date":"2017-11-11T17:33:23.809Z","type":"join"}
+{"nick":"jgornick","reason":"Ping timeout: 255 seconds","date":"2017-11-11T19:04:56.936Z","type":"quit"}
+{"nick":"jgornick","date":"2017-11-11T19:07:23.060Z","type":"join"}
+{"nick":"einseenai","date":"2017-11-11T19:14:46.507Z","type":"join"}
+{"nick":"anextrandom","reason":"Remote host closed the connection","date":"2017-11-11T19:44:28.079Z","type":"quit"}
+{"nick":"jakutis","date":"2017-11-11T19:58:36.632Z","type":"join"}
+{"nick":"einseenai","reason":"Ping timeout: 240 seconds","date":"2017-11-11T20:26:35.547Z","type":"quit"}

@@ -1,0 +1,16 @@
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-10-29T00:26:20.395Z","type":"quit"}
+{"nick":"n_tt","date":"2017-10-29T00:37:09.988Z","type":"join"}
+{"nick":"nahtnam","reason":"Quit: Connection closed for inactivity","date":"2017-10-29T01:26:17.475Z","type":"quit"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-10-29T02:09:34.914Z","type":"quit"}
+{"nick":"n_tt","date":"2017-10-29T06:56:46.121Z","type":"join"}
+{"nick":"nahtnam","date":"2017-10-29T09:43:20.863Z","type":"join"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-10-29T09:46:23.594Z","type":"quit"}
+{"nick":"mezod","date":"2017-10-29T10:37:15.563Z","type":"join"}
+{"nick":"nahtnam","reason":"Quit: Connection closed for inactivity","date":"2017-10-29T12:39:23.820Z","type":"quit"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-10-29T13:53:29.700Z","type":"quit"}
+{"nick":"mezod","date":"2017-10-29T13:59:01.297Z","type":"join"}
+{"nick":"n_tt","date":"2017-10-29T14:59:45.631Z","type":"join"}
+{"nick":"n_tt","reason":"Remote host closed the connection","date":"2017-10-29T15:17:38.191Z","type":"quit"}
+{"nick":"n_tt","date":"2017-10-29T22:48:54.879Z","type":"join"}
+{"nick":"n_tt_","date":"2017-10-29T22:50:27.204Z","type":"join"}
+{"nick":"n_tt","reason":"Read error: Connection reset by peer","date":"2017-10-29T22:50:27.426Z","type":"quit"}

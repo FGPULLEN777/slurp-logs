@@ -1,0 +1,55 @@
+{"nick":"haskaalo","date":"2017-11-18T00:40:48.272Z","type":"join"}
+{"nick":"haskaalo","reason":"Client Quit","date":"2017-11-18T00:40:57.147Z","type":"quit"}
+{"nick":"haskaalo","date":"2017-11-18T00:41:31.486Z","type":"join"}
+{"nick":"haskaalo","reason":"Quit: Leaving","date":"2017-11-18T00:52:11.473Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-18T00:57:54.868Z","type":"join"}
+{"nick":"dmattox10","date":"2017-11-18T01:33:47.543Z","type":"join"}
+{"nick":"dmattox10","message":"I'm using express to write a database app, and I want only the first user to visit, able to use the signup form. I would like the \"/signup\" route to redirect to \"/\" if there is already a registered (admin) user. After that, user management will be done by the admin, through it's own page. I honestly can't think of how to approach this.","date":"2017-11-18T01:36:31.923Z","type":"message"}
+{"nick":"dmattox10","message":"I've got passport.js handling signups and logins, local only, using mongodb (with mongoose). If there's any more info needed let me know.","date":"2017-11-18T01:38:24.741Z","type":"message"}
+{"nick":"krbtgt|","message":"query the DB, check results, act on that?","date":"2017-11-18T01:46:38.666Z","type":"message"}
+{"nick":"krbtgt|","message":"in pseudocode since I don't know your DB: query(\"select * from users where admin = true\", (err, result) => if (result) { redirect } else { signup })","date":"2017-11-18T01:47:56.222Z","type":"message"}
+{"nick":"dmattox10","message":"ok, that was the only inkling of an idea I had. If the users table exists, etc.","date":"2017-11-18T02:10:31.823Z","type":"message"}
+{"nick":"dmattox10","message":"thanks.","date":"2017-11-18T02:10:34.148Z","type":"message"}
+{"nick":"dmattox10","reason":"\"http://quassel-irc.org - Chat comfortably. Anywhere.\"","date":"2017-11-18T02:12:36.854Z","type":"part"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-11-18T02:46:30.732Z","type":"quit"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T03:41:27.270Z","type":"quit"}
+{"nick":"slajax_","date":"2017-11-18T05:28:09.757Z","type":"join"}
+{"nick":"slajax","reason":"Ping timeout: 255 seconds","date":"2017-11-18T05:29:32.882Z","type":"quit"}
+{"nick":"lpin","date":"2017-11-18T06:17:06.671Z","type":"join"}
+{"nick":"fcanela","reason":"Quit: No Ping reply in 210 seconds.","date":"2017-11-18T06:29:51.119Z","type":"quit"}
+{"nick":"fcanela","date":"2017-11-18T06:31:10.572Z","type":"join"}
+{"nick":"darkSeid_","date":"2017-11-18T08:00:00.473Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T08:39:36.882Z","type":"quit"}
+{"nick":"YoY","date":"2017-11-18T09:29:01.888Z","type":"join"}
+{"nick":"_yoy_","reason":"Read error: Connection reset by peer","date":"2017-11-18T09:29:27.101Z","type":"quit"}
+{"nick":"_yoy_","date":"2017-11-18T09:29:49.947Z","type":"join"}
+{"nick":"YoY","reason":"Ping timeout: 255 seconds","date":"2017-11-18T09:33:26.934Z","type":"quit"}
+{"nick":"DanKnox","reason":"Ping timeout: 255 seconds","date":"2017-11-18T10:02:19.900Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-18T10:49:24.586Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T10:59:23.961Z","type":"quit"}
+{"nick":"Arcarc","date":"2017-11-18T11:07:36.888Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-18T11:25:11.100Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-18T11:25:41.868Z","type":"join"}
+{"nick":"darkSeid_","date":"2017-11-18T11:39:29.466Z","type":"join"}
+{"nick":"Abhishek_","date":"2017-11-18T14:16:25.262Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T18:45:03.101Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-18T19:00:04.958Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T19:17:54.790Z","type":"quit"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-11-18T19:18:10.126Z","type":"quit"}
+{"nick":"Arcarc","reason":"Ping timeout: 248 seconds","date":"2017-11-18T19:33:21.627Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-18T19:35:37.940Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T19:56:21.856Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-18T20:11:17.091Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T20:53:31.457Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-18T20:54:17.398Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T21:22:01.552Z","type":"quit"}
+{"nick":"ddelrio1986","date":"2017-11-18T21:54:40.793Z","type":"join"}
+{"nick":"ddelrio1986","reason":"Client Quit","date":"2017-11-18T21:55:14.526Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-18T22:11:32.055Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T22:25:29.998Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-18T22:26:06.618Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T22:35:52.477Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-18T22:36:17.738Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T22:46:08.193Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-18T23:49:00.934Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-18T23:55:07.858Z","type":"quit"}

@@ -1,0 +1,42 @@
+{"nick":"qard","date":"2018-01-24T00:36:48.698Z","type":"join"}
+{"nick":"qard","reason":"Client Quit","date":"2018-01-24T00:40:09.073Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2018-01-24T01:10:06.493Z","type":"quit"}
+{"nick":"niska","reason":"Quit: Leaving","date":"2018-01-24T01:27:33.999Z","type":"quit"}
+{"nick":"niska","date":"2018-01-24T01:37:35.862Z","type":"join"}
+{"nick":"iarna","reason":"Quit: Connection closed for inactivity","date":"2018-01-24T08:15:38.951Z","type":"quit"}
+{"nick":"erikj","reason":"Ping timeout: 256 seconds","date":"2018-01-24T09:06:39.658Z","type":"quit"}
+{"nick":"joocain2","reason":"Ping timeout: 255 seconds","date":"2018-01-24T09:12:15.030Z","type":"quit"}
+{"nick":"joocain2","date":"2018-01-24T09:14:32.988Z","type":"join"}
+{"nick":"erikj","date":"2018-01-24T09:15:17.386Z","type":"join"}
+{"nick":"erikj","reason":"Changing host","date":"2018-01-24T09:15:17.457Z","type":"quit"}
+{"nick":"erikj","date":"2018-01-24T09:15:17.528Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-24T11:25:24.125Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-24T11:25:54.616Z","type":"join"}
+{"nick":"mylesborins","reason":"Read error: Connection timed out","date":"2018-01-24T11:34:49.456Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-24T11:34:57.477Z","type":"join"}
+{"nick":"joocain2","reason":"Ping timeout: 255 seconds","date":"2018-01-24T11:52:27.013Z","type":"quit"}
+{"nick":"joocain2","date":"2018-01-24T11:52:51.046Z","type":"join"}
+{"nick":"AtumT","date":"2018-01-24T12:43:34.437Z","type":"join"}
+{"nick":"joocain2","reason":"Remote host closed the connection","date":"2018-01-24T13:04:40.736Z","type":"quit"}
+{"nick":"joocain2","date":"2018-01-24T13:10:39.057Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 265 seconds","date":"2018-01-24T14:21:21.502Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-24T15:35:28.945Z","type":"join"}
+{"nick":"qard","date":"2018-01-24T16:40:21.066Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-24T17:09:04.230Z","type":"quit"}
+{"nick":"qard","date":"2018-01-24T17:13:44.092Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-24T17:13:58.169Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-24T17:25:30.815Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-24T17:40:41.089Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-24T17:56:13.517Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-24T18:05:04.167Z","type":"quit"}
+{"nick":"listenmore","reason":"Remote host closed the connection","date":"2018-01-24T18:14:13.365Z","type":"quit"}
+{"nick":"listenmore","date":"2018-01-24T18:14:39.816Z","type":"join"}
+{"nick":"rje","reason":"Remote host closed the connection","date":"2018-01-24T20:34:13.931Z","type":"quit"}
+{"nick":"rje","date":"2018-01-24T20:34:46.803Z","type":"join"}
+{"nick":"qard","date":"2018-01-24T20:59:44.265Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-24T22:14:14.749Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-24T22:16:20.841Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-24T22:25:50.486Z","type":"quit"}
+{"nick":"qard","date":"2018-01-24T23:01:44.205Z","type":"join"}
+{"nick":"qard","reason":"Client Quit","date":"2018-01-24T23:02:50.942Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-24T23:23:58.435Z","type":"quit"}

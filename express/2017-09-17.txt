@@ -1,0 +1,86 @@
+{"nick":"shoobie","reason":"Read error: Connection reset by peer","date":"2017-09-17T00:16:20.451Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-17T00:21:01.231Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-09-17T00:21:01.467Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-17T00:21:01.468Z","type":"join"}
+{"nick":"johnnyfive","reason":"Ping timeout: 252 seconds","date":"2017-09-17T00:45:15.276Z","type":"quit"}
+{"nick":"MachinShin","message":"commma: there's a company making pizza-making robots, so sandwiches can't be far behind","date":"2017-09-17T00:54:49.012Z","type":"message"}
+{"nick":"MachinShin","action":"imagines a world where robots make your meals, and what's to go to there :P","date":"2017-09-17T00:55:08.500Z","type":"action"}
+{"nick":"johnnyfive","date":"2017-09-17T01:04:03.580Z","type":"join"}
+{"nick":"jhirley","reason":"Quit: This computer has gone to sleep","date":"2017-09-17T01:10:56.037Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-09-17T02:38:54.719Z","type":"quit"}
+{"nick":"__Yiota","date":"2017-09-17T03:20:05.801Z","type":"join"}
+{"nick":"__Yiota","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-17T03:26:01.361Z","type":"quit"}
+{"nick":"duzi","date":"2017-09-17T04:55:07.002Z","type":"join"}
+{"nick":"duzi","reason":"Ping timeout: 248 seconds","date":"2017-09-17T05:11:08.854Z","type":"quit"}
+{"nick":"duzi","date":"2017-09-17T05:28:44.882Z","type":"join"}
+{"nick":"lpin","date":"2017-09-17T05:36:43.349Z","type":"join"}
+{"nick":"johnnyfive","reason":"Ping timeout: 240 seconds","date":"2017-09-17T07:00:28.644Z","type":"quit"}
+{"nick":"johnnyfive","date":"2017-09-17T07:10:57.650Z","type":"join"}
+{"nick":"johnnyfive","reason":"Changing host","date":"2017-09-17T07:10:57.766Z","type":"quit"}
+{"nick":"johnnyfive","date":"2017-09-17T07:10:57.768Z","type":"join"}
+{"nick":"duzi","reason":"Quit: Leaving","date":"2017-09-17T07:43:34.915Z","type":"quit"}
+{"nick":"duzi","date":"2017-09-17T07:44:05.912Z","type":"join"}
+{"nick":"duzi","reason":"Quit: Leaving","date":"2017-09-17T07:54:10.682Z","type":"quit"}
+{"nick":"rmg","reason":"Ping timeout: 240 seconds","date":"2017-09-17T08:33:23.482Z","type":"quit"}
+{"nick":"rmg","date":"2017-09-17T08:33:47.644Z","type":"join"}
+{"nick":"duzi","date":"2017-09-17T08:38:08.940Z","type":"join"}
+{"nick":"vicky","date":"2017-09-17T08:53:29.056Z","type":"join"}
+{"nick":"vicky","message":"hi guys.","date":"2017-09-17T08:53:41.196Z","type":"message"}
+{"nick":"vicky","message":"im new to node js,","date":"2017-09-17T08:53:59.919Z","type":"message"}
+{"nick":"vicky","message":"how to set envirnoment for node.js in local host","date":"2017-09-17T08:54:29.099Z","type":"message"}
+{"nick":"duzi","reason":"Remote host closed the connection","date":"2017-09-17T09:35:51.908Z","type":"quit"}
+{"nick":"genpaku","reason":"Ping timeout: 255 seconds","date":"2017-09-17T09:41:38.010Z","type":"quit"}
+{"nick":"genpaku","date":"2017-09-17T09:42:31.247Z","type":"join"}
+{"nick":"vicky","reason":"Ping timeout: 260 seconds","date":"2017-09-17T09:43:30.040Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-09-17T10:25:11.504Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-09-17T10:25:42.004Z","type":"join"}
+{"nick":"shoobie","reason":"Ping timeout: 240 seconds","date":"2017-09-17T10:27:01.131Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-17T10:27:38.937Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-09-17T10:27:39.051Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-17T10:27:39.053Z","type":"join"}
+{"nick":"Ryuno-Ki[m]","message":"Hi!","date":"2017-09-17T11:28:00.771Z","type":"message"}
+{"nick":"Ryuno-Ki[m]","message":"What kind of an environment? PATH? NODE_ENV?","date":"2017-09-17T11:28:01.407Z","type":"message"}
+{"nick":"Alina-malina","reason":"Quit: ZNC 1.6.3 - http://znc.in","date":"2017-09-17T12:18:30.496Z","type":"quit"}
+{"nick":"__Yiota","date":"2017-09-17T12:42:49.537Z","type":"join"}
+{"nick":"AtumT","date":"2017-09-17T13:33:14.372Z","type":"join"}
+{"nick":"Soopaman","date":"2017-09-17T14:45:43.631Z","type":"join"}
+{"nick":"rmg","reason":"Remote host closed the connection","date":"2017-09-17T15:29:07.780Z","type":"quit"}
+{"nick":"rmg","date":"2017-09-17T15:29:47.649Z","type":"join"}
+{"nick":"Alina-malina","date":"2017-09-17T15:33:06.658Z","type":"join"}
+{"nick":"rmg","reason":"Ping timeout: 240 seconds","date":"2017-09-17T15:34:01.208Z","type":"quit"}
+{"nick":"__Yiota","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-17T15:51:31.663Z","type":"quit"}
+{"nick":"__Yiota","date":"2017-09-17T15:53:58.898Z","type":"join"}
+{"nick":"Alina-malina","reason":"Changing host","date":"2017-09-17T16:16:41.001Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-09-17T16:16:41.057Z","type":"join"}
+{"nick":"systemovich","reason":"Remote host closed the connection","date":"2017-09-17T17:15:19.258Z","type":"quit"}
+{"nick":"systemovich","date":"2017-09-17T17:16:33.187Z","type":"join"}
+{"nick":"__Yiota","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-17T17:37:16.639Z","type":"quit"}
+{"nick":"shoobie","reason":"Ping timeout: 255 seconds","date":"2017-09-17T18:28:02.878Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-17T18:30:19.679Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2017-09-17T18:30:20.114Z","type":"quit"}
+{"nick":"shoobie","date":"2017-09-17T18:30:20.116Z","type":"join"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-09-17T18:41:49.931Z","type":"quit"}
+{"nick":"siel","reason":"Read error: Connection reset by peer","date":"2017-09-17T19:02:23.436Z","type":"quit"}
+{"nick":"siel","date":"2017-09-17T19:30:27.413Z","type":"join"}
+{"nick":"systemovich","reason":"Remote host closed the connection","date":"2017-09-17T19:49:55.183Z","type":"quit"}
+{"nick":"systemovich","date":"2017-09-17T19:56:23.190Z","type":"join"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2017-09-17T20:19:45.783Z","type":"quit"}
+{"nick":"fcanela","message":"humf, offtopic: does anyone know how event sourcing is supposed to help with eventual consistency for mitigating the lack of transacion in microservices?","date":"2017-09-17T20:32:53.385Z","type":"message"}
+{"nick":"__Yiota","date":"2017-09-17T20:50:31.961Z","type":"join"}
+{"nick":"__Yiota","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-17T21:00:46.779Z","type":"quit"}
+{"nick":"systemovich","reason":"Ping timeout: 240 seconds","date":"2017-09-17T21:33:41.146Z","type":"quit"}
+{"nick":"systemovich","date":"2017-09-17T21:34:00.367Z","type":"join"}
+{"nick":"__Yiota","date":"2017-09-17T21:41:09.016Z","type":"join"}
+{"nick":"__Yiota","reason":"Client Quit","date":"2017-09-17T21:41:48.074Z","type":"quit"}
+{"nick":"__Yiota","date":"2017-09-17T21:51:56.498Z","type":"join"}
+{"nick":"jhirley","date":"2017-09-17T22:12:39.884Z","type":"join"}
+{"nick":"__Yiota","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-17T22:20:25.007Z","type":"quit"}
+{"nick":"__Yiota","date":"2017-09-17T22:46:47.295Z","type":"join"}
+{"nick":"__Yiota","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-17T22:59:15.614Z","type":"quit"}
+{"nick":"shoobie","reason":"Read error: Connection reset by peer","date":"2017-09-17T23:01:19.769Z","type":"quit"}
+{"nick":"__Yiota","date":"2017-09-17T23:01:50.958Z","type":"join"}
+{"nick":"shoobie","date":"2017-09-17T23:03:59.370Z","type":"join"}
+{"nick":"__Yiota","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-09-17T23:13:45.092Z","type":"quit"}
+{"nick":"jhirley","reason":"Quit: This computer has gone to sleep","date":"2017-09-17T23:14:46.601Z","type":"quit"}
+{"nick":"jhirley","date":"2017-09-17T23:18:51.848Z","type":"join"}
+{"nick":"__Yiota","date":"2017-09-17T23:29:15.820Z","type":"join"}

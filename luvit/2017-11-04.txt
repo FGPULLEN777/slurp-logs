@@ -1,0 +1,35 @@
+{"nick":"DarkGod","reason":"Ping timeout: 252 seconds","date":"2017-11-04T01:15:47.017Z","type":"quit"}
+{"nick":"ryan_ford","date":"2017-11-04T02:07:29.725Z","type":"join"}
+{"nick":"travis-ci","date":"2017-11-04T06:11:06.884Z","type":"join"}
+{"nick":"travis-ci","message":"luvit/luvi#1008 (docker-build - f430ada : Tim Caswell): The build passed.","date":"2017-11-04T06:11:07.992Z","type":"message"}
+{"nick":"travis-ci","message":"Change view : https://github.com/luvit/luvi/commit/f430adaf552d","date":"2017-11-04T06:11:08.140Z","type":"message"}
+{"nick":"travis-ci","message":"Build details : https://travis-ci.org/luvit/luvi/builds/297110966","date":"2017-11-04T06:11:08.141Z","type":"message"}
+{"nick":"travis-ci","date":"2017-11-04T06:11:08.141Z","type":"part"}
+{"nick":"travis-ci","date":"2017-11-04T06:35:55.405Z","type":"join"}
+{"nick":"travis-ci","message":"luvit/luvi#1009 (docker-build - 119a4a4 : Tim Caswell): The build passed.","date":"2017-11-04T06:35:56.334Z","type":"message"}
+{"nick":"travis-ci","message":"Change view : https://github.com/luvit/luvi/compare/f430adaf552d...119a4a445437","date":"2017-11-04T06:35:56.482Z","type":"message"}
+{"nick":"travis-ci","message":"Build details : https://travis-ci.org/luvit/luvi/builds/297115259","date":"2017-11-04T06:35:56.482Z","type":"message"}
+{"nick":"travis-ci","date":"2017-11-04T06:35:56.482Z","type":"part"}
+{"nick":"travis-ci","date":"2017-11-04T06:43:57.567Z","type":"join"}
+{"nick":"travis-ci","message":"luvit/luvi#1010 (docker-build - e9a10d9 : Tim Caswell): The build passed.","date":"2017-11-04T06:43:58.567Z","type":"message"}
+{"nick":"travis-ci","message":"Change view : https://github.com/luvit/luvi/compare/119a4a445437...e9a10d990202","date":"2017-11-04T06:43:58.715Z","type":"message"}
+{"nick":"travis-ci","message":"Build details : https://travis-ci.org/luvit/luvi/builds/297116519","date":"2017-11-04T06:43:58.715Z","type":"message"}
+{"nick":"travis-ci","date":"2017-11-04T06:43:58.715Z","type":"part"}
+{"nick":"ryan_ford","reason":"Ping timeout: 255 seconds","date":"2017-11-04T07:59:28.866Z","type":"quit"}
+{"nick":"ryan_ford","date":"2017-11-04T08:28:33.628Z","type":"join"}
+{"nick":"rendar","date":"2017-11-04T08:46:52.784Z","type":"join"}
+{"nick":"SkyRocknRoll","date":"2017-11-04T10:26:00.292Z","type":"join"}
+{"nick":"ryan_ford","reason":"Ping timeout: 252 seconds","date":"2017-11-04T10:30:11.041Z","type":"quit"}
+{"nick":"SkyRocknRoll","reason":"Remote host closed the connection","date":"2017-11-04T10:33:54.700Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-11-04T10:34:18.035Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Remote host closed the connection","date":"2017-11-04T10:37:12.386Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-11-04T10:37:32.548Z","type":"join"}
+{"nick":"ryan_ford","date":"2017-11-04T10:45:28.610Z","type":"join"}
+{"nick":"DarkGod","date":"2017-11-04T12:20:27.380Z","type":"join"}
+{"nick":"Andols","date":"2017-11-04T17:19:06.269Z","type":"join"}
+{"nick":"ryan_ford","reason":"Ping timeout: 260 seconds","date":"2017-11-04T18:19:07.580Z","type":"quit"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-11-04T18:59:41.012Z","type":"quit"}
+{"nick":"SkyRocknRoll","reason":"Remote host closed the connection","date":"2017-11-04T19:38:47.183Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-11-04T19:47:49.422Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Remote host closed the connection","date":"2017-11-04T21:12:04.040Z","type":"quit"}
+{"nick":"Andols","date":"2017-11-04T23:22:03.764Z","type":"quit"}

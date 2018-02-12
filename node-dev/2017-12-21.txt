@@ -1,0 +1,284 @@
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-21T00:26:56.379Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-21T00:27:36.222Z","type":"join"}
+{"nick":"floatleft","date":"2017-12-21T00:33:26.045Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-21T00:48:11.159Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-21T00:48:57.203Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-21T00:55:19.076Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-21T00:55:56.452Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-21T00:56:04.146Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-21T00:58:43.232Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-21T00:58:53.334Z","type":"quit"}
+{"nick":"floatleft","reason":"Read error: Connection reset by peer","date":"2017-12-21T01:24:44.648Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-21T01:25:43.900Z","type":"join"}
+{"nick":"floatleft","reason":"Read error: Connection reset by peer","date":"2017-12-21T01:32:36.703Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-21T01:32:47.252Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-12-21T02:00:09.923Z","type":"join"}
+{"nick":"ShaRose_","date":"2017-12-21T02:04:25.590Z","type":"join"}
+{"nick":"joyee_","date":"2017-12-21T02:04:38.193Z","type":"join"}
+{"nick":"MLM_","date":"2017-12-21T02:04:43.383Z","type":"join"}
+{"nick":"garann_","date":"2017-12-21T02:04:53.281Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 260 seconds","date":"2017-12-21T02:05:01.475Z","type":"quit"}
+{"nick":"robinak","date":"2017-12-21T02:05:53.347Z","type":"join"}
+{"nick":"robink","reason":"*.net *.split","date":"2017-12-21T02:07:14.519Z","type":"quit"}
+{"nick":"bhughes","reason":"*.net *.split","date":"2017-12-21T02:07:15.507Z","type":"quit"}
+{"nick":"garann","reason":"*.net *.split","date":"2017-12-21T02:07:16.598Z","type":"quit"}
+{"nick":"joyee","reason":"*.net *.split","date":"2017-12-21T02:07:16.803Z","type":"quit"}
+{"nick":"MLM","reason":"*.net *.split","date":"2017-12-21T02:07:16.940Z","type":"quit"}
+{"nick":"d10n","reason":"*.net *.split","date":"2017-12-21T02:07:17.076Z","type":"quit"}
+{"nick":"musgravejw_","reason":"*.net *.split","date":"2017-12-21T02:07:17.237Z","type":"quit"}
+{"nick":"williamkapke","reason":"*.net *.split","date":"2017-12-21T02:07:17.561Z","type":"quit"}
+{"nick":"ShaRose","reason":"*.net *.split","date":"2017-12-21T02:07:17.629Z","type":"quit"}
+{"nick":"ShaRose_","new_nick":"ShaRose","date":"2017-12-21T02:07:17.766Z","type":"nick"}
+{"nick":"bhughes_","date":"2017-12-21T02:07:19.539Z","type":"join"}
+{"nick":"garann_","new_nick":"garann","date":"2017-12-21T02:07:20.919Z","type":"nick"}
+{"nick":"joyee_","new_nick":"joyee","date":"2017-12-21T02:07:23.230Z","type":"nick"}
+{"nick":"d10n","date":"2017-12-21T02:08:18.880Z","type":"join"}
+{"nick":"d10n","reason":"Changing host","date":"2017-12-21T02:08:18.880Z","type":"quit"}
+{"nick":"d10n","date":"2017-12-21T02:08:18.917Z","type":"join"}
+{"nick":"robinak","reason":"Ping timeout: 252 seconds","date":"2017-12-21T02:13:47.047Z","type":"quit"}
+{"nick":"robinak","date":"2017-12-21T02:45:41.809Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-12-21T02:50:35.755Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T02:52:12.767Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T02:52:12.835Z","type":"part"}
+{"nick":"Fishrock123","reason":"Client Quit","date":"2017-12-21T02:52:25.463Z","type":"quit"}
+{"nick":"gabrielschulhof","reason":"Ping timeout: 248 seconds","date":"2017-12-21T03:26:55.891Z","type":"quit"}
+{"nick":"floatleft","reason":"Ping timeout: 264 seconds","date":"2017-12-21T03:39:57.315Z","type":"quit"}
+{"nick":"robinak","reason":"Ping timeout: 246 seconds","date":"2017-12-21T03:46:03.719Z","type":"quit"}
+{"nick":"m15k","reason":"Quit: Page closed","date":"2017-12-21T03:50:46.484Z","type":"quit"}
+{"nick":"robink","date":"2017-12-21T04:00:43.536Z","type":"join"}
+{"nick":"williamkapke","date":"2017-12-21T04:01:29.536Z","type":"join"}
+{"nick":"musgravejw_","date":"2017-12-21T04:01:43.484Z","type":"join"}
+{"nick":"format937","date":"2017-12-21T04:04:42.892Z","type":"join"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEvtkeoi: mafintosh tjpeden doodadjs garann bengl ljharb kenansulayman wa7son tellnes voxpelli emilb","date":"2017-12-21T04:04:55.704Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEnilqdh: parkerkane parshap r","date":"2017-12-21T04:05:00.971Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEsqmtyr: Fusl emilbayes daveherman mafintosh tellnes bret doodadjs kenansulayman voxpelli othiym23 mcollina d","date":"2017-12-21T04:05:06.056Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEesedtyuyxk: ZeZu fcanela bret jhamhader bzoz parkerkane bo","date":"2017-12-21T04:05:11.169Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODErjpusuyrhw: emilbayes tjpeden dbevenius parshap","date":"2017-12-21T04:05:16.516Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODElbnqbxrhnb: robink mafintosh","date":"2017-12-21T04:05:20.938Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEjqadkiqdn: fcanela yoshuawuyts bzoz wi","date":"2017-12-21T04:05:25.821Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEnqksby: doodadjs bhughes_ TimothyGu tellnes ZeZu MLM_ boneskull paul_irish oohnoitz JoWie emilbaye","date":"2017-12-21T04:05:30.919Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEmcjdciq: d10n joyee mafintosh daveherman dave0x6d mylesborins ZeZu indutny parshap sergiocrisostomo dbeveniu","date":"2017-12-21T04:05:36.117Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEykfzn: musgravejw_ indutny oohnoitz ljharb doodadjs bhughes_ joyee mcollina yo","date":"2017-12-21T04:05:41.121Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEsoaig: tellnes TimothyGu early mylesborins othiym23 Fusl dbevenius bonuspunk indutny dav","date":"2017-12-21T04:05:46.757Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEpaxyb: sgimeno yuval voxpelli wa7son boneskull p","date":"2017-12-21T04:05:51.761Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEjxlnfppodi: not-an-aardvark bhughes_ mylesborins ChALkeR d10n MLM_ bzoz robink sgimeno mafintosh devsnek mco","date":"2017-12-21T04:05:56.286Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODExmyuel: sergiocrisostomo jhamhader williamkapke mylesborins tellnes","date":"2017-12-21T04:06:01.232Z","type":"message"}
+{"nick":"format937","message":"▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ https://beta.companieshouse.gov.uk/company/10308021/filing-history christel sold freenode to Private Internet Access Andrew Lee WHO ALSO OWNS SNOONET AND IS MOVING FREENODE TO THAT SERVER (NEXT MONTH) AND CLOSING DOWN OPEN SOURCE ROOMS PLEASE COMPLAIN IN CHAN FREENODEvbzbh: ChALkeR oohnoitz jhamhader serg","date":"2017-12-21T04:06:05.529Z","type":"message"}
+{"nick":"gabrielschulhof","date":"2017-12-21T04:08:20.795Z","type":"join"}
+{"nick":"format937","reason":"Ping timeout: 248 seconds","date":"2017-12-21T04:10:39.958Z","type":"quit"}
+{"nick":"tniessen","reason":"Quit: Ping timeout (120 seconds)","date":"2017-12-21T05:06:54.262Z","type":"quit"}
+{"nick":"tniessen","date":"2017-12-21T05:07:11.907Z","type":"join"}
+{"nick":"charmander1","date":"2017-12-21T05:12:26.632Z","type":"join"}
+{"nick":"gsathya`","date":"2017-12-21T05:12:40.480Z","type":"join"}
+{"nick":"gsathya","reason":"Ping timeout: 255 seconds","date":"2017-12-21T05:13:09.331Z","type":"quit"}
+{"nick":"charmander","reason":"Ping timeout: 255 seconds","date":"2017-12-21T05:13:09.331Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-21T05:21:51.256Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T05:41:38.355Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T05:41:38.356Z","type":"part"}
+{"nick":"aqrln","date":"2017-12-21T05:54:43.532Z","type":"join"}
+{"nick":"marthinal","date":"2017-12-21T05:55:38.518Z","type":"join"}
+{"nick":"bhughes_","reason":"Quit: ZNC - http://znc.in","date":"2017-12-21T05:57:54.505Z","type":"quit"}
+{"nick":"bhughes","date":"2017-12-21T05:58:01.548Z","type":"join"}
+{"nick":"marthinal","reason":"Client Quit","date":"2017-12-21T05:59:22.067Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-21T06:03:40.419Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T06:03:40.523Z","type":"part"}
+{"nick":"marthinal","date":"2017-12-21T06:05:54.381Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 252 seconds","date":"2017-12-21T06:06:03.179Z","type":"quit"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2017-12-21T06:11:54.946Z","type":"quit"}
+{"nick":"lpin","date":"2017-12-21T06:15:23.142Z","type":"join"}
+{"nick":"floatleft","reason":"*.net *.split","date":"2017-12-21T06:26:09.777Z","type":"quit"}
+{"nick":"garann","reason":"*.net *.split","date":"2017-12-21T06:26:09.983Z","type":"quit"}
+{"nick":"parshap","reason":"*.net *.split","date":"2017-12-21T06:26:11.099Z","type":"quit"}
+{"nick":"othiym23","reason":"*.net *.split","date":"2017-12-21T06:26:11.107Z","type":"quit"}
+{"nick":"rom1504","reason":"*.net *.split","date":"2017-12-21T06:26:11.387Z","type":"quit"}
+{"nick":"phillipj","reason":"*.net *.split","date":"2017-12-21T06:26:12.039Z","type":"quit"}
+{"nick":"Sebmaster","reason":"*.net *.split","date":"2017-12-21T06:26:12.376Z","type":"quit"}
+{"nick":"indexzero","reason":"*.net *.split","date":"2017-12-21T06:26:12.445Z","type":"quit"}
+{"nick":"mattloring","reason":"*.net *.split","date":"2017-12-21T06:26:12.445Z","type":"quit"}
+{"nick":"Ultrasauce","reason":"Remote host closed the connection","date":"2017-12-21T06:26:29.602Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-21T06:27:57.546Z","type":"join"}
+{"nick":"Ultrasauce","date":"2017-12-21T06:28:46.245Z","type":"join"}
+{"nick":"garann","date":"2017-12-21T06:31:47.742Z","type":"join"}
+{"nick":"parshap","date":"2017-12-21T06:31:47.743Z","type":"join"}
+{"nick":"othiym23","date":"2017-12-21T06:31:47.743Z","type":"join"}
+{"nick":"rom1504","date":"2017-12-21T06:31:47.743Z","type":"join"}
+{"nick":"phillipj","date":"2017-12-21T06:31:47.743Z","type":"join"}
+{"nick":"Sebmaster","date":"2017-12-21T06:31:47.743Z","type":"join"}
+{"nick":"indexzero","date":"2017-12-21T06:31:47.743Z","type":"join"}
+{"nick":"mattloring","date":"2017-12-21T06:31:47.743Z","type":"join"}
+{"nick":"parshap","reason":"Max SendQ exceeded","date":"2017-12-21T06:31:51.546Z","type":"quit"}
+{"nick":"parshap","date":"2017-12-21T06:32:40.345Z","type":"join"}
+{"nick":"aqrln","date":"2017-12-21T06:33:07.144Z","type":"join"}
+{"nick":"garann","reason":"*.net *.split","date":"2017-12-21T06:48:29.596Z","type":"quit"}
+{"nick":"othiym23","reason":"*.net *.split","date":"2017-12-21T06:48:30.962Z","type":"quit"}
+{"nick":"rom1504","reason":"*.net *.split","date":"2017-12-21T06:48:30.963Z","type":"quit"}
+{"nick":"phillipj","reason":"*.net *.split","date":"2017-12-21T06:48:30.963Z","type":"quit"}
+{"nick":"Sebmaster","reason":"*.net *.split","date":"2017-12-21T06:48:30.987Z","type":"quit"}
+{"nick":"indexzero","reason":"*.net *.split","date":"2017-12-21T06:48:31.103Z","type":"quit"}
+{"nick":"mattloring","reason":"*.net *.split","date":"2017-12-21T06:48:31.103Z","type":"quit"}
+{"nick":"devsnek","reason":"Ping timeout: 260 seconds","date":"2017-12-21T06:50:51.519Z","type":"quit"}
+{"nick":"devsnek","date":"2017-12-21T06:53:16.513Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T07:08:49.810Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T07:08:49.879Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T07:09:17.504Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T07:09:17.573Z","type":"part"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-12-21T07:15:34.544Z","type":"quit"}
+{"nick":"indexzero","date":"2017-12-21T07:24:42.479Z","type":"join"}
+{"nick":"othiym23","date":"2017-12-21T07:25:06.566Z","type":"join"}
+{"nick":"mattloring","date":"2017-12-21T07:25:17.996Z","type":"join"}
+{"nick":"rom1504","date":"2017-12-21T07:25:26.421Z","type":"join"}
+{"nick":"garann","date":"2017-12-21T07:25:35.595Z","type":"join"}
+{"nick":"phillipj","date":"2017-12-21T07:26:30.701Z","type":"join"}
+{"nick":"Sebmaster","date":"2017-12-21T07:26:46.384Z","type":"join"}
+{"nick":"gabrielschulhof","reason":"Ping timeout: 240 seconds","date":"2017-12-21T07:56:27.815Z","type":"quit"}
+{"nick":"marthinal","date":"2017-12-21T08:20:37.473Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 264 seconds","date":"2017-12-21T09:05:45.179Z","type":"quit"}
+{"nick":"AtumT","date":"2017-12-21T09:58:06.511Z","type":"join"}
+{"nick":"aqrln","date":"2017-12-21T10:12:52.381Z","type":"join"}
+{"nick":"dave0x6d","reason":"Quit: Connection closed for inactivity","date":"2017-12-21T10:19:18.105Z","type":"quit"}
+{"nick":"seishun","date":"2017-12-21T10:26:06.732Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 256 seconds","date":"2017-12-21T10:35:25.435Z","type":"quit"}
+{"nick":"aqrln","date":"2017-12-21T10:37:53.752Z","type":"join"}
+{"nick":"seishun","reason":"Read error: Connection reset by peer","date":"2017-12-21T11:16:32.244Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-21T11:25:09.746Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-21T11:25:40.255Z","type":"join"}
+{"nick":"JoWie","date":"2017-12-21T11:28:03.147Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T11:55:10.399Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T11:55:10.628Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T11:55:21.131Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T11:55:21.200Z","type":"part"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-12-21T11:56:47.167Z","type":"quit"}
+{"nick":"BridgeAR","date":"2017-12-21T11:57:17.525Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T12:01:25.538Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T12:01:25.606Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T12:01:51.427Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T12:01:51.656Z","type":"part"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-12-21T12:17:28.413Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-21T12:17:39.788Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T12:17:39.857Z","type":"part"}
+{"nick":"Kurian","date":"2017-12-21T12:17:45.999Z","type":"join"}
+{"nick":"aqrln","date":"2017-12-21T12:20:02.549Z","type":"join"}
+{"nick":"AtumT_","date":"2017-12-21T12:23:06.513Z","type":"join"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-12-21T12:23:32.403Z","type":"quit"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2017-12-21T12:28:54.387Z","type":"quit"}
+{"nick":"Kurian","reason":"Ping timeout: 260 seconds","date":"2017-12-21T12:50:35.475Z","type":"quit"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-12-21T13:07:05.539Z","type":"quit"}
+{"nick":"aqrln","date":"2017-12-21T13:12:19.521Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T13:33:13.385Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T13:33:13.491Z","type":"part"}
+{"nick":"seishun","date":"2017-12-21T13:47:45.160Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T13:49:38.531Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T13:49:38.639Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T13:49:57.443Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T13:49:57.770Z","type":"part"}
+{"nick":"gabrielschulhof","date":"2017-12-21T14:06:38.483Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-12-21T14:29:01.457Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:38:43.561Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:38:43.629Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:38:50.889Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:38:50.957Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:40:43.200Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:40:43.268Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:40:56.419Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:40:56.488Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:42:38.507Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:42:38.575Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:42:53.203Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:42:53.272Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:45:33.241Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:45:33.309Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:45:44.458Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T14:45:44.527Z","type":"part"}
+{"nick":"lance|afk","new_nick":"lanceball","date":"2017-12-21T14:58:59.436Z","type":"nick"}
+{"nick":"aqrln","reason":"Ping timeout: 252 seconds","date":"2017-12-21T15:18:47.516Z","type":"quit"}
+{"nick":"aqrln","date":"2017-12-21T15:19:20.526Z","type":"join"}
+{"nick":"lholmquist","reason":"Ping timeout: 248 seconds","date":"2017-12-21T15:22:41.520Z","type":"quit"}
+{"nick":"tniessen","reason":"Ping timeout: 248 seconds","date":"2017-12-21T15:23:43.897Z","type":"quit"}
+{"nick":"tniessen","date":"2017-12-21T15:24:12.449Z","type":"join"}
+{"nick":"lholmquist","date":"2017-12-21T15:25:11.507Z","type":"join"}
+{"nick":"marthinal","date":"2017-12-21T15:26:12.267Z","type":"join"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2017-12-21T15:31:23.935Z","type":"quit"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-12-21T15:34:45.481Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-21T15:38:24.474Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T15:38:24.579Z","type":"part"}
+{"nick":"marthinal","date":"2017-12-21T15:41:47.949Z","type":"join"}
+{"nick":"marthinal","reason":"Client Quit","date":"2017-12-21T15:43:44.892Z","type":"quit"}
+{"nick":"BridgeAR","date":"2017-12-21T15:47:12.499Z","type":"join"}
+{"nick":"marthinal","date":"2017-12-21T15:53:56.985Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T15:57:45.429Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T15:57:45.497Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T15:59:05.255Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T15:59:05.323Z","type":"part"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-12-21T16:07:38.621Z","type":"quit"}
+{"nick":"dave0x6d","date":"2017-12-21T16:20:13.724Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-21T16:40:04.911Z","type":"quit"}
+{"nick":"aqrln","reason":"Ping timeout: 252 seconds","date":"2017-12-21T17:08:47.532Z","type":"quit"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2017-12-21T17:14:25.675Z","type":"quit"}
+{"nick":"marthinal","date":"2017-12-21T17:15:15.387Z","type":"join"}
+{"nick":"aqrln","date":"2017-12-21T17:21:45.496Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T17:31:26.488Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T17:31:26.556Z","type":"part"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2017-12-21T17:44:18.633Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-21T18:12:54.482Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T18:12:54.550Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T18:13:13.523Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T18:13:13.591Z","type":"part"}
+{"nick":"bradleymeck","date":"2017-12-21T18:23:15.632Z","type":"join"}
+{"nick":"not-an-aardvark","date":"2017-12-21T19:23:29.831Z","type":"join"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-12-21T19:28:30.855Z","type":"quit"}
+{"nick":"aqrln","reason":"Ping timeout: 252 seconds","date":"2017-12-21T19:38:56.537Z","type":"quit"}
+{"nick":"aqrln","date":"2017-12-21T19:43:07.460Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T19:46:20.244Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T19:46:20.351Z","type":"part"}
+{"nick":"floatleft","reason":"Ping timeout: 252 seconds","date":"2017-12-21T19:46:38.485Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-21T19:48:01.367Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T19:56:41.970Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T19:56:42.038Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T19:56:56.497Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T19:56:56.565Z","type":"part"}
+{"nick":"aqrln","reason":"Ping timeout: 252 seconds","date":"2017-12-21T20:34:29.540Z","type":"quit"}
+{"nick":"BridgeAR","date":"2017-12-21T20:59:14.008Z","type":"join"}
+{"nick":"aqrln","date":"2017-12-21T21:05:49.669Z","type":"join"}
+{"nick":"AtumT_","reason":"Read error: Connection reset by peer","date":"2017-12-21T21:12:46.887Z","type":"quit"}
+{"nick":"AtumT","date":"2017-12-21T21:12:49.603Z","type":"join"}
+{"nick":"AtumT_","date":"2017-12-21T21:26:20.755Z","type":"join"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-12-21T21:26:38.288Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 252 seconds","date":"2017-12-21T21:40:29.490Z","type":"quit"}
+{"nick":"tniessen","message":"do we have any eta on openssl 1.1.0?","date":"2017-12-21T21:42:03.622Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-12-21T21:47:56.442Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T21:47:56.547Z","type":"part"}
+{"nick":"floatleft","reason":"Ping timeout: 264 seconds","date":"2017-12-21T22:02:09.302Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-21T22:02:53.543Z","type":"join"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-12-21T22:10:22.632Z","type":"quit"}
+{"nick":"floatleft","reason":"Ping timeout: 256 seconds","date":"2017-12-21T22:28:51.506Z","type":"quit"}
+{"nick":"floatleft","date":"2017-12-21T22:29:12.608Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 260 seconds","date":"2017-12-21T22:41:41.432Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-21T22:45:30.802Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T22:45:30.907Z","type":"part"}
+{"nick":"robinak","date":"2017-12-21T22:51:06.089Z","type":"join"}
+{"nick":"robink","reason":"Ping timeout: 252 seconds","date":"2017-12-21T22:51:59.541Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-21T22:52:15.384Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T22:52:15.453Z","type":"part"}
+{"nick":"aqrln","date":"2017-12-21T22:52:59.480Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T22:53:07.437Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T22:53:07.665Z","type":"part"}
+{"nick":"aqrln","reason":"Ping timeout: 248 seconds","date":"2017-12-21T22:57:05.400Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:08:21.522Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:08:21.627Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:10:40.477Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:10:40.546Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:10:51.518Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:10:51.586Z","type":"part"}
+{"nick":"aqrln","date":"2017-12-21T23:11:02.480Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:13:33.427Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:13:33.496Z","type":"part"}
+{"nick":"aqrln","reason":"Ping timeout: 252 seconds","date":"2017-12-21T23:15:38.529Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:17:50.403Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:17:50.507Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:19:08.456Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:19:08.524Z","type":"part"}
+{"nick":"aqrln","date":"2017-12-21T23:26:40.428Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 260 seconds","date":"2017-12-21T23:42:56.436Z","type":"quit"}
+{"nick":"aqrln","date":"2017-12-21T23:54:52.507Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:58:23.823Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-12-21T23:58:24.417Z","type":"part"}

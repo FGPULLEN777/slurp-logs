@@ -1,0 +1,34 @@
+{"nick":"DarkGod","reason":"Ping timeout: 240 seconds","date":"2017-07-31T01:39:16.968Z","type":"quit"}
+{"nick":"deep-book-gk","date":"2017-07-31T01:42:49.625Z","type":"join"}
+{"nick":"deep-book-gk","date":"2017-07-31T01:45:37.151Z","type":"part"}
+{"nick":"GK1wmSU","date":"2017-07-31T06:05:45.741Z","type":"join"}
+{"nick":"GK1wmSU","date":"2017-07-31T06:06:05.481Z","type":"part"}
+{"nick":"_GK1wmSU","date":"2017-07-31T06:19:23.745Z","type":"join"}
+{"nick":"_GK1wmSU","reason":"Excess Flood","date":"2017-07-31T06:19:42.236Z","type":"quit"}
+{"nick":"rendar","date":"2017-07-31T07:05:01.470Z","type":"join"}
+{"nick":"DarkGod","date":"2017-07-31T07:15:10.458Z","type":"join"}
+{"nick":"bjorn","reason":"Ping timeout: 268 seconds","date":"2017-07-31T12:13:15.638Z","type":"quit"}
+{"nick":"bjorn","date":"2017-07-31T12:16:55.407Z","type":"join"}
+{"nick":"bjorn","reason":"Changing host","date":"2017-07-31T12:16:55.499Z","type":"quit"}
+{"nick":"bjorn","date":"2017-07-31T12:16:55.553Z","type":"join"}
+{"nick":"Andols","date":"2017-07-31T13:58:17.601Z","type":"join"}
+{"nick":"Ulydev","date":"2017-07-31T14:13:21.447Z","type":"join"}
+{"nick":"Ulydev","reason":"Client Quit","date":"2017-07-31T14:13:44.990Z","type":"quit"}
+{"nick":"creationix","message":"SinisterRectus: yeah, it's a scaling problem I think","date":"2017-07-31T14:57:51.638Z","type":"message"}
+{"nick":"volga629","message":"Hello Everyone,  my setup is simple script which check pgsql node status and luv is listen on port as web service. The issue that on each web request like curl command the actual script for node check is not executing actual check, result that all the time same response","date":"2017-07-31T15:00:16.941Z","type":"message"}
+{"nick":"volga629","message":"Any suggestions ?","date":"2017-07-31T15:00:29.559Z","type":"message"}
+{"nick":"volga629","message":"also all script run on background with systemd","date":"2017-07-31T15:01:47.829Z","type":"message"}
+{"nick":"volga629","message":"here are the script https://paste.fedoraproject.org/paste/RAP8JvIBtF3Mu5hquix0BA","date":"2017-07-31T15:03:17.243Z","type":"message"}
+{"nick":"volga629","reason":"Remote host closed the connection","date":"2017-07-31T15:20:13.682Z","type":"quit"}
+{"nick":"volga629","date":"2017-07-31T15:21:35.616Z","type":"join"}
+{"nick":"volga629","reason":"Quit: Leaving","date":"2017-07-31T15:29:12.104Z","type":"quit"}
+{"nick":"volga629","date":"2017-07-31T15:46:34.380Z","type":"join"}
+{"nick":"volga629","message":"connection problem","date":"2017-07-31T15:46:43.926Z","type":"message"}
+{"nick":"volga629","message":"Hello Everyone,  my setup is simple script which check pgsql node status and luv is listen on port as web service. The issue that on each web request like curl command the actual script for node check is not executing actual check, result that all the time same response","date":"2017-07-31T15:46:58.750Z","type":"message"}
+{"nick":"volga629","message":"Any suggestions ?","date":"2017-07-31T15:47:04.939Z","type":"message"}
+{"nick":"volga629","message":"also all script run on background with systemd","date":"2017-07-31T15:47:10.623Z","type":"message"}
+{"nick":"volga629","message":"here are the script https://paste.fedoraproject.org/paste/RAP8JvIBtF3Mu5hquix0BA","date":"2017-07-31T15:47:15.411Z","type":"message"}
+{"nick":"SkyRocknRoll","date":"2017-07-31T18:29:18.514Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Quit: Ex-Chat","date":"2017-07-31T19:54:53.371Z","type":"quit"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-07-31T21:19:12.934Z","type":"quit"}
+{"nick":"Andols","date":"2017-07-31T21:43:29.387Z","type":"quit"}

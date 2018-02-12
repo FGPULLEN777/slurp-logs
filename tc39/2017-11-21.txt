@@ -1,0 +1,211 @@
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2017-11-21T00:06:44.571Z","type":"quit"}
+{"nick":"jmdyck","date":"2017-11-21T00:07:21.941Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-21T00:17:37.419Z","type":"quit"}
+{"nick":"chicoxyzzy","date":"2017-11-21T00:24:49.037Z","type":"join"}
+{"nick":"chicoxyz_","date":"2017-11-21T00:25:39.590Z","type":"join"}
+{"nick":"chicoxyzzy","reason":"Client Quit","date":"2017-11-21T00:25:43.580Z","type":"quit"}
+{"nick":"chicoxyz_","reason":"Client Quit","date":"2017-11-21T00:26:14.580Z","type":"quit"}
+{"nick":"caridy","date":"2017-11-21T01:15:05.080Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-11-21T01:15:14.503Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-11-21T01:15:40.414Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-21T01:18:31.003Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-11-21T01:22:51.996Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-21T01:47:31.794Z","type":"join"}
+{"nick":"ljharb","message":"mathiasbynens: yes, everything's 0 by default, but there's an unofficial kind of thing where it's not *really* stage 0 until it's been presented to the committee. anyone \"asking for stage 0\" is either misunderstanding the doc, or they have a contentious proposal that's at risk of being rejected outright, which would make it useless to mark it as stage 0 (even tho technically it'd be stage 0 automatically)","date":"2017-11-21T01:47:47.016Z","type":"message"}
+{"nick":"jwalden","reason":"Quit: back later hopefully","date":"2017-11-21T02:52:30.111Z","type":"quit"}
+{"nick":"dilijev","date":"2017-11-21T02:56:27.844Z","type":"join"}
+{"nick":"dilijev","message":"The language in the spec around Dates seems inconsistent with web reality in a few cases.","date":"2017-11-21T02:56:54.699Z","type":"message"}
+{"nick":"dilijev","message":"Is there a special process for making normative spec changes that update the spec to match web reality or is a PR enough?","date":"2017-11-21T02:57:14.879Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-21T02:58:48.884Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-21T03:01:42.001Z","type":"join"}
+{"nick":"caridy","date":"2017-11-21T03:03:27.588Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-11-21T03:06:11.958Z","type":"quit"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-11-21T03:23:39.446Z","type":"quit"}
+{"nick":"ljharb","message":"dilijev: i think typically a PR is enough, if it includes results from all 4 engines","date":"2017-11-21T03:42:08.808Z","type":"message"}
+{"nick":"ljharb","message":"dilijev: also feel free to PR tests into compat-table if there's something that 2+ engines do","date":"2017-11-21T03:42:46.240Z","type":"message"}
+{"nick":"dilijev","message":"is compat-table a folder in test262?","date":"2017-11-21T03:43:14.664Z","type":"message"}
+{"nick":"caridy_","date":"2017-11-21T03:59:06.513Z","type":"join"}
+{"nick":"caridy_","reason":"Remote host closed the connection","date":"2017-11-21T03:59:15.094Z","type":"quit"}
+{"nick":"ljharb","message":"dilijev: no i mean http://kangax.github.io/compat-table/es6/","date":"2017-11-21T03:59:16.748Z","type":"message"}
+{"nick":"caridy","date":"2017-11-21T04:04:35.989Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-11-21T04:04:41.735Z","type":"quit"}
+{"nick":"dilijev","message":"oh okay. is that considered official or standard or anything?","date":"2017-11-21T04:05:27.473Z","type":"message"}
+{"nick":"dilijev","message":"IOW is it worth maintaining with minor/edge case test cases?","date":"2017-11-21T04:06:00.986Z","type":"message"}
+{"nick":"caridy","date":"2017-11-21T04:06:10.043Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-11-21T04:06:17.638Z","type":"quit"}
+{"nick":"caridy","date":"2017-11-21T04:06:46.034Z","type":"join"}
+{"nick":"ljharb","message":"dilijev: it's not official or standard, but all the browsers seem to be motivated to fix anything that's marked failing on it :-p","date":"2017-11-21T04:06:48.315Z","type":"message"}
+{"nick":"ljharb","message":"dilijev: imo it's worth maintaining until such time as it employs test262 directly, which has been on peoples wishlist for years but is probably still years out","date":"2017-11-21T04:07:10.436Z","type":"message"}
+{"nick":"dilijev","message":"In this case it's 4/4","date":"2017-11-21T04:07:12.547Z","type":"message"}
+{"nick":"dilijev","message":"```","date":"2017-11-21T04:07:16.130Z","type":"message"}
+{"nick":"dilijev","message":"## Source","date":"2017-11-21T04:07:16.222Z","type":"message"}
+{"nick":"dilijev","message":"print(new Date('2008-10-13T05:16:33Z').toUTCString());","date":"2017-11-21T04:07:16.295Z","type":"message"}
+{"nick":"dilijev","message":"print(new Date('2008-10-13T05:16:33Z').toString());","date":"2017-11-21T04:07:16.296Z","type":"message"}
+{"nick":"dilijev","message":"print(new Date('2008-10-13T05:16:33Z').toDateString());","date":"2017-11-21T04:07:16.296Z","type":"message"}
+{"nick":"dilijev","message":"print(new Date('2008-10-13T05:16:33Z').toTimeString());","date":"2017-11-21T04:07:16.777Z","type":"message"}
+{"nick":"dilijev","message":"#### ch, d8, jsc, sm","date":"2017-11-21T04:07:16.868Z","type":"message"}
+{"nick":"dilijev","message":"Mon, 13 Oct 2008 05:16:33 GMT","date":"2017-11-21T04:07:17.741Z","type":"message"}
+{"nick":"dilijev","message":"Sun Oct 12 2008 22:16:33 GMT-0700 (Pacific Daylight Time)","date":"2017-11-21T04:07:17.834Z","type":"message"}
+{"nick":"dilijev","message":"Sun Oct 12 2008","date":"2017-11-21T04:07:18.724Z","type":"message"}
+{"nick":"dilijev","message":"22:16:33 GMT-0700 (Pacific Daylight Time)","date":"2017-11-21T04:07:18.817Z","type":"message"}
+{"nick":"dilijev","message":"```","date":"2017-11-21T04:07:19.762Z","type":"message"}
+{"nick":"ljharb","message":"then yes, i'd say it would be awesome if you could PR it into both test262 and compat-table","date":"2017-11-21T04:07:31.154Z","type":"message"}
+{"nick":"ljharb","message":"is it something that's just web reality, or is it something that's subjectively/vaguely specified by a specific edition of the spec?","date":"2017-11-21T04:08:03.153Z","type":"message"}
+{"nick":"dilijev","message":"it's web reality and incorrect in spec","date":"2017-11-21T04:08:17.526Z","type":"message"}
+{"nick":"ljharb","message":"gotcha","date":"2017-11-21T04:08:20.323Z","type":"message"}
+{"nick":"ljharb","message":"then yeah that'd be great to send those 2 PRs, plus a PR to the spec itself <3","date":"2017-11-21T04:08:30.855Z","type":"message"}
+{"nick":"dilijev","message":"toUTCString goes day, month, year","date":"2017-11-21T04:08:37.868Z","type":"message"}
+{"nick":"ljharb","message":"we can talk about it in a week and a half","date":"2017-11-21T04:08:38.533Z","type":"message"}
+{"nick":"dilijev","message":"the others go month, day year","date":"2017-11-21T04:08:41.885Z","type":"message"}
+{"nick":"dilijev","message":"Difference in whether there's a comma after the Day of Week, which I think is correct in the spec","date":"2017-11-21T04:09:03.480Z","type":"message"}
+{"nick":"caridy","reason":"Ping timeout: 240 seconds","date":"2017-11-21T04:11:01.999Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-21T04:21:56.012Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-21T04:45:06.550Z","type":"quit"}
+{"nick":"jwalden","date":"2017-11-21T04:57:27.667Z","type":"join"}
+{"nick":"caridy","date":"2017-11-21T05:08:56.485Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 248 seconds","date":"2017-11-21T05:17:21.634Z","type":"quit"}
+{"nick":"gibson042","reason":"Ping timeout: 240 seconds","date":"2017-11-21T05:21:12.021Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-21T05:33:16.960Z","type":"join"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2017-11-21T05:40:21.786Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-21T05:43:23.453Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-21T05:44:40.773Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-11-21T06:06:18.293Z","type":"quit"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-11-21T07:32:09.935Z","type":"quit"}
+{"nick":"caridy","date":"2017-11-21T08:08:45.445Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 248 seconds","date":"2017-11-21T08:13:21.513Z","type":"quit"}
+{"nick":"jwalden","reason":"Quit: ChatZilla 0.9.92-rdmsoft [XULRunner 35.0.1/20150122214805]","date":"2017-11-21T08:14:49.030Z","type":"quit"}
+{"nick":"annevk","reason":"Ping timeout: 252 seconds","date":"2017-11-21T09:09:09.258Z","type":"quit"}
+{"nick":"annevk","date":"2017-11-21T09:09:36.864Z","type":"join"}
+{"nick":"gskachkov","date":"2017-11-21T10:54:01.489Z","type":"join"}
+{"nick":"gskachkov_","date":"2017-11-21T11:00:47.003Z","type":"join"}
+{"nick":"gskachkov_","reason":"Client Quit","date":"2017-11-21T11:02:25.922Z","type":"quit"}
+{"nick":"gskachkov","reason":"Ping timeout: 240 seconds","date":"2017-11-21T11:02:35.569Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-11-21T11:08:50.786Z","type":"join"}
+{"nick":"caridy","date":"2017-11-21T11:12:32.111Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 240 seconds","date":"2017-11-21T11:16:42.016Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-21T11:25:06.413Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-21T11:25:36.901Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-11-21T11:29:33.694Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-11-21T11:31:08.106Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-11-21T11:48:33.163Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-11-21T11:51:59.190Z","type":"join"}
+{"nick":"dpk","date":"2017-11-21T11:59:08.615Z","type":"join"}
+{"nick":"dpk","message":"hi there. i wondered if anyone's considered adding finalizers or destructor methods to ECMAScript?","date":"2017-11-21T11:59:53.526Z","type":"message"}
+{"nick":"dpk","message":"in theory they shouldn't be needed, but since we now have emscripten it's sometimes necessary to connect garbage collection of JS objects to management of the emscripten memory buffer","date":"2017-11-21T12:00:32.703Z","type":"message"}
+{"nick":"gskachkov","reason":"Ping timeout: 258 seconds","date":"2017-11-21T12:01:19.652Z","type":"quit"}
+{"nick":"dpk","message":"(essentially i just want to be able to call Module._free on some of the stuff i've allocated in the emscripten memory space, whenever an instance of the JS class i've created to wrap that stuff in a nice API gets collected)","date":"2017-11-21T12:02:57.470Z","type":"message"}
+{"nick":"annevk","message":"dpk: it comes up sometimes iirc, Mark Miller has thoughts","date":"2017-11-21T12:38:30.334Z","type":"message"}
+{"nick":"annevk","message":"Also formalizing OOM","date":"2017-11-21T12:39:09.012Z","type":"message"}
+{"nick":"caridy","date":"2017-11-21T13:13:56.640Z","type":"join"}
+{"nick":"jmdyck","date":"2017-11-21T13:18:07.995Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 248 seconds","date":"2017-11-21T13:18:25.419Z","type":"quit"}
+{"nick":"AtumT","date":"2017-11-21T14:11:07.053Z","type":"join"}
+{"nick":"ljharb","message":"destructors would tell you when GC occurs tho","date":"2017-11-21T14:51:31.944Z","type":"message"}
+{"nick":"annevk","message":"ljharb: yup","date":"2017-11-21T14:54:09.670Z","type":"message"}
+{"nick":"annevk","message":"dpk: https://esdiscuss.org/topic/weak-references-and-destructors and https://esdiscuss.org/topic/observable-gc go into it a bit","date":"2017-11-21T14:58:20.759Z","type":"message"}
+{"nick":"caridy","date":"2017-11-21T15:15:28.666Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 248 seconds","date":"2017-11-21T15:20:01.621Z","type":"quit"}
+{"nick":"caridy","date":"2017-11-21T15:30:43.734Z","type":"join"}
+{"nick":"gskachkov","date":"2017-11-21T15:42:59.840Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-11-21T15:48:55.168Z","type":"quit"}
+{"nick":"caridy","date":"2017-11-21T15:49:37.772Z","type":"join"}
+{"nick":"dpk","message":"annevk: so we don't have observable GC (according to http://w3ctag.github.io/design-principles/#js-gc) because it would be non-portable?","date":"2017-11-21T16:02:54.506Z","type":"message"}
+{"nick":"dpk","message":"i mean, i can already watch the GC at work with WeakMap and WeakSet, just in a very roundabout way","date":"2017-11-21T16:03:13.954Z","type":"message"}
+{"nick":"dpk","message":"so this is already a 'problem'","date":"2017-11-21T16:03:33.049Z","type":"message"}
+{"nick":"annevk","message":"dpk: that argument is also made further down the thread, though it might be worth filing an issue against that document with concrete examples of workarounds","date":"2017-11-21T16:04:30.312Z","type":"message"}
+{"nick":"samth","message":"dpk: no, you can't watch the GC with those, which is an intentional part of their design","date":"2017-11-21T16:04:32.647Z","type":"message"}
+{"nick":"dpk","message":"samth: i can't?","date":"2017-11-21T16:04:41.802Z","type":"message"}
+{"nick":"samth","message":"you can't tell if something has been collected with a WeakSet","date":"2017-11-21T16:04:56.939Z","type":"message"}
+{"nick":"samth","message":"because either you have it (in which case it can't have been collected) or you can't see if it's in the set at all","date":"2017-11-21T16:05:16.746Z","type":"message"}
+{"nick":"samth","message":"weak sets are not enumerable, for example, and the .length is always 0","date":"2017-11-21T16:06:00.103Z","type":"message"}
+{"nick":"annevk","message":"I think there's a couple places in the web platform where folks haven't taken care to ensure GC is not exposed, but generally those are considered bugs","date":"2017-11-21T16:06:04.272Z","type":"message"}
+{"nick":"annevk","message":"But I'm still rather suspect of service workers, I don't think it's been properly reviewed with this in mind","date":"2017-11-21T16:06:30.676Z","type":"message"}
+{"nick":"dpk","message":"oh, i didn't know WeakSet wasn't enumerable. hmm, okay then","date":"2017-11-21T16:06:53.768Z","type":"message"}
+{"nick":"dpk","message":"well, the problem here then is that i'm faced with a JS class which can potentially leak memory if you're not very careful to manually destroy it. that seems objectively worse than code which might behave slightly differently timing-wise depending on the JS implementation in use","date":"2017-11-21T16:11:40.636Z","type":"message"}
+{"nick":"ljharb","message":"dpk: the solution is then to rearchitect it so it doesn't have that problem","date":"2017-11-21T16:13:04.128Z","type":"message"}
+{"nick":"dpk","message":"ljharb: as far as i can tell, this is a problem for almost any code that uses an emscriptened C library which needs to malloc, and the emscripten people don't have any better answer than 'well, then you need to be careful to free everything'","date":"2017-11-21T16:15:54.295Z","type":"message"}
+{"nick":"dpk","message":"https://kripken.github.io/emscripten-site/docs/porting/connecting_cpp_and_javascript/Interacting-with-code.html#call-compiled-c-c-code-directly-from-javascript","date":"2017-11-21T16:15:56.884Z","type":"message"}
+{"nick":"ljharb","message":"dpk: my gut response is then that that's a pretty big flaw in emscripten :-/ but i'm not familiar with it so i can't know for sure","date":"2017-11-21T16:17:00.814Z","type":"message"}
+{"nick":"samth","message":"ljharb: I think they can't do better without weak references, but maybe not even then","date":"2017-11-21T16:18:48.994Z","type":"message"}
+{"nick":"ljharb","message":"possibly true","date":"2017-11-21T16:18:58.045Z","type":"message"}
+{"nick":"samth","message":"manual memory management is manual","date":"2017-11-21T16:18:59.139Z","type":"message"}
+{"nick":"leobalter","message":"ljharb dilijev we have a compat table project in progress, it's basically me using my available open source time, when I'm not working directly on Test262. We had to create some better tools to fetch the results and did some nice work to get CI tooling (to generate results), this will be hopefully done before December","date":"2017-11-21T16:35:32.484Z","type":"message"}
+{"nick":"leobalter","message":"by compat table I mean something fetching results from Test262","date":"2017-11-21T16:35:47.098Z","type":"message"}
+{"nick":"ljharb","message":"that'd be great","date":"2017-11-21T16:37:40.999Z","type":"message"}
+{"nick":"ljharb","message":"nobody's yet audited the compat table tests tho; i'm quite sure there's things in there that aren't in test262","date":"2017-11-21T16:37:53.049Z","type":"message"}
+{"nick":"leobalter","message":"ljharb this is not in Test262, not anything oficial. This project is just a collection of test results","date":"2017-11-21T16:39:17.051Z","type":"message"}
+{"nick":"leobalter","message":"using the tests from Test262. The idea is to collect the results using CI tooling, this helps me a lot to identify areas of improvements in Test262 itself.","date":"2017-11-21T16:40:06.631Z","type":"message"}
+{"nick":"leobalter","message":"is more a results dashboard rather than a \"compat table\", but you can read that just to check things for feature compatibility.","date":"2017-11-21T16:40:51.765Z","type":"message"}
+{"nick":"ljharb","message":"ah ok","date":"2017-11-21T16:43:06.043Z","type":"message"}
+{"nick":"dpk","message":"if a generator which contains a try..finally begins, but is never exhausted then gets garbage collected, …?","date":"2017-11-21T16:52:14.866Z","type":"message"}
+{"nick":"dpk","message":"Python, according to my quick test, does the right thing and calls the finally block","date":"2017-11-21T16:52:34.789Z","type":"message"}
+{"nick":"dpk","message":"(upon garbage collection)","date":"2017-11-21T16:53:50.761Z","type":"message"}
+{"nick":"ljharb","message":"i don't think it can ever be GCd if it's never exhausted","date":"2017-11-21T16:56:02.904Z","type":"message"}
+{"nick":"ljharb","message":"or hm","date":"2017-11-21T16:56:16.819Z","type":"message"}
+{"nick":"ljharb","message":"that's a good question","date":"2017-11-21T16:56:19.064Z","type":"message"}
+{"nick":"ljharb","message":"but no, i don't think the finally block will be executed","date":"2017-11-21T16:56:24.426Z","type":"message"}
+{"nick":"gskachkov","reason":"Ping timeout: 268 seconds","date":"2017-11-21T17:04:28.738Z","type":"quit"}
+{"nick":"jwalden","date":"2017-11-21T17:33:32.664Z","type":"join"}
+{"nick":"gskachkov","date":"2017-11-21T19:27:16.929Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-11-21T20:10:37.267Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-11-21T20:14:48.782Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-11-21T21:08:29.111Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-11-21T21:12:01.069Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-11-21T21:24:26.863Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-11-21T21:37:09.309Z","type":"join"}
+{"nick":"dilijev","message":"bterlson: is leobalter's compat dashboard project the test262 dashboard you mentioned to me some time back?","date":"2017-11-21T21:48:49.311Z","type":"message"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-11-21T21:57:37.526Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-11-21T22:02:24.836Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-11-21T22:10:07.639Z","type":"quit"}
+{"nick":"dilijev","message":"littledan: I'm wondering why some of the date functions in the spec are runtime semantics and some are not -- they all seem to have algorithm setps","date":"2017-11-21T22:13:24.239Z","type":"message"}
+{"nick":"dilijev","message":"For example https://tc39.github.io/ecma262/#sec-todatestring versus https://tc39.github.io/ecma262/#sec-datestring","date":"2017-11-21T22:13:49.728Z","type":"message"}
+{"nick":"dilijev","message":"I understand the naming is just that one is an abstract operation and the other is not but why is ToDateString a runtime semantics thing (called from https://tc39.github.io/ecma262/#sec-date.prototype.tostring)","date":"2017-11-21T22:14:38.384Z","type":"message"}
+{"nick":"bterlson","message":"dilijev: link?","date":"2017-11-21T22:48:07.248Z","type":"message"}
+{"nick":"dilijev","message":"^ bterlson: he mentioned above, don't know about the link","date":"2017-11-21T22:48:37.276Z","type":"message"}
+{"nick":"jmdyck","message":"dilijev: The algorithms labelled 'Runtime Semantics' are abstract operations. The others are built-in functions (accessible to users). Or are you asking something else?","date":"2017-11-21T22:49:29.690Z","type":"message"}
+{"nick":"jmdyck","message":"(At least, I *think* that should be true.)","date":"2017-11-21T22:50:28.617Z","type":"message"}
+{"nick":"dilijev","message":"jmdyck: Hmm that would make sense. Thanks for clarifying. In some cases that may not be how they are used. I'll double check","date":"2017-11-21T23:01:18.491Z","type":"message"}
+{"nick":"bterlson","message":"dilijev: ahh yep same thing","date":"2017-11-21T23:17:55.571Z","type":"message"}
+{"nick":"dilijev","message":"jmdyck: from the ones I'm looking at now, runtime semantics for internal operations look consistent. I'll stay on the lookout for inconsistencies in the future.","date":"2017-11-21T23:27:56.664Z","type":"message"}
+{"nick":"dilijev","message":"* abstract operations","date":"2017-11-21T23:28:09.369Z","type":"message"}
+{"nick":"jmdyck","message":"sounds good","date":"2017-11-21T23:28:22.366Z","type":"message"}
+{"nick":"dilijev","message":"Alright here's the possible semantics inconsistency I'm puzzling over right now. I'll try to make it concise.","date":"2017-11-21T23:32:00.029Z","type":"message"}
+{"nick":"dilijev","message":"We have four Date.prototype.to*String  operations","date":"2017-11-21T23:32:15.089Z","type":"message"}
+{"nick":"dilijev","message":"```","date":"2017-11-21T23:32:24.126Z","type":"message"}
+{"nick":"dilijev","message":"    ## Source","date":"2017-11-21T23:32:24.199Z","type":"message"}
+{"nick":"dilijev","message":"    print(new Date('2008-10-13T05:16:33Z').toUTCString());","date":"2017-11-21T23:32:24.199Z","type":"message"}
+{"nick":"dilijev","message":"    print(new Date('2008-10-13T05:16:33Z').toString());","date":"2017-11-21T23:32:24.200Z","type":"message"}
+{"nick":"dilijev","message":"    print(new Date('2008-10-13T05:16:33Z').toDateString());","date":"2017-11-21T23:32:24.200Z","type":"message"}
+{"nick":"dilijev","message":"    print(new Date('2008-10-13T05:16:33Z').toTimeString());","date":"2017-11-21T23:32:24.766Z","type":"message"}
+{"nick":"dilijev","message":"    #### ch, d8, jsc, sm","date":"2017-11-21T23:32:24.903Z","type":"message"}
+{"nick":"dilijev","message":"    Mon, 13 Oct 2008 05:16:33 GMT","date":"2017-11-21T23:32:25.783Z","type":"message"}
+{"nick":"dilijev","message":"    Sun Oct 12 2008 22:16:33 GMT-0700 (Pacific Daylight Time)","date":"2017-11-21T23:32:25.874Z","type":"message"}
+{"nick":"dilijev","message":"    Sun Oct 12 2008","date":"2017-11-21T23:32:26.785Z","type":"message"}
+{"nick":"dilijev","message":"    22:16:33 GMT-0700 (Pacific Daylight Time)","date":"2017-11-21T23:32:26.875Z","type":"message"}
+{"nick":"dilijev","message":"```","date":"2017-11-21T23:32:27.787Z","type":"message"}
+{"nick":"dpk","message":"even Scheme lets you observe the garbage collector now … https://srfi.schemers.org/srfi-124/srfi-124.html (will very probably be in R7RS Large)","date":"2017-11-21T23:32:54.564Z","type":"message"}
+{"nick":"dilijev","message":"toUTCString is fine -- just there as a comparison (it's strange that we all agreed on a different (month day) vs (day month) ordering there and the comma after day of week versus no comma","date":"2017-11-21T23:34:24.690Z","type":"message"}
+{"nick":"dilijev","message":"but that's something we all agree on and not a problem","date":"2017-11-21T23:34:33.889Z","type":"message"}
+{"nick":"bterlson","message":"dpk: have you seen https://github.com/tc39/proposal-weakrefs/blob/master/specs/weakrefs.md?","date":"2017-11-21T23:34:43.580Z","type":"message"}
+{"nick":"dilijev","message":"ignoring toGMTString which is identical and the toLocale* variants","date":"2017-11-21T23:34:45.124Z","type":"message"}
+{"nick":"dilijev","message":"we are left with toString toDateString and toTimeString","date":"2017-11-21T23:35:03.108Z","type":"message"}
+{"nick":"dilijev","message":"the web reality is that toString is (cat toDateString toTimeString)","date":"2017-11-21T23:35:24.395Z","type":"message"}
+{"nick":"dilijev","message":"reading the spec i'm having a hard time piecing that together and i keep thinking it's saying toDateString should be identical to toString","date":"2017-11-21T23:37:49.967Z","type":"message"}
+{"nick":"dilijev","message":"I'll find references to explain what i'm seeing, h/o","date":"2017-11-21T23:37:58.861Z","type":"message"}
+{"nick":"dpk","message":"bterlson: the 'executor' there is the finalizer for when the 'target' is collected? from the example code and the name that seems to be the case, but the prose suggests otherwise","date":"2017-11-21T23:38:26.284Z","type":"message"}
+{"nick":"dpk","message":"(\"Because condemned objects can never become reachable again, it is not visible to the program whether they were actually reclaimed or not at any particular time.\")","date":"2017-11-21T23:38:40.984Z","type":"message"}
+{"nick":"dpk","message":"oh, sorry, i misunderstood that sentence","date":"2017-11-21T23:38:47.608Z","type":"message"}
+{"nick":"dpk","message":"well, if that gets accepted it'll be super","date":"2017-11-21T23:39:14.915Z","type":"message"}
+{"nick":"bterlson","message":"nice, glad to hear","date":"2017-11-21T23:39:23.791Z","type":"message"}
+{"nick":"dilijev","message":"ah i see my confusion","date":"2017-11-21T23:54:06.996Z","type":"message"}
+{"nick":"dilijev","message":"My confusion comes from the fact that ToDateString calls DateString(t) and concats the result with TimeString(t), and TimeZoneString(tv).","date":"2017-11-21T23:54:11.932Z","type":"message"}
+{"nick":"dilijev","message":"> Date.prototype.toString (https://tc39.github.io/ecma262/#sec-date.prototype.tostring)","date":"2017-11-21T23:54:12.022Z","type":"message"}
+{"nick":"dilijev","message":">> Return ToDateString(tv).","date":"2017-11-21T23:54:12.095Z","type":"message"}
+{"nick":"dilijev","message":">>> ToDateString(tv) (https://tc39.github.io/ecma262/#sec-todatestring)","date":"2017-11-21T23:54:12.095Z","type":"message"}
+{"nick":"dilijev","message":">>>> Return the string-concatenation of DateString(t), the code unit 0x0020 (SPACE), TimeString(t), and TimeZoneString(tv).","date":"2017-11-21T23:54:12.095Z","type":"message"}
+{"nick":"dilijev","message":">>>>> DateString(t) e.g. `Sun Oct 12 2008`","date":"2017-11-21T23:54:12.746Z","type":"message"}
+{"nick":"dilijev","message":">>>>> \"string-concatenation of ... TimeString(t), and TimeZoneString(tv).\" e.g. `22:16:33 GMT-0700 (Pacific Daylight Time)`","date":"2017-11-21T23:54:12.836Z","type":"message"}
+{"nick":"dilijev","message":">>>> e.g. `Sun Oct 12 2008 22:16:33 GMT-0700 (Pacific Daylight Time)`","date":"2017-11-21T23:54:13.795Z","type":"message"}
+{"nick":"dilijev","message":"Perhaps ToDateString should be called ToDateTimeString?","date":"2017-11-21T23:54:13.868Z","type":"message"}
+{"nick":"dilijev","message":"From its other uses e.g. in the Date constructor I can see why ToDateString is probably less confusing but still","date":"2017-11-21T23:59:28.785Z","type":"message"}
+{"nick":"dilijev","message":"ToDateString and DateString having totally different meanings is a bit jarring","date":"2017-11-21T23:59:40.656Z","type":"message"}

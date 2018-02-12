@@ -1,0 +1,107 @@
+{"nick":"rismanrp[m]","date":"2017-11-07T00:17:12.901Z","type":"join"}
+{"nick":"nickduskey[m]","date":"2017-11-07T00:17:13.176Z","type":"join"}
+{"nick":"reedj[m]","date":"2017-11-07T00:17:19.848Z","type":"join"}
+{"nick":"rajkumar[m]","date":"2017-11-07T00:17:19.954Z","type":"join"}
+{"nick":"degva","date":"2017-11-07T00:21:32.281Z","type":"join"}
+{"nick":"degva","message":"hi all, I'm using express behind a proxy (with apache) and I'm having issues with passport.js. Basically, req.isAuthenticated is always returning false. I've seen that I should set 'trust proxy' and add proxy:true on the express-session instanciation, but still I'm still having some problems. Does anybody has experienced this before?","date":"2017-11-07T00:23:04.900Z","type":"message"}
+{"nick":"Fishrock123","date":"2017-11-07T00:41:56.876Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-11-07T00:46:57.808Z","type":"quit"}
+{"nick":"Auger","reason":"Quit: You know what they say in Occum","date":"2017-11-07T00:49:57.943Z","type":"quit"}
+{"nick":"sixmonki","reason":"Remote host closed the connection","date":"2017-11-07T00:53:21.162Z","type":"quit"}
+{"nick":"degva","reason":"Ping timeout: 250 seconds","date":"2017-11-07T01:05:51.730Z","type":"quit"}
+{"nick":"fbenoit","date":"2017-11-07T01:25:00.504Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 268 seconds","date":"2017-11-07T01:30:09.764Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-07T01:34:53.890Z","type":"join"}
+{"nick":"degva","date":"2017-11-07T02:52:39.631Z","type":"join"}
+{"nick":"degva","reason":"Remote host closed the connection","date":"2017-11-07T02:54:22.003Z","type":"quit"}
+{"nick":"fbenoit","date":"2017-11-07T03:25:54.240Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 240 seconds","date":"2017-11-07T03:30:27.871Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-11-07T03:34:14.550Z","type":"quit"}
+{"nick":"fbenoit","date":"2017-11-07T04:23:47.465Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 250 seconds","date":"2017-11-07T04:28:39.747Z","type":"quit"}
+{"nick":"darkJedi","date":"2017-11-07T05:34:03.183Z","type":"join"}
+{"nick":"darkJedi","reason":"Quit: Leaving","date":"2017-11-07T06:24:56.167Z","type":"quit"}
+{"nick":"lpin","date":"2017-11-07T06:40:57.344Z","type":"join"}
+{"nick":"slajax","reason":"Ping timeout: 240 seconds","date":"2017-11-07T07:40:01.371Z","type":"quit"}
+{"nick":"slajax","date":"2017-11-07T07:40:10.063Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-07T07:51:41.705Z","type":"quit"}
+{"nick":"codedmart","reason":"Ping timeout: 255 seconds","date":"2017-11-07T08:01:43.974Z","type":"quit"}
+{"nick":"_6a68","reason":"Ping timeout: 255 seconds","date":"2017-11-07T08:03:05.105Z","type":"quit"}
+{"nick":"codedmart","date":"2017-11-07T08:03:53.931Z","type":"join"}
+{"nick":"_6a68","date":"2017-11-07T08:07:56.863Z","type":"join"}
+{"nick":"fbenoit","date":"2017-11-07T08:14:01.386Z","type":"join"}
+{"nick":"ohama","reason":"Remote host closed the connection","date":"2017-11-07T08:52:19.205Z","type":"quit"}
+{"nick":"ohama","date":"2017-11-07T08:54:34.310Z","type":"join"}
+{"nick":"Arcarc","date":"2017-11-07T09:08:06.640Z","type":"join"}
+{"nick":"Stragler","date":"2017-11-07T09:55:59.568Z","type":"join"}
+{"nick":"Stragler","reason":"Quit: Guess I went to sleep...","date":"2017-11-07T10:08:24.285Z","type":"quit"}
+{"nick":"brk_","date":"2017-11-07T10:31:38.249Z","type":"join"}
+{"nick":"Stragler","date":"2017-11-07T10:55:56.896Z","type":"join"}
+{"nick":"Stragler","reason":"Quit: Guess I went to sleep...","date":"2017-11-07T11:05:41.846Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-07T11:25:12.591Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-07T11:25:43.093Z","type":"join"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-11-07T11:57:13.451Z","type":"quit"}
+{"nick":"Arcarc","reason":"Quit: Leaving","date":"2017-11-07T12:01:40.004Z","type":"quit"}
+{"nick":"Arcarc","date":"2017-11-07T12:21:00.619Z","type":"join"}
+{"nick":"Arcarc","reason":"Client Quit","date":"2017-11-07T12:22:28.892Z","type":"quit"}
+{"nick":"Stragler","date":"2017-11-07T12:49:54.115Z","type":"join"}
+{"nick":"degva","date":"2017-11-07T13:03:42.960Z","type":"join"}
+{"nick":"basiclaser","date":"2017-11-07T13:19:00.684Z","type":"join"}
+{"nick":"degva","message":" hi all, I'm using express behind a proxy (with apache) and I'm having issues with passport.js. Basically, req.isAuthenticated is always returning false. I've seen that I should set 'trust proxy' and add proxy:true on the express-session instanciation, but still I'm still having some problems. Does anybody has experienced this before?","date":"2017-11-07T13:25:24.547Z","type":"message"}
+{"nick":"brk_","reason":"Quit: Leaving","date":"2017-11-07T13:41:07.490Z","type":"quit"}
+{"nick":"Stragler","reason":"Quit: Guess I went to sleep...","date":"2017-11-07T14:02:54.761Z","type":"quit"}
+{"nick":"fbenoit","reason":"Ping timeout: 240 seconds","date":"2017-11-07T14:13:05.545Z","type":"quit"}
+{"nick":"fbenoit","date":"2017-11-07T14:13:31.615Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 240 seconds","date":"2017-11-07T14:34:41.534Z","type":"quit"}
+{"nick":"lance|afk","new_nick":"lanceball","date":"2017-11-07T14:35:47.409Z","type":"nick"}
+{"nick":"fbenoit","date":"2017-11-07T14:44:31.366Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 240 seconds","date":"2017-11-07T15:50:21.387Z","type":"quit"}
+{"nick":"lpin","date":"2017-11-07T16:02:06.938Z","type":"join"}
+{"nick":"basiclaser","reason":"Quit: Connection closed for inactivity","date":"2017-11-07T16:06:17.894Z","type":"quit"}
+{"nick":"fbenoit","date":"2017-11-07T16:16:35.183Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 258 seconds","date":"2017-11-07T16:21:43.709Z","type":"quit"}
+{"nick":"ohama","reason":"Remote host closed the connection","date":"2017-11-07T16:23:05.290Z","type":"quit"}
+{"nick":"ohama","date":"2017-11-07T16:24:33.094Z","type":"join"}
+{"nick":"Abhishek_","reason":"Quit: Connection closed for inactivity","date":"2017-11-07T16:31:03.501Z","type":"quit"}
+{"nick":"Stragler","date":"2017-11-07T16:35:04.568Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-07T16:46:53.801Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-07T17:02:57.283Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-07T17:03:33.778Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 250 seconds","date":"2017-11-07T17:07:51.824Z","type":"quit"}
+{"nick":"Stragler","reason":"Quit: Guess I went to sleep...","date":"2017-11-07T17:10:34.094Z","type":"quit"}
+{"nick":"degva","message":"hi all, I have the session cookie.path set to '/' but the app is being redirected by apache when the location is /myapp. Does that might be a reason to the cookie to not work?","date":"2017-11-07T17:13:45.213Z","type":"message"}
+{"nick":"sixmonki","date":"2017-11-07T17:13:58.770Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-07T17:23:43.753Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-07T17:30:07.424Z","type":"quit"}
+{"nick":"basiclaser","date":"2017-11-07T17:35:07.530Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-07T17:45:43.838Z","type":"join"}
+{"nick":"slajax","reason":"Quit: ZNC - 1.6.0 - http://znc.in","date":"2017-11-07T17:50:07.903Z","type":"quit"}
+{"nick":"slajax","date":"2017-11-07T17:51:51.294Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-11-07T17:59:27.511Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-07T18:00:59.783Z","type":"join"}
+{"nick":"Mantis_","date":"2017-11-07T18:49:51.851Z","type":"join"}
+{"nick":"darkSeid_","date":"2017-11-07T18:54:52.866Z","type":"join"}
+{"nick":"Arcarc","date":"2017-11-07T18:54:55.629Z","type":"join"}
+{"nick":"degva","reason":"\"Leaving\"","date":"2017-11-07T18:55:45.993Z","type":"part"}
+{"nick":"Mantis_","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-11-07T19:06:49.612Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-07T19:16:36.291Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-07T19:17:12.794Z","type":"join"}
+{"nick":"davidmichaelkarr","reason":"Quit: Connection closed for inactivity","date":"2017-11-07T19:17:50.134Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Ping timeout: 250 seconds","date":"2017-11-07T19:21:19.841Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-07T19:25:37.802Z","type":"join"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-11-07T19:53:54.158Z","type":"quit"}
+{"nick":"einseenai","date":"2017-11-07T20:08:41.730Z","type":"join"}
+{"nick":"basiclaser","reason":"Quit: Connection closed for inactivity","date":"2017-11-07T20:53:06.699Z","type":"quit"}
+{"nick":"fbenoit","date":"2017-11-07T21:18:50.908Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 250 seconds","date":"2017-11-07T21:23:31.796Z","type":"quit"}
+{"nick":"einseenai","reason":"Quit: Leaving","date":"2017-11-07T21:33:39.643Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-07T21:47:56.420Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-07T21:58:07.752Z","type":"join"}
+{"nick":"basiclaser","date":"2017-11-07T22:22:01.028Z","type":"join"}
+{"nick":"LeBlaaanc","date":"2017-11-07T22:28:27.660Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-07T23:12:24.112Z","type":"quit"}
+{"nick":"fbenoit","date":"2017-11-07T23:19:20.789Z","type":"join"}
+{"nick":"fbenoit","reason":"Ping timeout: 250 seconds","date":"2017-11-07T23:23:59.840Z","type":"quit"}
+{"nick":"davidmichaelkarr","date":"2017-11-07T23:45:59.894Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-07T23:53:31.880Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 246 seconds","date":"2017-11-07T23:57:57.786Z","type":"quit"}

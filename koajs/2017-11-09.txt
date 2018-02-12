@@ -1,0 +1,20 @@
+{"nick":"nahtnam","reason":"Quit: Connection closed for inactivity","date":"2017-11-09T00:14:54.438Z","type":"quit"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-11-09T00:41:37.796Z","type":"quit"}
+{"nick":"mezod","date":"2017-11-09T01:15:01.162Z","type":"join"}
+{"nick":"mezod","reason":"Ping timeout: 248 seconds","date":"2017-11-09T01:21:04.017Z","type":"quit"}
+{"nick":"saadq","reason":"Ping timeout: 248 seconds","date":"2017-11-09T06:15:02.027Z","type":"quit"}
+{"nick":"ThomasRuiz","reason":"Ping timeout: 246 seconds","date":"2017-11-09T07:10:27.946Z","type":"quit"}
+{"nick":"saadq","date":"2017-11-09T07:12:37.294Z","type":"join"}
+{"nick":"mezod","date":"2017-11-09T11:08:09.074Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-11-09T13:36:33.139Z","type":"quit"}
+{"nick":"mezod","date":"2017-11-09T13:46:29.883Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-11-09T17:15:50.175Z","type":"quit"}
+{"nick":"mezod","date":"2017-11-09T17:17:24.843Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-11-09T17:18:14.949Z","type":"quit"}
+{"nick":"mezod","date":"2017-11-09T19:21:49.297Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-11-09T21:41:42.695Z","type":"quit"}
+{"nick":"mezod","date":"2017-11-09T22:11:01.765Z","type":"join"}
+{"nick":"mezod","reason":"Remote host closed the connection","date":"2017-11-09T22:34:37.271Z","type":"quit"}
+{"nick":"mezod","date":"2017-11-09T22:35:59.979Z","type":"join"}
+{"nick":"mezod","reason":"Changing host","date":"2017-11-09T22:36:00.157Z","type":"quit"}
+{"nick":"mezod","date":"2017-11-09T22:36:00.225Z","type":"join"}

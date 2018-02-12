@@ -1,0 +1,35 @@
+{"nick":"rmustacc!~daemar@zelgadis.fingolfin.org","topic":"Manta: Big Data Unix | Now Open Source! -- https://github.com/joyent/manta | http://apidocs.joyent.com/manta/  | http://logs.libuv.org/manta/latest","date":"2018-01-27T00:13:33.094Z","type":"topic"}
+{"nick":"rmustacc!~daemar@zelgadis.fingolfin.org","topic":"Manta: Big Data Unix | Now Open Source! -- https://github.com/joyent/manta | http://apidocs.joyent.com/manta/  | http://logs.libuv.org/manta/latest","date":"2018-01-27T00:24:46.489Z","type":"topic"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2018-01-27T01:00:42.007Z","type":"quit"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2018-01-27T01:20:01.204Z","type":"quit"}
+{"nick":"ed209","date":"2018-01-27T01:20:08.747Z","type":"join"}
+{"nick":"bahamat","date":"2018-01-27T02:48:09.853Z","type":"join"}
+{"nick":"bahamat_","date":"2018-01-27T02:50:06.747Z","type":"join"}
+{"nick":"bahamat","reason":"Ping timeout: 252 seconds","date":"2018-01-27T02:52:28.798Z","type":"quit"}
+{"nick":"bahamat_","reason":"Quit: Leaving.","date":"2018-01-27T03:03:29.201Z","type":"quit"}
+{"nick":"bahamat","date":"2018-01-27T04:59:29.234Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2018-01-27T06:08:00.237Z","type":"quit"}
+{"nick":"bahamat","date":"2018-01-27T07:47:37.462Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2018-01-27T07:56:50.623Z","type":"quit"}
+{"nick":"bahamat","date":"2018-01-27T08:05:14.134Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2018-01-27T08:57:09.540Z","type":"quit"}
+{"nick":"bahamat","date":"2018-01-27T09:06:29.849Z","type":"join"}
+{"nick":"bahamat","reason":"Client Quit","date":"2018-01-27T09:10:58.288Z","type":"quit"}
+{"nick":"bahamat","date":"2018-01-27T09:57:56.763Z","type":"join"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2018-01-27T10:20:00.528Z","type":"quit"}
+{"nick":"ed209","date":"2018-01-27T10:20:07.844Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2018-01-27T11:08:50.099Z","type":"quit"}
+{"nick":"glasspelican","reason":"Remote host closed the connection","date":"2018-01-27T14:45:45.592Z","type":"quit"}
+{"nick":"glasspelican","date":"2018-01-27T14:49:53.810Z","type":"join"}
+{"nick":"bahamat","date":"2018-01-27T15:42:20.702Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2018-01-27T15:53:50.203Z","type":"quit"}
+{"nick":"Techno","reason":"Quit: No Ping reply in 180 seconds.","date":"2018-01-27T16:49:36.623Z","type":"quit"}
+{"nick":"Techno","date":"2018-01-27T16:50:52.834Z","type":"join"}
+{"nick":"Teknix","reason":"Read error: No route to host","date":"2018-01-27T18:55:00.714Z","type":"quit"}
+{"nick":"Teknix","date":"2018-01-27T18:55:36.892Z","type":"join"}
+{"nick":"bahamat","date":"2018-01-27T19:07:02.453Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2018-01-27T19:17:10.339Z","type":"quit"}
+{"nick":"ed209","reason":"Remote host closed the connection","date":"2018-01-27T20:20:00.529Z","type":"quit"}
+{"nick":"ed209","date":"2018-01-27T20:20:08.037Z","type":"join"}
+{"nick":"bahamat","date":"2018-01-27T23:10:44.898Z","type":"join"}
+{"nick":"bahamat","reason":"Quit: Leaving.","date":"2018-01-27T23:58:05.043Z","type":"quit"}

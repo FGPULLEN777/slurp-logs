@@ -1,0 +1,361 @@
+{"nick":"sebmarkbage","new_nick":"sebmarkbage|away","date":"2017-07-26T00:11:10.303Z","type":"nick"}
+{"nick":"benjamn","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-07-26T00:12:31.153Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T00:13:55.401Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T00:14:03.924Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T00:14:35.346Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T00:14:51.786Z","type":"quit"}
+{"nick":"caridy","reason":"Ping timeout: 240 seconds","date":"2017-07-26T00:14:57.835Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T00:15:27.427Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T00:15:40.044Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T00:16:12.717Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T00:16:28.080Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T00:17:02.648Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T00:17:16.012Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T00:17:52.651Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T00:18:03.919Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T00:18:45.629Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T00:18:51.759Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T00:19:40.346Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T00:19:40.440Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T00:20:12.426Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T00:20:27.842Z","type":"quit"}
+{"nick":"rbuckton","reason":"Ping timeout: 260 seconds","date":"2017-07-26T00:24:27.697Z","type":"quit"}
+{"nick":"michaelficarra","reason":"Quit: michaelficarra","date":"2017-07-26T00:41:35.678Z","type":"quit"}
+{"nick":"nobso","date":"2017-07-26T00:52:19.779Z","type":"part"}
+{"nick":"rbuckton","date":"2017-07-26T02:04:40.885Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T02:18:52.507Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T02:20:01.420Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 248 seconds","date":"2017-07-26T02:24:33.488Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T02:24:48.440Z","type":"join"}
+{"nick":"nobso","date":"2017-07-26T02:25:10.510Z","type":"join"}
+{"nick":"nobso","reason":"Client Quit","date":"2017-07-26T02:29:32.484Z","type":"quit"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T02:30:46.413Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T02:33:08.505Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T02:34:12.452Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T02:34:13.073Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T02:44:58.638Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T02:45:26.926Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 276 seconds","date":"2017-07-26T03:00:52.641Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T03:45:56.970Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 255 seconds","date":"2017-07-26T03:50:13.027Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T03:51:58.388Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T03:54:57.448Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T03:57:20.918Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T04:00:17.922Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T04:00:18.337Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T04:03:56.657Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T04:09:57.440Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 246 seconds","date":"2017-07-26T04:14:16.517Z","type":"quit"}
+{"nick":"caridy","date":"2017-07-26T04:18:08.411Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-07-26T04:23:15.395Z","type":"quit"}
+{"nick":"caridy","date":"2017-07-26T04:23:41.629Z","type":"join"}
+{"nick":"benjamn","date":"2017-07-26T04:24:44.471Z","type":"join"}
+{"nick":"caridy_","date":"2017-07-26T04:26:29.508Z","type":"join"}
+{"nick":"benjamn","reason":"Read error: Connection reset by peer","date":"2017-07-26T04:26:29.723Z","type":"quit"}
+{"nick":"caridy","reason":"Read error: Connection reset by peer","date":"2017-07-26T04:26:58.043Z","type":"quit"}
+{"nick":"michaelficarra","date":"2017-07-26T05:00:59.389Z","type":"join"}
+{"nick":"jmdyck","reason":"Quit: Leaving.","date":"2017-07-26T05:27:23.697Z","type":"quit"}
+{"nick":"howdoi","date":"2017-07-26T05:48:23.128Z","type":"join"}
+{"nick":"ebryn","date":"2017-07-26T05:58:05.968Z","type":"join"}
+{"nick":"not-an-aardvark","date":"2017-07-26T06:06:23.094Z","type":"join"}
+{"nick":"michaelficarra","reason":"Remote host closed the connection","date":"2017-07-26T06:53:51.500Z","type":"quit"}
+{"nick":"michaelficarra","date":"2017-07-26T06:54:07.496Z","type":"join"}
+{"nick":"gskachkov","date":"2017-07-26T07:20:51.678Z","type":"join"}
+{"nick":"michaelficarra","reason":"Quit: michaelficarra","date":"2017-07-26T07:27:59.691Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T07:42:19.224Z","type":"join"}
+{"nick":"caridy_","reason":"Remote host closed the connection","date":"2017-07-26T07:56:04.080Z","type":"quit"}
+{"nick":"caridy","date":"2017-07-26T07:56:31.062Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 240 seconds","date":"2017-07-26T07:58:52.164Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T07:59:43.627Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 255 seconds","date":"2017-07-26T08:01:11.933Z","type":"quit"}
+{"nick":"rbuckton","reason":"Ping timeout: 268 seconds","date":"2017-07-26T08:04:32.627Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T08:07:24.701Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T08:10:59.699Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T08:11:29.827Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 260 seconds","date":"2017-07-26T08:18:42.716Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T08:19:55.627Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T08:22:15.571Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T08:22:16.041Z","type":"join"}
+{"nick":"rbuckton","reason":"Read error: Connection reset by peer","date":"2017-07-26T08:22:26.206Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T08:24:42.818Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 240 seconds","date":"2017-07-26T08:33:57.910Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T08:34:54.452Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T08:37:16.281Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T08:40:51.330Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T08:43:49.438Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T08:49:47.638Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T08:52:09.833Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T08:53:58.919Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T08:55:47.168Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T08:56:16.298Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-07-26T09:00:39.832Z","type":"quit"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T09:01:44.824Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T09:01:45.230Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T09:07:29.034Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T09:10:27.390Z","type":"join"}
+{"nick":"basicdays","reason":"Ping timeout: 276 seconds","date":"2017-07-26T09:17:52.720Z","type":"quit"}
+{"nick":"rbuckton","reason":"Ping timeout: 240 seconds","date":"2017-07-26T09:21:47.814Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-07-26T09:21:48.507Z","type":"join"}
+{"nick":"basicdays1","date":"2017-07-26T09:21:48.561Z","type":"join"}
+{"nick":"rbuckton","date":"2017-07-26T09:25:37.856Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 240 seconds","date":"2017-07-26T09:29:57.764Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T09:32:02.138Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-07-26T09:46:56.738Z","type":"quit"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T09:48:08.084Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-07-26T09:49:20.161Z","type":"join"}
+{"nick":"rbuckton","date":"2017-07-26T09:51:08.916Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 276 seconds","date":"2017-07-26T10:01:25.732Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T10:07:30.644Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T10:10:28.957Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T10:13:27.514Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T10:16:28.032Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T10:22:27.068Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-07-26T10:25:11.065Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-07-26T10:25:41.843Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 240 seconds","date":"2017-07-26T10:26:52.036Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T10:28:25.030Z","type":"join"}
+{"nick":"rbuckton","reason":"Read error: Connection reset by peer","date":"2017-07-26T10:28:35.993Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T10:31:22.475Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 248 seconds","date":"2017-07-26T10:35:45.473Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T10:37:21.566Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 248 seconds","date":"2017-07-26T10:41:37.417Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T10:42:46.975Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 255 seconds","date":"2017-07-26T10:47:19.947Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T10:52:21.475Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 240 seconds","date":"2017-07-26T10:56:35.489Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-07-26T11:05:16.069Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T11:05:33.555Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T11:07:20.640Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T11:22:18.937Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-07-26T11:26:21.605Z","type":"quit"}
+{"nick":"rbuckton","reason":"Ping timeout: 255 seconds","date":"2017-07-26T11:26:28.872Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T11:31:17.512Z","type":"join"}
+{"nick":"jmdyck","date":"2017-07-26T11:32:26.682Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 248 seconds","date":"2017-07-26T11:35:29.521Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T11:37:10.912Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T11:58:36.018Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T11:59:06.557Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 240 seconds","date":"2017-07-26T12:08:21.989Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T12:08:42.550Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 240 seconds","date":"2017-07-26T12:13:05.527Z","type":"quit"}
+{"nick":"AtumT","date":"2017-07-26T12:21:04.055Z","type":"join"}
+{"nick":"rbuckton","date":"2017-07-26T12:23:37.936Z","type":"join"}
+{"nick":"rbuckton","reason":"Read error: Connection reset by peer","date":"2017-07-26T12:23:48.960Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T12:38:30.462Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 248 seconds","date":"2017-07-26T12:42:41.477Z","type":"quit"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-07-26T12:47:36.947Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T12:53:29.550Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T12:55:16.925Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T12:55:47.513Z","type":"join"}
+{"nick":"gskachkov","date":"2017-07-26T13:05:55.891Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T13:07:11.821Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T13:07:40.482Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T13:16:05.393Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T13:19:04.331Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T13:22:04.213Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T13:22:13.203Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T13:28:03.051Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T13:31:02.696Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T13:34:02.732Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T13:37:02.650Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T13:39:24.962Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T13:42:59.507Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T13:46:00.565Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-07-26T13:48:47.216Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T13:49:00.854Z","type":"join"}
+{"nick":"gskachkov","date":"2017-07-26T13:49:40.591Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T13:52:01.596Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T13:54:24.479Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 246 seconds","date":"2017-07-26T14:00:52.523Z","type":"quit"}
+{"nick":"rwaldron","message":"https://github.com/tc39/Reflector/issues/79","date":"2017-07-26T14:01:05.044Z","type":"message"}
+{"nick":"gibson042","date":"2017-07-26T14:02:21.627Z","type":"join"}
+{"nick":"rbuckton","date":"2017-07-26T14:03:58.841Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T14:06:56.930Z","type":"quit"}
+{"nick":"gibson042","reason":"Ping timeout: 268 seconds","date":"2017-07-26T14:08:22.627Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T14:09:21.979Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T14:12:57.682Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T14:13:27.241Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-07-26T14:18:00.832Z","type":"join"}
+{"nick":"gibson042","date":"2017-07-26T14:23:04.850Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T14:24:13.542Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-07-26T14:25:37.110Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-07-26T14:34:31.627Z","type":"join"}
+{"nick":"rbuckton","date":"2017-07-26T14:39:10.497Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T14:42:45.506Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-07-26T14:44:27.617Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T14:45:44.481Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T14:48:45.749Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-07-26T14:49:08.434Z","type":"join"}
+{"nick":"rbuckton","date":"2017-07-26T14:49:15.162Z","type":"join"}
+{"nick":"bradleymeck_","date":"2017-07-26T14:52:16.918Z","type":"join"}
+{"nick":"bradleymeck","reason":"Ping timeout: 240 seconds","date":"2017-07-26T14:53:27.877Z","type":"quit"}
+{"nick":"bradleymeck_","new_nick":"bradleymeck","date":"2017-07-26T14:53:28.197Z","type":"nick"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T14:53:58.671Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T14:53:59.556Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T14:57:39.816Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T15:00:39.855Z","type":"join"}
+{"nick":"rbuckton","reason":"Disconnected by services","date":"2017-07-26T15:03:39.816Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T15:04:09.866Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 240 seconds","date":"2017-07-26T15:13:21.826Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-07-26T15:13:44.555Z","type":"join"}
+{"nick":"bradleymeck","reason":"Ping timeout: 255 seconds","date":"2017-07-26T15:23:10.858Z","type":"quit"}
+{"nick":"michaelficarra","date":"2017-07-26T15:34:05.025Z","type":"join"}
+{"nick":"howdoi","date":"2017-07-26T15:38:28.528Z","type":"join"}
+{"nick":"michaelficarra","reason":"Quit: michaelficarra","date":"2017-07-26T16:27:52.390Z","type":"quit"}
+{"nick":"sebmarkbage|away","new_nick":"sebmarkbage","date":"2017-07-26T16:39:40.603Z","type":"nick"}
+{"nick":"caridy","date":"2017-07-26T16:52:02.311Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 258 seconds","date":"2017-07-26T16:57:19.296Z","type":"quit"}
+{"nick":"nobso","date":"2017-07-26T16:59:14.536Z","type":"join"}
+{"nick":"caridy","date":"2017-07-26T17:03:25.708Z","type":"join"}
+{"nick":"michaelficarra","date":"2017-07-26T17:11:15.230Z","type":"join"}
+{"nick":"sgoto","date":"2017-07-26T17:19:03.989Z","type":"join"}
+{"nick":"rbuckton","date":"2017-07-26T17:19:17.628Z","type":"join"}
+{"nick":"sebmarkbage","new_nick":"sebmarkbage|away","date":"2017-07-26T17:30:55.500Z","type":"nick"}
+{"nick":"sgoto","reason":"Ping timeout: 260 seconds","date":"2017-07-26T17:52:30.059Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-07-26T18:17:08.388Z","type":"quit"}
+{"nick":"sgoto","date":"2017-07-26T18:22:33.045Z","type":"join"}
+{"nick":"leobalter_","new_nick":"leobalter","date":"2017-07-26T18:28:17.452Z","type":"nick"}
+{"nick":"gskachkov","date":"2017-07-26T18:30:28.013Z","type":"join"}
+{"nick":"benjamn","date":"2017-07-26T18:34:13.908Z","type":"join"}
+{"nick":"littledan","message":"[sourceless code] seems like a good solution to the problem Modable raised last time","date":"2017-07-26T18:42:47.045Z","type":"message"}
+{"nick":"dilijev","message":"rwaldron: dead link?","date":"2017-07-26T18:43:38.051Z","type":"message"}
+{"nick":"rwaldron","message":"dilijev huh?","date":"2017-07-26T18:44:05.378Z","type":"message"}
+{"nick":"dilijev","message":"https://github.com/tc39/Reflector/issues/79 is 404","date":"2017-07-26T18:44:12.609Z","type":"message"}
+{"nick":"rwaldron","message":"Oh, sorry... no. I accidentally posted a private repo link","date":"2017-07-26T18:44:20.760Z","type":"message"}
+{"nick":"dilijev","message":"ah","date":"2017-07-26T18:44:24.399Z","type":"message"}
+{"nick":"dilijev","message":"gotcha","date":"2017-07-26T18:44:25.854Z","type":"message"}
+{"nick":"bterlson","message":"as it hsould be","date":"2017-07-26T18:44:26.327Z","type":"message"}
+{"nick":"bterlson","message":"this is the public channel folks","date":"2017-07-26T18:44:29.710Z","type":"message"}
+{"nick":"rwaldron","message":"bterlson yes, I took my lashings.","date":"2017-07-26T18:44:40.417Z","type":"message"}
+{"nick":"rwaldron","message":":P","date":"2017-07-26T18:44:42.974Z","type":"message"}
+{"nick":"rwaldron","message":";)","date":"2017-07-26T18:44:45.202Z","type":"message"}
+{"nick":"leobalter","message":"we can't reveal our secrets yet","date":"2017-07-26T18:45:03.003Z","type":"message"}
+{"nick":"leobalter","message":"like types syntax","date":"2017-07-26T18:45:11.405Z","type":"message"}
+{"nick":"bterlson","message":"comprehensions are back!!","date":"2017-07-26T18:45:32.404Z","type":"message"}
+{"nick":"leobalter","message":"or extensions for the ternary operator","date":"2017-07-26T18:45:33.326Z","type":"message"}
+{"nick":"sgoto","reason":"Ping timeout: 260 seconds","date":"2017-07-26T18:45:35.078Z","type":"quit"}
+{"nick":"bterlson","message":"quaternary operator gonna be so bomb","date":"2017-07-26T18:45:51.604Z","type":"message"}
+{"nick":"leobalter","message":"yes, it needs to support cancelation tokens","date":"2017-07-26T18:46:07.639Z","type":"message"}
+{"nick":"ljharb","message":"=====","date":"2017-07-26T18:46:27.664Z","type":"message"}
+{"nick":"leobalter","message":"quinary operators, w/ cancelation and finally","date":"2017-07-26T18:46:49.533Z","type":"message"}
+{"nick":"leobalter","message":"ljharb: does ===== results in true if the values have the same bit representation for NaN?","date":"2017-07-26T18:47:45.158Z","type":"message"}
+{"nick":"ljharb","message":"leobalter: you're in my head","date":"2017-07-26T18:48:02.197Z","type":"message"}
+{"nick":"rbuckton","reason":"Remote host closed the connection","date":"2017-07-26T18:52:12.526Z","type":"quit"}
+{"nick":"rbuckton","date":"2017-07-26T18:56:26.406Z","type":"join"}
+{"nick":"sgoto","date":"2017-07-26T18:57:29.986Z","type":"join"}
+{"nick":"dilijev","message":"leobalter: nah you only need ==== for that","date":"2017-07-26T18:58:53.003Z","type":"message"}
+{"nick":"dilijev","message":"===== is if their quantum state is equivalent","date":"2017-07-26T18:59:06.700Z","type":"message"}
+{"nick":"dilijev","message":"Looking at https://github.com/gisenberg/proposal-nullary-coalescing and https://github.com/TC39/proposal-optional-chaining it seems like the Elvis operator should be included too, but a look at the semantics says that the most likely implementation in ES would make `let x = a ?: b` equivalent to `let x = a || b`","date":"2017-07-26T19:13:28.843Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-07-26T19:14:34.707Z","type":"quit"}
+{"nick":"michaelficarra","reason":"Remote host closed the connection","date":"2017-07-26T19:14:37.568Z","type":"quit"}
+{"nick":"ljharb","message":"is ?: the elvis operator, like in php?","date":"2017-07-26T19:14:42.988Z","type":"message"}
+{"nick":"dilijev","message":"yes","date":"2017-07-26T19:14:55.469Z","type":"message"}
+{"nick":"ljharb","message":"if so then yes, it's equivalent to `||`","date":"2017-07-26T19:15:01.038Z","type":"message"}
+{"nick":"ljharb","message":"`?:` would be great if `||` worked like `??` :-p","date":"2017-07-26T19:15:08.446Z","type":"message"}
+{"nick":"dilijev","message":"a ?: b  means a if a is true, otherwise b","date":"2017-07-26T19:15:11.514Z","type":"message"}
+{"nick":"michaelficarra","date":"2017-07-26T19:15:12.518Z","type":"join"}
+{"nick":"ljharb","message":"that's not how it works in php","date":"2017-07-26T19:15:17.125Z","type":"message"}
+{"nick":"ljharb","message":"`a ?: b` in php is equivalent to `a ? a : b`","date":"2017-07-26T19:15:24.534Z","type":"message"}
+{"nick":"dilijev","message":"in ES would be a if a is truthy which is equiv to a || b","date":"2017-07-26T19:15:24.950Z","type":"message"}
+{"nick":"bradleymeck","date":"2017-07-26T19:15:39.499Z","type":"join"}
+{"nick":"dilijev","message":"> `a ?: b` in php is equivalent to `a ? a : b`","date":"2017-07-26T19:15:47.783Z","type":"message"}
+{"nick":"dilijev","message":"yes","date":"2017-07-26T19:15:51.153Z","type":"message"}
+{"nick":"ljharb","message":"it's because in php, `a || b` returns a boolean, whereas in JS it's value selection. so in php, `?:` is value selection, which is JS's || mechanics.","date":"2017-07-26T19:15:51.247Z","type":"message"}
+{"nick":"ljharb","message":"oh sorry i'd misread your comment","date":"2017-07-26T19:16:03.183Z","type":"message"}
+{"nick":"dilijev","message":"a if a is true, otherwise b","date":"2017-07-26T19:16:05.829Z","type":"message"}
+{"nick":"dilijev","message":"in ES s/true/truthy/","date":"2017-07-26T19:16:15.224Z","type":"message"}
+{"nick":"dilijev","message":"er, yeah i'm talking about ES || operator","date":"2017-07-26T19:16:34.538Z","type":"message"}
+{"nick":"dilijev","message":"not PHP","date":"2017-07-26T19:16:38.271Z","type":"message"}
+{"nick":"ljharb","message":"so yeah basically we need two operators - value selection \"or\", and nullary coalescing - in JS, that's `||` and `??`","date":"2017-07-26T19:16:42.959Z","type":"message"}
+{"nick":"dilijev","message":"right","date":"2017-07-26T19:16:47.761Z","type":"message"}
+{"nick":"ljharb","message":"in php they added \"boolean or\" as `||`, so they had to get value selection \"or\" with `?:`","date":"2017-07-26T19:17:01.300Z","type":"message"}
+{"nick":"dilijev","message":"right","date":"2017-07-26T19:17:05.793Z","type":"message"}
+{"nick":"ljharb","message":"they don't have nullary coalescing, i think","date":"2017-07-26T19:17:06.735Z","type":"message"}
+{"nick":"dilijev","message":"yeah i don't know much about php -- not sure i'd point to that as good language design in general","date":"2017-07-26T19:17:21.521Z","type":"message"}
+{"nick":"dilijev","message":"considering the general principle that everything can have side effects in JS, and the unweildiness of assigning multiple intermediate variables and doing the checking, these operators would be a huge boon","date":"2017-07-26T19:19:08.678Z","type":"message"}
+{"nick":"bradleymeck","reason":"Client Quit","date":"2017-07-26T19:19:24.854Z","type":"quit"}
+{"nick":"dilijev","message":"^ imho","date":"2017-07-26T19:19:25.683Z","type":"message"}
+{"nick":"ljharb","message":"?? in particular, yes","date":"2017-07-26T19:22:22.299Z","type":"message"}
+{"nick":"Fishrock123","date":"2017-07-26T19:24:46.671Z","type":"join"}
+{"nick":"rbuckton","reason":"Ping timeout: 240 seconds","date":"2017-07-26T19:38:30.435Z","type":"quit"}
+{"nick":"benjamn","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-07-26T19:54:59.956Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T19:55:19.507Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T19:55:45.425Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T19:56:07.493Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T19:56:32.606Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T19:56:55.940Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T19:57:21.106Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T19:57:50.964Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T19:58:09.121Z","type":"quit"}
+{"nick":"sgoto","reason":"Ping timeout: 260 seconds","date":"2017-07-26T19:58:30.009Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T19:58:40.955Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T19:58:57.112Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T19:59:28.354Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T19:59:44.763Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T20:00:17.950Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T20:00:33.020Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T20:01:06.651Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T20:01:20.944Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T20:01:54.508Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T20:02:08.929Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T20:02:43.476Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T20:02:56.937Z","type":"quit"}
+{"nick":"benjamn","date":"2017-07-26T20:03:27.144Z","type":"join"}
+{"nick":"benjamn","reason":"Client Quit","date":"2017-07-26T20:03:44.941Z","type":"quit"}
+{"nick":"sebmarkbage|away","new_nick":"sebmarkbage","date":"2017-07-26T20:28:13.255Z","type":"nick"}
+{"nick":"dilijev","message":"I think the combination of ?. and ?? really","date":"2017-07-26T21:00:31.824Z","type":"message"}
+{"nick":"dilijev","message":"also we look like we're very confused in this conversation because of all the question marks lol","date":"2017-07-26T21:01:00.299Z","type":"message"}
+{"nick":"benjamn","date":"2017-07-26T21:01:04.629Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-07-26T21:01:33.581Z","type":"join"}
+{"nick":"ljharb","message":"⸮⸮","date":"2017-07-26T21:11:59.010Z","type":"message"}
+{"nick":"leobalter","message":"¡","date":"2017-07-26T21:13:31.978Z","type":"message"}
+{"nick":"leobalter","message":"¡¡","date":"2017-07-26T21:13:34.457Z","type":"message"}
+{"nick":"michaelficarra","message":"0294 ;\t003F ;\tMA\t# ( ʔ → ? ) LATIN LETTER GLOTTAL STOP → QUESTION MARK\t#","date":"2017-07-26T21:17:11.397Z","type":"message"}
+{"nick":"michaelficarra","message":"0241 ;\t003F ;\tMA\t# ( Ɂ → ? ) LATIN CAPITAL LETTER GLOTTAL STOP → QUESTION MARK\t# →ʔ→","date":"2017-07-26T21:17:13.424Z","type":"message"}
+{"nick":"michaelficarra","message":"097D ;\t003F ;\tMA\t# ( ॽ → ? ) DEVANAGARI LETTER GLOTTAL STOP → QUESTION MARK\t#","date":"2017-07-26T21:17:15.551Z","type":"message"}
+{"nick":"michaelficarra","message":"13AE ;\t003F ;\tMA\t# ( Ꭾ → ? ) CHEROKEE LETTER HE → QUESTION MARK\t# →Ɂ→→ʔ→","date":"2017-07-26T21:17:17.514Z","type":"message"}
+{"nick":"michaelficarra","message":"A6EB ;\t003F ;\tMA\t# ( ꛫ → ? ) BAMUM LETTER NTUU → QUESTION MARK\t# →ʔ→","date":"2017-07-26T21:17:19.474Z","type":"message"}
+{"nick":"dilijev","message":"https://github.com/tc39/agendas/blob/master/2017/07.md linked to http://wirfs-brock.com/allen/files/papers/standpats-asianplop2016.pdf -- interesting reading.","date":"2017-07-26T21:18:59.589Z","type":"message"}
+{"nick":"dilijev","message":"the bit in Section 4.1 :: Know the History","date":"2017-07-26T21:19:01.301Z","type":"message"}
+{"nick":"dilijev","message":"makes me wonder, what's the best place to review rejected proposals?","date":"2017-07-26T21:19:09.975Z","type":"message"}
+{"nick":"dilijev","message":"besides meeting minutes (which are difficult to consume when looking for specific information)","date":"2017-07-26T21:19:28.389Z","type":"message"}
+{"nick":"michaelficarra","message":"recently rejected proposals are still on github","date":"2017-07-26T21:19:40.512Z","type":"message"}
+{"nick":"michaelficarra","message":"ancient rejected proposals are on the old ecmascript wiki","date":"2017-07-26T21:19:51.569Z","type":"message"}
+{"nick":"michaelficarra","message":"and usually have a bunch of es-discuss mails associated","date":"2017-07-26T21:20:08.302Z","type":"message"}
+{"nick":"ljharb","message":"dilijev: i'd be happy to accept a PR adding older rejected proposals to the proposals repo - but ideally not ones that only have ecmascript wiki links :-)","date":"2017-07-26T21:21:46.491Z","type":"message"}
+{"nick":"dilijev","message":"maybe a link to the relevant wiki pages would actually be a good idea","date":"2017-07-26T21:22:18.295Z","type":"message"}
+{"nick":"dilijev","message":"This is the first time I'm hearing that things older then the ones listed on GitHub existed :)","date":"2017-07-26T21:22:42.328Z","type":"message"}
+{"nick":"sgoto","date":"2017-07-26T21:25:38.995Z","type":"join"}
+{"nick":"ljharb","message":"dilijev: github is basically new with ES6","date":"2017-07-26T21:29:31.821Z","type":"message"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-07-26T21:43:40.110Z","type":"quit"}
+{"nick":"dilijev","message":"Is this the wiki you were referring to? http://tc39wiki.calculist.org/es6/","date":"2017-07-26T21:45:58.503Z","type":"message"}
+{"nick":"dilijev","message":"michaelficarra: ljharb: ^","date":"2017-07-26T21:46:24.729Z","type":"message"}
+{"nick":"ljharb","message":"ha, no","date":"2017-07-26T21:46:37.211Z","type":"message"}
+{"nick":"ljharb","message":"http://wiki.ecmascript.org","date":"2017-07-26T21:46:42.249Z","type":"message"}
+{"nick":"michaelficarra","message":"which has been down for a while, so you'll have to access it from archive.org","date":"2017-07-26T21:47:13.912Z","type":"message"}
+{"nick":"dilijev","message":"ah tuy","date":"2017-07-26T21:47:38.244Z","type":"message"}
+{"nick":"dilijev","message":"*ty","date":"2017-07-26T21:47:41.118Z","type":"message"}
+{"nick":"michaelficarra","message":"🙃","date":"2017-07-26T21:47:42.916Z","type":"message"}
+{"nick":"dilijev","message":"so i guess i'm in the right place now :P","date":"2017-07-26T21:51:10.931Z","type":"message"}
+{"nick":"dilijev","message":"https://web.archive.org/web/20161123164855/http://wiki.ecmascript.org/doku.php","date":"2017-07-26T21:51:11.401Z","type":"message"}
+{"nick":"michaelficarra","message":"yes, unfortunately","date":"2017-07-26T21:51:36.482Z","type":"message"}
+{"nick":"michaelficarra","message":"there's still valuable info there","date":"2017-07-26T21:51:52.712Z","type":"message"}
+{"nick":"sebmarkbage","new_nick":"sebmarkbage|away","date":"2017-07-26T21:57:01.661Z","type":"nick"}
+{"nick":"sebmarkbage|away","new_nick":"sebmarkbage","date":"2017-07-26T21:58:04.375Z","type":"nick"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-07-26T22:26:24.195Z","type":"quit"}
+{"nick":"nobso","reason":"Quit: nobso","date":"2017-07-26T22:29:18.726Z","type":"quit"}
+{"nick":"nobso","date":"2017-07-26T22:31:09.856Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-07-26T22:37:34.958Z","type":"quit"}
+{"nick":"sgoto","reason":"Ping timeout: 260 seconds","date":"2017-07-26T22:37:45.022Z","type":"quit"}
+{"nick":"sebmarkbage","new_nick":"sebmarkbage|away","date":"2017-07-26T22:39:41.781Z","type":"nick"}
+{"nick":"sebmarkbage|away","new_nick":"sebmarkbage","date":"2017-07-26T22:40:00.203Z","type":"nick"}
+{"nick":"bradleymeck","date":"2017-07-26T23:02:34.706Z","type":"join"}
+{"nick":"sgoto","date":"2017-07-26T23:18:32.028Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-07-26T23:20:25.449Z","type":"quit"}
+{"nick":"sam_____","date":"2017-07-26T23:20:56.911Z","type":"join"}
+{"nick":"caridy","date":"2017-07-26T23:20:58.525Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-07-26T23:23:13.630Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-07-26T23:25:38.860Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-07-26T23:43:14.975Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-07-26T23:45:30.720Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-07-26T23:58:31.512Z","type":"quit"}

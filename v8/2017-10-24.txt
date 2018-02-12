@@ -1,0 +1,126 @@
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-10-24T00:13:05.501Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-24T00:26:12.682Z","type":"join"}
+{"nick":"plutoniix","reason":"Max SendQ exceeded","date":"2017-10-24T00:26:23.655Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-24T00:27:05.635Z","type":"join"}
+{"nick":"plutoniix","reason":"Quit: Leaving","date":"2017-10-24T00:58:20.204Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-24T01:21:17.678Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-10-24T01:25:21.619Z","type":"quit"}
+{"nick":"Bakkot","date":"2017-10-24T02:10:17.574Z","type":"join"}
+{"nick":"plutoniix","date":"2017-10-24T02:13:03.386Z","type":"join"}
+{"nick":"joyee","date":"2017-10-24T02:35:33.113Z","type":"join"}
+{"nick":"plutoniix","reason":"Quit: Leaving","date":"2017-10-24T04:31:17.719Z","type":"quit"}
+{"nick":"Bakkot","reason":"Ping timeout: 248 seconds","date":"2017-10-24T05:44:01.562Z","type":"quit"}
+{"nick":"Bakkot","date":"2017-10-24T05:45:41.919Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-24T06:13:16.979Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-24T06:13:48.464Z","type":"join"}
+{"nick":"plutoniix","date":"2017-10-24T06:25:17.893Z","type":"join"}
+{"nick":"Bakkot","reason":"Ping timeout: 255 seconds","date":"2017-10-24T06:32:59.911Z","type":"quit"}
+{"nick":"Bakkot","date":"2017-10-24T06:35:23.549Z","type":"join"}
+{"nick":"plutoniix","reason":"Quit: Leaving","date":"2017-10-24T06:35:51.326Z","type":"quit"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-24T06:51:56.165Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-24T06:53:34.967Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 255 seconds","date":"2017-10-24T06:57:49.889Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-24T07:43:23.688Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-24T07:44:34.310Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-24T07:47:26.512Z","type":"join"}
+{"nick":"joyee","date":"2017-10-24T07:47:31.925Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-24T08:02:39.536Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-24T08:04:59.473Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-24T08:09:59.183Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-24T08:17:36.817Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-10-24T08:21:57.853Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-24T08:27:52.076Z","type":"join"}
+{"nick":"jwolfe_","reason":"Ping timeout: 248 seconds","date":"2017-10-24T08:28:48.103Z","type":"quit"}
+{"nick":"jwolfe_","date":"2017-10-24T08:41:13.507Z","type":"join"}
+{"nick":"xaxxon","date":"2017-10-24T08:44:18.991Z","type":"join"}
+{"nick":"AtumT","date":"2017-10-24T09:24:28.842Z","type":"join"}
+{"nick":"xaxxon","reason":"Ping timeout: 252 seconds","date":"2017-10-24T09:41:14.096Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-24T09:44:37.917Z","type":"join"}
+{"nick":"plutoniix","reason":"Quit: Leaving","date":"2017-10-24T10:24:54.522Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-24T10:25:08.613Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-24T10:25:39.494Z","type":"join"}
+{"nick":"kenansulayman","reason":"Remote host closed the connection","date":"2017-10-24T10:43:06.328Z","type":"quit"}
+{"nick":"kenansulayman","date":"2017-10-24T10:50:08.100Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-24T11:29:33.679Z","type":"quit"}
+{"nick":"xaxxon","reason":"Ping timeout: 255 seconds","date":"2017-10-24T11:41:14.933Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-24T11:45:27.816Z","type":"join"}
+{"nick":"joyee","date":"2017-10-24T12:01:35.034Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-10-24T12:05:51.996Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-24T13:13:31.554Z","type":"join"}
+{"nick":"bradleymeck","message":"is there any advantage to using v8::Privates on a v8::Context to store references over v8::Persistents (I think it would actually be a net negative?)?","date":"2017-10-24T13:26:38.731Z","type":"message"}
+{"nick":"bradleymeck","message":"afk sec","date":"2017-10-24T13:31:50.583Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-24T13:31:52.187Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-24T13:37:41.490Z","type":"join"}
+{"nick":"xaxxon","reason":"Ping timeout: 252 seconds","date":"2017-10-24T13:44:19.980Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-24T13:54:36.692Z","type":"join"}
+{"nick":"joyee","reason":"Client Quit","date":"2017-10-24T13:55:10.313Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-24T14:09:54.131Z","type":"join"}
+{"nick":"xaxxon","reason":"Quit: xaxxon","date":"2017-10-24T15:36:09.473Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-24T15:45:24.646Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-24T15:56:55.814Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-24T16:09:14.659Z","type":"quit"}
+{"nick":"seventh","date":"2017-10-24T16:09:23.036Z","type":"join"}
+{"nick":"RT|Chatzilla","reason":"Quit: ChatZilla 0.9.86.1 [Firefox 2.0.0.22pre/2010030309]","date":"2017-10-24T16:20:54.495Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-24T16:22:09.682Z","type":"join"}
+{"nick":"plutoniix","reason":"Max SendQ exceeded","date":"2017-10-24T16:22:48.644Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-24T16:23:19.645Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-24T16:46:26.019Z","type":"join"}
+{"nick":"aklein","message":"bradleymeck: Privates need to be attached to a v8::Object, not a v8::Context","date":"2017-10-24T16:50:53.015Z","type":"message"}
+{"nick":"aklein","message":"they should be thought of as just like a named property","date":"2017-10-24T16:51:09.039Z","type":"message"}
+{"nick":"bradleymeck","message":"@aklein context->Global","date":"2017-10-24T16:51:09.583Z","type":"message"}
+{"nick":"aklein","message":"ah","date":"2017-10-24T16:51:14.943Z","type":"message"}
+{"nick":"aklein","message":"well, if they're tied to the lifetime of the context, then it might make sense","date":"2017-10-24T16:51:36.151Z","type":"message"}
+{"nick":"bradleymeck","message":"aklein: easier to debug than random persistents in C++ we have right now","date":"2017-10-24T16:52:00.326Z","type":"message"}
+{"nick":"bradleymeck","message":"down from 7 to 3","date":"2017-10-24T16:52:12.608Z","type":"message"}
+{"nick":"bradleymeck","message":"but its all guesswork now","date":"2017-10-24T16:52:25.722Z","type":"message"}
+{"nick":"aklein","message":"bradleymeck: I can't think of particular downsides actually, the global object already has a ton of properties anyway, right?","date":"2017-10-24T16:52:26.780Z","type":"message"}
+{"nick":"bradleymeck","message":"it has many yea","date":"2017-10-24T16:52:36.813Z","type":"message"}
+{"nick":"aklein","message":"don't you need to store the v8::Private somewhere though?","date":"2017-10-24T16:52:52.887Z","type":"message"}
+{"nick":"aklein","message":"feels like you will eventually need a Persistent handle","date":"2017-10-24T16:53:07.143Z","type":"message"}
+{"nick":"bradleymeck","message":"aklein: depends, I'm using ForAPI for now","date":"2017-10-24T16:53:16.388Z","type":"message"}
+{"nick":"seventh","reason":"Remote host closed the connection","date":"2017-10-24T17:05:45.452Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-24T17:28:33.207Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-24T17:36:07.176Z","type":"join"}
+{"nick":"joyee","date":"2017-10-24T17:38:27.095Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-24T17:44:43.964Z","type":"join"}
+{"nick":"plutoniix","reason":"Read error: Connection reset by peer","date":"2017-10-24T17:48:07.397Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-24T18:05:04.680Z","type":"join"}
+{"nick":"plutoniix","reason":"Read error: Connection reset by peer","date":"2017-10-24T18:07:35.697Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-24T18:24:27.310Z","type":"join"}
+{"nick":"plutoniix","reason":"Read error: Connection reset by peer","date":"2017-10-24T18:28:21.577Z","type":"quit"}
+{"nick":"aklein","message":"bradleymeck: ah, forgot about ForApi(), that does hold onto them for you (internally it uses something very similar to persistent handles)","date":"2017-10-24T18:31:38.292Z","type":"message"}
+{"nick":"aklein","message":"but not identical to persistent handles :)","date":"2017-10-24T18:31:50.820Z","type":"message"}
+{"nick":"plutoniix","date":"2017-10-24T18:45:17.588Z","type":"join"}
+{"nick":"plutoniix","reason":"Read error: Connection reset by peer","date":"2017-10-24T19:02:28.873Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-24T19:19:39.093Z","type":"join"}
+{"nick":"plutoniix","reason":"Read error: Connection reset by peer","date":"2017-10-24T19:20:23.841Z","type":"quit"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-24T19:22:17.365Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-24T19:22:49.309Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 264 seconds","date":"2017-10-24T19:27:22.281Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-24T19:36:54.922Z","type":"join"}
+{"nick":"xaxxon","reason":"Ping timeout: 252 seconds","date":"2017-10-24T19:38:32.515Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-24T19:52:57.782Z","type":"join"}
+{"nick":"plutoniix","reason":"Read error: Connection reset by peer","date":"2017-10-24T20:15:34.711Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-24T20:32:18.944Z","type":"join"}
+{"nick":"xaxxon","reason":"Quit: xaxxon","date":"2017-10-24T20:43:39.719Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-24T21:04:26.610Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 258 seconds","date":"2017-10-24T21:08:57.625Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-24T21:10:05.972Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 255 seconds","date":"2017-10-24T21:14:32.921Z","type":"quit"}
+{"nick":"plutoniix","reason":"Read error: Connection reset by peer","date":"2017-10-24T21:53:14.503Z","type":"quit"}
+{"nick":"plutoniix","date":"2017-10-24T22:10:02.814Z","type":"join"}
+{"nick":"joyee","date":"2017-10-24T22:10:47.561Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-10-24T22:15:21.421Z","type":"quit"}
+{"nick":"RT|Chatzilla","date":"2017-10-24T22:26:44.506Z","type":"join"}
+{"nick":"plutoniix","reason":"Quit: Leaving","date":"2017-10-24T22:31:30.281Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-24T22:34:58.410Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-24T22:45:29.624Z","type":"join"}
+{"nick":"joyee","date":"2017-10-24T22:51:38.491Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 255 seconds","date":"2017-10-24T22:56:41.931Z","type":"quit"}
+{"nick":"stalled","reason":"Read error: Connection reset by peer","date":"2017-10-24T23:32:37.514Z","type":"quit"}
+{"nick":"xaxxon","reason":"Quit: xaxxon","date":"2017-10-24T23:45:19.752Z","type":"quit"}
+{"nick":"xaxxon","date":"2017-10-24T23:48:26.957Z","type":"join"}
+{"nick":"stalled","date":"2017-10-24T23:49:43.005Z","type":"join"}
+{"nick":"Ultrasauce","date":"2017-10-24T23:52:01.540Z","type":"join"}
+{"nick":"plutoniix","date":"2017-10-24T23:54:19.891Z","type":"join"}
+{"nick":"xaxxon","reason":"Quit: xaxxon","date":"2017-10-24T23:58:54.965Z","type":"quit"}

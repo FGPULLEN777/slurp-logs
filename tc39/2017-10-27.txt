@@ -1,0 +1,109 @@
+{"nick":"gkatsev","reason":"Ping timeout: 264 seconds","date":"2017-10-27T01:17:46.376Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-10-27T01:33:19.406Z","type":"quit"}
+{"nick":"jwalden","reason":"Quit: back later","date":"2017-10-27T02:40:00.295Z","type":"quit"}
+{"nick":"gkatsev","date":"2017-10-27T03:20:35.527Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 258 seconds","date":"2017-10-27T04:13:40.715Z","type":"quit"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2017-10-27T05:02:13.145Z","type":"quit"}
+{"nick":"littledan","message":"annevk: Do you mean locale tag regions or localized country names?","date":"2017-10-27T07:59:39.523Z","type":"message"}
+{"nick":"littledan","message":"this is a thread about that topic generally: https://github.com/tc39/ecma402/issues/31","date":"2017-10-27T08:00:46.984Z","type":"message"}
+{"nick":"littledan","message":"do you have a link for the input type=country discussion?","date":"2017-10-27T08:01:13.001Z","type":"message"}
+{"nick":"littledan","message":"(the link is more about what would be useful for <input>--the names in human language)","date":"2017-10-27T08:01:35.042Z","type":"message"}
+{"nick":"isHavvy","message":"But what if I care about the difference between United States and United States Outerlying Islands? </snark>","date":"2017-10-27T08:01:48.691Z","type":"message"}
+{"nick":"littledan","message":"maybe it would make sense to add these as methods on Intl.Locale","date":"2017-10-27T08:02:17.008Z","type":"message"}
+{"nick":"littledan","message":"(at Stage 1, but the follow-on to add methods isn't introduced)","date":"2017-10-27T08:02:26.407Z","type":"message"}
+{"nick":"annevk","message":"littledan: https://twitter.com/LeaVerou/status/923312367815024640","date":"2017-10-27T08:05:32.984Z","type":"message"}
+{"nick":"annevk","message":"littledan: primitives I'm thinking of are 1) a list of countries or list of \"valid\" two-letter codes 2) two-letter codes to country names and vice versa 3) localized country names","date":"2017-10-27T08:06:12.009Z","type":"message"}
+{"nick":"annevk","message":"littledan: does that help?","date":"2017-10-27T08:06:34.276Z","type":"message"}
+{"nick":"littledan","message":"yeah, that would make sense","date":"2017-10-27T08:06:54.618Z","type":"message"}
+{"nick":"littledan","message":"this definitely ties into Mozilla's existing goals about exposing more strings, but it could be hard sell to the committee, who has expressed concern in the past about the amount of space it would take up","date":"2017-10-27T08:07:39.453Z","type":"message"}
+{"nick":"littledan","message":"i imagine once you have the data, the custom element polyfill would be like 1k of code, right?","date":"2017-10-27T08:08:20.964Z","type":"message"}
+{"nick":"littledan","message":"or less","date":"2017-10-27T08:08:28.217Z","type":"message"}
+{"nick":"annevk","message":"Yeah, just need to iterate and create option elements","date":"2017-10-27T08:08:50.545Z","type":"message"}
+{"nick":"annevk","message":"I'll copy Lea on that thread you pointed to, thanks","date":"2017-10-27T08:08:59.585Z","type":"message"}
+{"nick":"littledan","message":"makes me happy that people are interested in these things; sometimes it can be hard to tell","date":"2017-10-27T08:09:45.864Z","type":"message"}
+{"nick":"annevk","message":"There's so much going on that it's probably hard to know where to look for most folks","date":"2017-10-27T08:10:39.113Z","type":"message"}
+{"nick":"annevk","message":"I doubt there's much Ecma-402 awareness","date":"2017-10-27T08:10:58.766Z","type":"message"}
+{"nick":"gskachkov","date":"2017-10-27T08:24:21.960Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-27T10:25:12.501Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-27T10:25:43.132Z","type":"join"}
+{"nick":"AtumT","date":"2017-10-27T10:41:06.469Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-27T12:25:11.167Z","type":"quit"}
+{"nick":"jmdyck","date":"2017-10-27T12:39:11.679Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-27T13:13:57.972Z","type":"join"}
+{"nick":"gskachkov","date":"2017-10-27T13:22:21.790Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-27T13:43:06.321Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-27T13:49:25.247Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-27T13:53:46.929Z","type":"join"}
+{"nick":"gskachkov","date":"2017-10-27T13:59:32.062Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-27T14:28:47.674Z","type":"quit"}
+{"nick":"gkatsev","reason":"Remote host closed the connection","date":"2017-10-27T14:42:32.894Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-27T14:49:33.315Z","type":"quit"}
+{"nick":"gkatsev","date":"2017-10-27T14:59:43.704Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-27T15:22:33.938Z","type":"join"}
+{"nick":"gskachkov","date":"2017-10-27T15:24:35.705Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-27T15:52:53.487Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-27T17:00:47.895Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-27T17:06:42.626Z","type":"join"}
+{"nick":"AtumT_","date":"2017-10-27T18:03:26.918Z","type":"join"}
+{"nick":"gskachkov","date":"2017-10-27T18:05:55.186Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 248 seconds","date":"2017-10-27T18:06:25.465Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-27T18:07:27.458Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-27T18:13:09.078Z","type":"quit"}
+{"nick":"AtumT","date":"2017-10-27T18:16:52.365Z","type":"join"}
+{"nick":"AtumT_","reason":"Ping timeout: 240 seconds","date":"2017-10-27T18:17:27.847Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-27T18:18:03.919Z","type":"join"}
+{"nick":"bradleymeck","reason":"Client Quit","date":"2017-10-27T18:22:37.214Z","type":"quit"}
+{"nick":"jwalden","date":"2017-10-27T18:26:43.585Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-27T19:06:20.680Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-27T19:41:03.795Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-27T19:41:38.919Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 255 seconds","date":"2017-10-27T19:45:53.865Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-27T19:55:15.601Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-27T19:57:52.973Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-27T20:02:23.746Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-27T20:03:43.504Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-27T20:29:21.914Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-10-27T20:31:01.114Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-10-27T21:05:43.008Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 255 seconds","date":"2017-10-27T21:10:02.939Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-27T21:11:07.413Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-27T21:22:55.681Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-10-27T21:37:28.312Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2017-10-27T22:00:32.875Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-27T22:14:38.536Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-27T22:14:57.706Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-27T22:15:23.652Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-27T22:27:13.897Z","type":"join"}
+{"nick":"aklein","message":"ljharb: I've asked before, but I can't remember where we left it; can we move \"global\" back to stage 2? I think it's gotten all the implementation feedback it's going to get with the current state of the spec, but I don't think anyone can ship it as is.","date":"2017-10-27T23:30:03.074Z","type":"message"}
+{"nick":"ljharb","message":"i think it was brought up, but generally there's a desire not to downgrade things i think","date":"2017-10-27T23:30:40.357Z","type":"message"}
+{"nick":"ljharb","message":"we did the same thing with private fields last month (leaving it at stage 3)","date":"2017-10-27T23:30:57.955Z","type":"message"}
+{"nick":"ljharb","message":"basically i just have to come up with a name that 1+ browsers is willing to try out; i'm not sure that really warrants stage 2","date":"2017-10-27T23:31:21.041Z","type":"message"}
+{"nick":"aklein","message":"ljharb: it's just something of a pain point for tracking; I have to skip over it every time I want to check that I'm covering all my \"stage 3\" bases","date":"2017-10-27T23:31:55.547Z","type":"message"}
+{"nick":"aklein","message":"and unlike, say, private fields, it's not really useful to have behind a flag","date":"2017-10-27T23:32:13.829Z","type":"message"}
+{"nick":"bterlson","message":"#LeadProblems","date":"2017-10-27T23:32:16.884Z","type":"message"}
+{"nick":"aklein","message":"bterlson: :)","date":"2017-10-27T23:32:27.174Z","type":"message"}
+{"nick":"aklein","message":"bterlson: I'm recalling you pestering me about Object.observe's stage a couple years ago...","date":"2017-10-27T23:32:53.104Z","type":"message"}
+{"nick":"ljharb","message":"well, i mean, there's like 12 options in the reflector thread :-p you could always do us all a solid and ship code that determines if any of them have a conflict","date":"2017-10-27T23:32:55.457Z","type":"message"}
+{"nick":"ljharb","message":"probably much more efficient than picking 1, waiting a few months, rolling back, picking another, repeat","date":"2017-10-27T23:33:14.546Z","type":"message"}
+{"nick":"aklein","message":"ljharb: people have strong enough opinions about the name of this thing that I don't feel like that's a good use of time. I mean, I'm pretty sure we could ship \"TheGlobalObject\" but I don't think TC39 would agree to standardize that","date":"2017-10-27T23:35:06.996Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-27T23:35:17.203Z","type":"quit"}
+{"nick":"ljharb","message":"sure, true","date":"2017-10-27T23:35:19.976Z","type":"message"}
+{"nick":"Fishrock123","date":"2017-10-27T23:35:36.117Z","type":"join"}
+{"nick":"ljharb","message":"there's a few options like \"GLOBAL\" or \"globals\" that might be worth trying tho","date":"2017-10-27T23:35:46.024Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-27T23:36:02.276Z","type":"quit"}
+{"nick":"bterlson","message":"import global from \"js:global\";","date":"2017-10-27T23:36:43.299Z","type":"message"}
+{"nick":"ljharb","message":"how impossible is it to just, like, grab a report of all global variable names that are in use? :-p","date":"2017-10-27T23:36:48.158Z","type":"message"}
+{"nick":"ljharb","message":"bterlson: trolololo","date":"2017-10-27T23:36:53.695Z","type":"message"}
+{"nick":"bterlson","message":"not trolling, I like built-in modules","date":"2017-10-27T23:37:03.968Z","type":"message"}
+{"nick":"bterlson","message":"ljharb: it would be much work for me fwiw","date":"2017-10-27T23:37:23.041Z","type":"message"}
+{"nick":"ljharb","message":"i do too, but they in no way obviate the need for global variables for all new things imo","date":"2017-10-27T23:37:31.892Z","type":"message"}
+{"nick":"ljharb","message":"so imo it's orthogonal","date":"2017-10-27T23:37:35.754Z","type":"message"}
+{"nick":"ljharb","message":"but that's really a whole nother discussion :-)","date":"2017-10-27T23:37:47.743Z","type":"message"}
+{"nick":"bterlson","message":"well it's gonna be hard to get a global for this","date":"2017-10-27T23:38:06.004Z","type":"message"}
+{"nick":"bterlson","message":"do you want a built-in module or nothing? :-P","date":"2017-10-27T23:38:11.497Z","type":"message"}
+{"nick":"ljharb","message":"why_not_both.jpg","date":"2017-10-27T23:38:24.875Z","type":"message"}
+{"nick":"ljharb","message":"wait, not nothing. crap","date":"2017-10-27T23:38:29.794Z","type":"message"}
+{"nick":"ljharb","message":":-p","date":"2017-10-27T23:38:40.795Z","type":"message"}
+{"nick":"aklein","message":"also, jpg? don't you want animation?","date":"2017-10-27T23:38:58.811Z","type":"message"}
+{"nick":"ljharb","message":"s/jpg/gif","date":"2017-10-27T23:39:14.971Z","type":"message"}
+{"nick":"bterlson","message":"to be fair, the union of something and nothing is just that something so why not both kinda works","date":"2017-10-27T23:40:45.677Z","type":"message"}

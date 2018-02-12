@@ -1,0 +1,48 @@
+{"nick":"bradleymeck","date":"2017-08-19T00:16:39.559Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-19T00:31:11.166Z","type":"quit"}
+{"nick":"duaneb","date":"2017-08-19T00:47:45.451Z","type":"join"}
+{"nick":"AtumT_","date":"2017-08-19T00:51:22.523Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 240 seconds","date":"2017-08-19T00:53:57.778Z","type":"quit"}
+{"nick":"AtumT_","reason":"Remote host closed the connection","date":"2017-08-19T01:01:57.469Z","type":"quit"}
+{"nick":"jmdyck","message":"TabAtkins: I was only saying that you can't make multiple ids the id attribute of the h1 element.","date":"2017-08-19T01:08:58.739Z","type":"message"}
+{"nick":"jmdyck","message":"(as some old ids are currently)","date":"2017-08-19T01:11:08.418Z","type":"message"}
+{"nick":"TabAtkins","message":"Yeah, the H1 already has an id, *none*of the oldids should be on it","date":"2017-08-19T01:11:29.937Z","type":"message"}
+{"nick":"jmdyck","message":"No, most of the <h1> in spec.html don't have any attributes.","date":"2017-08-19T01:12:40.395Z","type":"message"}
+{"nick":"jmdyck","message":"The only ones that do are the ones with an id='oldid' attr","date":"2017-08-19T01:13:18.939Z","type":"message"}
+{"nick":"duaneb","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-08-19T01:28:44.224Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2017-08-19T01:40:59.908Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-08-19T02:44:17.012Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-19T03:24:20.943Z","type":"quit"}
+{"nick":"howdoi","date":"2017-08-19T03:53:48.646Z","type":"join"}
+{"nick":"cloudshu","reason":"Quit: Connection closed for inactivity","date":"2017-08-19T04:55:06.700Z","type":"quit"}
+{"nick":"jmdyck","reason":"Quit: Leaving.","date":"2017-08-19T04:56:32.044Z","type":"quit"}
+{"nick":"gskachkov","reason":"Read error: Connection reset by peer","date":"2017-08-19T07:40:01.985Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-08-19T07:43:07.485Z","type":"join"}
+{"nick":"gskachkov","reason":"Read error: Connection reset by peer","date":"2017-08-19T10:18:16.487Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-08-19T10:22:22.569Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-08-19T10:25:11.181Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-19T10:25:41.904Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-08-19T11:03:25.220Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-08-19T11:10:43.318Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-08-19T11:35:38.435Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-08-19T12:01:06.333Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-08-19T12:21:13.402Z","type":"join"}
+{"nick":"jmdyck","date":"2017-08-19T12:43:34.478Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-08-19T13:11:13.986Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-08-19T13:11:40.423Z","type":"join"}
+{"nick":"AtumT","date":"2017-08-19T14:25:49.222Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-08-19T15:47:42.179Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 240 seconds","date":"2017-08-19T15:55:57.854Z","type":"quit"}
+{"nick":"caridy","date":"2017-08-19T16:48:46.516Z","type":"join"}
+{"nick":"cloudshu","date":"2017-08-19T17:25:46.553Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-19T18:08:43.786Z","type":"quit"}
+{"nick":"AtumT","reason":"Ping timeout: 240 seconds","date":"2017-08-19T18:26:25.078Z","type":"quit"}
+{"nick":"AtumT","date":"2017-08-19T18:34:35.784Z","type":"join"}
+{"nick":"cloudshu","reason":"Quit: Connection closed for inactivity","date":"2017-08-19T19:55:44.912Z","type":"quit"}
+{"nick":"basicdays","reason":"Ping timeout: 246 seconds","date":"2017-08-19T20:15:02.566Z","type":"quit"}
+{"nick":"basicdays","date":"2017-08-19T20:15:34.735Z","type":"join"}
+{"nick":"cloudshu","date":"2017-08-19T21:06:39.903Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 248 seconds","date":"2017-08-19T22:54:25.621Z","type":"quit"}
+{"nick":"gibson042","date":"2017-08-19T23:28:20.378Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 240 seconds","date":"2017-08-19T23:38:50.372Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-08-19T23:47:04.021Z","type":"quit"}

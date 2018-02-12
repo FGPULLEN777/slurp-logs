@@ -1,0 +1,46 @@
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-14T00:22:26.043Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-10-14T00:31:11.728Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-14T00:40:20.264Z","type":"quit"}
+{"nick":"AtumT_","reason":"Remote host closed the connection","date":"2017-10-14T00:41:00.319Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-10-14T01:09:01.615Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2017-10-14T01:10:39.909Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-10-14T01:19:33.711Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2017-10-14T01:23:33.713Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-10-14T01:24:32.365Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2017-10-14T01:28:18.659Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-14T01:28:22.901Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-14T01:29:00.715Z","type":"join"}
+{"nick":"gskachkov","date":"2017-10-14T01:29:52.680Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2017-10-14T01:29:55.933Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Ping timeout: 258 seconds","date":"2017-10-14T01:33:21.754Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2017-10-14T01:41:15.591Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-10-14T02:03:03.971Z","type":"join"}
+{"nick":"Fishrock123","reason":"Client Quit","date":"2017-10-14T02:04:28.094Z","type":"quit"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2017-10-14T04:45:07.378Z","type":"quit"}
+{"nick":"bathos","date":"2017-10-14T05:29:58.607Z","type":"join"}
+{"nick":"bathos","reason":"Quit: bathos","date":"2017-10-14T05:54:48.093Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-10-14T06:12:07.410Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2017-10-14T06:13:34.882Z","type":"quit"}
+{"nick":"bathos","date":"2017-10-14T06:13:49.818Z","type":"join"}
+{"nick":"bathos","reason":"Quit: bathos","date":"2017-10-14T06:35:09.453Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-10-14T09:20:58.020Z","type":"quit"}
+{"nick":"iosys","reason":"Ping timeout: 246 seconds","date":"2017-10-14T09:41:53.700Z","type":"quit"}
+{"nick":"iosys","date":"2017-10-14T09:44:50.697Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-14T10:25:11.409Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-14T10:25:41.928Z","type":"join"}
+{"nick":"jmdyck","date":"2017-10-14T12:22:53.367Z","type":"join"}
+{"nick":"AtumT","date":"2017-10-14T12:47:00.027Z","type":"join"}
+{"nick":"bathos","date":"2017-10-14T12:49:19.390Z","type":"join"}
+{"nick":"d_run","reason":"Excess Flood","date":"2017-10-14T13:05:48.529Z","type":"quit"}
+{"nick":"d_run","date":"2017-10-14T13:06:04.659Z","type":"join"}
+{"nick":"Bakkot","reason":"Ping timeout: 240 seconds","date":"2017-10-14T15:39:27.919Z","type":"quit"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-10-14T16:52:09.612Z","type":"quit"}
+{"nick":"AtumT","date":"2017-10-14T16:55:15.747Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 260 seconds","date":"2017-10-14T17:58:07.898Z","type":"quit"}
+{"nick":"AtumT","date":"2017-10-14T18:02:20.715Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-14T18:02:56.773Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-14T19:30:00.800Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-14T21:34:57.679Z","type":"join"}
+{"nick":"bradleymeck","reason":"Client Quit","date":"2017-10-14T21:36:17.274Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-14T22:46:13.681Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-14T23:34:18.480Z","type":"quit"}

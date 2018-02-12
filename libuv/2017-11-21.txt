@@ -1,0 +1,59 @@
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-21T00:17:37.423Z","type":"quit"}
+{"nick":"benjamingr_","reason":"Quit: Connection closed for inactivity","date":"2017-11-21T00:25:27.073Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-11-21T01:15:40.417Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-21T01:18:31.004Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-11-21T01:22:51.999Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-21T01:47:31.796Z","type":"join"}
+{"nick":"luka","reason":"Ping timeout: 240 seconds","date":"2017-11-21T01:52:21.957Z","type":"quit"}
+{"nick":"luka","date":"2017-11-21T01:59:03.690Z","type":"join"}
+{"nick":"luka","new_nick":"Guest33986","date":"2017-11-21T01:59:26.934Z","type":"nick"}
+{"nick":"dbevenius","reason":"Quit: ZNC - http://znc.in","date":"2017-11-21T02:54:13.160Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-21T02:58:48.884Z","type":"quit"}
+{"nick":"dbevenius","date":"2017-11-21T02:58:51.067Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-21T03:01:42.002Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-11-21T03:06:11.961Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-21T04:21:56.014Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-21T04:45:06.553Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-21T05:33:16.962Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-21T05:43:23.457Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-21T05:44:40.775Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-11-21T06:06:18.294Z","type":"quit"}
+{"nick":"rendar","date":"2017-11-21T07:14:16.458Z","type":"join"}
+{"nick":"saghul","date":"2017-11-21T08:29:08.746Z","type":"join"}
+{"nick":"euoia","date":"2017-11-21T09:19:20.964Z","type":"join"}
+{"nick":"robertko1alski","date":"2017-11-21T09:22:03.846Z","type":"join"}
+{"nick":"robertkowalski","reason":"Ping timeout: 252 seconds","date":"2017-11-21T09:22:08.914Z","type":"quit"}
+{"nick":"euoia","reason":"Ping timeout: 240 seconds","date":"2017-11-21T09:52:01.991Z","type":"quit"}
+{"nick":"qard","date":"2017-11-21T10:54:01.676Z","type":"join"}
+{"nick":"euoia","date":"2017-11-21T11:21:26.639Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-21T11:25:06.417Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-21T11:25:36.902Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-21T11:41:49.149Z","type":"quit"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-21T11:42:38.606Z","type":"quit"}
+{"nick":"saghul","date":"2017-11-21T12:24:37.571Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 248 seconds","date":"2017-11-21T12:25:04.106Z","type":"quit"}
+{"nick":"euoia","date":"2017-11-21T12:26:40.569Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 248 seconds","date":"2017-11-21T13:00:17.588Z","type":"quit"}
+{"nick":"euoia","date":"2017-11-21T13:01:02.763Z","type":"join"}
+{"nick":"AtumT","date":"2017-11-21T14:11:07.055Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 258 seconds","date":"2017-11-21T14:56:30.620Z","type":"quit"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-21T15:11:16.684Z","type":"quit"}
+{"nick":"hero100_","date":"2017-11-21T15:13:02.627Z","type":"join"}
+{"nick":"hero100_","reason":"Remote host closed the connection","date":"2017-11-21T15:45:16.849Z","type":"quit"}
+{"nick":"euoia","date":"2017-11-21T15:52:03.758Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 250 seconds","date":"2017-11-21T15:56:45.844Z","type":"quit"}
+{"nick":"euoia","date":"2017-11-21T17:40:18.864Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 268 seconds","date":"2017-11-21T17:45:47.850Z","type":"quit"}
+{"nick":"saghul","date":"2017-11-21T18:14:16.571Z","type":"join"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-11-21T19:00:35.968Z","type":"quit"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-21T19:58:18.104Z","type":"quit"}
+{"nick":"MoZu4k__","date":"2017-11-21T21:19:06.088Z","type":"join"}
+{"nick":"edef","new_nick":"e2","date":"2017-11-21T21:32:58.153Z","type":"nick"}
+{"nick":"e2","new_nick":"edef","date":"2017-11-21T21:33:14.999Z","type":"nick"}
+{"nick":"Jacob843","reason":"Quit: Leaving","date":"2017-11-21T21:41:31.449Z","type":"quit"}
+{"nick":"Jacob843","date":"2017-11-21T21:47:34.079Z","type":"join"}
+{"nick":"MoZu4k__","date":"2017-11-21T21:58:37.861Z","type":"part"}
+{"nick":"vtjnash","date":"2017-11-21T22:17:09.726Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-11-21T22:45:41.361Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-11-21T23:17:44.725Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-11-21T23:34:59.146Z","type":"quit"}

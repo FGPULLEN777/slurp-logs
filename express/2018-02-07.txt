@@ -1,0 +1,116 @@
+{"nick":"rajkumar[m]","reason":"Ping timeout: 240 seconds","date":"2018-02-07T00:13:12.338Z","type":"quit"}
+{"nick":"reedj[m]","reason":"Ping timeout: 276 seconds","date":"2018-02-07T00:13:37.110Z","type":"quit"}
+{"nick":"smokeysea[m]","reason":"Ping timeout: 256 seconds","date":"2018-02-07T00:13:43.839Z","type":"quit"}
+{"nick":"Ryuno-Ki[m]","reason":"Ping timeout: 256 seconds","date":"2018-02-07T00:13:50.317Z","type":"quit"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T00:41:04.165Z","type":"quit"}
+{"nick":"phishy","date":"2018-02-07T00:41:54.602Z","type":"join"}
+{"nick":"smokeysea[m]","date":"2018-02-07T00:47:29.287Z","type":"join"}
+{"nick":"Roughy","reason":"Quit: Meadow Fresh milk","date":"2018-02-07T00:51:58.143Z","type":"quit"}
+{"nick":"draconusdesigns","reason":"Ping timeout: 240 seconds","date":"2018-02-07T00:59:27.798Z","type":"quit"}
+{"nick":"Ryuno-Ki[m]","date":"2018-02-07T01:11:03.647Z","type":"join"}
+{"nick":"reedj[m]","date":"2018-02-07T01:11:10.209Z","type":"join"}
+{"nick":"rajkumar[m]","date":"2018-02-07T01:11:10.744Z","type":"join"}
+{"nick":"Tennis","reason":"Read error: Connection reset by peer","date":"2018-02-07T01:20:28.823Z","type":"quit"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T01:35:42.669Z","type":"quit"}
+{"nick":"einnjo","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T01:56:31.372Z","type":"quit"}
+{"nick":"draconusdesigns","date":"2018-02-07T02:36:58.483Z","type":"join"}
+{"nick":"rajkumar[m]","reason":"Ping timeout: 252 seconds","date":"2018-02-07T02:54:43.300Z","type":"quit"}
+{"nick":"Ryuno-Ki[m]","reason":"Ping timeout: 255 seconds","date":"2018-02-07T02:54:46.566Z","type":"quit"}
+{"nick":"reedj[m]","reason":"Ping timeout: 255 seconds","date":"2018-02-07T02:55:03.291Z","type":"quit"}
+{"nick":"smokeysea[m]","reason":"Ping timeout: 260 seconds","date":"2018-02-07T02:55:22.467Z","type":"quit"}
+{"nick":"dmarr","reason":"Ping timeout: 260 seconds","date":"2018-02-07T02:57:15.608Z","type":"quit"}
+{"nick":"dmarr","date":"2018-02-07T02:59:36.024Z","type":"join"}
+{"nick":"xcesariox","date":"2018-02-07T03:07:09.690Z","type":"join"}
+{"nick":"draconusdesigns","reason":"Remote host closed the connection","date":"2018-02-07T03:28:35.764Z","type":"quit"}
+{"nick":"xcesariox","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T03:50:49.548Z","type":"quit"}
+{"nick":"xcesariox","date":"2018-02-07T04:26:04.263Z","type":"join"}
+{"nick":"xcesariox","reason":"Ping timeout: 260 seconds","date":"2018-02-07T04:48:32.264Z","type":"quit"}
+{"nick":"xcesariox","date":"2018-02-07T04:50:13.629Z","type":"join"}
+{"nick":"xcesariox","reason":"Ping timeout: 260 seconds","date":"2018-02-07T05:03:28.417Z","type":"quit"}
+{"nick":"xcesariox","date":"2018-02-07T05:19:50.299Z","type":"join"}
+{"nick":"Ryuno-Ki[m]","date":"2018-02-07T05:40:53.106Z","type":"join"}
+{"nick":"xcesariox","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T05:44:47.402Z","type":"quit"}
+{"nick":"xcesariox","date":"2018-02-07T05:56:14.248Z","type":"join"}
+{"nick":"rajkumar[m]","date":"2018-02-07T05:56:44.612Z","type":"join"}
+{"nick":"smokeysea[m]","date":"2018-02-07T06:19:59.956Z","type":"join"}
+{"nick":"reedj[m]","date":"2018-02-07T06:24:31.254Z","type":"join"}
+{"nick":"ss","date":"2018-02-07T06:28:01.998Z","type":"join"}
+{"nick":"ss","message":"hi","date":"2018-02-07T06:28:03.609Z","type":"message"}
+{"nick":"ss","new_nick":"Guest9418","date":"2018-02-07T06:28:25.260Z","type":"nick"}
+{"nick":"Guest9418","reason":"Ping timeout: 260 seconds","date":"2018-02-07T06:32:54.998Z","type":"quit"}
+{"nick":"xcesariox","reason":"Ping timeout: 252 seconds","date":"2018-02-07T06:49:42.759Z","type":"quit"}
+{"nick":"xcesariox","date":"2018-02-07T06:50:37.184Z","type":"join"}
+{"nick":"Arcarc","date":"2018-02-07T07:08:36.749Z","type":"join"}
+{"nick":"phishy","date":"2018-02-07T07:22:30.500Z","type":"join"}
+{"nick":"xcesariox","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T07:26:51.006Z","type":"quit"}
+{"nick":"xcesariox","date":"2018-02-07T07:31:13.845Z","type":"join"}
+{"nick":"Roughy","date":"2018-02-07T07:33:39.824Z","type":"join"}
+{"nick":"xcesariox","reason":"Ping timeout: 256 seconds","date":"2018-02-07T07:40:30.745Z","type":"quit"}
+{"nick":"rorro","date":"2018-02-07T08:27:52.986Z","type":"join"}
+{"nick":"galileo","date":"2018-02-07T08:30:38.846Z","type":"join"}
+{"nick":"rorro","reason":"Ping timeout: 255 seconds","date":"2018-02-07T09:04:11.886Z","type":"quit"}
+{"nick":"rorro","date":"2018-02-07T09:18:25.906Z","type":"join"}
+{"nick":"galileo","reason":"Ping timeout: 268 seconds","date":"2018-02-07T10:25:46.740Z","type":"quit"}
+{"nick":"galileo","date":"2018-02-07T10:27:01.861Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-02-07T11:25:10.974Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-02-07T11:25:41.546Z","type":"join"}
+{"nick":"lpin","date":"2018-02-07T12:04:53.699Z","type":"join"}
+{"nick":"rorro","reason":"Ping timeout: 255 seconds","date":"2018-02-07T12:09:08.937Z","type":"quit"}
+{"nick":"rorro","date":"2018-02-07T12:10:46.884Z","type":"join"}
+{"nick":"rorro","reason":"Ping timeout: 255 seconds","date":"2018-02-07T12:26:14.917Z","type":"quit"}
+{"nick":"galileo","reason":"Remote host closed the connection","date":"2018-02-07T13:08:13.239Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-02-07T13:24:19.243Z","type":"join"}
+{"nick":"Abhishek_","date":"2018-02-07T13:43:35.355Z","type":"join"}
+{"nick":"towb","message":"commma: hows the volvo hunt going? given up yet?","date":"2018-02-07T14:29:02.894Z","type":"message"}
+{"nick":"commma","message":"towb: lol","date":"2018-02-07T14:35:53.064Z","type":"message"}
+{"nick":"commma","message":"yeah there's literally 0 of them over here","date":"2018-02-07T14:36:03.706Z","type":"message"}
+{"nick":"commma","message":"i found one about 3 months ago that was used as a logging truck and he wanted ridiculous money for it ... and got it","date":"2018-02-07T14:36:19.142Z","type":"message"}
+{"nick":"towb","message":"commma: you'll have to wait for the 3d printers to become good enough then","date":"2018-02-07T14:45:59.772Z","type":"message"}
+{"nick":"commma","message":"ahaha at this point i'm just keeping an eye out just in case","date":"2018-02-07T14:46:55.035Z","type":"message"}
+{"nick":"towb","message":"I took one of those dna tests, Ethnicity Estimate 37% Great Britain, 33% Scandinavian ..., when my sister heard she went all in scottish haha","date":"2018-02-07T14:47:04.970Z","type":"message"}
+{"nick":"towb","message":"i'm pretty sure those numbers are false though","date":"2018-02-07T14:47:13.971Z","type":"message"}
+{"nick":"commma","message":"but i don't like my chances so i'm just pouring money into the land rover instead :v","date":"2018-02-07T14:47:21.786Z","type":"message"}
+{"nick":"commma","message":"ahaha nice","date":"2018-02-07T14:47:24.377Z","type":"message"}
+{"nick":"towb","message":"ran the dna data on some different site and got different results, she could be right though, got some weak match with orkney","date":"2018-02-07T14:50:31.835Z","type":"message"}
+{"nick":"Soopaman","date":"2018-02-07T15:07:24.835Z","type":"join"}
+{"nick":"einnjo","date":"2018-02-07T15:11:43.518Z","type":"join"}
+{"nick":"einnjo","reason":"Ping timeout: 256 seconds","date":"2018-02-07T15:16:47.442Z","type":"quit"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-02-07T15:18:16.727Z","type":"quit"}
+{"nick":"lpin","reason":"Read error: Connection reset by peer","date":"2018-02-07T15:29:42.331Z","type":"quit"}
+{"nick":"lpin","date":"2018-02-07T15:30:07.074Z","type":"join"}
+{"nick":"commma","message":"yah orkney is barely even scotland","date":"2018-02-07T15:33:34.991Z","type":"message"}
+{"nick":"commma","message":"they have more in common with the scandis than with a lot of the mainland, even share parts of language","date":"2018-02-07T15:33:53.831Z","type":"message"}
+{"nick":"greggerz","date":"2018-02-07T15:45:05.261Z","type":"join"}
+{"nick":"towb","message":"commma: i do want to visit those islands, shetland, orkney and faroe, see if i can find inner peace or something, because i'm not very satisfied where i live right now. too much people, too little nature and all that","date":"2018-02-07T15:45:53.761Z","type":"message"}
+{"nick":"towb","message":"all the tests i've ran on the data so far shows a big chunk of north swedish so might not have it in my dna to be around too much people :P","date":"2018-02-07T15:48:59.002Z","type":"message"}
+{"nick":"commma","message":"haha yeah i don't blame you there","date":"2018-02-07T15:53:50.684Z","type":"message"}
+{"nick":"commma","message":"i'm down a mile-long dirt road here 10 miles from the nearest town and it's _still_ too close to people for me","date":"2018-02-07T15:54:10.230Z","type":"message"}
+{"nick":"commma","message":"i'm australian though, i like having a lot of space :v","date":"2018-02-07T15:54:23.801Z","type":"message"}
+{"nick":"towb","message":"haha i walked by the tv earlier today and got stuck in front of the flying doctors... good old australian distance","date":"2018-02-07T15:57:40.096Z","type":"message"}
+{"nick":"rorro","date":"2018-02-07T16:09:26.281Z","type":"join"}
+{"nick":"Dbugger","date":"2018-02-07T16:49:06.487Z","type":"join"}
+{"nick":"Dbugger","message":"Hello everyone","date":"2018-02-07T16:49:10.746Z","type":"message"}
+{"nick":"Dbugger","message":"I was curious about one thing. Is it possible to make a POST request in Express/Jade without having to make a <form>?","date":"2018-02-07T16:49:39.802Z","type":"message"}
+{"nick":"rorro","reason":"Ping timeout: 255 seconds","date":"2018-02-07T16:57:53.240Z","type":"quit"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-02-07T17:01:32.273Z","type":"quit"}
+{"nick":"commma","message":"Dbugger: express and jade are two different things, what are you trying to do","date":"2018-02-07T17:06:11.553Z","type":"message"}
+{"nick":"Dbugger","message":"well, I am trying to make a link that sends a post request","date":"2018-02-07T18:28:19.443Z","type":"message"}
+{"nick":"Dbugger","message":"And I wanted to know if it is possible to do it without doing a <form>","date":"2018-02-07T18:28:35.867Z","type":"message"}
+{"nick":"Arcarc","reason":"Ping timeout: 256 seconds","date":"2018-02-07T18:33:18.795Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-02-07T18:42:56.168Z","type":"join"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-02-07T18:46:01.701Z","type":"quit"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-02-07T19:06:37.422Z","type":"quit"}
+{"nick":"jbakke","date":"2018-02-07T19:53:38.967Z","type":"join"}
+{"nick":"jbakke","reason":"Client Quit","date":"2018-02-07T19:53:45.518Z","type":"quit"}
+{"nick":"Abhishek_","reason":"Quit: Connection closed for inactivity","date":"2018-02-07T20:03:13.266Z","type":"quit"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T20:43:02.826Z","type":"quit"}
+{"nick":"phishy","date":"2018-02-07T20:43:37.082Z","type":"join"}
+{"nick":"rorro","date":"2018-02-07T20:49:21.202Z","type":"join"}
+{"nick":"_ritchie_","date":"2018-02-07T21:12:11.237Z","type":"join"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T21:15:40.771Z","type":"quit"}
+{"nick":"phishy","date":"2018-02-07T21:16:26.552Z","type":"join"}
+{"nick":"phishy","reason":"Client Quit","date":"2018-02-07T21:16:46.751Z","type":"quit"}
+{"nick":"phishy","date":"2018-02-07T21:17:06.154Z","type":"join"}
+{"nick":"galileo","date":"2018-02-07T22:56:14.275Z","type":"join"}
+{"nick":"greggerz","reason":"Quit: Leaving","date":"2018-02-07T23:24:35.635Z","type":"quit"}
+{"nick":"rorro","reason":"Ping timeout: 264 seconds","date":"2018-02-07T23:57:21.198Z","type":"quit"}

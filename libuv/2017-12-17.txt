@@ -1,0 +1,100 @@
+{"nick":"hd_","reason":"Ping timeout: 260 seconds","date":"2017-12-17T00:07:45.044Z","type":"quit"}
+{"nick":"andos","date":"2017-12-17T00:19:48.561Z","type":"join"}
+{"nick":"andos","message":"Hi. Quick question I can’t seem to find an answer for in the documentation:  With the libuv filesystem listener in the case of a file rename event, how do I get the old vs new filename? Currently it seems to fire the event twice in a row, first with the old filename and then with the new. Not very easy to use. Is there a better way?  (Note: I’m listening recursively on a folder so I get events for many different files so I can’t ","date":"2017-12-17T00:22:45.983Z","type":"message"}
+{"nick":"andos","message":"the path of the listener itself for anything).","date":"2017-12-17T00:22:46.625Z","type":"message"}
+{"nick":"vtjnash","message":"hd_: you can never write to a server, but then, it will never get read callback either since it's not connected anywhere (I have a PR open right now to fix the assertion error you may be seeing)","date":"2017-12-17T00:26:01.915Z","type":"message"}
+{"nick":"vtjnash","message":"andos: you might want to read the nodejs documentation to. the simple answer is that it depends on what events are delivered by the OS","date":"2017-12-17T00:26:53.426Z","type":"message"}
+{"nick":"andos","message":"vtjnash: Even if I’m not using nodejs? This is raw libuv (c library)","date":"2017-12-17T00:27:59.959Z","type":"message"}
+{"nick":"vtjnash","message":"yes. it's better documented in some cases (it used to effectively be the only documentation, now libuv has a bit of it's own too)","date":"2017-12-17T00:28:35.301Z","type":"message"}
+{"nick":"andos","message":"vtjnash: Thanks. The documentation seems better but doesn’t seem to mention anything about this specific case.","date":"2017-12-17T00:32:56.057Z","type":"message"}
+{"nick":"andos","message":"Great, and recusrsive watching is not available on linux :( ","date":"2017-12-17T00:35:33.781Z","type":"message"}
+{"nick":"vtjnash","message":"true – you have to watch each folder separately I think?","date":"2017-12-17T00:36:14.430Z","type":"message"}
+{"nick":"andos","message":"Though it looks like it could be somewhat easily emulated by traversing the directory tree and watching all subdirectories. I wonder why libuv doesn’t do this automatically.","date":"2017-12-17T00:36:37.518Z","type":"message"}
+{"nick":"vtjnash","message":"Probably because nobody has offered to write the code","date":"2017-12-17T00:37:11.723Z","type":"message"}
+{"nick":"vtjnash","message":"Or if you aren't doing any other IO, you could instead use a library like https://github.com/emcrisostomo/fswatch","date":"2017-12-17T00:41:52.934Z","type":"message"}
+{"nick":"andos","message":"Guess I’ll have to use another cross platform lib for watching the filesystem. Every once in a while libuv generates no file change events at all despite no errors are generated. I had to work around a lot of funky things in libuv’s FS watching so far to get a higher “logical” level of watching. For example if a typical app overwrites a file but does it by saving a temporary file and then renaming the files at the end. This ","date":"2017-12-17T00:44:43.383Z","type":"message"}
+{"nick":"andos","message":"triggers rename events but not file change events. My wrapper detected the “file swap” sequence and (in the case of a single-file listener) reinitialized the listener on the new file instead of the old. Thanks for the link to fswatch. I’ll have a look.","date":"2017-12-17T00:44:44.069Z","type":"message"}
+{"nick":"vtjnash","message":"All libraries will do that though","date":"2017-12-17T00:45:07.162Z","type":"message"}
+{"nick":"vtjnash","message":"That's just what the OS tells them to report","date":"2017-12-17T00:45:25.565Z","type":"message"}
+{"nick":"andos","message":"Yeah but you can do more logical reporting IMHO if you collect the FS events over a time period. Granted you don’t get immediate events.","date":"2017-12-17T00:47:06.099Z","type":"message"}
+{"nick":"vtjnash","message":"Sure, just don't expect it to happen just from adding libraries. And merging the event loops has the potential to be very frustrating, if you're using any other features from libuv","date":"2017-12-17T00:49:54.391Z","type":"message"}
+{"nick":"andos","message":"Yeah thats what I’m afraid od","date":"2017-12-17T00:51:38.943Z","type":"message"}
+{"nick":"andos","message":"*of","date":"2017-12-17T00:51:44.527Z","type":"message"}
+{"nick":"andos","message":"My current implementation is nearly perfect for my needs though. If I create an instance of my listener wrapper class on a root folder and then later create individual file listeners on files within that root folder it will instead reuse the file listener. This is why I needed broad support for recursive listening and the ability to get the old and new filename for a renamed file.","date":"2017-12-17T00:56:04.746Z","type":"message"}
+{"nick":"andos","reason":"Quit: andos","date":"2017-12-17T02:36:03.398Z","type":"quit"}
+{"nick":"joocain2","reason":"Ping timeout: 248 seconds","date":"2017-12-17T03:02:04.822Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-17T03:04:13.784Z","type":"join"}
+{"nick":"AtumT_","reason":"Remote host closed the connection","date":"2017-12-17T03:25:23.164Z","type":"quit"}
+{"nick":"joocain2_","date":"2017-12-17T05:11:22.075Z","type":"join"}
+{"nick":"joocain2","reason":"Ping timeout: 248 seconds","date":"2017-12-17T05:11:40.786Z","type":"quit"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-17T05:21:54.378Z","type":"quit"}
+{"nick":"joocain2_","reason":"Remote host closed the connection","date":"2017-12-17T05:30:44.115Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-17T05:30:59.837Z","type":"join"}
+{"nick":"vtjnash","date":"2017-12-17T06:22:17.473Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 265 seconds","date":"2017-12-17T06:27:06.401Z","type":"quit"}
+{"nick":"giraso806","date":"2017-12-17T09:18:25.067Z","type":"join"}
+{"nick":"giraso806","reason":"Remote host closed the connection","date":"2017-12-17T09:18:26.536Z","type":"quit"}
+{"nick":"edw903","date":"2017-12-17T09:20:08.254Z","type":"join"}
+{"nick":"edw903","reason":"Remote host closed the connection","date":"2017-12-17T09:20:09.580Z","type":"quit"}
+{"nick":"robob696","date":"2017-12-17T09:35:47.520Z","type":"join"}
+{"nick":"robob696","reason":"Remote host closed the connection","date":"2017-12-17T09:35:48.990Z","type":"quit"}
+{"nick":"matrx686","date":"2017-12-17T09:36:37.521Z","type":"join"}
+{"nick":"matrx686","reason":"Remote host closed the connection","date":"2017-12-17T09:36:42.266Z","type":"quit"}
+{"nick":"jerne167","date":"2017-12-17T09:40:25.919Z","type":"join"}
+{"nick":"jerne167","reason":"Remote host closed the connection","date":"2017-12-17T09:40:32.869Z","type":"quit"}
+{"nick":"ovc432","date":"2017-12-17T09:47:36.183Z","type":"join"}
+{"nick":"ovc432","reason":"Remote host closed the connection","date":"2017-12-17T09:47:38.115Z","type":"quit"}
+{"nick":"har966","date":"2017-12-17T09:49:13.432Z","type":"join"}
+{"nick":"har966","reason":"Remote host closed the connection","date":"2017-12-17T09:49:14.280Z","type":"quit"}
+{"nick":"|bastihas973","date":"2017-12-17T09:50:30.448Z","type":"join"}
+{"nick":"|bastihas973","reason":"Remote host closed the connection","date":"2017-12-17T09:50:31.963Z","type":"quit"}
+{"nick":"[sonia`ha626","date":"2017-12-17T09:59:01.161Z","type":"join"}
+{"nick":"[sonia`ha626","reason":"Remote host closed the connection","date":"2017-12-17T09:59:07.183Z","type":"quit"}
+{"nick":"duppl442","date":"2017-12-17T09:59:33.843Z","type":"join"}
+{"nick":"duppl442","reason":"Remote host closed the connection","date":"2017-12-17T09:59:35.265Z","type":"quit"}
+{"nick":"rendar","date":"2017-12-17T10:02:57.866Z","type":"join"}
+{"nick":"a-bu385","date":"2017-12-17T10:03:34.504Z","type":"join"}
+{"nick":"a-bu385","reason":"Remote host closed the connection","date":"2017-12-17T10:03:36.341Z","type":"quit"}
+{"nick":"patanel628","date":"2017-12-17T10:04:53.185Z","type":"join"}
+{"nick":"patanel628","reason":"Remote host closed the connection","date":"2017-12-17T10:04:54.846Z","type":"quit"}
+{"nick":"arago530","date":"2017-12-17T10:07:45.253Z","type":"join"}
+{"nick":"arago530","reason":"Remote host closed the connection","date":"2017-12-17T10:08:03.951Z","type":"quit"}
+{"nick":"susan-la467","date":"2017-12-17T10:13:24.429Z","type":"join"}
+{"nick":"susan-la467","reason":"Remote host closed the connection","date":"2017-12-17T10:13:43.371Z","type":"quit"}
+{"nick":"joocain2","reason":"Remote host closed the connection","date":"2017-12-17T10:33:36.130Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-17T10:33:50.843Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-17T11:25:06.799Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-17T11:25:37.286Z","type":"join"}
+{"nick":"steshaw","reason":"Read error: Connection reset by peer","date":"2017-12-17T11:29:01.821Z","type":"quit"}
+{"nick":"steshaw","date":"2017-12-17T11:34:03.484Z","type":"join"}
+{"nick":"yara651","date":"2017-12-17T11:47:58.067Z","type":"join"}
+{"nick":"yara651","message":"\u0007\u000311,08▄\u0007\u000313,06▄\u0007\u000303,02▄\u0007\u000304,04▄\u0007\u000308,05▄\u0007\u000302,07▄\u0007\u000304,08▄\u0007\u000302,10▄\u0007\u000304,11▄\u0007\u000309,11▄\u0007\u000304,12▄\u0007\u000307,08▄\u0007\u000302,02▄\u0007\u000312,06▄\u0007\u000307,02▄\u0007\u000305,03▄\u0007\u000303 HAPPY NIGGER DAY!! PLEASE SAY HI TO ALL THE DUMB NIGGERS IN #OFTC...quicktalkeh676te.onion/6697uocvewm: {slurp-libuv} jcrugzz tellnes pquerna bzoz othiym23 dbevenius rvagg niska lennartcl robertkowalski strike__ mylesborins mmalecki steshaw bengl txdv indutny ugexe","date":"2017-12-17T11:47:59.149Z","type":"message"}
+{"nick":"yara651","message":"\u0007\u000311,05▄\u0007\u000302,13▄\u0007\u000306,08▄\u0007\u000306,08▄\u0007\u000302,07▄\u0007\u000312,03▄\u0007\u000309,12▄\u0007\u000311,10▄\u0007\u000313,13▄\u0007\u000303,07▄\u0007\u000311,03▄\u0007\u000310,09▄\u0007\u000303,09▄\u0007\u000310,07▄\u0007\u000304,07▄\u0007\u000313,04▄\u0007\u000306,06▄\u0007\u000308,07▄\u0007\u000309 HAPPY NIGGER DAY!! PLEASE SAY HI TO ALL THE DUMB NIGGERS IN #OFTC...quicktalkeh676te.onion/6697uejdjit: niska mylesborins zkat mattloring {slurp-libuv} lennartcl trevnorris rendar brett19 iarna steshaw bzoz timotimo tarruda_ thefourtheye orangem","date":"2017-12-17T11:47:59.332Z","type":"message"}
+{"nick":"yara651","reason":"Remote host closed the connection","date":"2017-12-17T11:47:59.424Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-17T12:27:11.112Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 255 seconds","date":"2017-12-17T12:31:50.112Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-17T13:28:15.478Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 265 seconds","date":"2017-12-17T13:32:55.411Z","type":"quit"}
+{"nick":"steshaw","reason":"Quit: Connection closed for inactivity","date":"2017-12-17T14:02:34.961Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-17T14:28:57.483Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 265 seconds","date":"2017-12-17T14:33:49.453Z","type":"quit"}
+{"nick":"AtumT","date":"2017-12-17T14:45:18.264Z","type":"join"}
+{"nick":"vtjnash","date":"2017-12-17T16:30:14.403Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 265 seconds","date":"2017-12-17T16:35:37.432Z","type":"quit"}
+{"nick":"joocain2_","date":"2017-12-17T16:44:27.497Z","type":"join"}
+{"nick":"joocain2","reason":"Ping timeout: 248 seconds","date":"2017-12-17T16:45:00.800Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-17T18:32:21.487Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 265 seconds","date":"2017-12-17T18:36:56.494Z","type":"quit"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-12-17T18:57:42.035Z","type":"quit"}
+{"nick":"eck","reason":"Quit: we out here","date":"2017-12-17T19:12:27.115Z","type":"quit"}
+{"nick":"eck","date":"2017-12-17T19:13:26.846Z","type":"join"}
+{"nick":"vtjnash","date":"2017-12-17T19:33:46.469Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 265 seconds","date":"2017-12-17T19:38:19.428Z","type":"quit"}
+{"nick":"joocain2_","reason":"Ping timeout: 248 seconds","date":"2017-12-17T20:54:36.835Z","type":"quit"}
+{"nick":"joocain2","date":"2017-12-17T20:55:28.786Z","type":"join"}
+{"nick":"steshaw","date":"2017-12-17T21:22:47.282Z","type":"join"}
+{"nick":"vtjnash","date":"2017-12-17T21:34:55.836Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 265 seconds","date":"2017-12-17T21:39:38.407Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-17T22:36:20.453Z","type":"join"}
+{"nick":"vtjnash","reason":"Ping timeout: 265 seconds","date":"2017-12-17T22:41:01.441Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-17T23:32:37.442Z","type":"join"}

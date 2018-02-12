@@ -1,0 +1,70 @@
+{"nick":"domanic","date":"2018-01-19T00:15:23.472Z","type":"join"}
+{"nick":"akiva","reason":"Ping timeout: 268 seconds","date":"2018-01-19T01:31:28.992Z","type":"quit"}
+{"nick":"domanic","reason":"Remote host closed the connection","date":"2018-01-19T02:19:30.543Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T02:19:56.745Z","type":"join"}
+{"nick":"nuncanada","reason":"Read error: Connection reset by peer","date":"2018-01-19T02:45:20.535Z","type":"quit"}
+{"nick":"domanic","reason":"Ping timeout: 240 seconds","date":"2018-01-19T03:31:27.794Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T06:35:47.746Z","type":"join"}
+{"nick":"akiva","date":"2018-01-19T06:42:26.067Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T06:46:59.369Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T06:47:23.707Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T06:57:14.950Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T06:57:40.582Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T07:07:33.608Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T07:07:57.988Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T07:17:47.471Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T07:18:14.522Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T07:28:15.367Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T07:28:41.511Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T07:43:22.173Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T07:43:47.382Z","type":"join"}
+{"nick":"akiva","reason":"Ping timeout: 265 seconds","date":"2018-01-19T07:46:44.427Z","type":"quit"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T07:53:39.627Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T08:09:25.708Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T08:23:30.872Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T08:23:52.382Z","type":"join"}
+{"nick":"cranau[m]","reason":"Ping timeout: 248 seconds","date":"2018-01-19T08:28:09.743Z","type":"quit"}
+{"nick":"null_radix[m]","reason":"Ping timeout: 248 seconds","date":"2018-01-19T08:28:10.195Z","type":"quit"}
+{"nick":"domanic","reason":"Ping timeout: 256 seconds","date":"2018-01-19T08:33:31.390Z","type":"quit"}
+{"nick":"cranau[m]","date":"2018-01-19T08:42:36.658Z","type":"join"}
+{"nick":"null_radix[m]","date":"2018-01-19T08:42:47.594Z","type":"join"}
+{"nick":"domanic","date":"2018-01-19T09:59:19.855Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T10:10:58.262Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T10:11:22.746Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T10:21:34.748Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T10:22:00.574Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T10:36:22.433Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T10:36:47.974Z","type":"join"}
+{"nick":"domanic","reason":"Ping timeout: 248 seconds","date":"2018-01-19T10:42:07.925Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-19T11:25:11.149Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-19T11:25:41.277Z","type":"join"}
+{"nick":"harrow`","date":"2018-01-19T12:27:02.602Z","type":"join"}
+{"nick":"pfallenop","reason":"Ping timeout: 248 seconds","date":"2018-01-19T12:27:12.449Z","type":"quit"}
+{"nick":"harrow","reason":"Ping timeout: 248 seconds","date":"2018-01-19T12:30:13.315Z","type":"quit"}
+{"nick":"pfallenop","date":"2018-01-19T12:30:13.316Z","type":"join"}
+{"nick":"nuncanada","date":"2018-01-19T13:28:14.507Z","type":"join"}
+{"nick":"Agent001","date":"2018-01-19T17:15:26.776Z","type":"join"}
+{"nick":"finnp","date":"2018-01-19T18:20:06.502Z","type":"part"}
+{"nick":"akiva","date":"2018-01-19T19:33:07.790Z","type":"join"}
+{"nick":"domanic","date":"2018-01-19T20:18:14.441Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T20:29:26.415Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T20:29:52.425Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T20:39:38.872Z","type":"quit"}
+{"nick":"akiva","reason":"Ping timeout: 265 seconds","date":"2018-01-19T21:23:34.502Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T21:27:27.276Z","type":"join"}
+{"nick":"domanic","reason":"Ping timeout: 264 seconds","date":"2018-01-19T21:32:45.177Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T21:40:59.154Z","type":"join"}
+{"nick":"domanic","reason":"Ping timeout: 264 seconds","date":"2018-01-19T21:49:33.155Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T22:11:40.164Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T22:22:22.518Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T22:22:47.748Z","type":"join"}
+{"nick":"domanic","reason":"Ping timeout: 240 seconds","date":"2018-01-19T22:30:27.761Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T22:37:41.896Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T22:47:43.990Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T22:55:41.389Z","type":"join"}
+{"nick":"Agent001","reason":"Quit: http://quassel-irc.org - Converse confortavelmente. Em qualquer lugar.","date":"2018-01-19T23:04:20.163Z","type":"quit"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T23:09:30.420Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T23:09:56.712Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T23:24:31.540Z","type":"quit"}
+{"nick":"domanic","date":"2018-01-19T23:24:57.586Z","type":"join"}
+{"nick":"domanic","reason":"Read error: Connection reset by peer","date":"2018-01-19T23:29:35.357Z","type":"quit"}

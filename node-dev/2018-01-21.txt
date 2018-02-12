@@ -1,0 +1,122 @@
+{"nick":"bhughes","reason":"Ping timeout: 255 seconds","date":"2018-01-21T00:48:44.923Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-01-21T00:52:41.965Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T00:52:41.965Z","type":"part"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-01-21T01:00:06.550Z","type":"quit"}
+{"nick":"titankiller","reason":"Remote host closed the connection","date":"2018-01-21T01:01:37.100Z","type":"quit"}
+{"nick":"qard","date":"2018-01-21T01:22:08.225Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:24:02.387Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:24:02.499Z","type":"part"}
+{"nick":"qard","reason":"Quit: qard","date":"2018-01-21T01:27:31.831Z","type":"quit"}
+{"nick":"robink","reason":"Ping timeout: 240 seconds","date":"2018-01-21T01:32:10.687Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:33:28.058Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:33:28.058Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:42:49.676Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:42:49.676Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:42:57.418Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:42:57.526Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:50:25.813Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:50:25.884Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:50:42.942Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:50:43.049Z","type":"part"}
+{"nick":"bhughes","date":"2018-01-21T01:55:43.997Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:56:48.012Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T01:56:48.083Z","type":"part"}
+{"nick":"robink","date":"2018-01-21T02:04:29.848Z","type":"join"}
+{"nick":"titankiller","date":"2018-01-21T02:05:08.764Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 260 seconds","date":"2018-01-21T02:09:50.421Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-01-21T02:17:41.237Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T02:17:41.345Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-21T02:17:47.379Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T02:17:47.451Z","type":"part"}
+{"nick":"bradleymeck","date":"2018-01-21T02:18:45.742Z","type":"join"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2018-01-21T02:55:24.349Z","type":"quit"}
+{"nick":"titankiller","date":"2018-01-21T03:53:09.954Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 264 seconds","date":"2018-01-21T03:57:57.155Z","type":"quit"}
+{"nick":"robink","reason":"Quit: No Ping reply in 180 seconds.","date":"2018-01-21T05:11:35.420Z","type":"quit"}
+{"nick":"titankiller","date":"2018-01-21T05:18:51.914Z","type":"join"}
+{"nick":"qard","date":"2018-01-21T06:01:59.564Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T06:18:33.876Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T06:18:33.876Z","type":"part"}
+{"nick":"lpin","date":"2018-01-21T06:23:47.531Z","type":"join"}
+{"nick":"qard","reason":"Quit: qard","date":"2018-01-21T06:41:09.833Z","type":"quit"}
+{"nick":"nikc","reason":"Ping timeout: 256 seconds","date":"2018-01-21T07:02:51.634Z","type":"quit"}
+{"nick":"Guest55557","date":"2018-01-21T07:11:33.273Z","type":"part"}
+{"nick":"indutny","date":"2018-01-21T07:11:46.556Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T07:31:00.455Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T07:31:00.525Z","type":"part"}
+{"nick":"dave0x6d","reason":"Quit: Connection closed for inactivity","date":"2018-01-21T08:05:10.206Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2018-01-21T08:25:11.303Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-01-21T08:42:22.892Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T08:42:23.082Z","type":"part"}
+{"nick":"seishun","date":"2018-01-21T09:35:38.450Z","type":"join"}
+{"nick":"ruksi","reason":"Ping timeout: 256 seconds","date":"2018-01-21T10:05:53.640Z","type":"quit"}
+{"nick":"ruksi","date":"2018-01-21T10:15:30.704Z","type":"join"}
+{"nick":"ruksi","reason":"Client Quit","date":"2018-01-21T10:17:02.462Z","type":"quit"}
+{"nick":"ruksi","date":"2018-01-21T10:38:20.976Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-21T11:25:06.429Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-21T11:25:36.970Z","type":"join"}
+{"nick":"bhughes","reason":"Ping timeout: 255 seconds","date":"2018-01-21T12:50:32.879Z","type":"quit"}
+{"nick":"bhughes","date":"2018-01-21T12:52:07.881Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T13:18:43.821Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T13:18:43.930Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2018-01-21T13:33:51.974Z","type":"quit"}
+{"nick":"seishun","date":"2018-01-21T13:35:52.644Z","type":"join"}
+{"nick":"timoxley","reason":"Quit: ZNC - 1.6.0 - http://znc.in","date":"2018-01-21T13:46:45.065Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-01-21T14:03:24.488Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T14:03:24.558Z","type":"part"}
+{"nick":"AtumT","date":"2018-01-21T14:09:37.479Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 256 seconds","date":"2018-01-21T14:25:13.402Z","type":"quit"}
+{"nick":"seishun","date":"2018-01-21T14:31:51.121Z","type":"join"}
+{"nick":"AtumT_","date":"2018-01-21T14:52:19.081Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 256 seconds","date":"2018-01-21T14:55:15.457Z","type":"quit"}
+{"nick":"dave0x6d","date":"2018-01-21T14:59:25.752Z","type":"join"}
+{"nick":"AtumT","date":"2018-01-21T15:05:40.787Z","type":"join"}
+{"nick":"AtumT_","reason":"Ping timeout: 248 seconds","date":"2018-01-21T15:06:39.827Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-01-21T15:41:25.793Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T15:41:25.793Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-21T15:42:35.868Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T15:42:35.937Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-21T16:18:16.969Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T16:18:17.040Z","type":"part"}
+{"nick":"nikc","date":"2018-01-21T16:35:05.849Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-01-21T16:40:40.447Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 264 seconds","date":"2018-01-21T16:51:21.158Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-01-21T16:58:06.751Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T16:58:06.920Z","type":"part"}
+{"nick":"seishun","date":"2018-01-21T17:00:55.641Z","type":"join"}
+{"nick":"apapirovski","date":"2018-01-21T17:15:17.197Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T17:16:46.795Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T17:16:46.866Z","type":"part"}
+{"nick":"bradleymeck","date":"2018-01-21T17:23:00.412Z","type":"join"}
+{"nick":"bradleymeck","reason":"Client Quit","date":"2018-01-21T17:23:12.612Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2018-01-21T17:38:12.432Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T17:38:12.503Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-21T17:38:46.884Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T17:38:46.955Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-21T17:40:33.808Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T17:40:33.879Z","type":"part"}
+{"nick":"nodejs-gh","date":"2018-01-21T17:40:46.843Z","type":"join"}
+{"nick":"nodejs-gh","date":"2018-01-21T17:40:46.987Z","type":"part"}
+{"nick":"devsnek","message":"i've got a struct which i want to hold a Napi::Persistent but i'm getting some weird errors","date":"2018-01-21T17:42:35.180Z","type":"message"}
+{"nick":"devsnek","message":"it wants me to insert a semi into Napi::Persistent<Napi::Promise::Deferred>","date":"2018-01-21T17:43:52.901Z","type":"message"}
+{"nick":"devsnek","message":"before the diamond open","date":"2018-01-21T17:44:03.451Z","type":"message"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-21T18:36:05.300Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-01-21T18:57:44.499Z","type":"join"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-21T19:27:16.377Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2018-01-21T19:28:58.782Z","type":"join"}
+{"nick":"qard","date":"2018-01-21T19:32:52.217Z","type":"join"}
+{"nick":"plasticle","reason":"Quit: WeeChat 2.0.1","date":"2018-01-21T19:35:48.832Z","type":"quit"}
+{"nick":"plasticle","date":"2018-01-21T19:40:06.566Z","type":"join"}
+{"nick":"apapirovski","message":"tw","date":"2018-01-21T20:04:04.347Z","type":"message"}
+{"nick":"apapirovski","reason":"Quit: Leaving...","date":"2018-01-21T20:04:09.374Z","type":"quit"}
+{"nick":"titankiller","reason":"Remote host closed the connection","date":"2018-01-21T20:07:28.662Z","type":"quit"}
+{"nick":"titankiller","date":"2018-01-21T20:07:54.336Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 240 seconds","date":"2018-01-21T20:12:05.922Z","type":"quit"}
+{"nick":"titankiller","date":"2018-01-21T20:48:02.929Z","type":"join"}
+{"nick":"titankiller","reason":"Remote host closed the connection","date":"2018-01-21T20:51:40.943Z","type":"quit"}
+{"nick":"titankiller","date":"2018-01-21T20:52:07.962Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 268 seconds","date":"2018-01-21T20:56:48.759Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 264 seconds","date":"2018-01-21T21:26:09.257Z","type":"quit"}
+{"nick":"qard","reason":"Quit: qard","date":"2018-01-21T21:56:42.780Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2018-01-21T22:08:44.415Z","type":"quit"}
+{"nick":"BridgeAR","date":"2018-01-21T23:38:33.785Z","type":"join"}

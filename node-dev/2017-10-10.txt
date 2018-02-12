@@ -1,0 +1,301 @@
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-10T00:00:43.954Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-10T00:01:59.683Z","type":"join"}
+{"nick":"onel0p3z","date":"2017-10-10T00:10:34.319Z","type":"join"}
+{"nick":"JamesMGreene","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-10-10T00:18:43.763Z","type":"quit"}
+{"nick":"cflatts","reason":"Quit: cflatts","date":"2017-10-10T00:19:24.282Z","type":"quit"}
+{"nick":"onel0p3z","reason":"Quit: onel0p3z","date":"2017-10-10T00:20:32.893Z","type":"quit"}
+{"nick":"cflatts","date":"2017-10-10T00:21:30.695Z","type":"join"}
+{"nick":"cflatts","reason":"Quit: cflatts","date":"2017-10-10T00:39:26.772Z","type":"quit"}
+{"nick":"cflatts","date":"2017-10-10T00:42:42.559Z","type":"join"}
+{"nick":"BridgeAR","date":"2017-10-10T00:49:31.726Z","type":"join"}
+{"nick":"apapirovski","date":"2017-10-10T01:00:05.761Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-10-10T01:08:11.065Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-10T01:09:18.768Z","type":"quit"}
+{"nick":"Fishrock123","message":"anyone know what \"T ___channel_get_opt\" is in a V8 profile on mac? (Unser C++ ticks)","date":"2017-10-10T01:15:49.224Z","type":"message"}
+{"nick":"cflatts","reason":"Quit: cflatts","date":"2017-10-10T01:18:17.525Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-10T01:18:17.762Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T01:18:17.763Z","type":"part"}
+{"nick":"Fishrock123","message":"huh","date":"2017-10-10T01:19:06.381Z","type":"message"}
+{"nick":"Fishrock123","message":"looks like it's some macOS 10.12 thing?","date":"2017-10-10T01:19:14.495Z","type":"message"}
+{"nick":"cflatts","date":"2017-10-10T01:20:22.648Z","type":"join"}
+{"nick":"Fishrock123","message":"I wonder if macos 10.12 didn't tank libuv fs perf somehow","date":"2017-10-10T01:20:39.291Z","type":"message"}
+{"nick":"cflatts","reason":"Client Quit","date":"2017-10-10T01:22:35.349Z","type":"quit"}
+{"nick":"cflatts","date":"2017-10-10T01:24:42.699Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-10T01:30:41.678Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-10T01:50:32.624Z","type":"join"}
+{"nick":"cflatts","reason":"Quit: cflatts","date":"2017-10-10T02:03:41.763Z","type":"quit"}
+{"nick":"cflatts","date":"2017-10-10T02:05:32.811Z","type":"join"}
+{"nick":"charmander","reason":"Quit: WeeChat 1.9","date":"2017-10-10T02:12:46.511Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-10T02:17:06.790Z","type":"quit"}
+{"nick":"charmander","date":"2017-10-10T02:19:05.110Z","type":"join"}
+{"nick":"BridgeAR","reason":"Ping timeout: 260 seconds","date":"2017-10-10T02:27:52.749Z","type":"quit"}
+{"nick":"cflatts","reason":"Quit: cflatts","date":"2017-10-10T02:32:49.586Z","type":"quit"}
+{"nick":"snowkidind","date":"2017-10-10T02:35:19.403Z","type":"join"}
+{"nick":"cflatts","date":"2017-10-10T02:37:46.740Z","type":"join"}
+{"nick":"cflatts","reason":"Quit: cflatts","date":"2017-10-10T02:54:45.437Z","type":"quit"}
+{"nick":"snowkidind","reason":"Quit: astalaPIZZA Baby!","date":"2017-10-10T02:56:36.321Z","type":"quit"}
+{"nick":"cflatts","date":"2017-10-10T02:59:36.677Z","type":"join"}
+{"nick":"cflatts","reason":"Client Quit","date":"2017-10-10T03:01:44.608Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-10T03:03:10.891Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T03:03:11.045Z","type":"part"}
+{"nick":"cflatts","date":"2017-10-10T03:06:47.741Z","type":"join"}
+{"nick":"apapirovski","date":"2017-10-10T03:09:46.855Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 258 seconds","date":"2017-10-10T03:14:12.904Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-10T03:23:29.679Z","type":"join"}
+{"nick":"cflatts","reason":"Quit: cflatts","date":"2017-10-10T03:34:06.581Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-10T03:48:58.728Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-10-10T03:55:29.508Z","type":"quit"}
+{"nick":"sgimeno__","date":"2017-10-10T04:12:46.386Z","type":"join"}
+{"nick":"sgimeno_","reason":"Ping timeout: 240 seconds","date":"2017-10-10T04:15:21.131Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:22:08.681Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:22:08.682Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:22:33.679Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:22:33.681Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:25:36.130Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:25:36.197Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:25:55.127Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:25:55.128Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:31:56.131Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:31:56.197Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:32:09.684Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T04:32:09.686Z","type":"part"}
+{"nick":"apapirovski","date":"2017-10-10T04:35:01.081Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-10T04:39:49.466Z","type":"quit"}
+{"nick":"JamesMGreene","date":"2017-10-10T04:42:27.320Z","type":"join"}
+{"nick":"apapirovski","date":"2017-10-10T04:45:26.861Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-10T04:54:42.233Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-10T05:05:29.677Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T05:05:29.678Z","type":"part"}
+{"nick":"JamesMGreene","message":"refack: Got the artificial async in C++ workflow figured out https://github.com/JamesMGreene/napi-async-callback-example/blob/master/addon.cc","date":"2017-10-10T05:15:30.375Z","type":"message"}
+{"nick":"JamesMGreene","message":"Now I just need to figure out the error handling weirdness","date":"2017-10-10T05:20:54.838Z","type":"message"}
+{"nick":"JamesMGreene","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-10-10T05:31:05.720Z","type":"quit"}
+{"nick":"lpin","date":"2017-10-10T05:44:01.993Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:05:56.836Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:05:56.837Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:06:19.131Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:06:19.198Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:09:56.708Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:09:56.710Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:13:29.130Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:13:29.197Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:15:06.774Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:15:06.775Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:17:20.182Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:17:20.220Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:24:01.086Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:24:01.087Z","type":"part"}
+{"nick":"seishun","date":"2017-10-10T06:31:16.263Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:41:41.067Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:41:41.069Z","type":"part"}
+{"nick":"howdoi","date":"2017-10-10T06:53:10.200Z","type":"join"}
+{"nick":"apapirovski","date":"2017-10-10T06:55:07.596Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:59:00.688Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T06:59:00.690Z","type":"part"}
+{"nick":"apapirovski","reason":"Ping timeout: 240 seconds","date":"2017-10-10T06:59:21.179Z","type":"quit"}
+{"nick":"sgimeno__","new_nick":"sgimeno","date":"2017-10-10T07:37:02.597Z","type":"nick"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-10-10T07:39:28.035Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-10T07:42:25.565Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T07:42:25.605Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T07:44:27.611Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T07:44:27.649Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T08:57:04.989Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T08:57:05.028Z","type":"part"}
+{"nick":"BridgeAR","date":"2017-10-10T09:39:19.989Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T09:51:20.657Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T09:51:20.659Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T09:51:41.367Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T09:51:41.432Z","type":"part"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-10-10T09:59:56.185Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-10T10:25:12.221Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-10T10:25:49.990Z","type":"join"}
+{"nick":"aqrln","date":"2017-10-10T10:44:13.680Z","type":"join"}
+{"nick":"JamesMGreene","date":"2017-10-10T11:05:47.984Z","type":"join"}
+{"nick":"JamesMGreene","reason":"Client Quit","date":"2017-10-10T11:06:28.238Z","type":"quit"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-10-10T11:22:13.638Z","type":"quit"}
+{"nick":"aqrln","reason":"Ping timeout: 248 seconds","date":"2017-10-10T11:39:43.680Z","type":"quit"}
+{"nick":"aqrln","date":"2017-10-10T11:42:22.673Z","type":"join"}
+{"nick":"evanlucas","date":"2017-10-10T11:52:31.542Z","type":"join"}
+{"nick":"al-damiri","date":"2017-10-10T12:04:30.111Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:20:52.351Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:20:52.422Z","type":"part"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-10-10T12:26:35.578Z","type":"quit"}
+{"nick":"evanlucas","reason":"Ping timeout: 240 seconds","date":"2017-10-10T12:27:08.567Z","type":"quit"}
+{"nick":"aqrln","date":"2017-10-10T12:29:09.357Z","type":"join"}
+{"nick":"onel0p3z","date":"2017-10-10T12:29:10.494Z","type":"join"}
+{"nick":"evanlucas","date":"2017-10-10T12:32:47.294Z","type":"join"}
+{"nick":"snowkidind","date":"2017-10-10T12:41:59.545Z","type":"join"}
+{"nick":"ChALkeR","reason":"Quit: Konversation terminated!","date":"2017-10-10T12:50:15.927Z","type":"quit"}
+{"nick":"ChALkeR","date":"2017-10-10T12:50:27.804Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:55:51.740Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:55:51.780Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:56:31.831Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:56:31.832Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:56:54.680Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:56:54.682Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:57:41.199Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:57:41.240Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:58:24.701Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:58:24.704Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:58:39.687Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:58:39.695Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:59:39.918Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T12:59:39.919Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T13:08:34.654Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T13:08:34.696Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T13:12:11.377Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T13:12:11.416Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T13:12:30.577Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T13:12:30.579Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T13:14:53.680Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T13:14:53.682Z","type":"part"}
+{"nick":"indistylo","date":"2017-10-10T13:15:47.706Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-10T13:23:13.717Z","type":"join"}
+{"nick":"bradleymeck","message":"One of the smartos builds failed in https://ci.nodejs.org/job/node-test-commit/12795/ , but I can't figure out how to actually see the output of that job","date":"2017-10-10T13:23:45.408Z","type":"message"}
+{"nick":"bradleymeck","message":"https://ci.nodejs.org/job/node-test-commit-smartos/11870/nodes=smartos14-64/console implies it didn't even get setup properly?","date":"2017-10-10T13:24:20.718Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-10-10T13:35:10.921Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T13:35:10.923Z","type":"part"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-10T14:00:21.113Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-10T14:00:54.165Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 255 seconds","date":"2017-10-10T14:05:20.000Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-10-10T14:12:28.994Z","type":"join"}
+{"nick":"indistylo","reason":"Remote host closed the connection","date":"2017-10-10T14:23:47.343Z","type":"quit"}
+{"nick":"nikhil","date":"2017-10-10T14:44:15.615Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-10T14:53:19.106Z","type":"quit"}
+{"nick":"aqrln","reason":"Ping timeout: 264 seconds","date":"2017-10-10T15:11:46.432Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:13:57.451Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:13:57.453Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:14:12.897Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:14:12.937Z","type":"part"}
+{"nick":"joyee","date":"2017-10-10T15:18:06.676Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:20:22.409Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:20:22.411Z","type":"part"}
+{"nick":"aqrln","date":"2017-10-10T15:31:44.577Z","type":"join"}
+{"nick":"seishun","date":"2017-10-10T15:35:02.898Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:41:33.962Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:41:34.045Z","type":"part"}
+{"nick":"lpin","date":"2017-10-10T15:41:51.492Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:55:14.725Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:55:14.726Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:56:44.772Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T15:56:44.773Z","type":"part"}
+{"nick":"refack","message":"bradleymeck: forgetaboutit. seems like just an infrastructure failure","date":"2017-10-10T15:57:48.205Z","type":"message"}
+{"nick":"refack","message":"gabrielschulhof: any wise words for JamesMGreene ^^^","date":"2017-10-10T15:58:59.983Z","type":"message"}
+{"nick":"indistylo","date":"2017-10-10T16:08:48.727Z","type":"join"}
+{"nick":"gabrielschulhof","message":"refack: Well, since he's gone, I would say https://docs.nodejs.org/dist/latest-v8.x/docs/api/n-api.html#n_api_simple_asynchronous_operations","date":"2017-10-10T16:12:55.065Z","type":"message"}
+{"nick":"refack","message":"Error handling?","date":"2017-10-10T16:13:14.641Z","type":"message"}
+{"nick":"gabrielschulhof","message":"You could structure that into the void* data.","date":"2017-10-10T16:14:23.082Z","type":"message"}
+{"nick":"gabrielschulhof","message":"... and examine the data upon execution of the completion callback.","date":"2017-10-10T16:14:41.723Z","type":"message"}
+{"nick":"refack","message":"gabrielschulhof: is there a guide / sample project? I might want to get some experience myself","date":"2017-10-10T16:14:59.951Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-10-10T16:15:28.998Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T16:15:29.108Z","type":"part"}
+{"nick":"gabrielschulhof","message":"refack: There's test/addons-napi/test_async, but I don't know of any examples per se.","date":"2017-10-10T16:17:18.863Z","type":"message"}
+{"nick":"refack","message":"Thanks","date":"2017-10-10T16:17:40.836Z","type":"message"}
+{"nick":"gabrielschulhof","message":"refack: HTH","date":"2017-10-10T16:17:47.564Z","type":"message"}
+{"nick":"bradleymeck","date":"2017-10-10T16:38:17.717Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-10T16:44:15.498Z","type":"quit"}
+{"nick":"joyee_","date":"2017-10-10T17:11:09.903Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-10-10T17:11:35.560Z","type":"quit"}
+{"nick":"d10n-work","date":"2017-10-10T17:26:42.818Z","type":"join"}
+{"nick":"onel0p3z","reason":"Quit: onel0p3z","date":"2017-10-10T17:39:13.500Z","type":"quit"}
+{"nick":"nikhil","message":"hello","date":"2017-10-10T17:43:58.577Z","type":"message"}
+{"nick":"refack","message":"Hello, what's up?","date":"2017-10-10T17:44:13.602Z","type":"message"}
+{"nick":"nikhil","message":"hey refack can you point me to where the global process module is setup?","date":"2017-10-10T17:44:36.747Z","type":"message"}
+{"nick":"apapirovski","date":"2017-10-10T17:44:40.061Z","type":"join"}
+{"nick":"refack","message":"It happens in two parts. 1 on the C++ side in node.cc","date":"2017-10-10T17:45:15.045Z","type":"message"}
+{"nick":"refack","message":"https://github.com/nodejs/node/blob/master/src/node.cc#L1279","date":"2017-10-10T17:46:18.391Z","type":"message"}
+{"nick":"nikhil","message":"👍","date":"2017-10-10T17:47:11.257Z","type":"message"}
+{"nick":"refack","message":"The rest is in https://github.com/nodejs/node/blob/master/lib/internal/bootstrap_node.js","date":"2017-10-10T17:47:32.727Z","type":"message"}
+{"nick":"nikhil","message":"awesome, thanks refack ! (will look over in detail)","date":"2017-10-10T17:50:20.498Z","type":"message"}
+{"nick":"nikhil","message":"refack: one quick question..","date":"2017-10-10T17:50:27.150Z","type":"message"}
+{"nick":"nikhil","message":"refack: what is ABI!?","date":"2017-10-10T17:50:34.587Z","type":"message"}
+{"nick":"nikhil","message":"I couldn't find a reference and was hoping to understand it and add documentation","date":"2017-10-10T17:50:53.856Z","type":"message"}
+{"nick":"nikhil","message":"looks similar to API but may be contextual to NodeJS?","date":"2017-10-10T17:51:13.636Z","type":"message"}
+{"nick":"refack","message":"Application Binary Interface. roughly the symbols that a compiled binary exports","date":"2017-10-10T17:51:26.077Z","type":"message"}
+{"nick":"refack","message":"https://en.wikipedia.org/wiki/Application_binary_interface","date":"2017-10-10T17:51:45.588Z","type":"message"}
+{"nick":"refack","message":"tl;dr whenever you use `extern` you tell the linker \"this symbol will comes from somewhere else\"","date":"2017-10-10T17:52:39.934Z","type":"message"}
+{"nick":"refack","message":"for node it is most relevant in the context of native-addons and embedding","date":"2017-10-10T17:53:27.919Z","type":"message"}
+{"nick":"nikhil","message":"(puff, should have web-searched it!)","date":"2017-10-10T17:54:18.327Z","type":"message"}
+{"nick":"BridgeAR","date":"2017-10-10T17:54:36.946Z","type":"join"}
+{"nick":"nikhil","message":"refack: thanks much. this is super helpful. I still will create a PR for some documentation (to put some context to things) :)","date":"2017-10-10T17:55:44.686Z","type":"message"}
+{"nick":"refack","message":"NP, happy to help","date":"2017-10-10T17:56:18.686Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-10-10T17:57:21.932Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T17:57:21.934Z","type":"part"}
+{"nick":"mylesborins","message":"refack I closed the PR as the original was determined not a good candidate for LTS","date":"2017-10-10T17:57:37.758Z","type":"message"}
+{"nick":"mylesborins","message":"if I'm missing some context, or if it a patch update with the other minor landed feel free to open a new PR","date":"2017-10-10T17:57:56.090Z","type":"message"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-10-10T17:58:08.848Z","type":"quit"}
+{"nick":"nikhil","message":":)","date":"2017-10-10T17:58:13.896Z","type":"message"}
+{"nick":"mylesborins","message":"gtg for now ttys","date":"2017-10-10T17:58:20.720Z","type":"message"}
+{"nick":"Trott","message":"Hey all! Node.js 9.0.0 still expected for late October, right?","date":"2017-10-10T18:04:12.577Z","type":"message"}
+{"nick":"refack","message":"mylesborins: commented on the PR. Not a big thing, just would be nice to keep assert in step with with v6.x","date":"2017-10-10T18:07:45.774Z","type":"message"}
+{"nick":"refack","message":"Trott: AFAIK yes, but havn't seen any RCs so IDK","date":"2017-10-10T18:08:49.884Z","type":"message"}
+{"nick":"chalker_","date":"2017-10-10T18:15:29.980Z","type":"join"}
+{"nick":"ChALkeR","reason":"Ping timeout: 258 seconds","date":"2017-10-10T18:16:57.780Z","type":"quit"}
+{"nick":"onel0p3z","date":"2017-10-10T18:50:10.865Z","type":"join"}
+{"nick":"mylesborins","message":"refack as long as that PR is still semver minor we will likely not be landing it. We can bring this up in next weeks meeting though if you think it is a good idea","date":"2017-10-10T18:59:02.648Z","type":"message"}
+{"nick":"refack","message":"I'll split it in two","date":"2017-10-10T18:59:52.746Z","type":"message"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-10-10T19:01:05.581Z","type":"quit"}
+{"nick":"refack","message":"although it could be argued that `udefined udefined udefined` -> `Fail` is a bug fix","date":"2017-10-10T19:01:24.949Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-10-10T19:06:24.681Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T19:06:24.688Z","type":"part"}
+{"nick":"joyee_","reason":"Remote host closed the connection","date":"2017-10-10T19:23:53.152Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-10T19:24:26.330Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T19:28:59.972Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T19:28:59.973Z","type":"part"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-10-10T19:29:05.358Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-10T19:29:14.307Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T19:29:14.308Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T19:29:53.725Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T19:29:53.726Z","type":"part"}
+{"nick":"not-an-aardvark","date":"2017-10-10T19:29:54.022Z","type":"join"}
+{"nick":"BridgeAR","reason":"Ping timeout: 255 seconds","date":"2017-10-10T19:40:02.889Z","type":"quit"}
+{"nick":"aqrln","date":"2017-10-10T19:40:07.918Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 260 seconds","date":"2017-10-10T19:43:52.750Z","type":"quit"}
+{"nick":"indistylo","reason":"Ping timeout: 258 seconds","date":"2017-10-10T19:58:32.772Z","type":"quit"}
+{"nick":"sgimeno_","date":"2017-10-10T19:59:44.956Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T20:02:39.362Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T20:02:39.429Z","type":"part"}
+{"nick":"sgimeno","reason":"Ping timeout: 248 seconds","date":"2017-10-10T20:02:41.375Z","type":"quit"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-10-10T20:03:27.821Z","type":"quit"}
+{"nick":"seishun","date":"2017-10-10T20:04:22.776Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-10-10T20:14:21.192Z","type":"quit"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-10-10T20:25:29.175Z","type":"quit"}
+{"nick":"serapath_","date":"2017-10-10T20:31:44.084Z","type":"join"}
+{"nick":"ChALkeR","date":"2017-10-10T20:32:28.720Z","type":"join"}
+{"nick":"serapath_","new_nick":"serapath","date":"2017-10-10T20:32:39.802Z","type":"nick"}
+{"nick":"chalker_","reason":"Ping timeout: 255 seconds","date":"2017-10-10T20:34:08.051Z","type":"quit"}
+{"nick":"onel0p3z","reason":"Quit: onel0p3z","date":"2017-10-10T20:46:17.375Z","type":"quit"}
+{"nick":"aqrln","date":"2017-10-10T21:02:13.889Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T21:18:09.680Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T21:18:09.681Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-10T21:34:32.685Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-10-10T21:35:47.648Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T21:46:05.090Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T21:46:05.092Z","type":"part"}
+{"nick":"lanceball","new_nick":"lance|afk","date":"2017-10-10T21:50:07.997Z","type":"nick"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-10T22:04:24.721Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-10T22:34:11.321Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T22:34:11.388Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-10T22:40:39.986Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-10-10T22:41:07.198Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 248 seconds","date":"2017-10-10T22:45:21.383Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-10-10T22:54:49.024Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-10T23:03:20.635Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:04:58.726Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:04:58.764Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:05:36.382Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:05:36.383Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:15:56.133Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:15:56.196Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:16:39.853Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:16:39.854Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:23:11.191Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:23:11.193Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:32:46.634Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:32:46.636Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:36:20.809Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:36:20.811Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:36:36.684Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-10T23:36:36.685Z","type":"part"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-10T23:57:16.316Z","type":"quit"}
+{"nick":"snowkidind","reason":"Quit: astalaPIZZA Baby!","date":"2017-10-10T23:58:01.293Z","type":"quit"}
+{"nick":"onel0p3z","date":"2017-10-10T23:58:35.782Z","type":"join"}

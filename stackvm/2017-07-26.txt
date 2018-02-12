@@ -1,0 +1,240 @@
+{"nick":"contrahax","reason":"Ping timeout: 260 seconds","date":"2017-07-26T00:29:07.697Z","type":"quit"}
+{"nick":"contrahax","date":"2017-07-26T00:30:43.968Z","type":"join"}
+{"nick":"phated","date":"2017-07-26T00:38:31.605Z","type":"join"}
+{"nick":"contrahax","reason":"Ping timeout: 255 seconds","date":"2017-07-26T00:42:04.864Z","type":"quit"}
+{"nick":"phated","reason":"Ping timeout: 248 seconds","date":"2017-07-26T00:42:41.464Z","type":"quit"}
+{"nick":"contrahax","date":"2017-07-26T00:44:37.539Z","type":"join"}
+{"nick":"milkandtang","reason":"Ping timeout: 260 seconds","date":"2017-07-26T02:19:32.532Z","type":"quit"}
+{"nick":"cubertfarns","reason":"Ping timeout: 260 seconds","date":"2017-07-26T02:19:32.889Z","type":"quit"}
+{"nick":"shrubbery","date":"2017-07-26T02:19:54.492Z","type":"join"}
+{"nick":"shrubbery","new_nick":"milkandtang","date":"2017-07-26T02:20:11.235Z","type":"nick"}
+{"nick":"darvon_","date":"2017-07-26T02:20:24.577Z","type":"join"}
+{"nick":"darvon","reason":"Remote host closed the connection","date":"2017-07-26T02:20:50.878Z","type":"quit"}
+{"nick":"cubertfarns","date":"2017-07-26T02:22:20.382Z","type":"join"}
+{"nick":"phated","date":"2017-07-26T02:26:45.856Z","type":"join"}
+{"nick":"darvon_","new_nick":"darvon","date":"2017-07-26T02:30:19.249Z","type":"nick"}
+{"nick":"phated","reason":"Ping timeout: 240 seconds","date":"2017-07-26T02:30:57.819Z","type":"quit"}
+{"nick":"phated","date":"2017-07-26T03:09:08.863Z","type":"join"}
+{"nick":"phated","reason":"Ping timeout: 240 seconds","date":"2017-07-26T03:13:27.766Z","type":"quit"}
+{"nick":"phated","date":"2017-07-26T03:47:32.296Z","type":"join"}
+{"nick":"jfhbrook","message":"substack: you still use x2x? do you know of a good idiot-proof wrapper for it? It looks like it requires multiple flags and I'm extremely low patience these days","date":"2017-07-26T03:53:30.593Z","type":"message"}
+{"nick":"jfhbrook","message":"it could be I'm overestimating the difficulty","date":"2017-07-26T03:57:10.648Z","type":"message"}
+{"nick":"jfhbrook","message":"actually more likely looking at http://fredrik.hubbe.net/x2vnc.html but similar API","date":"2017-07-26T04:00:04.767Z","type":"message"}
+{"nick":"substack","message":"now and then yes","date":"2017-07-26T04:11:27.195Z","type":"message"}
+{"nick":"substack","message":"ssh -Y 'x2x -to :0 -east' usually does the trick","date":"2017-07-26T04:11:49.386Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah that doesn't sound so bad","date":"2017-07-26T04:15:13.679Z","type":"message"}
+{"nick":"jfhbrook","message":"so my macbook's hard disk shit its pants","date":"2017-07-26T04:15:40.428Z","type":"message"}
+{"nick":"jfhbrook","message":"I have a p good chance at partial data recovery if I invest some time and money","date":"2017-07-26T04:15:50.414Z","type":"message"}
+{"nick":"jfhbrook","message":"but I gotta repair my own disk and I'm kinda sick of the osx thing anyway","date":"2017-07-26T04:16:11.500Z","type":"message"}
+{"nick":"jfhbrook","message":"so I might switch to arch","date":"2017-07-26T04:19:48.086Z","type":"message"}
+{"nick":"jfhbrook","message":"and I'm gonna buy a windows pc for vidya p soon too","date":"2017-07-26T04:19:55.887Z","type":"message"}
+{"nick":"substack","message":"ARSC tried to give me a mac laptop but I knew better","date":"2017-07-26T04:24:55.036Z","type":"message"}
+{"nick":"jfhbrook","message":"lolol","date":"2017-07-26T04:27:17.590Z","type":"message"}
+{"nick":"jfhbrook","message":"been using this one since late 2013","date":"2017-07-26T04:27:23.859Z","type":"message"}
+{"nick":"jfhbrook","message":"it's served me reasonably well considering, though holy crap the repair bills","date":"2017-07-26T04:27:39.214Z","type":"message"}
+{"nick":"jfhbrook","message":"this happened 6 weeks after I swore off paying repair bills","date":"2017-07-26T04:27:48.297Z","type":"message"}
+{"nick":"jfhbrook","message":"thank god this is an actually doable home repair","date":"2017-07-26T04:27:54.198Z","type":"message"}
+{"nick":"deep-book-gk_","date":"2017-07-26T04:31:04.629Z","type":"join"}
+{"nick":"deep-book-gk_","date":"2017-07-26T04:33:16.637Z","type":"part"}
+{"nick":"substack","message":"I've had to open up a lot of my laptops to make repairs but it's usually been easy enough","date":"2017-07-26T04:36:39.899Z","type":"message"}
+{"nick":"substack","message":"for a while I had a stack of x220s for parts","date":"2017-07-26T04:36:51.201Z","type":"message"}
+{"nick":"jfhbrook","message":"getting my keyboard replaced was 600 bucks","date":"2017-07-26T04:37:09.779Z","type":"message"}
+{"nick":"substack","message":"and in the desert when my drive finally gave out I bought one from best buy for $100 and swapped it in","date":"2017-07-26T04:37:16.323Z","type":"message"}
+{"nick":"jfhbrook","message":"I was so mad","date":"2017-07-26T04:37:16.453Z","type":"message"}
+{"nick":"substack","message":"yeah you could buy like 2 or 3 shitty computers for that much","date":"2017-07-26T04:37:34.821Z","type":"message"}
+{"nick":"substack","message":"I only buy cheap shitty computers and I mostly do webgl contracts now","date":"2017-07-26T04:37:51.043Z","type":"message"}
+{"nick":"jfhbrook","message":"nice","date":"2017-07-26T04:38:43.065Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah like I said I've swore off apple repairs","date":"2017-07-26T04:38:57.750Z","type":"message"}
+{"nick":"jfhbrook","message":"the HD is DIYable luckily","date":"2017-07-26T04:39:16.011Z","type":"message"}
+{"nick":"substack","message":"one time I got my keyboard fixed in china for 30 yuan ($5)","date":"2017-07-26T04:39:24.587Z","type":"message"}
+{"nick":"jfhbrook","message":"you need some bizarro screwdrivers","date":"2017-07-26T04:39:29.001Z","type":"message"}
+{"nick":"jfhbrook","message":"dang","date":"2017-07-26T04:39:34.226Z","type":"message"}
+{"nick":"substack","message":"they just found a key that kinda fit and cut it to fit with a pair of scissors","date":"2017-07-26T04:39:44.936Z","type":"message"}
+{"nick":"substack","message":"totally worked","date":"2017-07-26T04:39:50.104Z","type":"message"}
+{"nick":"jfhbrook","message":"lol what","date":"2017-07-26T04:40:00.048Z","type":"message"}
+{"nick":"jfhbrook","message":"that's hilarious and also awesome","date":"2017-07-26T04:40:04.624Z","type":"message"}
+{"nick":"phated","reason":"Remote host closed the connection","date":"2017-07-26T06:01:04.388Z","type":"quit"}
+{"nick":"phated","date":"2017-07-26T06:02:08.630Z","type":"join"}
+{"nick":"phated","reason":"Ping timeout: 268 seconds","date":"2017-07-26T06:06:45.628Z","type":"quit"}
+{"nick":"pfrazee","reason":"Quit: Connection closed for inactivity","date":"2017-07-26T07:06:31.984Z","type":"quit"}
+{"nick":"savantgarde","date":"2017-07-26T07:29:45.609Z","type":"join"}
+{"nick":"phated","date":"2017-07-26T07:50:15.596Z","type":"join"}
+{"nick":"phated","reason":"Ping timeout: 240 seconds","date":"2017-07-26T07:54:35.479Z","type":"quit"}
+{"nick":"savantgarde","reason":"Remote host closed the connection","date":"2017-07-26T08:44:59.172Z","type":"quit"}
+{"nick":"savantgarde","date":"2017-07-26T08:48:53.427Z","type":"join"}
+{"nick":"savantgarde","reason":"Remote host closed the connection","date":"2017-07-26T08:49:15.466Z","type":"quit"}
+{"nick":"savantgarde","date":"2017-07-26T09:06:00.409Z","type":"join"}
+{"nick":"savantgarde","reason":"Remote host closed the connection","date":"2017-07-26T09:06:29.918Z","type":"quit"}
+{"nick":"chrisdickinson_","reason":"Ping timeout: 276 seconds","date":"2017-07-26T09:21:46.779Z","type":"quit"}
+{"nick":"chrisdickinson","date":"2017-07-26T09:23:17.349Z","type":"join"}
+{"nick":"milkandtang","reason":"Ping timeout: 240 seconds","date":"2017-07-26T09:24:22.161Z","type":"quit"}
+{"nick":"milkandtang","date":"2017-07-26T09:26:30.074Z","type":"join"}
+{"nick":"null_radix","reason":"Ping timeout: 276 seconds","date":"2017-07-26T09:28:55.658Z","type":"quit"}
+{"nick":"null_radix","date":"2017-07-26T09:30:40.431Z","type":"join"}
+{"nick":"phated","date":"2017-07-26T09:38:15.712Z","type":"join"}
+{"nick":"phated","reason":"Ping timeout: 260 seconds","date":"2017-07-26T09:43:17.690Z","type":"quit"}
+{"nick":"phated","date":"2017-07-26T10:01:58.671Z","type":"join"}
+{"nick":"phated","reason":"Ping timeout: 276 seconds","date":"2017-07-26T10:06:37.658Z","type":"quit"}
+{"nick":"savantgarde","date":"2017-07-26T10:21:46.113Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-07-26T10:25:11.066Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-07-26T10:25:41.897Z","type":"join"}
+{"nick":"savantgarde","reason":"Ping timeout: 240 seconds","date":"2017-07-26T10:26:22.107Z","type":"quit"}
+{"nick":"mollerse","reason":"Quit: No Ping reply in 180 seconds.","date":"2017-07-26T10:45:01.679Z","type":"quit"}
+{"nick":"mollerse","date":"2017-07-26T10:46:08.015Z","type":"join"}
+{"nick":"savantgarde","date":"2017-07-26T11:36:06.769Z","type":"join"}
+{"nick":"pfrazee","date":"2017-07-26T12:19:36.342Z","type":"join"}
+{"nick":"savantgarde","reason":"Remote host closed the connection","date":"2017-07-26T12:53:50.750Z","type":"quit"}
+{"nick":"contrahax","reason":"Quit: Sleeping","date":"2017-07-26T14:05:30.282Z","type":"quit"}
+{"nick":"toddself","message":"jfhbrook: i've been running arch for a year on my mac laptop (and  a home pc)","date":"2017-07-26T14:19:28.089Z","type":"message"}
+{"nick":"toddself","message":"it bothers me when i haev to go back into mac os for anything","date":"2017-07-26T14:19:35.582Z","type":"message"}
+{"nick":"toddself","message":"stick with xwindows for now (not wayland) since screenscaling trackpad drivers are much better in x (with xrandr) than wayland","date":"2017-07-26T14:20:12.129Z","type":"message"}
+{"nick":"jfhbrook","message":"gotcha","date":"2017-07-26T14:29:05.825Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah, I'm like","date":"2017-07-26T14:29:10.077Z","type":"message"}
+{"nick":"jfhbrook","message":"I went to osx because I felt like linux was a handful","date":"2017-07-26T14:29:32.734Z","type":"message"}
+{"nick":"jfhbrook","message":"and, like, using arch doesn't save me any money or stick it to the man or anything","date":"2017-07-26T14:29:50.243Z","type":"message"}
+{"nick":"jfhbrook","message":"so it's more about me taking the opportunity to start w/ a clean slate etc","date":"2017-07-26T14:30:00.795Z","type":"message"}
+{"nick":"jfhbrook","message":"also linux is kinda fun and I'll have a windows box to deal with some of the annoying bits","date":"2017-07-26T14:31:06.500Z","type":"message"}
+{"nick":"jfhbrook","message":"(gonna set up a media center situation)","date":"2017-07-26T14:31:15.146Z","type":"message"}
+{"nick":"toddself","message":"i set up a plex media server on a 6 year old mac mini i had with a few TB of external storage","date":"2017-07-26T14:32:08.379Z","type":"message"}
+{"nick":"toddself","message":"i went with arch after 6 months of ubuntu.  it's a lot easier to maintain oddly","date":"2017-07-26T14:32:28.402Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah, I've thought about xubuntu or fedora but I kinda wanna run awesome and going against the grain w/ those 2 distros is hard","date":"2017-07-26T14:33:44.977Z","type":"message"}
+{"nick":"jfhbrook","message":"my thing w/ arch is weekly potentially dangerous updates","date":"2017-07-26T14:33:59.325Z","type":"message"}
+{"nick":"jfhbrook","message":"but like, secondary machine","date":"2017-07-26T14:34:04.498Z","type":"message"}
+{"nick":"toddself","message":"the only issues i've had in the last year is with my nvidia card","date":"2017-07-26T14:34:16.421Z","type":"message"}
+{"nick":"toddself","message":"i installed the propreitary drivers from nvidia","date":"2017-07-26T14:34:24.108Z","type":"message"}
+{"nick":"toddself","message":"and occasionally i have to recompile them before video works","date":"2017-07-26T14:34:32.768Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah surprisingly the macbook is embedded","date":"2017-07-26T14:34:33.548Z","type":"message"}
+{"nick":"jfhbrook","message":"you'd think at the price I paid that it'd come with some hardware video acceleration but no","date":"2017-07-26T14:34:46.347Z","type":"message"}
+{"nick":"toddself","message":"the macbook works well","date":"2017-07-26T14:34:51.973Z","type":"message"}
+{"nick":"jfhbrook","message":"it does have 16g ram and an i7","date":"2017-07-26T14:34:57.110Z","type":"message"}
+{"nick":"toddself","message":"i had to install the non-free broadcom driver to get wifi","date":"2017-07-26T14:34:58.785Z","type":"message"}
+{"nick":"toddself","message":"but it's a DKMS module so when the kernel updates it updates as well","date":"2017-07-26T14:35:13.017Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah, I'm totally cool w/ proprietary drivers XD","date":"2017-07-26T14:35:14.409Z","type":"message"}
+{"nick":"toddself","message":"you will need a wire to get setup though","date":"2017-07-26T14:35:28.239Z","type":"message"}
+{"nick":"jfhbrook","message":"I had to do that with a belkin wireless gizmo","date":"2017-07-26T14:35:30.389Z","type":"message"}
+{"nick":"toddself","message":"or the driver on a flash drive","date":"2017-07-26T14:35:32.582Z","type":"message"}
+{"nick":"toddself","message":"since it doesn't come with the base install","date":"2017-07-26T14:35:39.988Z","type":"message"}
+{"nick":"jfhbrook","message":"makes sense","date":"2017-07-26T14:35:44.455Z","type":"message"}
+{"nick":"toddself","message":"i'm pretty impressed with the AUR as well","date":"2017-07-26T14:36:50.077Z","type":"message"}
+{"nick":"toddself","message":"i've had to install nothing from scratch","date":"2017-07-26T14:36:59.720Z","type":"message"}
+{"nick":"toddself","message":"there's always something available for what i'm trying to do","date":"2017-07-26T14:37:09.233Z","type":"message"}
+{"nick":"toddself","message":"including a zoom client (we use that for video)","date":"2017-07-26T14:37:15.603Z","type":"message"}
+{"nick":"toddself","message":"and the irccloud standalone client (i crash my browser all the time so i like a standalone)","date":"2017-07-26T14:37:41.894Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah I used arch on /something/ for a few minutes","date":"2017-07-26T14:39:41.950Z","type":"message"}
+{"nick":"jfhbrook","message":"maybe I gave it a trial run on an old laptop?","date":"2017-07-26T14:39:52.776Z","type":"message"}
+{"nick":"toddself","message":"do it.","date":"2017-07-26T14:40:20.493Z","type":"message"}
+{"nick":"jfhbrook","message":"I too treat my browser pretty rough, it's why I'm going 32gb on ram on the coffee table pc","date":"2017-07-26T14:40:23.189Z","type":"message"}
+{"nick":"toddself","message":"yeah this box i'm on is 32gb and an i7","date":"2017-07-26T14:40:38.476Z","type":"message"}
+{"nick":"jfhbrook","message":"everyone's all \"how are you using 32 gigs\" and I'm like \"bro\"","date":"2017-07-26T14:40:52.752Z","type":"message"}
+{"nick":"toddself","message":"i run a single electron app, that uses about 20 of them","date":"2017-07-26T14:41:05.426Z","type":"message"}
+{"nick":"toddself","message":"hahahaha","date":"2017-07-26T14:41:06.406Z","type":"message"}
+{"nick":"contrahax","date":"2017-07-26T14:46:11.482Z","type":"join"}
+{"nick":"jfhbrook","message":"oh, toddself since we're talking about computer stuff you might know this too: disk recovery software for mac hard drives?","date":"2017-07-26T16:04:45.052Z","type":"message"}
+{"nick":"toddself","message":"what is the fs?","date":"2017-07-26T16:05:12.342Z","type":"message"}
+{"nick":"jfhbrook","message":"idk, whatever ships w/ osx","date":"2017-07-26T16:05:37.822Z","type":"message"}
+{"nick":"jfhbrook","message":"don't think it's encrypted","date":"2017-07-26T16:05:42.205Z","type":"message"}
+{"nick":"toddself","message":"hfs+ yeah","date":"2017-07-26T16:06:03.553Z","type":"message"}
+{"nick":"jfhbrook","message":"dead/dying disk though","date":"2017-07-26T16:06:05.282Z","type":"message"}
+{"nick":"toddself","message":"does it click yet?","date":"2017-07-26T16:06:21.455Z","type":"message"}
+{"nick":"jfhbrook","message":"nah, it boots and then eventually something reads a bad sector and it locks up","date":"2017-07-26T16:06:35.240Z","type":"message"}
+{"nick":"jfhbrook","message":"I think my chances are really good, if I don't keep fucking w/ it","date":"2017-07-26T16:06:50.941Z","type":"message"}
+{"nick":"toddself","message":"ah!","date":"2017-07-26T16:06:52.151Z","type":"message"}
+{"nick":"jfhbrook","message":"I think it's an SSD too","date":"2017-07-26T16:06:57.895Z","type":"message"}
+{"nick":"toddself","message":"is your boot volume?","date":"2017-07-26T16:06:58.284Z","type":"message"}
+{"nick":"jfhbrook","message":"boot volume?","date":"2017-07-26T16:07:26.204Z","type":"message"}
+{"nick":"toddself","message":"is it what your computer boots from?","date":"2017-07-26T16:07:32.046Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah","date":"2017-07-26T16:07:36.817Z","type":"message"}
+{"nick":"toddself","message":"do you have a recovery partition (hold down option when you boot your mac and it'll show you all the EFS vols you can boot from)","date":"2017-07-26T16:07:54.523Z","type":"message"}
+{"nick":"jfhbrook","message":"basically, laptop just started acting real fucky one day and I was like, oh","date":"2017-07-26T16:07:56.913Z","type":"message"}
+{"nick":"toddself","message":"you can try using `diskutil verifyVolume`","date":"2017-07-26T16:08:03.416Z","type":"message"}
+{"nick":"jfhbrook","message":"option? hm","date":"2017-07-26T16:08:03.927Z","type":"message"}
+{"nick":"toddself","message":"yeah","date":"2017-07-26T16:08:06.418Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah, I like, I ran the built in hw diagnostic and got https://www.instagram.com/p/BW5XN9HjJeh/?taken-by=jfhbrook","date":"2017-07-26T16:08:25.275Z","type":"message"}
+{"nick":"toddself","message":"you can verify while it's the active disk but better to boot from something else (a usb)","date":"2017-07-26T16:08:27.518Z","type":"message"}
+{"nick":"toddself","message":"oh","date":"2017-07-26T16:08:33.835Z","type":"message"}
+{"nick":"toddself","message":"um","date":"2017-07-26T16:08:35.372Z","type":"message"}
+{"nick":"toddself","message":"that's a bad failure","date":"2017-07-26T16:10:08.825Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah","date":"2017-07-26T16:10:13.163Z","type":"message"}
+{"nick":"toddself","message":":(","date":"2017-07-26T16:10:14.921Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah like once I got there I just shut the laptop off and decided to deal with it later","date":"2017-07-26T16:10:33.188Z","type":"message"}
+{"nick":"toddself","message":"haha good choice. i've never dealt with recovery on SSD","date":"2017-07-26T16:10:48.415Z","type":"message"}
+{"nick":"jfhbrook","message":"like I said I got it to boot a few times and I think it could keep doing so, just not for long enough to do anything interesting","date":"2017-07-26T16:10:54.843Z","type":"message"}
+{"nick":"toddself","message":"yeah that's a pain. sorry i can't be more helpful","date":"2017-07-26T16:11:25.772Z","type":"message"}
+{"nick":"jfhbrook","message":"and I've had catastrophic data loss so many times that I just don't give a shit anymore","date":"2017-07-26T16:11:36.425Z","type":"message"}
+{"nick":"toddself","message":"yeah i was setting up a backup job for my media server to s3","date":"2017-07-26T16:11:58.350Z","type":"message"}
+{"nick":"jfhbrook","message":"a few passwords I have to reset and, uh, I might be fucked on wzrd.in support for a while","date":"2017-07-26T16:11:59.496Z","type":"message"}
+{"nick":"toddself","message":"and was all 'what else should i backup' and realized nothing else","date":"2017-07-26T16:12:05.307Z","type":"message"}
+{"nick":"jfhbrook","message":"I tried doing a backup of my keys to a thumb drive","date":"2017-07-26T16:12:12.006Z","type":"message"}
+{"nick":"jfhbrook","message":"but I tried the thumb drive yesterday and my work laptop won't even pick it up","date":"2017-07-26T16:12:21.179Z","type":"message"}
+{"nick":"toddself","message":"hahahahahahah","date":"2017-07-26T16:12:25.086Z","type":"message"}
+{"nick":"jfhbrook","message":"I think I spilled beer on it","date":"2017-07-26T16:12:26.526Z","type":"message"}
+{"nick":"jfhbrook","message":"it's sticky :|","date":"2017-07-26T16:12:35.317Z","type":"message"}
+{"nick":"toddself","message":"my keys are in my password vault","date":"2017-07-26T16:12:36.059Z","type":"message"}
+{"nick":"toddself","message":"if i lose my phone i'm fucked","date":"2017-07-26T16:12:39.136Z","type":"message"}
+{"nick":"toddself","message":"since that's 2FA","date":"2017-07-26T16:12:41.870Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah","date":"2017-07-26T16:12:43.856Z","type":"message"}
+{"nick":"toddself","message":"but everything else is either replicable or like whatever i don't care","date":"2017-07-26T16:12:50.354Z","type":"message"}
+{"nick":"jfhbrook","message":"my phone is dying too, like its disk is fine /as far as I know/ but the silence switch is broken and the mic is so bad I just don't answer my phone unless I have the earbuds on hand","date":"2017-07-26T16:13:10.694Z","type":"message"}
+{"nick":"jfhbrook","message":"it's a 6","date":"2017-07-26T16:13:20.750Z","type":"message"}
+{"nick":"jfhbrook","message":"dunno what the new hotness for iphones is","date":"2017-07-26T16:13:27.051Z","type":"message"}
+{"nick":"jfhbrook","message":"but like, my phone has icloud backups so nbd","date":"2017-07-26T16:13:33.878Z","type":"message"}
+{"nick":"jfhbrook","message":"the only thing I think I'm gonna truly miss from osx is messages","date":"2017-07-26T16:13:48.303Z","type":"message"}
+{"nick":"jfhbrook","message":"like being able to read texts on a big screen is so handy","date":"2017-07-26T16:14:01.139Z","type":"message"}
+{"nick":"toddself","message":"yeah. i've thought about going to android","date":"2017-07-26T16:14:10.654Z","type":"message"}
+{"nick":"toddself","message":"but the lack of os updates for any android device leaves me worried","date":"2017-07-26T16:14:17.838Z","type":"message"}
+{"nick":"jfhbrook","message":"I actually really like my iphone, minus my hardware issues","date":"2017-07-26T16:14:35.489Z","type":"message"}
+{"nick":"toddself","message":"there are so many security issues on phones and like not getting updates for them, given the stuff on my phone","date":"2017-07-26T16:14:37.538Z","type":"message"}
+{"nick":"jfhbrook","message":"and, like, for some reason storage is a problem","date":"2017-07-26T16:14:41.763Z","type":"message"}
+{"nick":"jfhbrook","message":"hoping the newer iphones have more disk","date":"2017-07-26T16:14:55.829Z","type":"message"}
+{"nick":"toddself","message":"i finally got a 128gb phone last year","date":"2017-07-26T16:15:11.631Z","type":"message"}
+{"nick":"toddself","message":"and like","date":"2017-07-26T16:15:12.965Z","type":"message"}
+{"nick":"jfhbrook","message":"any idea when the iphone 8 is expected to ship?","date":"2017-07-26T16:15:17.830Z","type":"message"}
+{"nick":"toddself","message":"i'm so far from running out of space","date":"2017-07-26T16:15:18.152Z","type":"message"}
+{"nick":"toddself","message":"this fall","date":"2017-07-26T16:15:21.169Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah word","date":"2017-07-26T16:15:25.353Z","type":"message"}
+{"nick":"toddself","message":"they usually come out sep/oct","date":"2017-07-26T16:15:27.165Z","type":"message"}
+{"nick":"jfhbrook","message":"so I should def hold out","date":"2017-07-26T16:15:28.262Z","type":"message"}
+{"nick":"jfhbrook","message":"get me one of them 8s","date":"2017-07-26T16:15:34.733Z","type":"message"}
+{"nick":"toddself","message":"yeah or an 7S or a Surfer's Paradise or whatever they call it","date":"2017-07-26T16:15:55.571Z","type":"message"}
+{"nick":"toddself","message":"lol","date":"2017-07-26T16:15:56.137Z","type":"message"}
+{"nick":"jfhbrook","message":"hah","date":"2017-07-26T16:16:05.567Z","type":"message"}
+{"nick":"jfhbrook","message":"yeah no I want the gadget","date":"2017-07-26T16:16:09.577Z","type":"message"}
+{"nick":"jfhbrook","message":"o/ lunch calls","date":"2017-07-26T16:16:23.135Z","type":"message"}
+{"nick":"toddself","message":"word","date":"2017-07-26T16:17:02.421Z","type":"message"}
+{"nick":"contrahax","reason":"Quit: Sleeping","date":"2017-07-26T17:02:26.580Z","type":"quit"}
+{"nick":"contrahax","date":"2017-07-26T17:02:46.701Z","type":"join"}
+{"nick":"phated","date":"2017-07-26T17:21:19.628Z","type":"join"}
+{"nick":"phated","reason":"Remote host closed the connection","date":"2017-07-26T18:26:08.794Z","type":"quit"}
+{"nick":"phated","date":"2017-07-26T18:36:50.521Z","type":"join"}
+{"nick":"phated","reason":"Remote host closed the connection","date":"2017-07-26T18:54:47.510Z","type":"quit"}
+{"nick":"feross","message":"noffle, mafintosh, substack: https://github.com/Maksims/web-udp-public","date":"2017-07-26T20:16:37.833Z","type":"message"}
+{"nick":"feross","message":"^ wa7son, yoshuawuyts, pfrazee","date":"2017-07-26T20:17:07.347Z","type":"message"}
+{"nick":"pfrazee","message":"feross: I'm +1 but (just for perspective) I'm not as passionate for that as I am for adopting dat into the web platform. Even with web-udp, we couldnt do what we do with dat:// in userland (the full HTTPS replacement)","date":"2017-07-26T20:21:10.099Z","type":"message"}
+{"nick":"pfrazee","message":"feross: the other thing I consider a bigger challenge is arranging connections between peers. WebRTC is imperfect and doesnt perform as well as udp would for games, but its biggest weakness is signalling. We've been talking pretty actively about a solution for that in #dat lately","date":"2017-07-26T20:21:53.469Z","type":"message"}
+{"nick":"feross","message":"hmm, i'm generally more for lower-level primitives in the web platform. dat support would be awesome (but super politically difficult and unlikely tbh)","date":"2017-07-26T20:22:41.246Z","type":"message"}
+{"nick":"feross","message":"webudp seems a lot more achievable since it has a lot of use cases for a lot of different projects, companies, etc","date":"2017-07-26T20:23:02.372Z","type":"message"}
+{"nick":"pfrazee","message":"feross: it's only politically difficult because we're at the beginning of advocacy","date":"2017-07-26T20:23:17.534Z","type":"message"}
+{"nick":"feross","message":"pfrazee: the problem i see is that even P2P people who should be on your side will come out against because they'll say \"why not technology X instead?\"","date":"2017-07-26T20:24:02.545Z","type":"message"}
+{"nick":"pfrazee","message":"feross: fragmentation is a short term problem. Eventually one of our protocols will become a standard - I think it should be Dat, but I'll go with whichever wins","date":"2017-07-26T20:24:50.880Z","type":"message"}
+{"nick":"feross","message":"fair enough, if there's a clear winner then this does become a lot easier","date":"2017-07-26T20:25:13.974Z","type":"message"}
+{"nick":"feross","message":"in the meantime, I expect a lot of why not  IPFS SSB / Freenet / Tor onion sites / whatever the current BitTorrent attempt is / some new IETF/W3C spec?","date":"2017-07-26T20:25:35.356Z","type":"message"}
+{"nick":"pfrazee","message":"yeah that's 50% of my conversations on twitter or reddit","date":"2017-07-26T20:25:50.591Z","type":"message"}
+{"nick":"phated","date":"2017-07-26T20:26:32.615Z","type":"join"}
+{"nick":"pfrazee","message":"feross: to your point about lower level primitives, that's why I'm +1. If we can feel comfortable about the security, then I'm in favor. But I just dont see it as a replacement for integrating a BitTorrent variant into the web platform","date":"2017-07-26T20:26:46.375Z","type":"message"}
+{"nick":"pfrazee","message":"feross: I'd also point out that our installable web apps spec improves the overall security story of the web platform, and makes things like web udp more feasible (https://github.com/beakerbrowser/beaker/wiki/Installable-Web-Applications)","date":"2017-07-26T20:28:00.298Z","type":"message"}
+{"nick":"feross","message":"pfrazee: makes sense","date":"2017-07-26T20:29:58.670Z","type":"message"}
+{"nick":"phated","reason":"Ping timeout: 240 seconds","date":"2017-07-26T20:30:51.586Z","type":"quit"}
+{"nick":"pfrazee","message":"yeah pulling back from my immediate projects - my position is that *one* of the BitTorrent variants should become a core Web Platform protocol for the Web to move forward, and that we should do that before we consider integrating any blockchains","date":"2017-07-26T20:32:57.526Z","type":"message"}
+{"nick":"pfrazee","message":"so if there's anything I can hammer home, it's that. The Web should have a BitTorrent native","date":"2017-07-26T20:33:27.571Z","type":"message"}
+{"nick":"noffle","message":"feross: nicely written doc","date":"2017-07-26T21:43:11.326Z","type":"message"}
+{"nick":"noffle","message":"https://github.com/noffle/web-udp","date":"2017-07-26T21:44:11.915Z","type":"message"}
+{"nick":"akiva","reason":"Quit: WeeChat 1.9","date":"2017-07-26T21:54:48.234Z","type":"quit"}
+{"nick":"phated","date":"2017-07-26T22:01:30.864Z","type":"join"}
+{"nick":"taravancil","date":"2017-07-26T22:10:09.676Z","type":"join"}
+{"nick":"feross","message":"noffle: yep, I know of your effort :)","date":"2017-07-26T22:22:29.289Z","type":"message"}
+{"nick":"noffle","message":"feross: beaker and dillo seem like really good 1st targets","date":"2017-07-26T22:23:30.129Z","type":"message"}
+{"nick":"noffle","message":"actually, dillo can't run JS can it? maybe not","date":"2017-07-26T22:24:40.159Z","type":"message"}
+{"nick":"yoshuawuyts","message":"feross: cool repo, would be fun if we folks got on board","date":"2017-07-26T22:50:47.950Z","type":"message"}
+{"nick":"contrahax","reason":"Quit: Sleeping","date":"2017-07-26T22:51:26.994Z","type":"quit"}
+{"nick":"contrahax","date":"2017-07-26T23:31:44.568Z","type":"join"}
+{"nick":"pfrazee","message":"we'd be up for a web-udp PR in beaker","date":"2017-07-26T23:58:42.770Z","type":"message"}

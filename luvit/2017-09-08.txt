@@ -1,0 +1,38 @@
+{"nick":"SkyRocknRoll","date":"2017-09-08T02:24:42.559Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Remote host closed the connection","date":"2017-09-08T02:41:06.511Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-09-08T02:48:47.254Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Remote host closed the connection","date":"2017-09-08T02:48:49.756Z","type":"quit"}
+{"nick":"Soni","reason":"Excess Flood","date":"2017-09-08T03:17:37.340Z","type":"quit"}
+{"nick":"Soni","date":"2017-09-08T03:18:00.172Z","type":"join"}
+{"nick":"rendar","date":"2017-09-08T06:11:40.914Z","type":"join"}
+{"nick":"den","date":"2017-09-08T06:26:43.095Z","type":"join"}
+{"nick":"den","new_nick":"yadzi","date":"2017-09-08T06:27:05.098Z","type":"nick"}
+{"nick":"indexzero","reason":"Ping timeout: 246 seconds","date":"2017-09-08T07:49:59.652Z","type":"quit"}
+{"nick":"indexzero","date":"2017-09-08T07:50:42.382Z","type":"join"}
+{"nick":"yadzi_","date":"2017-09-08T08:45:33.071Z","type":"join"}
+{"nick":"yadzi","reason":"Ping timeout: 252 seconds","date":"2017-09-08T08:46:51.183Z","type":"quit"}
+{"nick":"yadzi_","new_nick":"yadzi","date":"2017-09-08T08:50:10.735Z","type":"nick"}
+{"nick":"yadzi","reason":"Ping timeout: 260 seconds","date":"2017-09-08T12:22:27.690Z","type":"quit"}
+{"nick":"yadzi","date":"2017-09-08T12:27:09.247Z","type":"join"}
+{"nick":"travis-ci","date":"2017-09-08T15:54:17.645Z","type":"join"}
+{"nick":"travis-ci","message":"luvit/luvi#1001 (master - f00b1a0 : Tim Caswell): The build was broken.","date":"2017-09-08T15:54:18.645Z","type":"message"}
+{"nick":"travis-ci","message":"Change view : https://github.com/luvit/luvi/compare/caa9f427a9ae...f00b1a040285","date":"2017-09-08T15:54:18.793Z","type":"message"}
+{"nick":"travis-ci","message":"Build details : https://travis-ci.org/luvit/luvi/builds/273351252","date":"2017-09-08T15:54:18.794Z","type":"message"}
+{"nick":"travis-ci","date":"2017-09-08T15:54:18.794Z","type":"part"}
+{"nick":"travis-ci","date":"2017-09-08T16:00:39.357Z","type":"join"}
+{"nick":"travis-ci","message":"luvit/luvi#1002 (master - 2311fcb : Tim Caswell): The build is still failing.","date":"2017-09-08T16:00:40.387Z","type":"message"}
+{"nick":"travis-ci","message":"Change view : https://github.com/luvit/luvi/compare/f00b1a040285...2311fcbd2886","date":"2017-09-08T16:00:40.534Z","type":"message"}
+{"nick":"travis-ci","message":"Build details : https://travis-ci.org/luvit/luvi/builds/273353497","date":"2017-09-08T16:00:40.534Z","type":"message"}
+{"nick":"travis-ci","date":"2017-09-08T16:00:40.535Z","type":"part"}
+{"nick":"travis-ci","date":"2017-09-08T16:02:35.486Z","type":"join"}
+{"nick":"travis-ci","message":"luvit/luvi#1001 (master - f00b1a0 : Tim Caswell): The build was broken.","date":"2017-09-08T16:02:36.477Z","type":"message"}
+{"nick":"travis-ci","message":"Change view : https://github.com/luvit/luvi/compare/caa9f427a9ae...f00b1a040285","date":"2017-09-08T16:02:36.625Z","type":"message"}
+{"nick":"travis-ci","message":"Build details : https://travis-ci.org/luvit/luvi/builds/273351252","date":"2017-09-08T16:02:36.625Z","type":"message"}
+{"nick":"travis-ci","date":"2017-09-08T16:02:36.625Z","type":"part"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-09-08T18:05:19.639Z","type":"quit"}
+{"nick":"yadzi","reason":"Ping timeout: 240 seconds","date":"2017-09-08T19:51:41.364Z","type":"quit"}
+{"nick":"travis-ci","date":"2017-09-08T21:45:18.459Z","type":"join"}
+{"nick":"travis-ci","message":"luvit/luv#360 (master - a998d1e : Tim Caswell): The build has errored.","date":"2017-09-08T21:45:19.499Z","type":"message"}
+{"nick":"travis-ci","message":"Change view : https://github.com/luvit/luv/compare/9f99ebf15c6d...a998d1e285a4","date":"2017-09-08T21:45:19.647Z","type":"message"}
+{"nick":"travis-ci","message":"Build details : https://travis-ci.org/luvit/luv/builds/273341577","date":"2017-09-08T21:45:19.648Z","type":"message"}
+{"nick":"travis-ci","date":"2017-09-08T21:45:19.648Z","type":"part"}

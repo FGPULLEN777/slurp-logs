@@ -1,0 +1,21 @@
+{"nick":"ryan_ford","date":"2017-10-21T00:44:33.872Z","type":"join"}
+{"nick":"ryan_ford","reason":"Ping timeout: 240 seconds","date":"2017-10-21T00:52:35.506Z","type":"quit"}
+{"nick":"ryan_ford","date":"2017-10-21T01:06:37.954Z","type":"join"}
+{"nick":"DarkGod","reason":"Ping timeout: 246 seconds","date":"2017-10-21T01:49:39.771Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-10-21T02:08:44.646Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Ping timeout: 258 seconds","date":"2017-10-21T02:19:29.646Z","type":"quit"}
+{"nick":"SkyRocknRoll","date":"2017-10-21T02:31:48.841Z","type":"join"}
+{"nick":"ryan_ford","reason":"Ping timeout: 248 seconds","date":"2017-10-21T02:58:39.942Z","type":"quit"}
+{"nick":"SkyRocknRoll","reason":"Ping timeout: 248 seconds","date":"2017-10-21T03:07:45.521Z","type":"quit"}
+{"nick":"ryan_ford","date":"2017-10-21T03:12:22.041Z","type":"join"}
+{"nick":"SkyRocknRoll","date":"2017-10-21T03:25:10.533Z","type":"join"}
+{"nick":"SkyRocknRoll","reason":"Remote host closed the connection","date":"2017-10-21T04:59:58.727Z","type":"quit"}
+{"nick":"rendar","date":"2017-10-21T06:14:31.348Z","type":"join"}
+{"nick":"DarkGod","date":"2017-10-21T09:40:38.650Z","type":"join"}
+{"nick":"Soni","reason":"Read error: Connection reset by peer","date":"2017-10-21T11:18:06.195Z","type":"quit"}
+{"nick":"Soni","date":"2017-10-21T12:01:27.480Z","type":"join"}
+{"nick":"SinisterRectus","reason":"Ping timeout: 255 seconds","date":"2017-10-21T15:26:42.311Z","type":"quit"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-10-21T18:03:36.506Z","type":"quit"}
+{"nick":"ryan_ford","reason":"Ping timeout: 248 seconds","date":"2017-10-21T18:45:53.634Z","type":"quit"}
+{"nick":"SinisterRectus","date":"2017-10-21T20:35:12.801Z","type":"join"}
+{"nick":"FiniteReality","date":"2017-10-21T20:51:51.643Z","type":"join"}

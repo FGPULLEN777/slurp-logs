@@ -1,0 +1,156 @@
+{"nick":"joyee","date":"2017-10-12T00:08:49.724Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-10-12T00:15:05.579Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-12T00:21:30.684Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-10-12T00:25:35.681Z","type":"quit"}
+{"nick":"node-gh","date":"2017-10-12T00:30:21.524Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T00:30:21.565Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T00:40:29.781Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T00:40:29.846Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T00:41:10.135Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T00:41:10.173Z","type":"part"}
+{"nick":"sgimeno_","date":"2017-10-12T00:56:18.669Z","type":"join"}
+{"nick":"sgimeno","reason":"Ping timeout: 248 seconds","date":"2017-10-12T00:58:41.375Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-10-12T01:15:06.635Z","type":"quit"}
+{"nick":"node-gh","date":"2017-10-12T01:18:24.390Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T01:18:24.426Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T01:23:11.818Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T01:23:11.859Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T01:30:06.796Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T01:30:06.837Z","type":"part"}
+{"nick":"joyee","date":"2017-10-12T01:53:04.721Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-10-12T01:57:19.681Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-12T02:45:16.700Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-12T04:34:05.043Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-12T04:34:39.418Z","type":"join"}
+{"nick":"joyee_","date":"2017-10-12T04:38:04.721Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-10-12T04:41:05.400Z","type":"quit"}
+{"nick":"joyee_","reason":"Remote host closed the connection","date":"2017-10-12T05:51:13.957Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-12T05:51:49.383Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-10-12T05:56:17.430Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-12T08:00:20.035Z","type":"join"}
+{"nick":"gibfahn","date":"2017-10-12T08:17:56.075Z","type":"join"}
+{"nick":"gibfahn","reason":"Client Quit","date":"2017-10-12T08:18:41.035Z","type":"quit"}
+{"nick":"seishun","date":"2017-10-12T08:41:36.887Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-12T10:25:09.842Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-12T10:25:40.642Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-12T11:20:01.243Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-12T11:21:10.030Z","type":"join"}
+{"nick":"seishun","message":"refack: status of https://github.com/nodejs/build/pull/797?","date":"2017-10-12T11:40:10.715Z","type":"message"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-12T11:55:51.525Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-12T12:55:01.675Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 246 seconds","date":"2017-10-12T12:59:08.703Z","type":"quit"}
+{"nick":"lance|afk","new_nick":"lanceball","date":"2017-10-12T13:05:50.569Z","type":"nick"}
+{"nick":"joyee","date":"2017-10-12T13:19:14.387Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-12T13:38:19.568Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-12T13:38:51.838Z","type":"join"}
+{"nick":"joyee_","date":"2017-10-12T13:41:29.020Z","type":"join"}
+{"nick":"evanlucas","date":"2017-10-12T13:41:34.208Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 240 seconds","date":"2017-10-12T13:44:57.927Z","type":"quit"}
+{"nick":"chorrell","date":"2017-10-12T13:49:24.410Z","type":"join"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-12T14:37:38.632Z","type":"quit"}
+{"nick":"chorrell","date":"2017-10-12T14:44:26.261Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T14:46:35.937Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T14:46:35.939Z","type":"part"}
+{"nick":"refack","message":"seishun: Tweaking a new ansible playbook that will only run updates","date":"2017-10-12T14:51:48.086Z","type":"message"}
+{"nick":"node-gh","date":"2017-10-12T14:51:58.327Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T14:51:58.328Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T14:53:31.497Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T14:53:31.499Z","type":"part"}
+{"nick":"seishun","message":"refack: is that a separate issue?","date":"2017-10-12T15:11:01.749Z","type":"message"}
+{"nick":"refack","message":"It's not a filed issue. We just didn't have one. and `create-worker.yaml` is too extensive","date":"2017-10-12T15:12:29.699Z","type":"message"}
+{"nick":"seishun","message":"shouldn't ansible automatically skip thing that are already done?","date":"2017-10-12T15:13:02.326Z","type":"message"}
+{"nick":"refack","message":"Some steps are increments (like update all packages), and some steps run again anyway. I don't think it's \"destructive\" it just take very long","date":"2017-10-12T15:15:51.525Z","type":"message"}
+{"nick":"refack","message":"Plus the playbook requires the jenkins secret (since it doesn't know if it's there or not)","date":"2017-10-12T15:16:35.286Z","type":"message"}
+{"nick":"node-gh","date":"2017-10-12T15:37:18.196Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T15:37:18.198Z","type":"part"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-12T16:26:20.955Z","type":"quit"}
+{"nick":"node-gh","date":"2017-10-12T16:33:13.565Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T16:33:13.566Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T16:40:02.241Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T16:40:02.244Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T17:15:17.170Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T17:15:17.238Z","type":"part"}
+{"nick":"Fishrock123","date":"2017-10-12T17:19:23.741Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-12T17:31:55.932Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-12T17:32:45.631Z","type":"join"}
+{"nick":"seishun","message":"refack: which file are you modifying?","date":"2017-10-12T17:43:37.518Z","type":"message"}
+{"nick":"chorrell","date":"2017-10-12T17:44:45.535Z","type":"join"}
+{"nick":"joaocgreis","message":"refack: `ansible-playbook --step`might help. tags might also help, but there's that initial gather information step that sometimes is required (I've seen it fail because of it, not sure where)","date":"2017-10-12T18:02:07.730Z","type":"message"}
+{"nick":"seishun","reason":"Ping timeout: 264 seconds","date":"2017-10-12T18:02:10.432Z","type":"quit"}
+{"nick":"joaocgreis","message":"also, `--limit` takes wildcards, it should be quite useful when we get more experience and are confident it'll do what we want","date":"2017-10-12T18:03:29.130Z","type":"message"}
+{"nick":"seishun","date":"2017-10-12T18:12:29.715Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T18:35:45.724Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T18:35:45.765Z","type":"part"}
+{"nick":"refack","message":"👍","date":"2017-10-12T19:31:52.097Z","type":"message"}
+{"nick":"node-gh","date":"2017-10-12T19:45:43.737Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T19:45:43.738Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T19:46:12.158Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T19:46:12.200Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T19:46:43.555Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T19:46:43.557Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-12T19:49:31.684Z","type":"quit"}
+{"nick":"joyee_","reason":"Remote host closed the connection","date":"2017-10-12T19:57:48.503Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-10-12T19:58:35.612Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-12T20:02:38.763Z","type":"join"}
+{"nick":"joyee","reason":"Remote host closed the connection","date":"2017-10-12T20:05:35.869Z","type":"quit"}
+{"nick":"chorrell","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-10-12T20:07:50.595Z","type":"quit"}
+{"nick":"seishun","date":"2017-10-12T20:29:07.047Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T20:29:17.905Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T20:29:17.911Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T20:30:47.991Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T20:30:47.992Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T20:31:43.019Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T20:31:43.020Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T20:33:40.962Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T20:33:40.963Z","type":"part"}
+{"nick":"Fishrock123","date":"2017-10-12T20:34:26.924Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-12T20:35:15.227Z","type":"quit"}
+{"nick":"node-gh","date":"2017-10-12T20:36:57.886Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T20:36:57.888Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T20:37:39.747Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T20:37:39.785Z","type":"part"}
+{"nick":"Fishrock123","date":"2017-10-12T20:39:00.034Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T20:42:04.624Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T20:42:04.626Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-12T20:47:47.944Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-12T20:48:49.804Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-12T20:54:11.915Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-12T20:56:23.744Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 260 seconds","date":"2017-10-12T21:00:47.713Z","type":"quit"}
+{"nick":"node-gh","date":"2017-10-12T21:18:19.924Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T21:18:19.965Z","type":"part"}
+{"nick":"Fishrock123","date":"2017-10-12T21:31:16.743Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T21:46:12.232Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T21:46:12.232Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-12T21:46:26.439Z","type":"quit"}
+{"nick":"joyee","date":"2017-10-12T21:47:31.005Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 255 seconds","date":"2017-10-12T21:51:58.931Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-12T22:00:08.573Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T22:03:11.038Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T22:03:11.040Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T22:07:58.572Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T22:07:58.573Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T22:08:05.526Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T22:08:05.528Z","type":"part"}
+{"nick":"seishun","message":"has the centos thing been discussed yet?","date":"2017-10-12T22:26:12.730Z","type":"message"}
+{"nick":"joaocgreis","message":"seishun: discussing it now","date":"2017-10-12T22:32:43.024Z","type":"message"}
+{"nick":"seishun","message":"yeah watching it","date":"2017-10-12T22:32:52.767Z","type":"message"}
+{"nick":"joyee","date":"2017-10-12T22:38:12.452Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 248 seconds","date":"2017-10-12T22:42:41.389Z","type":"quit"}
+{"nick":"node-gh","date":"2017-10-12T22:48:23.810Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T22:48:23.811Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T22:53:27.359Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T22:53:27.447Z","type":"part"}
+{"nick":"node-gh","date":"2017-10-12T22:55:37.321Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T22:55:37.322Z","type":"part"}
+{"nick":"joyee","date":"2017-10-12T23:04:26.686Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T23:09:01.748Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T23:09:01.789Z","type":"part"}
+{"nick":"joyee","reason":"Ping timeout: 260 seconds","date":"2017-10-12T23:09:42.753Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 255 seconds","date":"2017-10-12T23:11:33.041Z","type":"quit"}
+{"nick":"node-gh","date":"2017-10-12T23:37:25.679Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T23:37:25.720Z","type":"part"}
+{"nick":"joyee","date":"2017-10-12T23:45:36.132Z","type":"join"}
+{"nick":"joyee","reason":"Ping timeout: 255 seconds","date":"2017-10-12T23:50:19.963Z","type":"quit"}
+{"nick":"node-gh","date":"2017-10-12T23:55:12.683Z","type":"join"}
+{"nick":"node-gh","date":"2017-10-12T23:55:12.684Z","type":"part"}

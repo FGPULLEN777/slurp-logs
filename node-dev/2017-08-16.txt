@@ -1,0 +1,601 @@
+{"nick":"nodejs-gh","date":"2017-08-16T00:00:24.666Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T00:00:24.776Z","type":"part"}
+{"nick":"bradleymeck","date":"2017-08-16T00:13:40.602Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T00:32:31.221Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T00:32:31.332Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-16T00:34:35.778Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-16T00:35:15.655Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-16T00:35:21.894Z","type":"quit"}
+{"nick":"adempus","date":"2017-08-16T00:52:13.070Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-16T00:52:23.139Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-16T00:52:42.451Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-16T00:53:20.906Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-16T00:54:30.503Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-08-16T00:58:35.477Z","type":"quit"}
+{"nick":"TimothyGu","message":"Trott: what we usually do right now is copy everything, and comment out the ones that we don't pass or are not applicable to us","date":"2017-08-16T00:59:20.566Z","type":"message"}
+{"nick":"TimothyGu","message":"but I suppose it's alright to copy one test if the applicable-test-to-total-tests ratio is too low, which this file seems to be","date":"2017-08-16T01:00:43.669Z","type":"message"}
+{"nick":"TimothyGu","message":"for URL usually it's only one or two tests in a file that we can't pass, out of >10","date":"2017-08-16T01:01:20.146Z","type":"message"}
+{"nick":"Fishrock123","date":"2017-08-16T01:02:06.452Z","type":"join"}
+{"nick":"brendanashworth","date":"2017-08-16T01:11:38.755Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-16T01:17:45.237Z","type":"quit"}
+{"nick":"brendanashworth","reason":"Remote host closed the connection","date":"2017-08-16T01:23:05.191Z","type":"quit"}
+{"nick":"al-damiri","date":"2017-08-16T01:30:15.159Z","type":"join"}
+{"nick":"joepie91","reason":"Ping timeout: 246 seconds","date":"2017-08-16T01:45:29.649Z","type":"quit"}
+{"nick":"joepie91","date":"2017-08-16T01:47:26.423Z","type":"join"}
+{"nick":"joepie91","reason":"Changing host","date":"2017-08-16T01:47:26.423Z","type":"quit"}
+{"nick":"joepie91","date":"2017-08-16T01:47:26.423Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-08-16T01:56:35.567Z","type":"join"}
+{"nick":"xadillax","date":"2017-08-16T02:06:33.109Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-16T02:08:30.857Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-16T02:08:58.093Z","type":"join"}
+{"nick":"xadillax_","date":"2017-08-16T02:10:44.092Z","type":"join"}
+{"nick":"xadillax","reason":"Read error: Connection reset by peer","date":"2017-08-16T02:10:44.386Z","type":"quit"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-08-16T02:12:10.672Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-16T02:16:55.526Z","type":"quit"}
+{"nick":"xadillax_","reason":"Remote host closed the connection","date":"2017-08-16T02:20:13.038Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-16T02:20:20.365Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-16T02:27:59.234Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-16T02:29:22.668Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-16T02:36:53.107Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-16T02:37:19.668Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-16T02:56:00.489Z","type":"quit"}
+{"nick":"xadillax","date":"2017-08-16T02:56:25.599Z","type":"join"}
+{"nick":"xadillax","reason":"Remote host closed the connection","date":"2017-08-16T02:57:31.380Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2017-08-16T03:01:34.706Z","type":"join"}
+{"nick":"halil","reason":"Remote host closed the connection","date":"2017-08-16T03:28:47.614Z","type":"quit"}
+{"nick":"Trott","message":"TimothyGu: Cool, thanks. It's OK to comment out just one `assert_equals()` or should I comment out the  whole `test()` function that it belongs to?","date":"2017-08-16T03:45:02.615Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-16T03:55:50.556Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T03:55:50.627Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T03:58:16.092Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T03:58:16.165Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T03:58:25.659Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T03:58:25.732Z","type":"part"}
+{"nick":"mylesborins","message":"I fixed the beanch@@@","date":"2017-08-16T03:59:01.068Z","type":"message"}
+{"nick":"mylesborins","message":"branch!!!","date":"2017-08-16T03:59:05.111Z","type":"message"}
+{"nick":"refack","message":"AIX?","date":"2017-08-16T03:59:19.985Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-16T03:59:44.493Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T03:59:44.763Z","type":"part"}
+{"nick":"TimothyGu","message":"Trott: in case it's the prototype chain you're talking about, I'd say commenting out the entire test is better","date":"2017-08-16T04:00:06.697Z","type":"message"}
+{"nick":"Trott","message":"Yeah, that's the one I'm talking about. And that's *not* what I did. But I'll go do it now and force push.","date":"2017-08-16T04:00:30.508Z","type":"message"}
+{"nick":"TimothyGu","message":"we don't follow the browser behavior regarding console in that we have a Console class","date":"2017-08-16T04:01:01.477Z","type":"message"}
+{"nick":"Trott","message":"I don't look at the standards too closely, so I'm glad you do. :-D","date":"2017-08-16T04:02:37.472Z","type":"message"}
+{"nick":"TimothyGu","message":"browser stuff is pretty crufty in general so, can't blame you :P","date":"2017-08-16T04:04:34.439Z","type":"message"}
+{"nick":"refack","message":"Ohh you're reviving that #$%sad&*(story","date":"2017-08-16T04:04:40.020Z","type":"message"}
+{"nick":"Trott","message":"refack: Yup. Let's land it or close it, because we can't leave it open because TRIAGEATHON 2017!!!!","date":"2017-08-16T04:06:17.121Z","type":"message"}
+{"nick":"refack","message":"I'd happily land it, just need to resolve the \"last red x\" conflict","date":"2017-08-16T04:07:56.681Z","type":"message"}
+{"nick":"Trott","message":"One month ago, we had 963 open issues and PRs. Now we have less than 840. So a lot of the easy ones are gone. To keep things moving, we gotta tackle things like that.","date":"2017-08-16T04:09:15.530Z","type":"message"}
+{"nick":"refack","message":"Any easy way to measure velocity?","date":"2017-08-16T04:11:55.478Z","type":"message"}
+{"nick":"jasnell","date":"2017-08-16T04:18:35.687Z","type":"join"}
+{"nick":"al-damiri","reason":"Quit: Connection closed for inactivity","date":"2017-08-16T04:29:02.386Z","type":"quit"}
+{"nick":"ljharb","topic":"Node.js Current: v8.4.0 | LTS: v6.11.2 \"Boron\", v4.8.4 \"Argon\" -- https://nodejs.org/ -- IRC Logs: http://logs.libuv.org/node-dev/latest -- Channel Info: http://nodeirc.info/#node-dev -- Newcomers welcome: http://nodeschool.io/ -- dev channel for all things node core","date":"2017-08-16T04:31:11.447Z","type":"topic"}
+{"nick":"adempus","reason":"Remote host closed the connection","date":"2017-08-16T04:31:46.892Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T04:33:02.984Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T04:33:03.138Z","type":"part"}
+{"nick":"howdoi","date":"2017-08-16T04:34:26.890Z","type":"join"}
+{"nick":"Trott","message":"refack: Not sure what kind of metric you mean.","date":"2017-08-16T04:34:35.975Z","type":"message"}
+{"nick":"refack","message":"are we closing faster than opening (excluding TRIAGEATHON 2017)","date":"2017-08-16T04:35:22.962Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-16T04:43:39.643Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T04:43:39.716Z","type":"part"}
+{"nick":"lpin","date":"2017-08-16T04:54:13.234Z","type":"join"}
+{"nick":"Trott","message":"I suspect GitHub has some stats about that. I don't know how to exclude TRIAGETHON 2017 though.","date":"2017-08-16T04:56:55.088Z","type":"message"}
+{"nick":"Trott","message":"Not finding the graph I expected in the GitHub interface. Oh well...","date":"2017-08-16T04:58:46.622Z","type":"message"}
+{"nick":"jeyanthi","date":"2017-08-16T05:33:52.656Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T05:49:39.376Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T05:49:39.532Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T05:49:49.401Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T05:49:49.474Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T05:51:39.670Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T05:51:39.744Z","type":"part"}
+{"nick":"bhughes","reason":"Ping timeout: 255 seconds","date":"2017-08-16T05:57:34.004Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:04:13.958Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:04:14.031Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:04:26.615Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:04:26.807Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:09:37.622Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:09:37.804Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:10:22.630Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:10:22.702Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:10:40.687Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:10:40.759Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:13:20.685Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:13:20.796Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:21:20.556Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:21:20.629Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:23:28.692Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:23:28.765Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:24:30.482Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:24:30.591Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:25:13.914Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:25:14.005Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:28:26.606Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:28:26.760Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:29:24.649Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:29:24.722Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:29:49.554Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:29:49.627Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:36:44.582Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:36:44.655Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:48:39.567Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T06:48:39.679Z","type":"part"}
+{"nick":"seishun","date":"2017-08-16T06:54:12.087Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:03:39.483Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:03:39.719Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:05:13.620Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:05:13.814Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:05:34.671Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:05:34.744Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:06:34.563Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:06:34.636Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:09:44.619Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:09:44.731Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:12:04.573Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:12:04.756Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:12:18.934Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:12:19.006Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:15:38.637Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:15:38.747Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:16:20.575Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:16:20.730Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:16:54.972Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:16:55.045Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:17:13.542Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:17:13.616Z","type":"part"}
+{"nick":"jasnell","reason":"Ping timeout: 240 seconds","date":"2017-08-16T07:17:27.683Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:17:38.494Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:17:38.567Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:18:48.553Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:18:48.625Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:19:14.868Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:19:15.013Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:20:22.497Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:20:22.607Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:20:38.538Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:20:38.611Z","type":"part"}
+{"nick":"targos","reason":"Quit: Leaving","date":"2017-08-16T07:25:43.635Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:25:48.515Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:25:48.587Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:28:17.434Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:28:17.507Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:29:59.899Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:29:59.972Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:30:54.473Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:30:54.546Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:34:07.844Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:34:07.999Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:34:47.026Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:34:47.135Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:35:07.123Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:35:07.197Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:36:27.859Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:36:27.931Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:37:12.663Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:37:12.772Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:38:17.647Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:38:17.720Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:39:07.672Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:39:07.744Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-08-16T07:41:10.451Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:42:22.008Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:42:22.120Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:45:14.911Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:45:14.984Z","type":"part"}
+{"nick":"aaa_","date":"2017-08-16T07:45:27.992Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:45:42.608Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:45:42.681Z","type":"part"}
+{"nick":"aaa_","reason":"Client Quit","date":"2017-08-16T07:47:32.738Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:51:47.572Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:51:47.726Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:52:02.577Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:52:02.687Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:55:52.683Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T07:55:52.756Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:00:48.672Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:00:48.745Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:07:13.636Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:07:13.709Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:07:42.692Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:07:42.765Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:07:57.867Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:07:57.940Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:08:15.903Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:08:15.976Z","type":"part"}
+{"nick":"sgimeno__","reason":"Ping timeout: 260 seconds","date":"2017-08-16T08:13:27.616Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:17:32.484Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:17:32.760Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:23:28.605Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:23:28.678Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:24:43.630Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:24:43.702Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:28:23.683Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:28:23.756Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:28:45.426Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:28:45.499Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:31:03.683Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:31:03.756Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:31:22.497Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:31:22.570Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:33:47.509Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:33:47.582Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:39:14.958Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:39:15.031Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:39:42.487Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:39:42.600Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:42:22.518Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:42:22.627Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:42:37.507Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:42:37.580Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:44:14.603Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:44:14.796Z","type":"part"}
+{"nick":"sgimeno","date":"2017-08-16T08:50:32.661Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:51:27.571Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:51:27.644Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:52:47.545Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:52:47.655Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:53:23.959Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T08:53:24.032Z","type":"part"}
+{"nick":"mylesborins","message":"phewwwww","date":"2017-08-16T08:55:15.408Z","type":"message"}
+{"nick":"mylesborins","message":"now I can rest","date":"2017-08-16T08:55:18.729Z","type":"message"}
+{"nick":"mylesborins","message":"😅","date":"2017-08-16T08:55:22.424Z","type":"message"}
+{"nick":"doodadjs","reason":"Read error: Connection reset by peer","date":"2017-08-16T09:06:02.897Z","type":"quit"}
+{"nick":"doodadjs","date":"2017-08-16T09:06:29.417Z","type":"join"}
+{"nick":"jeyanthi","reason":"Remote host closed the connection","date":"2017-08-16T09:11:56.938Z","type":"quit"}
+{"nick":"jeyanthi","date":"2017-08-16T09:12:16.585Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:22:53.453Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:22:53.563Z","type":"part"}
+{"nick":"BridgeAR","reason":"Ping timeout: 240 seconds","date":"2017-08-16T09:25:35.476Z","type":"quit"}
+{"nick":"tniessen_","message":"mylesborins: thanks for doing that :D","date":"2017-08-16T09:29:48.935Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:41:02.012Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:41:02.086Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:41:13.956Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:41:14.028Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:45:43.449Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:45:43.685Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:46:02.037Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:46:02.110Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:56:05.841Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:56:05.914Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:56:25.550Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:56:25.623Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:59:35.792Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T09:59:35.903Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:02:05.793Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:02:05.903Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:03:35.841Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:03:35.914Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:04:05.379Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:04:05.534Z","type":"part"}
+{"nick":"benjamingr_","date":"2017-08-16T10:04:22.652Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:11:14.687Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:11:14.760Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:11:39.688Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:11:39.761Z","type":"part"}
+{"nick":"indistylo","date":"2017-08-16T10:13:29.593Z","type":"join"}
+{"nick":"indistylo","reason":"Max SendQ exceeded","date":"2017-08-16T10:13:53.547Z","type":"quit"}
+{"nick":"indistylo","date":"2017-08-16T10:15:19.524Z","type":"join"}
+{"nick":"tniessen_","message":"(I am testing a new tool while landing. Even though I check everything by hand, feel free to ping me if you come across any problems with those commits.)","date":"2017-08-16T10:16:23.173Z","type":"message"}
+{"nick":"benjamingr_","message":"got it","date":"2017-08-16T10:23:11.978Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:23:18.548Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:23:18.703Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:23:34.884Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:23:35.169Z","type":"part"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-08-16T10:25:11.275Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-08-16T10:25:42.109Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:26:04.938Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:26:05.012Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:30:27.788Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:30:27.899Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:30:35.502Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:30:35.575Z","type":"part"}
+{"nick":"abernix","date":"2017-08-16T10:37:06.823Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:45:55.952Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:45:56.025Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:46:04.516Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T10:46:04.589Z","type":"part"}
+{"nick":"evanlucas","date":"2017-08-16T10:46:25.986Z","type":"join"}
+{"nick":"gabrielschulhof","message":"Hey, all! Does anybody know how to set MACOSX_DEPLOYMENT_TARGET to 10.7 on node 4? I've added that to my xcode_settings, but it seems to be getting overwritten by Node's own common.gypi when I'm building iotivity-node.","date":"2017-08-16T11:03:10.471Z","type":"message"}
+{"nick":"gabrielschulhof","message":"In Node 6 we updated it to 10.7, and, sure enough, std::unique_ptr and std::to_string work just fine. But not on Node 4.","date":"2017-08-16T11:03:51.820Z","type":"message"}
+{"nick":"refack","message":"add it to binding.gyp it will overwrite common.gypi","date":"2017-08-16T11:04:21.885Z","type":"message"}
+{"nick":"gabrielschulhof","message":"refack: I tried. It does indeed overwrite, but only for the compiler, it seems.","date":"2017-08-16T11:06:14.786Z","type":"message"}
+{"nick":"gabrielschulhof","message":"refack: In the case of the linker, it adds the appropriate -m flag, but then it later adds -mmacosx-version-min=10.5 from somewhere, so my setting is lost.","date":"2017-08-16T11:06:58.130Z","type":"message"}
+{"nick":"refack","message":"I need to look at the gyp files in 4 (but it's too early for gyp wrangling just now)","date":"2017-08-16T11:08:50.094Z","type":"message"}
+{"nick":"Trott","message":"CTC meeting right now, in case anyone on CTC is here and not on the call yet.","date":"2017-08-16T11:08:51.860Z","type":"message"}
+{"nick":"sgimeno_","date":"2017-08-16T11:09:24.567Z","type":"join"}
+{"nick":"gabrielschulhof","message":"refack: https://gist.github.com/anonymous/30265749574a7c6c3a95249d4cf9fd98","date":"2017-08-16T11:09:40.370Z","type":"message"}
+{"nick":"gabrielschulhof","message":"refack: That's the resulting linker command line.","date":"2017-08-16T11:09:47.131Z","type":"message"}
+{"nick":"gabrielschulhof","message":"refack: :) (Re: too early)","date":"2017-08-16T11:10:01.041Z","type":"message"}
+{"nick":"gabrielschulhof","message":"refack: I think there's a good reason the deployment target was raised to 10.7 in Node 6.","date":"2017-08-16T11:10:53.506Z","type":"message"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-08-16T11:11:17.489Z","type":"quit"}
+{"nick":"sgimeno","reason":"Ping timeout: 246 seconds","date":"2017-08-16T11:11:47.615Z","type":"quit"}
+{"nick":"gabrielschulhof","message":"refack: Moved the settings from \"conditions\" to \"target_conditions\". That seems to have fixed it.","date":"2017-08-16T11:16:11.105Z","type":"message"}
+{"nick":"refack","message":"sounds like a gypism","date":"2017-08-16T11:17:19.334Z","type":"message"}
+{"nick":"gabrielschulhof","message":"*nod* :/","date":"2017-08-16T11:17:54.974Z","type":"message"}
+{"nick":"gabrielschulhof","message":"refack: Well, lessee what the CI says. It gets the final word.","date":"2017-08-16T11:18:10.891Z","type":"message"}
+{"nick":"refack","message":"😴 👍","date":"2017-08-16T11:18:44.876Z","type":"message"}
+{"nick":"gabrielschulhof","message":"refack: Toppa the mornin' to ya :)","date":"2017-08-16T11:19:39.449Z","type":"message"}
+{"nick":"refack","message":"also CTC meeting 🍿","date":"2017-08-16T11:20:07.615Z","type":"message"}
+{"nick":"gabrielschulhof","action":"tiptoes out of the room","date":"2017-08-16T11:21:03.586Z","type":"action"}
+{"nick":"evanlucas","message":"any questions for the CTC meeting?","date":"2017-08-16T11:35:31.708Z","type":"message"}
+{"nick":"halil","date":"2017-08-16T11:54:08.688Z","type":"join"}
+{"nick":"lance|afk","new_nick":"lanceball","date":"2017-08-16T11:57:03.837Z","type":"nick"}
+{"nick":"bradleymeck","date":"2017-08-16T12:14:32.864Z","type":"join"}
+{"nick":"sgimeno__","date":"2017-08-16T12:27:40.381Z","type":"join"}
+{"nick":"sgimeno_","reason":"Ping timeout: 240 seconds","date":"2017-08-16T12:30:08.500Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T12:30:48.684Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T12:30:48.757Z","type":"part"}
+{"nick":"sgimeno__","new_nick":"sgimeno","date":"2017-08-16T12:53:27.165Z","type":"nick"}
+{"nick":"andru1no","date":"2017-08-16T12:56:38.670Z","type":"join"}
+{"nick":"sgimeno_","date":"2017-08-16T13:05:42.683Z","type":"join"}
+{"nick":"sgimeno","reason":"Ping timeout: 260 seconds","date":"2017-08-16T13:08:37.675Z","type":"quit"}
+{"nick":"sgimeno_","new_nick":"sgimeno","date":"2017-08-16T13:11:06.156Z","type":"nick"}
+{"nick":"bhughes","date":"2017-08-16T13:21:38.699Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-16T13:26:25.368Z","type":"quit"}
+{"nick":"Lurker69","reason":"Ping timeout: 260 seconds","date":"2017-08-16T13:26:42.735Z","type":"quit"}
+{"nick":"andru1no","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-08-16T13:32:02.233Z","type":"quit"}
+{"nick":"Lurker69","date":"2017-08-16T13:40:56.676Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-08-16T13:43:36.605Z","type":"join"}
+{"nick":"sgimeno_","date":"2017-08-16T13:53:12.927Z","type":"join"}
+{"nick":"sgimeno","reason":"Ping timeout: 240 seconds","date":"2017-08-16T13:55:27.684Z","type":"quit"}
+{"nick":"sgimeno_","new_nick":"sgimeno","date":"2017-08-16T13:59:05.816Z","type":"nick"}
+{"nick":"halil","reason":"Changing host","date":"2017-08-16T13:59:20.513Z","type":"quit"}
+{"nick":"halil","date":"2017-08-16T13:59:20.586Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-16T14:04:20.684Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T14:08:28.638Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T14:08:28.711Z","type":"part"}
+{"nick":"indistylo","reason":"Ping timeout: 240 seconds","date":"2017-08-16T14:09:05.567Z","type":"quit"}
+{"nick":"amir_n2","date":"2017-08-16T14:24:42.017Z","type":"join"}
+{"nick":"jasnell","date":"2017-08-16T14:25:35.749Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-16T14:27:42.582Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T14:28:43.584Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T14:28:43.657Z","type":"part"}
+{"nick":"amir_n2","reason":"Quit: Page closed","date":"2017-08-16T14:29:54.633Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T14:29:58.572Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T14:29:58.726Z","type":"part"}
+{"nick":"al-damiri","date":"2017-08-16T14:30:30.671Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-16T14:35:48.606Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T14:53:42.460Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T14:53:42.696Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T14:59:59.508Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T14:59:59.620Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T15:05:42.547Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T15:05:42.620Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T15:05:55.691Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T15:05:55.764Z","type":"part"}
+{"nick":"tniessen_","message":"anyone from ctc around?","date":"2017-08-16T15:06:52.242Z","type":"message"}
+{"nick":"evanlucas","message":"o/","date":"2017-08-16T15:07:10.537Z","type":"message"}
+{"nick":"evanlucas","message":"whats up","date":"2017-08-16T15:07:17.401Z","type":"message"}
+{"nick":"tniessen_","message":"Seems like I accidentally pushed a commit with incorrect meta","date":"2017-08-16T15:07:47.127Z","type":"message"}
+{"nick":"tniessen_","message":"https://github.com/nodejs/node/commit/620ba416940299fbad3e40258bb8fd99279ec8c5","date":"2017-08-16T15:07:47.575Z","type":"message"}
+{"nick":"tniessen_","message":"(The PR url is incorrect)","date":"2017-08-16T15:07:51.729Z","type":"message"}
+{"nick":"evanlucas","message":"when did it land?","date":"2017-08-16T15:08:01.126Z","type":"message"}
+{"nick":"evanlucas","message":"and has anything else landed since?","date":"2017-08-16T15:08:05.379Z","type":"message"}
+{"nick":"tniessen_","message":"Couple of hours ago","date":"2017-08-16T15:08:07.458Z","type":"message"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-08-16T15:08:12.003Z","type":"quit"}
+{"nick":"tniessen_","message":"yes","date":"2017-08-16T15:08:17.802Z","type":"message"}
+{"nick":"bradleymeck","message":"TimothyGu: is your C++ impl for getting the file path of a URL the exact same as the JS one? can we use it in `url.js` via bindings instead of keeping both impls?","date":"2017-08-16T15:08:18.219Z","type":"message"}
+{"nick":"tniessen_","message":"I could re-land the other PRs as well","date":"2017-08-16T15:08:33.124Z","type":"message"}
+{"nick":"evanlucas","message":"ah, yea, 10 minutes is generally where we try to cut off force pushing master","date":"2017-08-16T15:08:33.625Z","type":"message"}
+{"nick":"evanlucas","message":"I would just comment on the commits noting the correct PR-URL","date":"2017-08-16T15:08:51.291Z","type":"message"}
+{"nick":"tniessen_","message":"I guess I will add a comment both in the PR and the commit","date":"2017-08-16T15:08:54.683Z","type":"message"}
+{"nick":"tniessen_","message":"okay, thanks, sorry for the confusion :/","date":"2017-08-16T15:09:03.055Z","type":"message"}
+{"nick":"evanlucas","message":"all good, it happens :]","date":"2017-08-16T15:10:09.002Z","type":"message"}
+{"nick":"tniessen_","message":"8th PR I landed today, wanted to do some cleanup...","date":"2017-08-16T15:11:11.542Z","type":"message"}
+{"nick":"evanlucas","message":"ah yea, easy to do when landing a bunch","date":"2017-08-16T15:11:41.355Z","type":"message"}
+{"nick":"BridgeAR","date":"2017-08-16T15:14:46.996Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T15:17:11.886Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T15:17:11.996Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T15:20:01.915Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T15:20:01.988Z","type":"part"}
+{"nick":"TimothyGu","message":"bradleymeck: functionally yes, but the JS version differes in that a) it throws errors with specific codes while C++ just returns \"\" as a generic error, and b) it doesn't use \\ as path delimiter on Windows","date":"2017-08-16T15:21:42.136Z","type":"message"}
+{"nick":"bradleymeck","message":"that sounds easy to patch up","date":"2017-08-16T15:23:18.392Z","type":"message"}
+{"nick":"TimothyGu","message":"go ahead if you'd like code reuse, I'm content with the status quo though, and there isn't an established way to use internal/errors in C++ yet","date":"2017-08-16T15:28:19.167Z","type":"message"}
+{"nick":"bradleymeck","message":"no time like the present?","date":"2017-08-16T15:29:58.391Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-16T15:30:19.530Z","type":"quit"}
+{"nick":"TimothyGu","message":"indeed","date":"2017-08-16T15:33:47.165Z","type":"message"}
+{"nick":"bradleymeck","reason":"Ping timeout: 260 seconds","date":"2017-08-16T15:39:07.680Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-16T15:40:42.697Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-08-16T15:41:57.152Z","type":"join"}
+{"nick":"seishun","date":"2017-08-16T15:48:54.520Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T15:51:24.683Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T15:51:24.755Z","type":"part"}
+{"nick":"benjamingr_","reason":"Quit: Connection closed for inactivity","date":"2017-08-16T15:51:34.300Z","type":"quit"}
+{"nick":"bradleymeck","message":"whew, that was a learning experience https://datatracker.ietf.org/submit/status/88872/14c470f9ba9a3e52b51de1730bfb3a55/","date":"2017-08-16T15:57:50.857Z","type":"message"}
+{"nick":"bradleymeck","message":"MIME updates ^","date":"2017-08-16T15:57:56.750Z","type":"message"}
+{"nick":"jeyanthi1","date":"2017-08-16T16:03:44.583Z","type":"join"}
+{"nick":"jeyanthi","reason":"Ping timeout: 246 seconds","date":"2017-08-16T16:04:04.549Z","type":"quit"}
+{"nick":"jeyanthi1","new_nick":"jeyanthi","date":"2017-08-16T16:04:04.912Z","type":"nick"}
+{"nick":"jeyanthi","reason":"Client Quit","date":"2017-08-16T16:08:27.832Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:15:11.469Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:15:11.541Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:16:03.634Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:16:03.708Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:27:31.466Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:27:31.757Z","type":"part"}
+{"nick":"Trott","message":"If any collaborators are around and want to review a new collaborator pull request: https://github.com/nodejs/node/pull/14862","date":"2017-08-16T16:31:04.304Z","type":"message"}
+{"nick":"thefourtheye","message":"Do we tell the new collaborators about the pronoun preference against their names in the README.md?","date":"2017-08-16T16:33:39.784Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:33:40.640Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:33:40.713Z","type":"part"}
+{"nick":"tniessen_","message":"BridgeAR: Welcome aboard! :)","date":"2017-08-16T16:33:57.970Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:41:20.613Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:41:20.686Z","type":"part"}
+{"nick":"Trott","message":"thefourtheye: Yes. If you look at the exercise instructions in onboarding.md, it's a line in there about it. It's optional, of course.","date":"2017-08-16T16:42:55.057Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:47:19.953Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:47:20.026Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:51:44.966Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:51:45.039Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:53:01.615Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T16:53:01.688Z","type":"part"}
+{"nick":"refack","message":"BridgeAR: Welcome...","date":"2017-08-16T16:56:14.067Z","type":"message"}
+{"nick":"refack","message":"🍾","date":"2017-08-16T16:57:07.696Z","type":"message"}
+{"nick":"BridgeAR","message":"@tniessen_ @refack thx","date":"2017-08-16T16:57:22.318Z","type":"message"}
+{"nick":"thefourtheye","message":"Cool, thanks Trott :-)","date":"2017-08-16T16:59:42.010Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-08-16T17:01:30.064Z","type":"quit"}
+{"nick":"refack","message":"bradleymeck: \"Pages: 6\" 🤦","date":"2017-08-16T17:01:37.593Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-16T17:03:06.689Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T17:03:06.762Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-16T17:26:54.081Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-08-16T17:30:09.426Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-16T17:31:00.003Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-16T17:31:01.059Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-16T17:36:09.698Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T17:48:34.488Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T17:48:34.737Z","type":"part"}
+{"nick":"indistylo","date":"2017-08-16T17:55:57.610Z","type":"join"}
+{"nick":"chrislea","date":"2017-08-16T18:01:26.640Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:13:42.488Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:13:42.561Z","type":"part"}
+{"nick":"halil","reason":"Remote host closed the connection","date":"2017-08-16T18:24:05.790Z","type":"quit"}
+{"nick":"halil","date":"2017-08-16T18:24:51.351Z","type":"join"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-08-16T18:30:33.256Z","type":"quit"}
+{"nick":"halil_","date":"2017-08-16T18:31:19.300Z","type":"join"}
+{"nick":"halil","reason":"Ping timeout: 255 seconds","date":"2017-08-16T18:35:14.889Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:42:20.017Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:42:20.090Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:43:19.720Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:43:19.793Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:48:42.921Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:48:42.922Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:50:18.554Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:50:18.627Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:52:38.642Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T18:52:38.752Z","type":"part"}
+{"nick":"aqrln","reason":"Quit: ZNC - http://znc.in","date":"2017-08-16T19:15:51.031Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T19:43:51.365Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T19:43:51.439Z","type":"part"}
+{"nick":"aqrln","date":"2017-08-16T19:54:18.717Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-08-16T20:04:17.483Z","type":"quit"}
+{"nick":"addaleax","date":"2017-08-16T20:05:00.915Z","type":"join"}
+{"nick":"seishun","date":"2017-08-16T20:14:20.312Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T20:18:03.599Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T20:18:03.672Z","type":"part"}
+{"nick":"seishun","message":"what's https://github.com/nodejs/node/pull/14795 waiting for?","date":"2017-08-16T20:19:43.245Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-08-16T20:21:09.279Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T20:21:09.280Z","type":"part"}
+{"nick":"refack","message":"I guess no rush until v9.0 gets closer","date":"2017-08-16T20:21:26.724Z","type":"message"}
+{"nick":"Trott","message":"seishun: It can land now if you want to land it.","date":"2017-08-16T20:22:55.064Z","type":"message"}
+{"nick":"Trott","message":"If someone swoops in later with objections, well, then they can open another PR to change it to what they think would be better.","date":"2017-08-16T20:23:50.640Z","type":"message"}
+{"nick":"Trott","message":"But I guess there's also no urgency on it either, so it can sit too.  It would be *nice* to have more approvals, but it's not strictly necessary.","date":"2017-08-16T20:24:37.759Z","type":"message"}
+{"nick":"seishun","message":"well approvals problem just got solved it seems","date":"2017-08-16T20:25:27.751Z","type":"message"}
+{"nick":"refack","message":"Only \"issue\" is RHEL6, but poor chrislea will have to field those...","date":"2017-08-16T20:26:36.441Z","type":"message"}
+{"nick":"refack","message":"seishun: I'll ping gibfahn, maybe he has wider context","date":"2017-08-16T20:27:05.803Z","type":"message"}
+{"nick":"seishun","message":"cool","date":"2017-08-16T20:27:53.841Z","type":"message"}
+{"nick":"chrislea","message":"what will I need to field refack?","date":"2017-08-16T20:28:14.954Z","type":"message"}
+{"nick":"refack","message":"Core bumping kernel cutoff to 3.10.0 and glibc 2.17","date":"2017-08-16T20:29:24.349Z","type":"message"}
+{"nick":"refack","message":"gibfahn says he want more buying from the Build WG","date":"2017-08-16T20:29:48.753Z","type":"message"}
+{"nick":"refack","message":"*buy-in","date":"2017-08-16T20:29:55.826Z","type":"message"}
+{"nick":"chrislea","message":"oh, dropping CentOS 6? Well, that's not my call. I'd really try to keep supporting it at least for Node v8.x ... it's going to hurt adoption otherwise.","date":"2017-08-16T20:30:21.116Z","type":"message"}
+{"nick":"refack","message":"chrislea: for v9.0","date":"2017-08-16T20:30:24.781Z","type":"message"}
+{"nick":"chrislea","message":"But like I said, not my call.","date":"2017-08-16T20:30:26.245Z","type":"message"}
+{"nick":"chrislea","message":"for 9.0 ... also not my call, but a much easier case to make there IMHO. There's time to message ahead and say \"okay folks, 8.x will be the last LTS you're getting for CentOS 6\".","date":"2017-08-16T20:31:05.437Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2017-08-16T20:31:21.556Z","type":"quit"}
+{"nick":"seishun","message":"they will have 2 years to upgrade","date":"2017-08-16T20:32:07.328Z","type":"message"}
+{"nick":"refack","message":"I don't see us _breaking_ support explicitly, it'll probably only come from V8 if at all. The motivation is to limit tier 1 support for 9 (and actually 10) to exclude RHEL6 and ubuntu 12","date":"2017-08-16T20:32:30.225Z","type":"message"}
+{"nick":"chrislea","message":"which sadly will still not nearly be enough time for a lot of people. but, the node foundation can at least message it clearly.","date":"2017-08-16T20:32:47.757Z","type":"message"}
+{"nick":"chrislea","message":"I don't think it's worth it to try and support Ubuntu 12 at this point at all. it's only supported in some weird for-pay frankenstein mode by Canonical.","date":"2017-08-16T20:33:18.076Z","type":"message"}
+{"nick":"seishun","message":"ubuntu 12 is already not supported","date":"2017-08-16T20:33:39.362Z","type":"message"}
+{"nick":"chrislea","message":"Not quite. It's still supported if you pay Canonical for the support.","date":"2017-08-16T20:33:55.608Z","type":"message"}
+{"nick":"seishun","message":"you can get anything if you pay enough I guess","date":"2017-08-16T20:34:21.935Z","type":"message"}
+{"nick":"chrislea","message":"Well, since it's coming from Canonical, you could argue that it's still \"officially\" supported, just not for free. Regardless, I've stopped building DEB packages for it when it dropped out of free support and nobody has complained. At all. So my $0.02 is that it's totally safe to drop.","date":"2017-08-16T20:35:16.573Z","type":"message"}
+{"nick":"refack","message":"Just looking at the amount of work we're doing backporting everything but the kitchen sink to v6.x, I'd say v8.x will be lots of fun for a long while","date":"2017-08-16T20:35:28.362Z","type":"message"}
+{"nick":"chrislea","message":"Yeah, I feel your pain. I have no idea how much of my career has been burned time-wise making new things work on old Linuxes, but it's been \"entirely too much\" by any standard.","date":"2017-08-16T20:36:16.355Z","type":"message"}
+{"nick":"refack","message":"I guess ubuntu and red-hat have different customers.","date":"2017-08-16T20:36:19.093Z","type":"message"}
+{"nick":"chrislea","message":"But, if you want adoption, this is just the sausage you have to make I think.","date":"2017-08-16T20:36:33.964Z","type":"message"}
+{"nick":"refack","message":"The issue is we're having trouble finding hosts for EOL platform for CI, and no CI -> bit rot","date":"2017-08-16T20:37:29.087Z","type":"message"}
+{"nick":"chrislea","message":"Not sure I understand? Are you building things on EOL'd platforms on CI? (sorry if dumb question...)","date":"2017-08-16T20:38:09.976Z","type":"message"}
+{"nick":"refack","message":"IMHO after hearing big Enterprise talking node buy-in in NodeSummit, I'd say it might just become a motivator for OS upgrade","date":"2017-08-16T20:38:47.599Z","type":"message"}
+{"nick":"seishun","message":"by the way red hat support for RHEL6 will end before LTS support for node 8.x","date":"2017-08-16T20:38:48.870Z","type":"message"}
+{"nick":"chrislea","message":"I've talked to a ton of enterprise people over the years about this. The problem is almost never that they don't want to upgrade, it's that they can't.","date":"2017-08-16T20:39:45.202Z","type":"message"}
+{"nick":"refack","message":"chriselea: yes node6 on Fedora11 and Cenos5","date":"2017-08-16T20:39:58.323Z","type":"message"}
+{"nick":"chrislea","message":"They _never_ end up actually \"upgrading\" anything. They always try to, and then end up just getting new hardware and deploying fresh.","date":"2017-08-16T20:40:11.419Z","type":"message"}
+{"nick":"chrislea","message":"It's usually some other external issue, like some sort of compliance they currently have with whatever their setup is, that they can't safely walk away from.","date":"2017-08-16T20:40:35.176Z","type":"message"}
+{"nick":"refack","message":"I always assumed it was because of the application they run","date":"2017-08-16T20:40:42.232Z","type":"message"}
+{"nick":"chrislea","message":"That's been very rare for the last 10 years. Most of these folks are running some JVM thing that would be fine anywhere.","date":"2017-08-16T20:41:18.205Z","type":"message"}
+{"nick":"refack","message":"Well then we need the foundation to start certifying node+OS combinations","date":"2017-08-16T20:41:50.930Z","type":"message"}
+{"nick":"chrislea","message":"It's much more often that their (ancient) setup is \"blessed\" in some way, like vis-a-vis PCI compliance or something, and letting go of that is too hard / expensive.","date":"2017-08-16T20:41:57.996Z","type":"message"}
+{"nick":"refack","message":"Those people just want to pay for a stamp","date":"2017-08-16T20:42:01.279Z","type":"message"}
+{"nick":"seishun","message":"yet upgrading node is fine?","date":"2017-08-16T20:42:12.716Z","type":"message"}
+{"nick":"chrislea","message":"Yes, they 100% want to pay for a stamp. Paying for that stamp is a requirement for operating at all if you're a bank, for example.","date":"2017-08-16T20:42:36.097Z","type":"message"}
+{"nick":"refack","message":"I ordain Tracy to bless all setups from here on","date":"2017-08-16T20:42:54.808Z","type":"message"}
+{"nick":"chrislea","message":"Have cake + eat cake == profit!","date":"2017-08-16T20:42:58.104Z","type":"message"}
+{"nick":"refack","message":"Gonna open a job of fiverr for a certificate logo ;)","date":"2017-08-16T20:43:39.937Z","type":"message"}
+{"nick":"refack","message":"*on","date":"2017-08-16T20:43:45.990Z","type":"message"}
+{"nick":"refack","message":"I'm gonna escalate this. Kill two birds with one stone, make money selling certification & alleviate legacy support","date":"2017-08-16T20:46:02.878Z","type":"message"}
+{"nick":"chrislea","message":"So, if EL6 support is going to end before Node v8.x LTS is supported, then I'm 100% in favor of bumping the requirements to EL7 numbers for Node v9.x.","date":"2017-08-16T20:46:48.196Z","type":"message"}
+{"nick":"chrislea","message":"Again, I have no vote in this I know, so please just take as outside opinion.","date":"2017-08-16T20:47:02.874Z","type":"message"}
+{"nick":"refack","message":"Yes you do, don't be modest","date":"2017-08-16T20:47:13.957Z","type":"message"}
+{"nick":"chrislea","message":"well, I build a lot of node, but I'm not trying to pretend I have voting rights or something is all I'm saying. :)","date":"2017-08-16T20:47:42.116Z","type":"message"}
+{"nick":"refack","message":"P.S. can you share RaspberryPi downloads? if nodesource delivers more than X% of binaries, maybe we can stop building them","date":"2017-08-16T20:48:28.633Z","type":"message"}
+{"nick":"chrislea","message":"maybe but it will take a while. the sheer volume of downloads makes it very hard to extract useful data.","date":"2017-08-16T20:49:03.830Z","type":"message"}
+{"nick":"refack","message":"(node is a consensus government, so no one votes, only objects, even the CTC votes like one every few months)","date":"2017-08-16T20:49:37.225Z","type":"message"}
+{"nick":"chrislea","message":"also, we are looking at stopping the \"we build everything on the targets\" and just grabbing the binaries that the foundation produces and using those, so probably best to keep building them.","date":"2017-08-16T20:49:37.335Z","type":"message"}
+{"nick":"chrislea","message":"ah, okay cool. good to know.","date":"2017-08-16T20:50:05.233Z","type":"message"}
+{"nick":"refack","message":"That's better than doing duplicate efforts 👍","date":"2017-08-16T20:50:27.964Z","type":"message"}
+{"nick":"chrislea","message":"yeah, I wanted to talk to Rod about it. My feeling for a long time was that it wasn't that much extra work to do things the \"correct packaging way\". but it's getting to the point where I'm not sure that's true anymore.","date":"2017-08-16T20:51:23.292Z","type":"message"}
+{"nick":"refack","message":"Your talk was a 🤦 moment for me, since both the release group and you shave two identical yaks","date":"2017-08-16T20:51:53.585Z","type":"message"}
+{"nick":"chrislea","message":"There's just a lot of distros / targets to support. Building everything \"correctly\" takes about 9hrs right now including the ARM stuff.","date":"2017-08-16T20:52:17.540Z","type":"message"}
+{"nick":"chrislea","message":"And I don't know that end users care at all. They just want to be able to `apt-get update && apt-get upgrade` and have the newest version be there.","date":"2017-08-16T20:52:48.979Z","type":"message"}
+{"nick":"refack","message":"But at least the stuff build here, you can just take, it's built \"correctly\"","date":"2017-08-16T20:53:00.876Z","type":"message"}
+{"nick":"chrislea","message":"well, it's built correctly in the sense that it's the reference. the distro people tend to be very serious about the \"you must built it on the target platform\" thing.","date":"2017-08-16T20:53:49.372Z","type":"message"}
+{"nick":"chrislea","message":"but if we just grab the binaries from nodejs.org, we could have everything into DEB and RPM packages in like 15 or 20min I expect, and as you note, cut out a TON of duplicated effort.","date":"2017-08-16T20:54:37.875Z","type":"message"}
+{"nick":"refack","message":"That's what I mean, the binaries build here are build on their target platforms.","date":"2017-08-16T20:54:43.223Z","type":"message"}
+{"nick":"chrislea","message":"oh, no, I wasn't clear. what I meant was the distro people have an expectation that if you're installing say an RPM for 32bit Fedora 25, then that RPM was itself built on 32bit Fedora 25.","date":"2017-08-16T20:55:23.016Z","type":"message"}
+{"nick":"chrislea","message":"so if we start just grabbing the binaries from nodejs.org, we're no longer doing it that way.","date":"2017-08-16T20:56:13.160Z","type":"message"}
+{"nick":"refack","message":"I understand that, so each binary build here has it's 1 very specific target. I believe Fedora 24 / Ubuntu14 / Raspbian-wheezy / Centos7","date":"2017-08-16T20:57:25.451Z","type":"message"}
+{"nick":"refack","message":"so you get 100% compliance for those","date":"2017-08-16T20:57:37.511Z","type":"message"}
+{"nick":"refack","message":"The rest you decide","date":"2017-08-16T20:57:44.638Z","type":"message"}
+{"nick":"seishun","message":"I don't think we make public builds on Centos7","date":"2017-08-16T20:58:43.068Z","type":"message"}
+{"nick":"chrislea","message":"Pretty sure you make the public builds on CentOS 6 currently. If you built them on EL7, then EL6 users couldn't run the binary.","date":"2017-08-16T20:59:13.872Z","type":"message"}
+{"nick":"refack","message":"Well maybe not, but the matrix is known","date":"2017-08-16T20:59:15.487Z","type":"message"}
+{"nick":"chrislea","message":"I think tests are run on several systems, but the builds all happen on whatever the oldest thing you can make work is, so that in theory it's all future compatible with newer stuff.","date":"2017-08-16T20:59:49.247Z","type":"message"}
+{"nick":"refack","message":"Anyway the one that are built, there's no need to rebuild for sure. The rest of the matrix is up to you","date":"2017-08-16T21:00:47.873Z","type":"message"}
+{"nick":"chrislea","message":"well it's very either / or for us. there are entire build tool suites that make doing all this stuff automatable and we've done that, so adding a distro or taking one out usually isn't an issue.","date":"2017-08-16T21:01:45.739Z","type":"message"}
+{"nick":"refack","message":"hmmm","date":"2017-08-16T21:01:58.626Z","type":"message"}
+{"nick":"chrislea","message":"it's more the duplication of effort, etc.","date":"2017-08-16T21:02:02.161Z","type":"message"}
+{"nick":"refack","message":"how many arm distros are you building?","date":"2017-08-16T21:02:17.325Z","type":"message"}
+{"nick":"chrislea","message":"a bunch.","date":"2017-08-16T21:02:31.840Z","type":"message"}
+{"nick":"chrislea","message":"Debian: (jessie + stretch + buster + sid) * (armhf + arm64)","date":"2017-08-16T21:03:16.611Z","type":"message"}
+{"nick":"chrislea","message":"Ubuntu: (xenial + zesty) * (armhf + arm64)","date":"2017-08-16T21:03:31.032Z","type":"message"}
+{"nick":"chrislea","message":"That's for Node 8.x.","date":"2017-08-16T21:03:49.804Z","type":"message"}
+{"nick":"refack","message":"ouch. Maybe we should just recruit you to the Build WG","date":"2017-08-16T21:04:52.308Z","type":"message"}
+{"nick":"indistylo","reason":"Write error: Connection reset by peer","date":"2017-08-16T21:05:08.869Z","type":"quit"}
+{"nick":"chrislea","message":"Heh. Like I said, it's not too painful. The build sources are all the same, and you just kind of tell the build tools \"this distro and this arch\" and it does it.","date":"2017-08-16T21:05:40.651Z","type":"message"}
+{"nick":"chrislea","message":"just takes *forever* for the ARM builds.","date":"2017-08-16T21:05:53.801Z","type":"message"}
+{"nick":"refack","message":"Until something breaks","date":"2017-08-16T21:06:00.568Z","type":"message"}
+{"nick":"chrislea","message":"The issues always come at the extreme ends. Like \"ancient glibc on CentOS 6 problem\". Or \"Fedora 26 gcc is too *new* to build Node 6.x problem\".","date":"2017-08-16T21:07:09.119Z","type":"message"}
+{"nick":"refack","message":"Well I'm going AFK, but I'm going to float the \"Compliance Certification as a solution for Legacy\" idea to the TSC","date":"2017-08-16T21:07:36.659Z","type":"message"}
+{"nick":"refack","message":"seishun: 14795 is semver-major so need CTC aproval","date":"2017-08-16T21:08:22.978Z","type":"message"}
+{"nick":"chrislea","message":"Going AFK in a bit too. My take is that if we can support CentOS 6 for Node 8.x, then things are cool. We're not pulling the rug out from anybody.","date":"2017-08-16T21:09:05.632Z","type":"message"}
+{"nick":"chrislea","message":"After that, going to EL7 kernel / libc for requirements should be fine.","date":"2017-08-16T21:09:20.784Z","type":"message"}
+{"nick":"refack","message":"Yeah no rug pulling for sure","date":"2017-08-16T21:09:29.264Z","type":"message"}
+{"nick":"mscdex","message":"there's nothing wrong with pulling a rug if it needs re-adjustment","date":"2017-08-16T21:14:01.954Z","type":"message"}
+{"nick":"refack","message":"But we tend to do it very sparingly...","date":"2017-08-16T21:15:03.010Z","type":"message"}
+{"nick":"seishun","reason":"Ping timeout: 260 seconds","date":"2017-08-16T21:26:12.669Z","type":"quit"}
+{"nick":"halil_","date":"2017-08-16T21:34:31.442Z","type":"quit"}
+{"nick":"halil","date":"2017-08-16T21:34:43.976Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T21:46:26.841Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T21:46:26.913Z","type":"part"}
+{"nick":"lanceball","new_nick":"lance|afk","date":"2017-08-16T22:03:53.375Z","type":"nick"}
+{"nick":"nodejs-gh","date":"2017-08-16T22:04:31.893Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T22:04:32.465Z","type":"part"}
+{"nick":"sgimeno_","date":"2017-08-16T22:05:20.987Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-16T22:06:52.597Z","type":"quit"}
+{"nick":"sgimeno","reason":"Ping timeout: 255 seconds","date":"2017-08-16T22:08:10.926Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-16T22:09:26.254Z","type":"join"}
+{"nick":"chrislea","reason":"Quit: Leaving","date":"2017-08-16T22:19:44.314Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T22:21:06.967Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T22:21:07.122Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-16T22:22:39.380Z","type":"quit"}
+{"nick":"robinak","reason":"Ping timeout: 240 seconds","date":"2017-08-16T22:36:48.477Z","type":"quit"}
+{"nick":"robink","date":"2017-08-16T22:38:20.677Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T22:55:07.471Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T22:55:07.471Z","type":"part"}
+{"nick":"tniessen_","reason":"Ping timeout: 260 seconds","date":"2017-08-16T23:09:27.684Z","type":"quit"}
+{"nick":"tniessen","date":"2017-08-16T23:09:36.765Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-08-16T23:24:11.421Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 240 seconds","date":"2017-08-16T23:28:21.297Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-08-16T23:29:45.426Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-08-16T23:29:45.536Z","type":"part"}
+{"nick":"Fishrock123","date":"2017-08-16T23:35:01.448Z","type":"join"}
+{"nick":"Trott","message":"Oh shoot, how did I miss that 14795 is semver-major. Yeah, like refack said: Needs two CTC, seishun.","date":"2017-08-16T23:37:40.893Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-08-16T23:38:30.080Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-08-16T23:39:20.254Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-08-16T23:48:49.086Z","type":"quit"}

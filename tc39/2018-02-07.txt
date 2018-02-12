@@ -1,0 +1,144 @@
+{"nick":"srl295","date":"2018-02-07T00:01:23.243Z","type":"join"}
+{"nick":"Domenic","message":"+1 to CSP as the solution here","date":"2018-02-07T00:03:13.307Z","type":"message"}
+{"nick":"Domenic","message":"It has so much infrastructure built for exactly this, including integrity checks","date":"2018-02-07T00:03:26.558Z","type":"message"}
+{"nick":"M-IvanSanchez","reason":"Ping timeout: 255 seconds","date":"2018-02-07T00:13:39.098Z","type":"quit"}
+{"nick":"alextes","reason":"Ping timeout: 260 seconds","date":"2018-02-07T00:15:40.204Z","type":"quit"}
+{"nick":"fourthex","message":"+Domenic: CSP doesn't pertain to server-side JavaScript, though. Does it?","date":"2018-02-07T00:17:36.852Z","type":"message"}
+{"nick":"Domenic","message":"fourthex: that's up to the server technology you're using; I don't believe Node implements anything at this time, but it could.","date":"2018-02-07T00:18:00.418Z","type":"message"}
+{"nick":"alextes","date":"2018-02-07T00:18:29.285Z","type":"join"}
+{"nick":"bradleymeck","message":"fourthex: we are moving more of Node to be in line with Browser tech, it is certainly possible","date":"2018-02-07T00:18:51.959Z","type":"message"}
+{"nick":"alextes","new_nick":"Guest47014","date":"2018-02-07T00:18:53.320Z","type":"nick"}
+{"nick":"fourthex","message":"OK. In that case, I agree. +1 to CSP for Node, but I guess I would need to take that requirement elsewhere. Thank you all for your comments.","date":"2018-02-07T00:18:53.465Z","type":"message"}
+{"nick":"bradleymeck","message":"we have a very different trust model though","date":"2018-02-07T00:19:03.874Z","type":"message"}
+{"nick":"bradleymeck","message":"fourthex: RUL based specifiers has led to MIME integration (re `data:`/`blob:`) and WebPackage compatibility somewhat relies on origin based trust","date":"2018-02-07T00:19:50.810Z","type":"message"}
+{"nick":"bradleymeck","message":"so that would move us towards all sorts of CSP once both of those become reality","date":"2018-02-07T00:20:07.053Z","type":"message"}
+{"nick":"fourthex","message":"I am not familiar with RUL. What is that?","date":"2018-02-07T00:20:52.419Z","type":"message"}
+{"nick":"bradleymeck","message":"URL*","date":"2018-02-07T00:21:33.120Z","type":"message"}
+{"nick":"fourthex","message":"Oh, you meant URL?","date":"2018-02-07T00:21:41.081Z","type":"message"}
+{"nick":"bradleymeck","message":"sorry brain is not quite working right now","date":"2018-02-07T00:21:42.345Z","type":"message"}
+{"nick":"fourthex","message":"Ah","date":"2018-02-07T00:21:43.589Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-07T00:32:49.375Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-07T00:35:04.823Z","type":"join"}
+{"nick":"M-IvanSanchez","date":"2018-02-07T00:44:47.105Z","type":"join"}
+{"nick":"gibson042","date":"2018-02-07T00:52:11.463Z","type":"join"}
+{"nick":"fourthex","reason":"Quit: Page closed","date":"2018-02-07T01:01:53.039Z","type":"quit"}
+{"nick":"gskachkov","reason":"Ping timeout: 256 seconds","date":"2018-02-07T01:04:58.726Z","type":"quit"}
+{"nick":"AtumT_","reason":"Remote host closed the connection","date":"2018-02-07T01:07:22.341Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T01:27:18.775Z","type":"join"}
+{"nick":"jmdyck1","reason":"Ping timeout: 248 seconds","date":"2018-02-07T01:30:39.828Z","type":"quit"}
+{"nick":"jmdyck","date":"2018-02-07T01:32:30.655Z","type":"join"}
+{"nick":"cloudshu","message":"how come the static semantics for |ConciseBody| and |AsyncConciseBody| don't have any definitions for the { [Async]FunctionBody } alternative?","date":"2018-02-07T01:52:37.298Z","type":"message"}
+{"nick":"cloudshu","message":"e.g. for LexicallyDeclaredNames or EvaluateBody on |ConciseBody|","date":"2018-02-07T01:53:12.435Z","type":"message"}
+{"nick":"cloudshu","message":"am i missing something simple? is there a \"pass-through\" if the static semantics is defined for a production's sole non-terminal or something like that?","date":"2018-02-07T01:53:59.684Z","type":"message"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-02-07T02:12:18.445Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-07T02:12:45.918Z","type":"join"}
+{"nick":"jmdyck","message":"cloudshu: yes","date":"2018-02-07T02:16:39.136Z","type":"message"}
+{"nick":"caridy","reason":"Ping timeout: 255 seconds","date":"2018-02-07T02:17:23.883Z","type":"quit"}
+{"nick":"jmdyck","message":"See https://tc39.github.io/ecma262/#sec-algorithm-conventions-syntax-directed-operations","date":"2018-02-07T02:17:57.446Z","type":"message"}
+{"nick":"jmdyck","message":"\"Unless explicitly specified otherwise, all chain productions have an implicit definition ....\"","date":"2018-02-07T02:18:15.260Z","type":"message"}
+{"nick":"caridy","date":"2018-02-07T02:18:43.657Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2018-02-07T02:20:25.637Z","type":"quit"}
+{"nick":"caridy","reason":"Ping timeout: 240 seconds","date":"2018-02-07T02:23:10.925Z","type":"quit"}
+{"nick":"cloudshu","message":"jmdyck: beautiful, thank you","date":"2018-02-07T02:25:05.893Z","type":"message"}
+{"nick":"jmdyck","message":"np","date":"2018-02-07T02:25:16.282Z","type":"message"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T02:28:34.709Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T02:33:09.726Z","type":"join"}
+{"nick":"M-IvanSanchez","reason":"Ping timeout: 248 seconds","date":"2018-02-07T02:54:31.157Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-07T03:03:36.214Z","type":"quit"}
+{"nick":"jwalden","reason":"Quit: ChatZilla 0.9.92-rdmsoft [XULRunner 35.0.1/20150122214805]","date":"2018-02-07T03:08:54.021Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-07T03:20:25.773Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 252 seconds","date":"2018-02-07T03:24:44.677Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T03:42:37.515Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T03:47:44.581Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T03:55:32.761Z","type":"quit"}
+{"nick":"howdoi","date":"2018-02-07T04:18:16.372Z","type":"join"}
+{"nick":"keith_miller","date":"2018-02-07T04:19:23.681Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T04:25:26.501Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T04:26:04.557Z","type":"join"}
+{"nick":"caridy","date":"2018-02-07T04:26:57.982Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 255 seconds","date":"2018-02-07T04:30:53.167Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T04:34:44.913Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-07T04:34:48.203Z","type":"join"}
+{"nick":"keith_miller","date":"2018-02-07T04:37:00.067Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 260 seconds","date":"2018-02-07T04:39:12.197Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T04:49:44.585Z","type":"quit"}
+{"nick":"caridy","date":"2018-02-07T04:50:34.256Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 255 seconds","date":"2018-02-07T04:55:11.207Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T04:55:12.167Z","type":"join"}
+{"nick":"caridy","date":"2018-02-07T04:56:10.406Z","type":"join"}
+{"nick":"keith_miller","reason":"Client Quit","date":"2018-02-07T04:57:08.504Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T04:59:05.540Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-02-07T05:25:44.698Z","type":"quit"}
+{"nick":"gskachkov","date":"2018-02-07T05:42:15.937Z","type":"join"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2018-02-07T05:57:14.226Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T06:10:10.954Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2018-02-07T06:18:29.220Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T06:20:46.249Z","type":"join"}
+{"nick":"M-IvanSanchez","date":"2018-02-07T06:23:57.861Z","type":"join"}
+{"nick":"gskachkov","date":"2018-02-07T07:47:19.435Z","type":"join"}
+{"nick":"gskachkov_","date":"2018-02-07T08:30:47.495Z","type":"join"}
+{"nick":"gskachkov","reason":"Ping timeout: 256 seconds","date":"2018-02-07T08:31:03.361Z","type":"quit"}
+{"nick":"gskachkov_","new_nick":"gskachkov","date":"2018-02-07T08:31:03.506Z","type":"nick"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2018-02-07T08:44:03.651Z","type":"quit"}
+{"nick":"gskachkov","date":"2018-02-07T08:45:13.990Z","type":"join"}
+{"nick":"Guest47014","new_nick":"alextes","date":"2018-02-07T08:57:44.257Z","type":"nick"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T09:45:11.165Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-02-07T11:25:10.924Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-02-07T11:25:41.508Z","type":"join"}
+{"nick":"jmdyck","date":"2018-02-07T12:41:37.479Z","type":"join"}
+{"nick":"AtumT","date":"2018-02-07T12:55:42.898Z","type":"join"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2018-02-07T13:06:39.767Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-07T13:55:14.172Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-07T14:21:00.169Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-07T14:42:54.784Z","type":"join"}
+{"nick":"keith_miller","date":"2018-02-07T15:06:17.388Z","type":"join"}
+{"nick":"caridy","date":"2018-02-07T15:27:37.757Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2018-02-07T15:27:41.776Z","type":"quit"}
+{"nick":"caridy_","date":"2018-02-07T15:27:48.834Z","type":"join"}
+{"nick":"gskachkov","reason":"Ping timeout: 248 seconds","date":"2018-02-07T15:49:51.820Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-07T16:04:51.085Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T16:15:41.485Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-07T16:22:23.480Z","type":"join"}
+{"nick":"keith_miller","date":"2018-02-07T16:43:57.680Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-02-07T17:04:23.417Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T17:04:45.874Z","type":"join"}
+{"nick":"keith_miller","reason":"Client Quit","date":"2018-02-07T17:05:23.441Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T17:05:45.313Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-02-07T17:13:01.421Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T17:13:17.992Z","type":"join"}
+{"nick":"gskachkov","date":"2018-02-07T17:14:04.711Z","type":"join"}
+{"nick":"gskachkov","reason":"Client Quit","date":"2018-02-07T17:15:11.422Z","type":"quit"}
+{"nick":"gskachkov","date":"2018-02-07T17:15:45.756Z","type":"join"}
+{"nick":"keith_miller","reason":"Client Quit","date":"2018-02-07T17:16:39.164Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T17:16:58.435Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-02-07T17:24:32.846Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T17:27:59.487Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 255 seconds","date":"2018-02-07T17:31:11.208Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T17:36:13.498Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T18:32:57.714Z","type":"join"}
+{"nick":"Jayflux","date":"2018-02-07T18:40:35.376Z","type":"join"}
+{"nick":"Jayflux","reason":"Changing host","date":"2018-02-07T18:40:35.559Z","type":"quit"}
+{"nick":"Jayflux","date":"2018-02-07T18:40:35.559Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T19:09:03.428Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2018-02-07T19:13:42.738Z","type":"quit"}
+{"nick":"bradleymeck","date":"2018-02-07T19:15:53.360Z","type":"join"}
+{"nick":"keith_miller","date":"2018-02-07T19:22:22.478Z","type":"join"}
+{"nick":"Jayflux","reason":"Ping timeout: 265 seconds","date":"2018-02-07T19:30:03.829Z","type":"quit"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T20:15:10.755Z","type":"quit"}
+{"nick":"Jayflux","date":"2018-02-07T20:22:40.480Z","type":"join"}
+{"nick":"cloudshu","message":"colors are hard","date":"2018-02-07T20:26:25.498Z","type":"message"}
+{"nick":"cloudshu","message":"is there someone here who has experience with color spaces?","date":"2018-02-07T20:26:35.100Z","type":"message"}
+{"nick":"Jayflux","message":"cloudshu,  whats the problem?","date":"2018-02-07T21:05:15.531Z","type":"message"}
+{"nick":"cloudshu","message":"Jayflux: trying to figure out if i get guidance on the RGB values of a color without a color space specified, if i should assume it's sRGB or something else","date":"2018-02-07T21:05:56.870Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit:  ","date":"2018-02-07T21:14:35.896Z","type":"quit"}
+{"nick":"jwalden","date":"2018-02-07T21:37:04.508Z","type":"join"}
+{"nick":"keith_miller","date":"2018-02-07T21:37:09.657Z","type":"join"}
+{"nick":"keith_miller","reason":"Client Quit","date":"2018-02-07T21:38:33.604Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T21:39:42.119Z","type":"join"}
+{"nick":"Jayflux","reason":"Quit: Leaving","date":"2018-02-07T22:12:29.342Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2018-02-07T22:23:23.780Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T22:30:35.241Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T22:33:23.198Z","type":"join"}
+{"nick":"keith_miller","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-02-07T23:09:19.900Z","type":"quit"}
+{"nick":"keith_miller","date":"2018-02-07T23:23:45.092Z","type":"join"}
+{"nick":"AtumT_","date":"2018-02-07T23:58:16.660Z","type":"join"}

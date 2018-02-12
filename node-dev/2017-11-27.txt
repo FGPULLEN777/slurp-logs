@@ -1,0 +1,188 @@
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-11-27T00:05:37.373Z","type":"quit"}
+{"nick":"joconor","date":"2017-11-27T00:28:20.235Z","type":"join"}
+{"nick":"joconor","reason":"Client Quit","date":"2017-11-27T00:30:36.770Z","type":"quit"}
+{"nick":"BridgeAR","date":"2017-11-27T00:35:11.218Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T00:38:31.188Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T00:38:31.318Z","type":"part"}
+{"nick":"addaleax","message":"maclover7: yes, I am now :)","date":"2017-11-27T00:41:36.174Z","type":"message"}
+{"nick":"titankiller","date":"2017-11-27T00:42:20.838Z","type":"join"}
+{"nick":"maclover7","message":"addaleax: np","date":"2017-11-27T00:42:59.167Z","type":"message"}
+{"nick":"maclover7","message":"would you be willing to review https://github.com/nodejs/node/pull/16386","date":"2017-11-27T00:43:02.896Z","type":"message"}
+{"nick":"maclover7","message":"I think it just needs another person and then it can land","date":"2017-11-27T00:43:09.062Z","type":"message"}
+{"nick":"titankiller","reason":"Ping timeout: 268 seconds","date":"2017-11-27T00:47:47.852Z","type":"quit"}
+{"nick":"addaleax","message":"maclover7: uh … lgtm but is there documentation/tests? :)","date":"2017-11-27T00:53:40.167Z","type":"message"}
+{"nick":"addaleax","message":"regarding where to put them … not really sure, but I think modules.md could use a section about `Module` itself …","date":"2017-11-27T00:55:25.168Z","type":"message"}
+{"nick":"apapirovski","date":"2017-11-27T01:02:53.041Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T01:05:15.769Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T01:05:15.974Z","type":"part"}
+{"nick":"maclover7","message":"addaleax: yeah, i wasn't really sure where to put docs","date":"2017-11-27T01:12:50.049Z","type":"message"}
+{"nick":"maclover7","message":"bc everything in modules.md seemed to be about file modules","date":"2017-11-27T01:13:12.078Z","type":"message"}
+{"nick":"addaleax","message":"maclover7: Starting from https://nodejs.org/api/modules.html#modules_the_module_object it gets better","date":"2017-11-27T01:13:43.718Z","type":"message"}
+{"nick":"addaleax","message":"but you’re right in that this is completely lacking documentation so far","date":"2017-11-27T01:13:51.939Z","type":"message"}
+{"nick":"ljharb","message":"ooooh i like this","date":"2017-11-27T01:14:33.365Z","type":"message"}
+{"nick":"ljharb","message":"`resolve` can use that","date":"2017-11-27T01:14:41.103Z","type":"message"}
+{"nick":"ljharb","message":"and its current logic can be moved to a Modules.builtinModules polyfill, which i'm happy to write","date":"2017-11-27T01:14:59.838Z","type":"message"}
+{"nick":"refack","message":"maybe at some point we should spilt modules.md to the CJS part, and the API part","date":"2017-11-27T01:15:25.596Z","type":"message"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-27T01:18:15.468Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-27T01:19:48.058Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T01:19:48.151Z","type":"part"}
+{"nick":"apapirovski","date":"2017-11-27T01:33:12.321Z","type":"join"}
+{"nick":"AtumT_","reason":"Remote host closed the connection","date":"2017-11-27T01:43:23.222Z","type":"quit"}
+{"nick":"VibroMax","reason":"Ping timeout: 255 seconds","date":"2017-11-27T02:04:47.903Z","type":"quit"}
+{"nick":"JamesMGreene","date":"2017-11-27T02:09:08.146Z","type":"join"}
+{"nick":"JamesMGreene","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-11-27T02:20:55.926Z","type":"quit"}
+{"nick":"JamesMGreene","date":"2017-11-27T02:24:03.161Z","type":"join"}
+{"nick":"titankiller","date":"2017-11-27T02:31:11.782Z","type":"join"}
+{"nick":"apapirovski","reason":"Quit: Leaving...","date":"2017-11-27T02:32:45.146Z","type":"quit"}
+{"nick":"titankiller","reason":"Ping timeout: 248 seconds","date":"2017-11-27T02:35:43.981Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-11-27T02:36:33.742Z","type":"quit"}
+{"nick":"titankiller","date":"2017-11-27T03:11:51.418Z","type":"join"}
+{"nick":"JamesMGreene","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-11-27T03:37:53.885Z","type":"quit"}
+{"nick":"JamesMGreene","date":"2017-11-27T03:59:30.864Z","type":"join"}
+{"nick":"BridgeAR1","date":"2017-11-27T04:17:02.210Z","type":"join"}
+{"nick":"BridgeAR","reason":"Read error: Connection reset by peer","date":"2017-11-27T04:17:02.508Z","type":"quit"}
+{"nick":"BridgeAR1","reason":"Client Quit","date":"2017-11-27T04:17:05.782Z","type":"quit"}
+{"nick":"titankiller","reason":"Remote host closed the connection","date":"2017-11-27T05:05:46.197Z","type":"quit"}
+{"nick":"titankiller","date":"2017-11-27T05:06:21.106Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 268 seconds","date":"2017-11-27T05:11:06.916Z","type":"quit"}
+{"nick":"titankiller","date":"2017-11-27T05:50:54.936Z","type":"join"}
+{"nick":"marthinal","date":"2017-11-27T05:51:33.691Z","type":"join"}
+{"nick":"titankiller","reason":"Remote host closed the connection","date":"2017-11-27T06:03:29.005Z","type":"quit"}
+{"nick":"titankiller","date":"2017-11-27T06:04:03.328Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T06:17:59.938Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T06:18:00.143Z","type":"part"}
+{"nick":"lpin","date":"2017-11-27T06:21:43.844Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T06:25:28.035Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T06:25:28.351Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-27T06:25:48.758Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T06:25:48.758Z","type":"part"}
+{"nick":"JamesMGreene","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-11-27T06:32:31.091Z","type":"quit"}
+{"nick":"Fusl","reason":"Max SendQ exceeded","date":"2017-11-27T06:46:47.963Z","type":"quit"}
+{"nick":"Fusl","date":"2017-11-27T06:48:05.454Z","type":"join"}
+{"nick":"seishun","date":"2017-11-27T07:29:25.647Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T07:39:36.151Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T07:39:36.243Z","type":"part"}
+{"nick":"VibroMax","date":"2017-11-27T07:56:13.410Z","type":"join"}
+{"nick":"titankiller","reason":"Remote host closed the connection","date":"2017-11-27T08:33:49.626Z","type":"quit"}
+{"nick":"titankiller","date":"2017-11-27T08:34:20.910Z","type":"join"}
+{"nick":"titankiller","reason":"Remote host closed the connection","date":"2017-11-27T08:56:58.196Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2017-11-27T08:57:04.069Z","type":"quit"}
+{"nick":"titankiller","date":"2017-11-27T08:57:15.610Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T08:57:31.120Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T08:57:31.213Z","type":"part"}
+{"nick":"titankiller","reason":"Remote host closed the connection","date":"2017-11-27T08:59:03.811Z","type":"quit"}
+{"nick":"titankiller","date":"2017-11-27T08:59:16.713Z","type":"join"}
+{"nick":"titankiller","reason":"Ping timeout: 276 seconds","date":"2017-11-27T09:04:26.184Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-27T09:04:53.502Z","type":"join"}
+{"nick":"VibroMax","reason":"Read error: Connection reset by peer","date":"2017-11-27T09:28:21.214Z","type":"quit"}
+{"nick":"VibroMax","date":"2017-11-27T09:28:52.254Z","type":"join"}
+{"nick":"reydelcompas","reason":"Quit: Connection closed for inactivity","date":"2017-11-27T09:39:06.844Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-27T11:25:10.273Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-27T11:25:40.891Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T11:51:02.840Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T11:51:02.931Z","type":"part"}
+{"nick":"joaocgreis","reason":"Ping timeout: 240 seconds","date":"2017-11-27T11:53:32.238Z","type":"quit"}
+{"nick":"cspotcode","reason":"Ping timeout: 250 seconds","date":"2017-11-27T11:53:53.860Z","type":"quit"}
+{"nick":"jbenet","reason":"Ping timeout: 250 seconds","date":"2017-11-27T11:53:54.043Z","type":"quit"}
+{"nick":"littledan","reason":"Ping timeout: 250 seconds","date":"2017-11-27T11:53:54.044Z","type":"quit"}
+{"nick":"Trott","reason":"Read error: Connection reset by peer","date":"2017-11-27T11:54:03.323Z","type":"quit"}
+{"nick":"starefossen","reason":"Read error: Connection reset by peer","date":"2017-11-27T11:54:03.432Z","type":"quit"}
+{"nick":"tooshel","reason":"Read error: Connection reset by peer","date":"2017-11-27T11:54:03.507Z","type":"quit"}
+{"nick":"mattloring","reason":"Read error: Connection reset by peer","date":"2017-11-27T11:54:03.599Z","type":"quit"}
+{"nick":"Guest67514","reason":"Read error: Connection reset by peer","date":"2017-11-27T11:54:03.993Z","type":"quit"}
+{"nick":"rvagg","reason":"Read error: Connection reset by peer","date":"2017-11-27T11:54:04.085Z","type":"quit"}
+{"nick":"addaleax","reason":"Read error: Connection reset by peer","date":"2017-11-27T11:54:12.693Z","type":"quit"}
+{"nick":"dagobert__","reason":"Ping timeout: 250 seconds","date":"2017-11-27T11:54:20.008Z","type":"quit"}
+{"nick":"feross","reason":"Ping timeout: 250 seconds","date":"2017-11-27T11:54:20.008Z","type":"quit"}
+{"nick":"refack","reason":"Ping timeout: 264 seconds","date":"2017-11-27T11:54:22.658Z","type":"quit"}
+{"nick":"Meow-J","reason":"Ping timeout: 264 seconds","date":"2017-11-27T11:54:22.658Z","type":"quit"}
+{"nick":"emilbayes","reason":"Ping timeout: 264 seconds","date":"2017-11-27T11:54:22.701Z","type":"quit"}
+{"nick":"kumavis","reason":"Ping timeout: 264 seconds","date":"2017-11-27T11:54:22.864Z","type":"quit"}
+{"nick":"mattloring","date":"2017-11-27T11:54:46.643Z","type":"join"}
+{"nick":"Trott","date":"2017-11-27T11:54:48.163Z","type":"join"}
+{"nick":"tooshel","date":"2017-11-27T11:54:54.151Z","type":"join"}
+{"nick":"rvagg","date":"2017-11-27T11:54:55.167Z","type":"join"}
+{"nick":"addaleax","date":"2017-11-27T11:55:05.313Z","type":"join"}
+{"nick":"joaocgreis","date":"2017-11-27T11:55:07.062Z","type":"join"}
+{"nick":"starefossen","date":"2017-11-27T11:55:08.349Z","type":"join"}
+{"nick":"jbenet","date":"2017-11-27T11:55:23.302Z","type":"join"}
+{"nick":"Meow-J","date":"2017-11-27T11:55:25.433Z","type":"join"}
+{"nick":"Guest67514","date":"2017-11-27T11:55:25.631Z","type":"join"}
+{"nick":"cspotcode","date":"2017-11-27T11:55:25.631Z","type":"join"}
+{"nick":"emilbayes","date":"2017-11-27T11:55:28.668Z","type":"join"}
+{"nick":"kumavis","date":"2017-11-27T11:55:31.153Z","type":"join"}
+{"nick":"littledan","date":"2017-11-27T11:55:39.397Z","type":"join"}
+{"nick":"VibroMax","reason":"Ping timeout: 248 seconds","date":"2017-11-27T12:04:16.131Z","type":"quit"}
+{"nick":"VibroMax","date":"2017-11-27T12:21:20.991Z","type":"join"}
+{"nick":"lpin","reason":"Read error: Connection reset by peer","date":"2017-11-27T12:37:17.332Z","type":"quit"}
+{"nick":"VibroMax","reason":"Ping timeout: 268 seconds","date":"2017-11-27T12:49:17.796Z","type":"quit"}
+{"nick":"VibroMax","date":"2017-11-27T13:22:07.950Z","type":"join"}
+{"nick":"lance|afk","new_nick":"lanceball","date":"2017-11-27T13:29:53.597Z","type":"nick"}
+{"nick":"refack","date":"2017-11-27T13:34:08.315Z","type":"join"}
+{"nick":"feross","date":"2017-11-27T13:51:43.998Z","type":"join"}
+{"nick":"dagobert__","date":"2017-11-27T13:52:00.021Z","type":"join"}
+{"nick":"BridgeAR","date":"2017-11-27T14:07:08.746Z","type":"join"}
+{"nick":"AtumT","date":"2017-11-27T14:26:23.864Z","type":"join"}
+{"nick":"lpin","date":"2017-11-27T14:28:43.710Z","type":"join"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-11-27T14:43:46.282Z","type":"quit"}
+{"nick":"VibroMax","reason":"Ping timeout: 268 seconds","date":"2017-11-27T14:47:41.955Z","type":"quit"}
+{"nick":"jkrems","date":"2017-11-27T14:51:36.108Z","type":"join"}
+{"nick":"VibroMax","date":"2017-11-27T14:52:22.051Z","type":"join"}
+{"nick":"evanlucas","date":"2017-11-27T14:59:05.040Z","type":"join"}
+{"nick":"jkrems","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-11-27T16:32:55.827Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-11-27T16:55:11.980Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-27T17:05:31.206Z","type":"join"}
+{"nick":"VibroMax","reason":"Ping timeout: 255 seconds","date":"2017-11-27T17:06:36.014Z","type":"quit"}
+{"nick":"apapirovski","message":"addaleax: when you've got a moment, could you review https://github.com/nodejs/node/pull/16888 again — all the reviews are outdated since some substantial changes occurred. Would like to land it in the next few days. Thanks!","date":"2017-11-27T17:07:55.352Z","type":"message"}
+{"nick":"reydelcompas","date":"2017-11-27T17:11:21.764Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-27T17:27:22.197Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-27T17:54:12.226Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-27T18:00:40.896Z","type":"join"}
+{"nick":"Ultrasauce","reason":"Remote host closed the connection","date":"2017-11-27T18:13:20.102Z","type":"quit"}
+{"nick":"Ultrasauce","date":"2017-11-27T18:32:26.251Z","type":"join"}
+{"nick":"BridgeAR","date":"2017-11-27T18:47:30.837Z","type":"join"}
+{"nick":"apapirov_","date":"2017-11-27T18:59:16.326Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 240 seconds","date":"2017-11-27T19:00:57.850Z","type":"quit"}
+{"nick":"VibroMax","date":"2017-11-27T19:04:49.279Z","type":"join"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-11-27T19:06:21.701Z","type":"quit"}
+{"nick":"addaleax","message":"apapirov_: the PR still lgtm :)","date":"2017-11-27T19:12:44.301Z","type":"message"}
+{"nick":"apapirov_","message":"addaleax: thank you :)","date":"2017-11-27T19:13:08.872Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-11-27T19:31:24.161Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T19:31:24.253Z","type":"part"}
+{"nick":"apapirov_","reason":"Remote host closed the connection","date":"2017-11-27T19:39:10.631Z","type":"quit"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2017-11-27T19:41:12.733Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-27T19:57:55.874Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T20:03:38.064Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T20:03:38.156Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-27T20:06:31.744Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T20:06:31.754Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-27T20:10:11.164Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T20:10:11.256Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-27T20:35:21.143Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T20:35:21.348Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-27T20:49:36.279Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 255 seconds","date":"2017-11-27T21:01:03.078Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-27T21:03:59.344Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-27T21:19:21.818Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2017-11-27T21:19:47.180Z","type":"join"}
+{"nick":"VibroMax","reason":"Ping timeout: 276 seconds","date":"2017-11-27T21:43:38.217Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-27T21:44:08.328Z","type":"join"}
+{"nick":"refack","message":"PSA: there was an outage in CI status reports during the last day or so. Should be back to normal now.","date":"2017-11-27T21:56:30.494Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-11-27T22:17:11.148Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T22:17:11.279Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-27T22:17:29.344Z","type":"quit"}
+{"nick":"evanlucas","reason":"Ping timeout: 240 seconds","date":"2017-11-27T22:26:31.983Z","type":"quit"}
+{"nick":"evanlucas","date":"2017-11-27T22:32:53.054Z","type":"join"}
+{"nick":"evanlucas","reason":"Ping timeout: 240 seconds","date":"2017-11-27T22:39:31.999Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-27T22:45:23.004Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-27T22:45:23.096Z","type":"part"}
+{"nick":"evanlucas","date":"2017-11-27T22:45:26.249Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-27T22:53:30.623Z","type":"join"}
+{"nick":"ofrobots","message":"Trott: How did you produce the commits/day metric for the node repo? (being lazy, asking is cheaper :)","date":"2017-11-27T23:17:44.399Z","type":"message"}
+{"nick":"ZeZu","reason":"Ping timeout: 264 seconds","date":"2017-11-27T23:18:22.367Z","type":"quit"}
+{"nick":"ofrobots","message":"Trott: figured it out.. --since.","date":"2017-11-27T23:21:03.793Z","type":"message"}
+{"nick":"ZeZu","date":"2017-11-27T23:26:05.367Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-11-27T23:29:12.812Z","type":"quit"}
+{"nick":"john51","reason":"Remote host closed the connection","date":"2017-11-27T23:45:03.048Z","type":"quit"}
+{"nick":"john51","date":"2017-11-27T23:45:35.013Z","type":"join"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-11-27T23:49:43.793Z","type":"quit"}

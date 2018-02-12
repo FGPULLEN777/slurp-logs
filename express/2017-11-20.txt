@@ -1,0 +1,158 @@
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-20T01:58:14.971Z","type":"quit"}
+{"nick":"_yoy_","reason":"Quit: Leaving...","date":"2017-11-20T03:08:15.970Z","type":"quit"}
+{"nick":"pudymody","date":"2017-11-20T03:18:53.605Z","type":"join"}
+{"nick":"jgornick","reason":"Ping timeout: 240 seconds","date":"2017-11-20T03:26:52.017Z","type":"quit"}
+{"nick":"rorro","reason":"Ping timeout: 248 seconds","date":"2017-11-20T03:27:28.096Z","type":"quit"}
+{"nick":"jgornick","date":"2017-11-20T03:29:07.465Z","type":"join"}
+{"nick":"pudymody","reason":"Quit: Leaving","date":"2017-11-20T04:09:33.337Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T05:29:44.922Z","type":"join"}
+{"nick":"chinmaygupta28","message":"how to check  in a middleware that the next middleware is available in the pipeline","date":"2017-11-20T05:45:10.173Z","type":"message"}
+{"nick":"chinmaygupta28","message":"basically I want to do this.","date":"2017-11-20T05:45:20.846Z","type":"message"}
+{"nick":"chinmaygupta28","message":"app.route('/all').get(fnA, fnB)","date":"2017-11-20T05:45:25.020Z","type":"message"}
+{"nick":"chinmaygupta28","message":"app.route('/all2').get(fnA)","date":"2017-11-20T05:45:25.514Z","type":"message"}
+{"nick":"chinmaygupta28","message":"function fnA(req, res, next) {","date":"2017-11-20T05:45:27.056Z","type":"message"}
+{"nick":"chinmaygupta28","message":"\tresult = 'result';","date":"2017-11-20T05:45:28.598Z","type":"message"}
+{"nick":"chinmaygupta28","message":"\tif (next) {","date":"2017-11-20T05:45:30.042Z","type":"message"}
+{"nick":"chinmaygupta28","message":"\t\tnext()","date":"2017-11-20T05:45:31.537Z","type":"message"}
+{"nick":"chinmaygupta28","message":"\t} else {","date":"2017-11-20T05:45:33.162Z","type":"message"}
+{"nick":"chinmaygupta28","message":"\t\tres.json(result)","date":"2017-11-20T05:45:34.584Z","type":"message"}
+{"nick":"chinmaygupta28","message":"\t}","date":"2017-11-20T05:45:36.359Z","type":"message"}
+{"nick":"chinmaygupta28","message":"}","date":"2017-11-20T05:45:37.664Z","type":"message"}
+{"nick":"chinmaygupta28","message":"function fnB (req, res, next) {","date":"2017-11-20T05:45:38.906Z","type":"message"}
+{"nick":"chinmaygupta28","message":"\tres.json('result 2')","date":"2017-11-20T05:45:39.836Z","type":"message"}
+{"nick":"chinmaygupta28","message":"}","date":"2017-11-20T05:45:40.632Z","type":"message"}
+{"nick":"chinmaygupta28","message":"sorry abt that, sending a pastie","date":"2017-11-20T05:47:26.291Z","type":"message"}
+{"nick":"chinmaygupta28","message":"https://www.pastiebin.com/5a126c8a6a282","date":"2017-11-20T05:47:58.933Z","type":"message"}
+{"nick":"vvrao","date":"2017-11-20T05:56:37.611Z","type":"join"}
+{"nick":"Abhishek_","reason":"Quit: Connection closed for inactivity","date":"2017-11-20T06:06:04.684Z","type":"quit"}
+{"nick":"lpin","date":"2017-11-20T06:10:14.926Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T06:10:50.034Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T06:12:20.884Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T06:24:30.568Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T06:28:45.915Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T06:53:21.525Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-20T07:05:09.941Z","type":"join"}
+{"nick":"chinmaygupta28","date":"2017-11-20T07:08:33.166Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-20T07:11:33.246Z","type":"quit"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T07:23:36.766Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-20T07:23:57.606Z","type":"join"}
+{"nick":"chinmaygupta28","date":"2017-11-20T07:26:34.467Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-20T07:52:04.726Z","type":"quit"}
+{"nick":"flaviodesousa","date":"2017-11-20T08:02:22.048Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T08:57:36.577Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T09:17:32.325Z","type":"join"}
+{"nick":"Arcarc","date":"2017-11-20T09:27:05.417Z","type":"join"}
+{"nick":"rorro","date":"2017-11-20T09:35:41.845Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T10:09:37.211Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T10:16:40.235Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Client Quit","date":"2017-11-20T10:18:31.130Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T10:19:19.451Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Client Quit","date":"2017-11-20T10:21:06.828Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T10:28:31.492Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T10:33:38.971Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T10:38:35.219Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Client Quit","date":"2017-11-20T10:40:25.013Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T10:46:59.815Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Client Quit","date":"2017-11-20T10:48:39.474Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T10:50:47.753Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T11:05:56.128Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T11:06:36.042Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-20T11:25:11.134Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-20T11:25:41.671Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T11:32:23.765Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T11:35:15.939Z","type":"join"}
+{"nick":"shoobie","reason":"Ping timeout: 240 seconds","date":"2017-11-20T11:35:35.592Z","type":"quit"}
+{"nick":"shoobie","date":"2017-11-20T11:36:04.903Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T11:44:02.015Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T11:46:24.929Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T12:07:19.584Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T12:09:13.798Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Client Quit","date":"2017-11-20T12:10:07.997Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T12:12:04.779Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Client Quit","date":"2017-11-20T12:14:24.015Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T12:15:49.441Z","type":"join"}
+{"nick":"shoobie","reason":"Remote host closed the connection","date":"2017-11-20T12:27:18.375Z","type":"quit"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T12:27:47.378Z","type":"quit"}
+{"nick":"shoobie","date":"2017-11-20T12:27:49.143Z","type":"join"}
+{"nick":"chinmaygupta28","date":"2017-11-20T12:30:22.868Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T12:36:03.599Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T12:52:31.592Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Client Quit","date":"2017-11-20T12:55:38.394Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T12:56:18.029Z","type":"join"}
+{"nick":"rorro","reason":"Ping timeout: 240 seconds","date":"2017-11-20T13:02:57.812Z","type":"quit"}
+{"nick":"Arcarcarc","date":"2017-11-20T13:06:33.415Z","type":"join"}
+{"nick":"Arcarc","reason":"Ping timeout: 248 seconds","date":"2017-11-20T13:09:53.536Z","type":"quit"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T13:27:17.918Z","type":"quit"}
+{"nick":"d10n-work","date":"2017-11-20T13:28:19.999Z","type":"join"}
+{"nick":"chinmaygupta28","date":"2017-11-20T13:29:46.168Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Client Quit","date":"2017-11-20T13:34:05.457Z","type":"quit"}
+{"nick":"rorro","date":"2017-11-20T14:13:51.792Z","type":"join"}
+{"nick":"vvrao","reason":"Quit: Connection closed for inactivity","date":"2017-11-20T14:43:50.032Z","type":"quit"}
+{"nick":"shoobie_","date":"2017-11-20T14:46:44.592Z","type":"join"}
+{"nick":"shoobie","reason":"Ping timeout: 248 seconds","date":"2017-11-20T14:49:35.962Z","type":"quit"}
+{"nick":"shoobie_","reason":"Remote host closed the connection","date":"2017-11-20T14:49:51.286Z","type":"quit"}
+{"nick":"shoobie","date":"2017-11-20T14:50:08.198Z","type":"join"}
+{"nick":"chinmaygupta28","date":"2017-11-20T15:00:30.494Z","type":"join"}
+{"nick":"cebor","reason":"Quit: ZNC - http://znc.in","date":"2017-11-20T15:10:40.246Z","type":"quit"}
+{"nick":"cebor","date":"2017-11-20T15:11:33.888Z","type":"join"}
+{"nick":"ravenzz","date":"2017-11-20T15:40:23.872Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T16:19:04.177Z","type":"quit"}
+{"nick":"rorro","reason":"Ping timeout: 258 seconds","date":"2017-11-20T16:24:06.673Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-20T16:52:36.180Z","type":"join"}
+{"nick":"efffe","date":"2017-11-20T17:02:41.072Z","type":"join"}
+{"nick":"efffe","message":"is it possible to respond with the request data?","date":"2017-11-20T17:03:44.413Z","type":"message"}
+{"nick":"efffe","message":"(not log, or i'd use morgan, but actually respond with the req)","date":"2017-11-20T17:05:55.218Z","type":"message"}
+{"nick":"efffe","message":"(my use case is trying to see what Google's Cloud Functions are getting)","date":"2017-11-20T17:06:28.371Z","type":"message"}
+{"nick":"efffe","message":"(they're wrapping Express btw)","date":"2017-11-20T17:06:39.421Z","type":"message"}
+{"nick":"rorro","date":"2017-11-20T17:14:37.519Z","type":"join"}
+{"nick":"commma","message":"efffe: `res.send(req)`","date":"2017-11-20T17:20:49.837Z","type":"message"}
+{"nick":"commma","message":"it's not a trick","date":"2017-11-20T17:20:53.511Z","type":"message"}
+{"nick":"efffe","message":"oh. Cloud Funcs are doing more than just a light wrapper then because that throws circular structure err","date":"2017-11-20T17:22:26.474Z","type":"message"}
+{"nick":"commma","message":"oh just call `JSON.stringify(req)` then or whatever it is","date":"2017-11-20T17:34:45.273Z","type":"message"}
+{"nick":"commma","message":"and use `res.json`","date":"2017-11-20T17:34:52.457Z","type":"message"}
+{"nick":"Arcarcarc","reason":"Ping timeout: 260 seconds","date":"2017-11-20T17:35:52.395Z","type":"quit"}
+{"nick":"Elisha","date":"2017-11-20T17:38:01.399Z","type":"join"}
+{"nick":"Arcarc","date":"2017-11-20T17:44:39.018Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-20T17:53:54.372Z","type":"quit"}
+{"nick":"ShekharReddy","reason":"Quit: Connection closed for inactivity","date":"2017-11-20T17:55:23.275Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-11-20T18:10:01.836Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-20T18:11:50.924Z","type":"join"}
+{"nick":"efffe","message":"eh, i did, same problem. not sure why","date":"2017-11-20T18:15:18.756Z","type":"message"}
+{"nick":"commma","message":"efffe: oh god here i've been using custom stringifying stuff because of circular references without realising it","date":"2017-11-20T18:19:50.056Z","type":"message"}
+{"nick":"commma","message":"you'll need to get a package to handle that for you","date":"2017-11-20T18:19:55.895Z","type":"message"}
+{"nick":"commma","message":"i use https://github.com/isaacs/json-stringify-safe","date":"2017-11-20T18:20:43.385Z","type":"message"}
+{"nick":"commma","message":"so there you go, it was a trick after all :v","date":"2017-11-20T18:21:02.001Z","type":"message"}
+{"nick":"efffe","message":"commma: Ah! I'll give that a shot thanks","date":"2017-11-20T18:34:07.791Z","type":"message"}
+{"nick":"efffe","message":"best all-around pkg for parsing body?","date":"2017-11-20T18:37:08.755Z","type":"message"}
+{"nick":"efffe","message":"oh btw that stringify pkg worked great thank you :D","date":"2017-11-20T18:37:24.447Z","type":"message"}
+{"nick":"efffe","message":"trying to parse multipart form, there's like 3-4 decent-looking options but not sure what's the best","date":"2017-11-20T18:38:24.639Z","type":"message"}
+{"nick":"commma","message":"efffe: `multer` works for me","date":"2017-11-20T18:38:48.175Z","type":"message"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-11-20T18:46:45.932Z","type":"quit"}
+{"nick":"efffe","message":"ty","date":"2017-11-20T18:55:27.956Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-20T19:18:28.843Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-20T19:18:49.035Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-20T19:19:15.348Z","type":"quit"}
+{"nick":"efffe","reason":"Ping timeout: 260 seconds","date":"2017-11-20T19:32:55.010Z","type":"quit"}
+{"nick":"efffe","date":"2017-11-20T19:43:32.024Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-20T20:08:42.943Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 246 seconds","date":"2017-11-20T20:13:01.349Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-20T20:14:17.560Z","type":"join"}
+{"nick":"efffe","reason":"Quit: Page closed","date":"2017-11-20T20:15:38.603Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T20:24:19.106Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-20T20:57:13.610Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-20T21:07:55.959Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-20T21:10:42.611Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-20T21:13:11.046Z","type":"join"}
+{"nick":"d10n-work","reason":"Quit: Connection closed for inactivity","date":"2017-11-20T21:37:44.596Z","type":"quit"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T21:53:51.114Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-11-20T22:13:41.539Z","type":"quit"}
+{"nick":"Elisha","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-11-20T22:40:12.957Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T22:44:00.671Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-11-20T22:49:59.991Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T22:55:41.337Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T22:57:46.429Z","type":"join"}
+{"nick":"Arcarc","reason":"Ping timeout: 240 seconds","date":"2017-11-20T23:32:01.953Z","type":"quit"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T23:36:42.197Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T23:47:02.981Z","type":"join"}
+{"nick":"chinmaygupta28","reason":"Quit: chinmaygupta28","date":"2017-11-20T23:56:39.402Z","type":"quit"}
+{"nick":"chinmaygupta28","date":"2017-11-20T23:59:31.278Z","type":"join"}

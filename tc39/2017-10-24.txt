@@ -1,0 +1,55 @@
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-10-24T00:13:05.259Z","type":"quit"}
+{"nick":"bathos","reason":"Quit: bathos","date":"2017-10-24T00:45:44.011Z","type":"quit"}
+{"nick":"bathos","date":"2017-10-24T00:50:43.356Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-10-24T01:47:11.563Z","type":"quit"}
+{"nick":"Bakkot","date":"2017-10-24T02:10:17.408Z","type":"join"}
+{"nick":"jwalden","reason":"Quit: ChatZilla 0.9.92-rdmsoft [XULRunner 35.0.1/20150122214805]","date":"2017-10-24T04:21:09.541Z","type":"quit"}
+{"nick":"bathos","reason":"Quit: bathos","date":"2017-10-24T05:18:39.895Z","type":"quit"}
+{"nick":"bathos","date":"2017-10-24T05:31:01.525Z","type":"join"}
+{"nick":"Bakkot","reason":"Ping timeout: 248 seconds","date":"2017-10-24T05:44:01.342Z","type":"quit"}
+{"nick":"Bakkot","date":"2017-10-24T05:45:41.928Z","type":"join"}
+{"nick":"Bakkot","reason":"Ping timeout: 255 seconds","date":"2017-10-24T06:32:59.947Z","type":"quit"}
+{"nick":"Bakkot","date":"2017-10-24T06:35:23.549Z","type":"join"}
+{"nick":"iosys","reason":"Ping timeout: 240 seconds","date":"2017-10-24T06:41:05.676Z","type":"quit"}
+{"nick":"iosys","date":"2017-10-24T06:43:45.224Z","type":"join"}
+{"nick":"gskachkov","date":"2017-10-24T07:23:35.635Z","type":"join"}
+{"nick":"bathos","reason":"Quit: bathos","date":"2017-10-24T07:31:04.746Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-24T07:46:19.555Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-10-24T08:41:09.776Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-24T08:46:59.630Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-10-24T09:14:59.730Z","type":"join"}
+{"nick":"AtumT","date":"2017-10-24T09:24:28.873Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-24T10:25:08.681Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-24T10:25:39.147Z","type":"join"}
+{"nick":"gskachkov","reason":"Ping timeout: 260 seconds","date":"2017-10-24T10:50:42.752Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-10-24T11:11:04.602Z","type":"join"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-24T11:38:43.967Z","type":"quit"}
+{"nick":"gskachkov","date":"2017-10-24T11:43:43.195Z","type":"join"}
+{"nick":"cloudshu","reason":"Quit: Connection closed for inactivity","date":"2017-10-24T11:58:31.210Z","type":"quit"}
+{"nick":"iosys","reason":"Ping timeout: 240 seconds","date":"2017-10-24T11:59:21.216Z","type":"quit"}
+{"nick":"gibson042","reason":"Ping timeout: 258 seconds","date":"2017-10-24T12:31:50.638Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-24T13:13:31.556Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-24T13:31:52.301Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-24T13:37:41.188Z","type":"join"}
+{"nick":"bathos","date":"2017-10-24T14:14:14.863Z","type":"join"}
+{"nick":"jwalden","date":"2017-10-24T15:43:55.499Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-24T15:45:24.383Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-24T15:56:55.919Z","type":"join"}
+{"nick":"spectranaut","reason":"Quit: No Ping reply in 180 seconds.","date":"2017-10-24T15:59:26.038Z","type":"quit"}
+{"nick":"spectranaut","date":"2017-10-24T16:00:31.916Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-24T16:09:14.750Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-24T16:29:48.502Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-24T16:46:26.052Z","type":"join"}
+{"nick":"gskachkov","date":"2017-10-24T17:08:08.873Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-24T17:28:33.412Z","type":"quit"}
+{"nick":"gskachkov","reason":"Quit: gskachkov","date":"2017-10-24T17:28:40.715Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-24T17:44:43.652Z","type":"join"}
+{"nick":"gskachkov","date":"2017-10-24T18:37:37.217Z","type":"join"}
+{"nick":"gskachkov","reason":"Read error: Connection reset by peer","date":"2017-10-24T19:12:01.650Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2017-10-24T21:00:38.035Z","type":"join"}
+{"nick":"bathos","reason":"Quit: bathos","date":"2017-10-24T22:14:15.283Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-24T22:34:58.034Z","type":"quit"}
+{"nick":"Bakkot","message":"Can contextual keywords contain escape sequences?","date":"2017-10-24T23:31:23.192Z","type":"message"}
+{"nick":"Bakkot","message":"I am guessing no, but Firefox is the only engine which implements this consistently.","date":"2017-10-24T23:31:45.317Z","type":"message"}
+{"nick":"Bakkot","message":"(Everyone else accepts, for example, `({ g\\u{65}t x(){ return 0; } }).x`)","date":"2017-10-24T23:32:13.268Z","type":"message"}
+{"nick":"Bakkot","message":"Yeah, I see this is tested in test262, and v8 at least has a bug ( https://bugs.chromium.org/p/v8/issues/detail?id=6541 )","date":"2017-10-24T23:57:36.260Z","type":"message"}

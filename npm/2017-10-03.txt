@@ -1,0 +1,76 @@
+{"nick":"daynaskully","reason":"Ping timeout: 240 seconds","date":"2017-10-03T00:29:36.133Z","type":"quit"}
+{"nick":"daynaskully","date":"2017-10-03T00:34:34.499Z","type":"join"}
+{"nick":"LeBlaaanc","date":"2017-10-03T00:59:11.742Z","type":"join"}
+{"nick":"dbclk","date":"2017-10-03T02:27:00.389Z","type":"join"}
+{"nick":"devians","date":"2017-10-03T03:04:19.813Z","type":"join"}
+{"nick":"devians_","date":"2017-10-03T03:08:28.521Z","type":"join"}
+{"nick":"devians","reason":"Ping timeout: 248 seconds","date":"2017-10-03T03:10:57.517Z","type":"quit"}
+{"nick":"devians_","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-10-03T04:05:35.870Z","type":"quit"}
+{"nick":"kanja","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-03T04:24:43.162Z","type":"quit"}
+{"nick":"ch007m","date":"2017-10-03T05:55:22.098Z","type":"join"}
+{"nick":"ahmedelgabri","date":"2017-10-03T07:33:31.070Z","type":"join"}
+{"nick":"OnkelTem","reason":"Read error: Connection reset by peer","date":"2017-10-03T08:03:08.671Z","type":"quit"}
+{"nick":"OnkelTem","date":"2017-10-03T08:06:30.428Z","type":"join"}
+{"nick":"pihpah","date":"2017-10-03T09:17:27.253Z","type":"join"}
+{"nick":"pihpah","date":"2017-10-03T09:17:42.778Z","type":"part"}
+{"nick":"dbclk","reason":"Ping timeout: 248 seconds","date":"2017-10-03T09:41:53.604Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-03T10:25:12.282Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-03T10:25:42.861Z","type":"join"}
+{"nick":"mort","reason":"Read error: Connection reset by peer","date":"2017-10-03T11:30:25.283Z","type":"quit"}
+{"nick":"mort","date":"2017-10-03T11:30:40.644Z","type":"join"}
+{"nick":"bongjovi","date":"2017-10-03T12:25:17.560Z","type":"join"}
+{"nick":"dbclk","date":"2017-10-03T13:20:45.898Z","type":"join"}
+{"nick":"LeBlaaanc","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-03T14:00:11.898Z","type":"quit"}
+{"nick":"chalker_","reason":"Read error: Connection reset by peer","date":"2017-10-03T14:11:04.647Z","type":"quit"}
+{"nick":"chalker_","date":"2017-10-03T14:11:14.944Z","type":"join"}
+{"nick":"kanja","date":"2017-10-03T14:22:27.694Z","type":"join"}
+{"nick":"LeBlaaanc","date":"2017-10-03T14:41:38.218Z","type":"join"}
+{"nick":"ashkitten","date":"2017-10-03T15:07:27.085Z","type":"join"}
+{"nick":"ashkitten","date":"2017-10-03T15:12:38.572Z","type":"part"}
+{"nick":"ahmed_elgabri","date":"2017-10-03T15:18:18.363Z","type":"join"}
+{"nick":"ahmedelgabri","reason":"Ping timeout: 248 seconds","date":"2017-10-03T15:21:04.119Z","type":"quit"}
+{"nick":"ahmed_elgabri","reason":"Ping timeout: 260 seconds","date":"2017-10-03T15:33:02.712Z","type":"quit"}
+{"nick":"ahmed_elgabri","date":"2017-10-03T16:10:15.352Z","type":"join"}
+{"nick":"ahmed_elgabri","reason":"Ping timeout: 264 seconds","date":"2017-10-03T16:15:22.326Z","type":"quit"}
+{"nick":"bongjovi","reason":"Quit: My Mac has gone to sleep. ZZZzzz…","date":"2017-10-03T17:08:22.859Z","type":"quit"}
+{"nick":"ahmed_elgabri","date":"2017-10-03T17:15:57.356Z","type":"join"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-10-03T17:29:34.448Z","type":"quit"}
+{"nick":"dbclk","reason":"Ping timeout: 255 seconds","date":"2017-10-03T17:30:26.904Z","type":"quit"}
+{"nick":"ch007m","date":"2017-10-03T17:53:41.146Z","type":"join"}
+{"nick":"chalker_","reason":"Quit: Konversation terminated!","date":"2017-10-03T18:10:48.841Z","type":"quit"}
+{"nick":"chalker_","date":"2017-10-03T18:11:05.590Z","type":"join"}
+{"nick":"kd0t","date":"2017-10-03T18:19:47.285Z","type":"join"}
+{"nick":"ch007m","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-10-03T18:23:04.915Z","type":"quit"}
+{"nick":"winegoddess","date":"2017-10-03T18:24:17.603Z","type":"join"}
+{"nick":"AndresInSpace","date":"2017-10-03T18:30:39.281Z","type":"join"}
+{"nick":"AndresInSpace","date":"2017-10-03T18:30:53.436Z","type":"part"}
+{"nick":"Stoned_","date":"2017-10-03T18:34:07.007Z","type":"join"}
+{"nick":"sembiance","date":"2017-10-03T18:48:32.548Z","type":"join"}
+{"nick":"sembiance","date":"2017-10-03T18:52:28.489Z","type":"part"}
+{"nick":"kanja","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-03T19:00:50.582Z","type":"quit"}
+{"nick":"ahmedelgabri","date":"2017-10-03T19:54:44.492Z","type":"join"}
+{"nick":"MassDebates","date":"2017-10-03T19:56:45.917Z","type":"join"}
+{"nick":"AndresInSpace","date":"2017-10-03T19:57:07.246Z","type":"join"}
+{"nick":"ahmed_elgabri","reason":"Ping timeout: 258 seconds","date":"2017-10-03T19:57:15.617Z","type":"quit"}
+{"nick":"AndresInSpace","date":"2017-10-03T19:57:54.635Z","type":"part"}
+{"nick":"OnkelTem","reason":"Ping timeout: 240 seconds","date":"2017-10-03T20:09:35.416Z","type":"quit"}
+{"nick":"kd0t","reason":"Quit: Leaving","date":"2017-10-03T20:30:40.259Z","type":"quit"}
+{"nick":"kanja","date":"2017-10-03T20:36:27.389Z","type":"join"}
+{"nick":"redondos","date":"2017-10-03T20:42:19.158Z","type":"join"}
+{"nick":"Stoned_","reason":"Quit: Leaving","date":"2017-10-03T21:02:43.917Z","type":"quit"}
+{"nick":"teear","reason":"Ping timeout: 248 seconds","date":"2017-10-03T21:03:28.097Z","type":"quit"}
+{"nick":"ahmed_elgabri","date":"2017-10-03T21:12:11.661Z","type":"join"}
+{"nick":"ahmedelgabri","reason":"Ping timeout: 248 seconds","date":"2017-10-03T21:14:08.009Z","type":"quit"}
+{"nick":"teear","date":"2017-10-03T21:17:44.611Z","type":"join"}
+{"nick":"ahmed_elgabri","reason":"Quit: WeeChat 1.9.1","date":"2017-10-03T21:22:14.791Z","type":"quit"}
+{"nick":"MassDebates","reason":"Quit: http://www.kiwiirc.com/ - A hand crafted IRC client","date":"2017-10-03T21:27:37.467Z","type":"quit"}
+{"nick":"LeBlaaanc","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-03T21:42:13.925Z","type":"quit"}
+{"nick":"atomicb0mb","date":"2017-10-03T22:25:13.393Z","type":"join"}
+{"nick":"pombreda","date":"2017-10-03T22:38:07.232Z","type":"join"}
+{"nick":"buyfn","date":"2017-10-03T22:42:58.805Z","type":"join"}
+{"nick":"atomicb0mb","reason":"Ping timeout: 240 seconds","date":"2017-10-03T22:43:21.424Z","type":"quit"}
+{"nick":"pombreda","date":"2017-10-03T22:46:33.444Z","type":"part"}
+{"nick":"kanja","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-03T22:58:16.748Z","type":"quit"}
+{"nick":"buyfn","reason":"Quit: buyfn","date":"2017-10-03T22:59:59.535Z","type":"quit"}
+{"nick":"kanja","date":"2017-10-03T23:33:51.757Z","type":"join"}
+{"nick":"OnkelTem","date":"2017-10-03T23:35:34.447Z","type":"join"}

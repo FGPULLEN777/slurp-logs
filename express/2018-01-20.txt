@@ -1,0 +1,76 @@
+{"nick":"wsayo","date":"2018-01-20T02:38:43.106Z","type":"join"}
+{"nick":"wsayo","message":"is there a way to use the express router independent from the rest of the framework?","date":"2018-01-20T02:40:37.432Z","type":"message"}
+{"nick":"davidmichaelkarr","reason":"Quit: Connection closed for inactivity","date":"2018-01-20T04:19:56.578Z","type":"quit"}
+{"nick":"ShekharReddy","date":"2018-01-20T05:14:28.825Z","type":"join"}
+{"nick":"aphprentice","date":"2018-01-20T05:29:27.923Z","type":"join"}
+{"nick":"wsayo","reason":"Quit: http://www.kiwiirc.com/ - A hand crafted IRC client","date":"2018-01-20T06:20:25.594Z","type":"quit"}
+{"nick":"lpin","date":"2018-01-20T06:39:27.377Z","type":"join"}
+{"nick":"Roughy","reason":"Quit: Meadow Fresh milk","date":"2018-01-20T07:35:23.813Z","type":"quit"}
+{"nick":"slajax","reason":"Quit: ZNC - 1.6.0 - http://znc.in","date":"2018-01-20T07:36:56.012Z","type":"quit"}
+{"nick":"slajax","date":"2018-01-20T07:45:38.454Z","type":"join"}
+{"nick":"Arcarc","date":"2018-01-20T07:52:46.752Z","type":"join"}
+{"nick":"shoobie","reason":"Remote host closed the connection","date":"2018-01-20T08:35:09.623Z","type":"quit"}
+{"nick":"shoobie","date":"2018-01-20T08:36:22.436Z","type":"join"}
+{"nick":"shoobie","reason":"Changing host","date":"2018-01-20T08:36:22.627Z","type":"quit"}
+{"nick":"shoobie","date":"2018-01-20T08:36:22.628Z","type":"join"}
+{"nick":"Arg0n","date":"2018-01-20T11:03:57.208Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-20T11:25:09.867Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-20T11:25:40.310Z","type":"join"}
+{"nick":"Arg0n","reason":"Remote host closed the connection","date":"2018-01-20T11:32:21.793Z","type":"quit"}
+{"nick":"Arg0n","date":"2018-01-20T11:34:56.997Z","type":"join"}
+{"nick":"Arg0n","reason":"Remote host closed the connection","date":"2018-01-20T11:37:39.705Z","type":"quit"}
+{"nick":"Arg0n","date":"2018-01-20T11:38:00.464Z","type":"join"}
+{"nick":"Arg0n","reason":"Remote host closed the connection","date":"2018-01-20T11:50:08.796Z","type":"quit"}
+{"nick":"ShekharReddy","reason":"Quit: Connection closed for inactivity","date":"2018-01-20T11:53:05.918Z","type":"quit"}
+{"nick":"frixxx","date":"2018-01-20T12:47:57.827Z","type":"join"}
+{"nick":"frixxx","message":"Can someone help? I tried to google but maybe i'm using the wrong words ... didn't find anything.","date":"2018-01-20T12:48:03.334Z","type":"message"}
+{"nick":"frixxx","message":"I have this routes:","date":"2018-01-20T12:48:03.487Z","type":"message"}
+{"nick":"frixxx","message":"router.get('/tmp/test', (req, res, next) => {","date":"2018-01-20T12:48:03.487Z","type":"message"}
+{"nick":"frixxx","message":"\tres.send('Hallo Welt')","date":"2018-01-20T12:48:03.718Z","type":"message"}
+{"nick":"frixxx","message":"})","date":"2018-01-20T12:48:03.871Z","type":"message"}
+{"nick":"frixxx","message":"router.get('/tmp/test/:id/:name', (req, res, next) => {","date":"2018-01-20T12:48:04.716Z","type":"message"}
+{"nick":"frixxx","message":"\tres.send(req.params)","date":"2018-01-20T12:48:05.715Z","type":"message"}
+{"nick":"frixxx","message":"})","date":"2018-01-20T12:48:05.868Z","type":"message"}
+{"nick":"frixxx","message":"I doesn't matter if i'm visiting /tmp/test or /temp/test/10/bert I'm always getting { id: 10, name: bert } as a result.","date":"2018-01-20T12:48:06.716Z","type":"message"}
+{"nick":"frixxx","message":"Anyone an idea how to fix it?","date":"2018-01-20T12:48:07.716Z","type":"message"}
+{"nick":"commma","message":"frixxx: 1) don't paste multiple lines of code in the channel 2) that looks good to me, are you sure that's what you're doing and have you restarted the server?","date":"2018-01-20T12:58:09.937Z","type":"message"}
+{"nick":"Abhishek_","date":"2018-01-20T13:32:24.078Z","type":"join"}
+{"nick":"frixxx","message":"yes it's basically code copied from my sourcecode.","date":"2018-01-20T13:55:50.374Z","type":"message"}
+{"nick":"frixxx","message":"commma: so this form is ok and i don't have to nest multiple routers or something like that?","date":"2018-01-20T13:58:32.595Z","type":"message"}
+{"nick":"wsayo","date":"2018-01-20T14:56:13.786Z","type":"join"}
+{"nick":"frixxx","date":"2018-01-20T15:04:07.363Z","type":"part"}
+{"nick":"lpin","reason":"Read error: Connection reset by peer","date":"2018-01-20T15:31:15.690Z","type":"quit"}
+{"nick":"Abhishek_","reason":"Quit: Connection closed for inactivity","date":"2018-01-20T16:42:04.099Z","type":"quit"}
+{"nick":"wsayo","reason":"Quit: http://www.kiwiirc.com/ - A hand crafted IRC client","date":"2018-01-20T16:47:34.691Z","type":"quit"}
+{"nick":"Roughy","date":"2018-01-20T16:48:12.427Z","type":"join"}
+{"nick":"wsayo","date":"2018-01-20T17:09:01.918Z","type":"join"}
+{"nick":"Tennis","date":"2018-01-20T17:30:41.456Z","type":"join"}
+{"nick":"Tennis","reason":"Quit: Leaving","date":"2018-01-20T17:38:53.560Z","type":"quit"}
+{"nick":"Arcarc","reason":"Ping timeout: 256 seconds","date":"2018-01-20T18:03:22.779Z","type":"quit"}
+{"nick":"Abhishek_","date":"2018-01-20T18:06:01.823Z","type":"join"}
+{"nick":"wsayo","reason":"Quit: http://www.kiwiirc.com/ - A hand crafted IRC client","date":"2018-01-20T18:22:05.548Z","type":"quit"}
+{"nick":"wsayo","date":"2018-01-20T19:10:51.254Z","type":"join"}
+{"nick":"wsayo","new_nick":"austinfrey","date":"2018-01-20T19:33:44.399Z","type":"nick"}
+{"nick":"austinfrey","reason":"Quit: http://www.kiwiirc.com/ - A hand crafted IRC client","date":"2018-01-20T20:18:22.724Z","type":"quit"}
+{"nick":"Abhishek_","reason":"Quit: Connection closed for inactivity","date":"2018-01-20T20:25:40.404Z","type":"quit"}
+{"nick":"siel","reason":"*.net *.split","date":"2018-01-20T22:05:40.746Z","type":"quit"}
+{"nick":"rajkumar[m]","reason":"*.net *.split","date":"2018-01-20T22:05:41.871Z","type":"quit"}
+{"nick":"tellnes_","reason":"*.net *.split","date":"2018-01-20T22:08:48.806Z","type":"quit"}
+{"nick":"DanKnox","reason":"*.net *.split","date":"2018-01-20T22:08:48.806Z","type":"quit"}
+{"nick":"DanKnox","date":"2018-01-20T22:08:48.806Z","type":"join"}
+{"nick":"siel","date":"2018-01-20T22:08:48.806Z","type":"join"}
+{"nick":"rajkumar[m]","date":"2018-01-20T22:09:10.538Z","type":"join"}
+{"nick":"tellnes","date":"2018-01-20T22:13:00.576Z","type":"join"}
+{"nick":"ShekharReddy","date":"2018-01-20T22:51:55.640Z","type":"join"}
+{"nick":"bengl","reason":"Read error: Connection reset by peer","date":"2018-01-20T22:59:12.075Z","type":"quit"}
+{"nick":"bengl","date":"2018-01-20T22:59:33.920Z","type":"join"}
+{"nick":"smokeysea[m]","reason":"Ping timeout: 246 seconds","date":"2018-01-20T23:00:52.125Z","type":"quit"}
+{"nick":"Ryuno-Ki[m]","reason":"Ping timeout: 246 seconds","date":"2018-01-20T23:00:52.316Z","type":"quit"}
+{"nick":"GGMethos","reason":"Ping timeout: 246 seconds","date":"2018-01-20T23:00:54.312Z","type":"quit"}
+{"nick":"rancyd","reason":"Ping timeout: 246 seconds","date":"2018-01-20T23:04:01.077Z","type":"quit"}
+{"nick":"GGMethos","date":"2018-01-20T23:04:01.078Z","type":"join"}
+{"nick":"mylesborins","reason":"Ping timeout: 240 seconds","date":"2018-01-20T23:04:01.078Z","type":"quit"}
+{"nick":"smokeysea[m]","date":"2018-01-20T23:04:44.433Z","type":"join"}
+{"nick":"Ryuno-Ki[m]","date":"2018-01-20T23:04:47.358Z","type":"join"}
+{"nick":"mylesborins","date":"2018-01-20T23:06:10.858Z","type":"join"}
+{"nick":"imposter","date":"2018-01-20T23:28:11.717Z","type":"join"}

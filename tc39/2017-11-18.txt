@@ -1,0 +1,35 @@
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-11-18T00:39:14.608Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-11-18T00:57:54.865Z","type":"join"}
+{"nick":"AtumT_","reason":"Remote host closed the connection","date":"2017-11-18T01:16:28.058Z","type":"quit"}
+{"nick":"cloudshu","reason":"Quit: Connection closed for inactivity","date":"2017-11-18T01:44:08.192Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-11-18T02:46:30.729Z","type":"quit"}
+{"nick":"jwalden","reason":"Quit: ChatZilla 0.9.92-rdmsoft [XULRunner 35.0.1/20150122214805]","date":"2017-11-18T03:20:17.896Z","type":"quit"}
+{"nick":"howdoi","date":"2017-11-18T04:07:02.812Z","type":"join"}
+{"nick":"caridy_","reason":"Remote host closed the connection","date":"2017-11-18T05:05:58.731Z","type":"quit"}
+{"nick":"caridy","date":"2017-11-18T05:08:11.418Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-11-18T05:08:14.112Z","type":"quit"}
+{"nick":"caridy","date":"2017-11-18T05:08:37.833Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-11-18T05:09:16.125Z","type":"quit"}
+{"nick":"caridy","date":"2017-11-18T06:09:47.538Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 248 seconds","date":"2017-11-18T06:14:25.451Z","type":"quit"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2017-11-18T06:19:39.284Z","type":"quit"}
+{"nick":"caridy","date":"2017-11-18T10:11:38.006Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 240 seconds","date":"2017-11-18T10:17:01.939Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-18T11:25:11.098Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-18T11:25:41.867Z","type":"join"}
+{"nick":"AtumT","date":"2017-11-18T12:25:58.078Z","type":"join"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-11-18T12:26:40.908Z","type":"quit"}
+{"nick":"AtumT","date":"2017-11-18T12:28:48.556Z","type":"join"}
+{"nick":"caridy","date":"2017-11-18T13:14:26.519Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 248 seconds","date":"2017-11-18T13:18:57.932Z","type":"quit"}
+{"nick":"jmdyck","date":"2017-11-18T13:40:06.543Z","type":"join"}
+{"nick":"caridy","date":"2017-11-18T17:15:58.524Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 240 seconds","date":"2017-11-18T17:20:05.534Z","type":"quit"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-11-18T17:50:52.901Z","type":"quit"}
+{"nick":"AtumT","date":"2017-11-18T17:55:11.935Z","type":"join"}
+{"nick":"AtumT_","date":"2017-11-18T18:03:37.131Z","type":"join"}
+{"nick":"AtumT","reason":"Read error: Connection reset by peer","date":"2017-11-18T18:03:55.029Z","type":"quit"}
+{"nick":"not-an-aardvark","date":"2017-11-18T19:52:48.857Z","type":"join"}
+{"nick":"caridy","date":"2017-11-18T21:17:34.801Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 240 seconds","date":"2017-11-18T21:21:57.782Z","type":"quit"}
+{"nick":"AtumT_","reason":"Remote host closed the connection","date":"2017-11-18T23:45:16.219Z","type":"quit"}

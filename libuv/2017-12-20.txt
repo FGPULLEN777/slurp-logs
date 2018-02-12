@@ -1,0 +1,26 @@
+{"nick":"steshaw","date":"2017-12-20T00:12:44.617Z","type":"join"}
+{"nick":"vtjnash","reason":"Remote host closed the connection","date":"2017-12-20T00:58:42.509Z","type":"quit"}
+{"nick":"vtjnash","date":"2017-12-20T00:59:47.208Z","type":"join"}
+{"nick":"kenansulayman","reason":"Quit: ZNC - http://znc.in","date":"2017-12-20T01:44:11.600Z","type":"quit"}
+{"nick":"kenansulayman","date":"2017-12-20T01:44:22.453Z","type":"join"}
+{"nick":"dbevenius","reason":"Ping timeout: 248 seconds","date":"2017-12-20T01:45:36.054Z","type":"quit"}
+{"nick":"dbevenius","date":"2017-12-20T01:46:05.354Z","type":"join"}
+{"nick":"AtumT_","reason":"Remote host closed the connection","date":"2017-12-20T02:45:09.681Z","type":"quit"}
+{"nick":"vtjnash","reason":"Quit: Leaving...","date":"2017-12-20T04:28:37.108Z","type":"quit"}
+{"nick":"rendar","date":"2017-12-20T07:37:17.373Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-20T11:25:10.546Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-20T11:25:41.249Z","type":"join"}
+{"nick":"AtumT","date":"2017-12-20T11:41:59.551Z","type":"join"}
+{"nick":"AtumT_","date":"2017-12-20T14:39:23.958Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 265 seconds","date":"2017-12-20T14:42:33.481Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-20T15:23:14.789Z","type":"join"}
+{"nick":"ohnx","date":"2017-12-20T16:22:26.461Z","type":"join"}
+{"nick":"AtumT","date":"2017-12-20T18:25:56.331Z","type":"join"}
+{"nick":"AtumT_","reason":"Ping timeout: 255 seconds","date":"2017-12-20T18:28:34.912Z","type":"quit"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-12-20T19:01:32.005Z","type":"quit"}
+{"nick":"ohnx","message":"what is the purpose of UV__ENOMEM if ENOMEM is used mostly throughout the UNIX code?","date":"2017-12-20T20:12:57.304Z","type":"message"}
+{"nick":"ohnx","message":"UV__ENOMEM is declared here: https://github.com/libuv/libuv/blob/v1.x/include/uv-errno.h#L247","date":"2017-12-20T20:14:08.264Z","type":"message"}
+{"nick":"ohnx","message":"but I don't see it being used in the code","date":"2017-12-20T20:14:29.667Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-20T22:15:07.824Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-20T22:57:59.058Z","type":"join"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-12-20T23:46:31.548Z","type":"quit"}

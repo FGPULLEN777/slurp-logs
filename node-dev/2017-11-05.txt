@@ -1,0 +1,157 @@
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-05T00:01:40.107Z","type":"quit"}
+{"nick":"AtumT","reason":"Remote host closed the connection","date":"2017-11-05T00:15:19.119Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-05T00:18:59.041Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T00:18:59.195Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-05T00:19:33.884Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T00:19:34.039Z","type":"part"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-05T00:28:23.048Z","type":"quit"}
+{"nick":"adempus","date":"2017-11-05T01:28:58.660Z","type":"join"}
+{"nick":"aqrln","date":"2017-11-05T01:33:13.891Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 248 seconds","date":"2017-11-05T01:37:36.006Z","type":"quit"}
+{"nick":"qard","date":"2017-11-05T01:45:59.467Z","type":"join"}
+{"nick":"gibfahn_","reason":"Quit: Connection closed for inactivity","date":"2017-11-05T02:18:18.763Z","type":"quit"}
+{"nick":"BridgeAR","date":"2017-11-05T02:21:19.054Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T02:22:38.515Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T02:22:38.671Z","type":"part"}
+{"nick":"adempus","reason":"Remote host closed the connection","date":"2017-11-05T02:23:04.056Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-11-05T02:55:41.589Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-05T03:51:40.464Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T03:51:40.658Z","type":"part"}
+{"nick":"JamesMGreene","date":"2017-11-05T03:58:01.686Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-05T04:20:45.942Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-05T04:26:14.847Z","type":"quit"}
+{"nick":"JamesMGreene","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2017-11-05T04:30:50.469Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-05T04:37:00.982Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-05T04:37:59.055Z","type":"quit"}
+{"nick":"robink","reason":"Ping timeout: 240 seconds","date":"2017-11-05T04:51:08.492Z","type":"quit"}
+{"nick":"robinak","date":"2017-11-05T04:52:54.782Z","type":"join"}
+{"nick":"robinak","new_nick":"robink","date":"2017-11-05T04:58:01.537Z","type":"nick"}
+{"nick":"sergiocrisostomo","reason":"Ping timeout: 252 seconds","date":"2017-11-05T05:07:47.065Z","type":"quit"}
+{"nick":"sergiocrisostomo","date":"2017-11-05T05:08:15.110Z","type":"join"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-11-05T05:08:40.844Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-05T05:16:33.886Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T05:16:34.077Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-05T05:33:22.611Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T05:33:22.766Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-05T05:41:27.500Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T05:41:27.694Z","type":"part"}
+{"nick":"not-an-aardvark","date":"2017-11-05T06:00:38.621Z","type":"join"}
+{"nick":"PhDuck","reason":"Quit: No Ping reply in 180 seconds.","date":"2017-11-05T06:08:18.040Z","type":"quit"}
+{"nick":"PhDuck","date":"2017-11-05T06:10:39.601Z","type":"join"}
+{"nick":"lpin","date":"2017-11-05T06:47:53.101Z","type":"join"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-05T07:26:07.655Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-05T07:43:37.480Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T07:43:37.674Z","type":"part"}
+{"nick":"seishun","date":"2017-11-05T09:42:45.734Z","type":"join"}
+{"nick":"gibfahn_","date":"2017-11-05T10:00:13.254Z","type":"join"}
+{"nick":"AtumT","date":"2017-11-05T10:59:34.589Z","type":"join"}
+{"nick":"aqrln","date":"2017-11-05T11:06:35.961Z","type":"join"}
+{"nick":"aqrln","reason":"Ping timeout: 252 seconds","date":"2017-11-05T11:11:19.999Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-11-05T11:25:11.830Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-11-05T11:25:42.676Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-11-05T11:30:23.568Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-05T11:33:38.872Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T11:33:39.065Z","type":"part"}
+{"nick":"apapirovski","date":"2017-11-05T11:55:41.920Z","type":"join"}
+{"nick":"JamesMGreene","date":"2017-11-05T12:08:52.603Z","type":"join"}
+{"nick":"JamesMGreene","reason":"Client Quit","date":"2017-11-05T12:10:34.474Z","type":"quit"}
+{"nick":"qard","date":"2017-11-05T12:27:45.564Z","type":"join"}
+{"nick":"qard","reason":"Ping timeout: 248 seconds","date":"2017-11-05T12:32:01.546Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-05T13:16:46.750Z","type":"quit"}
+{"nick":"BridgeAR","date":"2017-11-05T13:18:07.611Z","type":"join"}
+{"nick":"JamesMGreene","date":"2017-11-05T13:32:09.002Z","type":"join"}
+{"nick":"JamesMGreene","reason":"Client Quit","date":"2017-11-05T13:34:33.348Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-05T13:44:38.737Z","type":"join"}
+{"nick":"seishun","reason":"Remote host closed the connection","date":"2017-11-05T13:53:56.735Z","type":"quit"}
+{"nick":"seishun","date":"2017-11-05T13:55:34.470Z","type":"join"}
+{"nick":"AtumT_","date":"2017-11-05T14:02:31.197Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 240 seconds","date":"2017-11-05T14:02:41.358Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-05T14:43:35.750Z","type":"join"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-11-05T14:49:36.760Z","type":"quit"}
+{"nick":"JamesMGreene","date":"2017-11-05T14:51:14.750Z","type":"join"}
+{"nick":"JamesMGreene","reason":"Client Quit","date":"2017-11-05T14:55:37.713Z","type":"quit"}
+{"nick":"JamesMGreene","date":"2017-11-05T14:55:51.596Z","type":"join"}
+{"nick":"JamesMGreene","reason":"Client Quit","date":"2017-11-05T14:56:26.386Z","type":"quit"}
+{"nick":"JamesMGreene","date":"2017-11-05T14:58:17.916Z","type":"join"}
+{"nick":"mgol","date":"2017-11-05T15:05:09.771Z","type":"join"}
+{"nick":"JamesMGreene","reason":"Ping timeout: 255 seconds","date":"2017-11-05T15:05:10.878Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-05T15:32:00.439Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T15:32:00.594Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-05T15:33:30.442Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T15:33:30.637Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-05T15:35:16.592Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T15:35:16.746Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-05T15:37:56.393Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T15:37:56.547Z","type":"part"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-11-05T16:09:57.750Z","type":"quit"}
+{"nick":"AtumT","date":"2017-11-05T16:16:33.803Z","type":"join"}
+{"nick":"AtumT_","reason":"Ping timeout: 248 seconds","date":"2017-11-05T16:17:36.045Z","type":"quit"}
+{"nick":"BridgeAR","date":"2017-11-05T16:47:00.750Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-05T16:49:21.693Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-11-05T16:49:38.702Z","type":"join"}
+{"nick":"qard","date":"2017-11-05T16:55:42.526Z","type":"join"}
+{"nick":"jandockx__","date":"2017-11-05T17:04:16.894Z","type":"join"}
+{"nick":"jandockx__","message":"Greetings. I notice that there is a ‘Node.js v8’ package in the Synology Package center, that is still in Beta, and says it is version ‘8.2.1-0002’. The developer is ‘nodejs.org’. Does anybody know who maintains this, where the repo is, etc?","date":"2017-11-05T17:04:50.998Z","type":"message"}
+{"nick":"aqrln","date":"2017-11-05T17:15:09.988Z","type":"join"}
+{"nick":"AtumT_","date":"2017-11-05T17:26:04.178Z","type":"join"}
+{"nick":"AtumT","reason":"Ping timeout: 258 seconds","date":"2017-11-05T17:26:31.592Z","type":"quit"}
+{"nick":"maclover7","message":"commented in https://github.com/nodejs/build/issues/790#issuecomment-341989604, but all green/red CI statuses should be appearing in nodejs/node PRs now","date":"2017-11-05T17:29:19.499Z","type":"message"}
+{"nick":"maclover7","message":"please comment in that issue if it's not working :)","date":"2017-11-05T17:29:30.716Z","type":"message"}
+{"nick":"aqrln","reason":"Ping timeout: 248 seconds","date":"2017-11-05T17:30:39.922Z","type":"quit"}
+{"nick":"marthinal","date":"2017-11-05T17:38:54.591Z","type":"join"}
+{"nick":"aqrln","date":"2017-11-05T17:43:22.885Z","type":"join"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-11-05T17:49:26.550Z","type":"quit"}
+{"nick":"aqrln","reason":"Ping timeout: 248 seconds","date":"2017-11-05T18:04:15.944Z","type":"quit"}
+{"nick":"marthinal","reason":"Quit: This computer has gone to sleep","date":"2017-11-05T18:10:45.071Z","type":"quit"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-11-05T18:37:36.562Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-11-05T19:10:33.610Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T19:10:33.764Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-05T19:10:42.641Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T19:10:42.796Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-11-05T19:11:59.656Z","type":"quit"}
+{"nick":"qard","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-11-05T19:16:01.920Z","type":"quit"}
+{"nick":"qard","date":"2017-11-05T19:16:30.658Z","type":"join"}
+{"nick":"apapirovski","date":"2017-11-05T19:24:04.883Z","type":"join"}
+{"nick":"aqrln","date":"2017-11-05T19:30:11.580Z","type":"join"}
+{"nick":"tbsaunde_","date":"2017-11-05T19:56:55.858Z","type":"join"}
+{"nick":"pepebecker_","date":"2017-11-05T20:03:05.480Z","type":"join"}
+{"nick":"pepebecker","reason":"*.net *.split","date":"2017-11-05T20:14:48.684Z","type":"quit"}
+{"nick":"rom1504","reason":"*.net *.split","date":"2017-11-05T20:14:48.685Z","type":"quit"}
+{"nick":"iarna","reason":"*.net *.split","date":"2017-11-05T20:14:48.685Z","type":"quit"}
+{"nick":"orangemocha","reason":"*.net *.split","date":"2017-11-05T20:14:48.685Z","type":"quit"}
+{"nick":"Meow-J","reason":"*.net *.split","date":"2017-11-05T20:14:48.685Z","type":"quit"}
+{"nick":"mafintosh","reason":"*.net *.split","date":"2017-11-05T20:14:48.685Z","type":"quit"}
+{"nick":"parshap","reason":"*.net *.split","date":"2017-11-05T20:14:48.839Z","type":"quit"}
+{"nick":"tbsaunde","reason":"*.net *.split","date":"2017-11-05T20:14:48.839Z","type":"quit"}
+{"nick":"seishun","reason":"Remote host closed the connection","date":"2017-11-05T20:22:18.431Z","type":"quit"}
+{"nick":"aqrln","reason":"Ping timeout: 258 seconds","date":"2017-11-05T20:30:31.586Z","type":"quit"}
+{"nick":"tbsaunde_","new_nick":"tbsaunde","date":"2017-11-05T20:39:05.737Z","type":"nick"}
+{"nick":"nodejs-gh","date":"2017-11-05T20:53:15.852Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T20:53:16.017Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-05T20:55:25.883Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T20:55:26.039Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-05T20:55:55.436Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T20:55:55.591Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-11-05T21:00:11.590Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-11-05T21:00:11.745Z","type":"part"}
+{"nick":"seishun","date":"2017-11-05T21:04:57.251Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 258 seconds","date":"2017-11-05T21:10:00.638Z","type":"quit"}
+{"nick":"aqrln","date":"2017-11-05T21:28:04.753Z","type":"join"}
+{"nick":"cody","date":"2017-11-05T21:34:19.976Z","type":"join"}
+{"nick":"cody","message":"Hello everybody","date":"2017-11-05T21:34:43.275Z","type":"message"}
+{"nick":"cody","new_nick":"Guest16033","date":"2017-11-05T21:34:59.753Z","type":"nick"}
+{"nick":"refack","message":"jandockx__: it's not really clear who owns that package. AFAIK it's not an official nodejs.org artifact.","date":"2017-11-05T21:35:07.988Z","type":"message"}
+{"nick":"Guest16033","message":"Hello","date":"2017-11-05T21:35:24.510Z","type":"message"}
+{"nick":"refack","message":"hi","date":"2017-11-05T21:35:30.144Z","type":"message"}
+{"nick":"jandockx__","message":"refack: good evening; thx for the info; it is a bit weird that the package says ‘nodejs.org’ as developer, though - I assume it is Synology itself then, and it is weirdly tagged - point is a) it is beta for a long time (6 never made it out of beta), and b) it is an old version (8.2.1) with known security issues; I’ll contact Synology, then.","date":"2017-11-05T21:40:01.467Z","type":"message"}
+{"nick":"refack","message":"You can CC me","date":"2017-11-05T21:40:30.824Z","type":"message"}
+{"nick":"Guest16033","reason":"Quit: Page closed","date":"2017-11-05T21:40:50.190Z","type":"quit"}
+{"nick":"jandockx__","message":"Am I to understand that https://github.com/davlord/nodejs-synology is totally unaffiliated to, then?","date":"2017-11-05T21:41:11.536Z","type":"message"}
+{"nick":"jandockx__","message":"refack: for CC: coordinates?","date":"2017-11-05T21:42:12.021Z","type":"message"}
+{"nick":"refack","message":"I'm not aware of any affiliation with the nodejs org or node's Build WG, but it's not uncommon for 3rd parties to maintain packages","date":"2017-11-05T21:42:52.320Z","type":"message"}
+{"nick":"refack","message":"refack@gmail.com","date":"2017-11-05T21:42:55.606Z","type":"message"}
+{"nick":"refack","message":"or refack on twitter, github, and freenode","date":"2017-11-05T21:43:44.670Z","type":"message"}
+{"nick":"aqrln","reason":"Ping timeout: 240 seconds","date":"2017-11-05T21:50:27.751Z","type":"quit"}
+{"nick":"iarna","date":"2017-11-05T21:50:41.444Z","type":"join"}
+{"nick":"rom1504","date":"2017-11-05T21:50:59.975Z","type":"join"}
+{"nick":"mafintosh","date":"2017-11-05T21:51:00.129Z","type":"join"}

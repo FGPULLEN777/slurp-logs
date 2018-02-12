@@ -1,0 +1,63 @@
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2018-01-23T00:27:23.220Z","type":"quit"}
+{"nick":"apapirov_","reason":"Remote host closed the connection","date":"2018-01-23T03:10:06.525Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-01-23T03:12:05.978Z","type":"join"}
+{"nick":"rvagg","message":"going to restart jenkins with updated plugins","date":"2018-01-23T03:14:38.825Z","type":"message"}
+{"nick":"node-gh","date":"2018-01-23T03:16:08.396Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-23T03:16:08.467Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-23T03:30:53.385Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-01-23T03:34:54.392Z","type":"join"}
+{"nick":"rvagg","message":"bah, sheduling a shutdown doesn't work with these pipeline jobs for some reason, the post-status jobs queue up since jenkins doesn't allow for new build creation","date":"2018-01-23T03:36:57.887Z","type":"message"}
+{"nick":"rvagg","message":"cancelled restart, will do it when jenkins is a little more freed up","date":"2018-01-23T03:37:12.594Z","type":"message"}
+{"nick":"rvagg","message":"jenkins is soooo busy these days","date":"2018-01-23T03:38:48.829Z","type":"message"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-23T05:30:55.627Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-01-23T06:31:27.758Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 256 seconds","date":"2018-01-23T06:35:49.443Z","type":"quit"}
+{"nick":"seishun","date":"2018-01-23T07:35:15.703Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 264 seconds","date":"2018-01-23T08:31:33.274Z","type":"quit"}
+{"nick":"node-gh","date":"2018-01-23T08:40:12.901Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-23T08:40:13.010Z","type":"part"}
+{"nick":"apapirovski","date":"2018-01-23T10:47:42.790Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-23T10:52:04.767Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-23T10:52:04.838Z","type":"part"}
+{"nick":"apapirovski","reason":"Ping timeout: 265 seconds","date":"2018-01-23T10:52:13.434Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-23T11:25:12.923Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-23T11:25:43.482Z","type":"join"}
+{"nick":"apapirovski","date":"2018-01-23T12:34:34.762Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-23T13:10:07.552Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-01-23T13:53:11.645Z","type":"join"}
+{"nick":"evanlucas","date":"2018-01-23T14:07:07.413Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-23T14:11:29.814Z","type":"quit"}
+{"nick":"node-gh","date":"2018-01-23T14:12:46.412Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-23T14:12:46.522Z","type":"part"}
+{"nick":"apapirovski","date":"2018-01-23T14:46:28.881Z","type":"join"}
+{"nick":"chorrell","date":"2018-01-23T15:54:56.279Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-23T16:34:00.771Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-23T16:34:00.842Z","type":"part"}
+{"nick":"Fishrock123","date":"2018-01-23T16:34:16.909Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-23T16:43:07.971Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-23T16:43:08.042Z","type":"part"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-23T17:03:38.594Z","type":"quit"}
+{"nick":"seishun","date":"2018-01-23T17:31:21.105Z","type":"join"}
+{"nick":"chorrell","date":"2018-01-23T17:56:41.425Z","type":"join"}
+{"nick":"chorrell","reason":"Client Quit","date":"2018-01-23T18:00:33.819Z","type":"quit"}
+{"nick":"chorrell","date":"2018-01-23T18:02:02.485Z","type":"join"}
+{"nick":"chorrell","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-23T18:09:23.680Z","type":"quit"}
+{"nick":"chorrell","date":"2018-01-23T18:19:43.671Z","type":"join"}
+{"nick":"chorrell","reason":"Client Quit","date":"2018-01-23T18:22:37.891Z","type":"quit"}
+{"nick":"chorrell","date":"2018-01-23T18:24:44.546Z","type":"join"}
+{"nick":"chorrell","reason":"Client Quit","date":"2018-01-23T18:26:56.114Z","type":"quit"}
+{"nick":"chorrell","date":"2018-01-23T18:27:58.449Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-23T18:57:57.957Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-23T18:57:58.028Z","type":"part"}
+{"nick":"chorrell","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-23T18:59:57.034Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-23T20:16:05.005Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-01-23T20:16:38.100Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-23T21:17:42.382Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2018-01-23T21:29:35.484Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-23T21:30:17.638Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-23T21:30:58.656Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-23T21:31:06.203Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-23T21:34:33.614Z","type":"join"}
+{"nick":"apapirovski","date":"2018-01-23T21:38:50.197Z","type":"join"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2018-01-23T21:46:19.476Z","type":"quit"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2018-01-23T22:06:38.739Z","type":"quit"}

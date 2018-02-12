@@ -1,0 +1,118 @@
+{"nick":"Emulous","message":"Yeah--at least the null/array issue is a pretty frequent need not to have to always reinvent or introduce implementation-detail-leaking and concentration-distracting ugliness (however small)","date":"2017-12-15T00:01:49.402Z","type":"message"}
+{"nick":"ljharb","message":"Emulous: the better approach is the current Builtins.typeof proposal imo","date":"2017-12-15T00:02:01.400Z","type":"message"}
+{"nick":"ljharb","message":"basically Symbol.toStringTag, but using brand-checking functions instead of strings (how it should have worked initially)","date":"2017-12-15T00:02:20.464Z","type":"message"}
+{"nick":"Emulous","message":"oh, gret--that'd do the trick, thanks, didn't know about that!","date":"2017-12-15T00:03:49.818Z","type":"message"}
+{"nick":"Emulous","message":"great","date":"2017-12-15T00:03:53.413Z","type":"message"}
+{"nick":"ljharb","message":"Emulous: in the meantime, making a wrapper function that calls `Object.prototype.toString.call(x).slice(8, -1)`, iirc, will give you pretty much what you want","date":"2017-12-15T00:04:26.218Z","type":"message"}
+{"nick":"Emulous","message":"yes, sure, thanks--I've worked with that...Hope the proposal or something like it may make it...","date":"2017-12-15T00:06:44.750Z","type":"message"}
+{"nick":"srl295","date":"2017-12-15T00:09:39.655Z","type":"join"}
+{"nick":"Emulous","reason":"Remote host closed the connection","date":"2017-12-15T00:35:41.487Z","type":"quit"}
+{"nick":"circ-user-u7UY3","date":"2017-12-15T00:44:20.796Z","type":"join"}
+{"nick":"darkSeid_","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-12-15T00:58:25.503Z","type":"quit"}
+{"nick":"circ-user-u7UY3_","date":"2017-12-15T02:05:08.021Z","type":"join"}
+{"nick":"circ-user-u7UY3","reason":"Ping timeout: 256 seconds","date":"2017-12-15T02:08:17.455Z","type":"quit"}
+{"nick":"caridy","date":"2017-12-15T02:11:06.325Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-12-15T02:24:28.308Z","type":"quit"}
+{"nick":"circ-user-u7UY3_","reason":"Ping timeout: 255 seconds","date":"2017-12-15T02:53:28.929Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-15T02:55:39.150Z","type":"quit"}
+{"nick":"circ-user-u7UY3","date":"2017-12-15T03:22:34.002Z","type":"join"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-12-15T03:22:46.738Z","type":"quit"}
+{"nick":"circ-user-u7UY3","reason":"Ping timeout: 248 seconds","date":"2017-12-15T03:28:00.099Z","type":"quit"}
+{"nick":"AtumT_","reason":"Ping timeout: 248 seconds","date":"2017-12-15T03:50:57.495Z","type":"quit"}
+{"nick":"caridy","date":"2017-12-15T04:01:58.402Z","type":"join"}
+{"nick":"circ-user-u7UY3","date":"2017-12-15T04:09:40.477Z","type":"join"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-12-15T04:20:56.027Z","type":"quit"}
+{"nick":"caridy","date":"2017-12-15T04:21:22.477Z","type":"join"}
+{"nick":"caridy_","date":"2017-12-15T04:22:39.505Z","type":"join"}
+{"nick":"caridy","reason":"Read error: Connection reset by peer","date":"2017-12-15T04:22:39.595Z","type":"quit"}
+{"nick":"howdoi","date":"2017-12-15T04:23:24.963Z","type":"join"}
+{"nick":"caridy_","reason":"Remote host closed the connection","date":"2017-12-15T04:24:24.492Z","type":"quit"}
+{"nick":"caridy","date":"2017-12-15T04:24:30.538Z","type":"join"}
+{"nick":"circ-user-u7UY3","reason":"Ping timeout: 256 seconds","date":"2017-12-15T04:29:23.399Z","type":"quit"}
+{"nick":"wadadli","date":"2017-12-15T04:30:48.582Z","type":"join"}
+{"nick":"wadadli","new_nick":"Guest33902","date":"2017-12-15T04:31:12.404Z","type":"nick"}
+{"nick":"Guest33902","reason":"Client Quit","date":"2017-12-15T04:35:08.959Z","type":"quit"}
+{"nick":"wadadli","date":"2017-12-15T04:39:19.198Z","type":"join"}
+{"nick":"gibson042","reason":"Ping timeout: 252 seconds","date":"2017-12-15T04:41:46.866Z","type":"quit"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-12-15T04:52:08.758Z","type":"quit"}
+{"nick":"jmdyck","reason":"Remote host closed the connection","date":"2017-12-15T05:05:55.322Z","type":"quit"}
+{"nick":"srl295","reason":"Quit: Connection closed for inactivity","date":"2017-12-15T05:16:04.823Z","type":"quit"}
+{"nick":"circ-user-u7UY3","date":"2017-12-15T05:19:40.932Z","type":"join"}
+{"nick":"circ-user-u7UY3","reason":"Ping timeout: 248 seconds","date":"2017-12-15T05:30:08.778Z","type":"quit"}
+{"nick":"caridy","date":"2017-12-15T05:52:32.150Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 272 seconds","date":"2017-12-15T05:59:38.116Z","type":"quit"}
+{"nick":"circ-user-u7UY3","date":"2017-12-15T07:14:39.460Z","type":"join"}
+{"nick":"circ-user-u7UY3","reason":"Ping timeout: 265 seconds","date":"2017-12-15T07:29:45.518Z","type":"quit"}
+{"nick":"circ-user-u7UY3","date":"2017-12-15T07:54:49.454Z","type":"join"}
+{"nick":"caridy","date":"2017-12-15T08:56:31.898Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 265 seconds","date":"2017-12-15T09:01:06.550Z","type":"quit"}
+{"nick":"caridy","date":"2017-12-15T10:58:29.991Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 255 seconds","date":"2017-12-15T11:03:04.893Z","type":"quit"}
+{"nick":"circ-user-u7UY3","reason":"Ping timeout: 240 seconds","date":"2017-12-15T11:08:08.492Z","type":"quit"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-12-15T11:25:10.446Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-12-15T11:25:41.038Z","type":"join"}
+{"nick":"circ-user-u7UY3","date":"2017-12-15T11:41:08.480Z","type":"join"}
+{"nick":"jmdyck","date":"2017-12-15T12:25:58.874Z","type":"join"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-12-15T12:29:24.144Z","type":"quit"}
+{"nick":"circ-user-u7UY3_","date":"2017-12-15T12:39:54.919Z","type":"join"}
+{"nick":"circ-user-u7UY3","reason":"Ping timeout: 248 seconds","date":"2017-12-15T12:42:09.923Z","type":"quit"}
+{"nick":"circ-user-u7UY3","date":"2017-12-15T12:47:46.098Z","type":"join"}
+{"nick":"circ-user-u7UY3_","reason":"Ping timeout: 248 seconds","date":"2017-12-15T12:48:31.922Z","type":"quit"}
+{"nick":"circ-user-u7UY3_","date":"2017-12-15T13:30:30.168Z","type":"join"}
+{"nick":"circ-user-u7UY3","reason":"Ping timeout: 272 seconds","date":"2017-12-15T13:33:06.168Z","type":"quit"}
+{"nick":"gibson042","date":"2017-12-15T13:57:23.483Z","type":"join"}
+{"nick":"caridy","date":"2017-12-15T14:00:36.197Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 264 seconds","date":"2017-12-15T14:05:09.544Z","type":"quit"}
+{"nick":"circ-user-u7UY3_","reason":"Ping timeout: 264 seconds","date":"2017-12-15T14:14:09.302Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-12-15T14:19:43.506Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-15T14:26:36.717Z","type":"quit"}
+{"nick":"circ-user-u7UY3","date":"2017-12-15T14:42:50.447Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-12-15T14:51:10.681Z","type":"join"}
+{"nick":"bradleymeck","reason":"Client Quit","date":"2017-12-15T14:55:03.212Z","type":"quit"}
+{"nick":"AtumT","date":"2017-12-15T15:03:43.551Z","type":"join"}
+{"nick":"circ-user-u7UY3_","date":"2017-12-15T15:11:27.441Z","type":"join"}
+{"nick":"circ-user-u7UY3","reason":"Ping timeout: 240 seconds","date":"2017-12-15T15:13:08.452Z","type":"quit"}
+{"nick":"circ-user-u7UY3_","reason":"Ping timeout: 265 seconds","date":"2017-12-15T15:22:56.402Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-12-15T15:37:18.491Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-15T15:44:22.833Z","type":"quit"}
+{"nick":"caridy","date":"2017-12-15T16:02:38.314Z","type":"join"}
+{"nick":"caridy","reason":"Ping timeout: 264 seconds","date":"2017-12-15T16:06:57.164Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-12-15T16:07:08.938Z","type":"join"}
+{"nick":"caridy","date":"2017-12-15T16:14:36.266Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-15T16:48:34.126Z","type":"quit"}
+{"nick":"caridy","reason":"Remote host closed the connection","date":"2017-12-15T16:49:26.486Z","type":"quit"}
+{"nick":"caridy","date":"2017-12-15T16:50:00.494Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-12-15T16:53:40.452Z","type":"join"}
+{"nick":"bradleymeck","reason":"Client Quit","date":"2017-12-15T16:54:10.259Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-12-15T16:59:04.417Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-15T17:04:48.823Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-12-15T17:07:13.030Z","type":"join"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-12-15T17:12:51.143Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-12-15T17:22:45.815Z","type":"join"}
+{"nick":"bradleymeck","reason":"Client Quit","date":"2017-12-15T17:24:06.773Z","type":"quit"}
+{"nick":"cloudshu","message":"so how serious are we about commonwealth spelling","date":"2017-12-15T18:04:20.073Z","type":"message"}
+{"nick":"cloudshu","message":"i just realized that while we spell 'behaviour' we also spell 'initialization' the american way","date":"2017-12-15T18:04:38.673Z","type":"message"}
+{"nick":"srl295","date":"2017-12-15T19:00:24.594Z","type":"join"}
+{"nick":"srl295","reason":"Ping timeout: 240 seconds","date":"2017-12-15T19:05:08.449Z","type":"quit"}
+{"nick":"darkSeid_","date":"2017-12-15T19:07:47.578Z","type":"join"}
+{"nick":"jwalden","date":"2017-12-15T19:44:51.482Z","type":"join"}
+{"nick":"jmdyck","message":"the spec used to spell it with an 's'","date":"2017-12-15T19:53:03.128Z","type":"message"}
+{"nick":"bterlson","message":"jmdyck: cloudshu: I seem to recall changing initialization","date":"2017-12-15T20:30:30.760Z","type":"message"}
+{"nick":"bterlson","message":"because of some API name","date":"2017-12-15T20:30:38.122Z","type":"message"}
+{"nick":"bterlson","message":"APIs should be the American way so there's a bit of a disconnect when the same word is used as an API name and prose","date":"2017-12-15T20:31:20.874Z","type":"message"}
+{"nick":"howdoi","reason":"Quit: Connection closed for inactivity","date":"2017-12-15T20:32:46.926Z","type":"quit"}
+{"nick":"Domenic","message":"We used to have this disconnect in HTML. Then we switched everything to en-US. It was a good decision.","date":"2017-12-15T20:40:53.926Z","type":"message"}
+{"nick":"bterlson","message":"Domenic: I agree","date":"2017-12-15T20:41:03.216Z","type":"message"}
+{"nick":"bterlson","message":"I disagree with many aspects of the ISO metaspec as you know :-P","date":"2017-12-15T20:41:21.205Z","type":"message"}
+{"nick":"srl295","date":"2017-12-15T21:04:32.148Z","type":"join"}
+{"nick":"annevk","message":"The API argument always felt rather bogus; sure, you can distinguish color and colour, but background is the same in both","date":"2017-12-15T21:10:18.244Z","type":"message"}
+{"nick":"bradleymeck","date":"2017-12-15T21:33:33.489Z","type":"join"}
+{"nick":"circ-user-u7UY3","date":"2017-12-15T21:47:53.425Z","type":"join"}
+{"nick":"ljharb","message":"en-US would be much nicer","date":"2017-12-15T21:49:10.124Z","type":"message"}
+{"nick":"circ-user-u7UY3","reason":"Ping timeout: 265 seconds","date":"2017-12-15T22:13:17.503Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-15T22:50:18.463Z","type":"join"}
+{"nick":"not-an-aardvark","date":"2017-12-15T23:08:35.161Z","type":"join"}
+{"nick":"circ-user-u7UY3","date":"2017-12-15T23:17:09.066Z","type":"join"}
+{"nick":"jwalden","reason":"Quit: ChatZilla 0.9.92-rdmsoft [XULRunner 35.0.1/20150122214805]","date":"2017-12-15T23:37:46.026Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-12-15T23:47:07.134Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-12-15T23:53:54.326Z","type":"join"}

@@ -1,0 +1,367 @@
+{"nick":"benhalverson","reason":"Ping timeout: 240 seconds","date":"2017-10-03T00:06:35.617Z","type":"quit"}
+{"nick":"sgimeno_","date":"2017-10-03T00:09:37.755Z","type":"join"}
+{"nick":"sgimeno","reason":"Ping timeout: 258 seconds","date":"2017-10-03T00:12:22.788Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-03T00:15:29.767Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T00:15:29.808Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T00:19:06.200Z","type":"quit"}
+{"nick":"TimothyGu","message":"trevnorris: thanks!","date":"2017-10-03T00:30:09.037Z","type":"message"}
+{"nick":"apapirovski","date":"2017-10-03T00:31:47.438Z","type":"join"}
+{"nick":"rugt","date":"2017-10-03T00:52:19.786Z","type":"join"}
+{"nick":"rugt","reason":"Ping timeout: 258 seconds","date":"2017-10-03T00:56:50.743Z","type":"quit"}
+{"nick":"not-an-aardvark","reason":"Quit: Connection closed for inactivity","date":"2017-10-03T01:08:27.209Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Quit: Leaving...","date":"2017-10-03T01:34:01.663Z","type":"quit"}
+{"nick":"jasnell","reason":"Ping timeout: 248 seconds","date":"2017-10-03T01:36:01.362Z","type":"quit"}
+{"nick":"jasnell","date":"2017-10-03T01:44:46.381Z","type":"join"}
+{"nick":"rugt","date":"2017-10-03T01:53:06.818Z","type":"join"}
+{"nick":"rugt","reason":"Ping timeout: 240 seconds","date":"2017-10-03T01:57:21.161Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T01:59:18.328Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-10-03T02:04:29.283Z","type":"join"}
+{"nick":"al-damiri","reason":"Quit: Connection closed for inactivity","date":"2017-10-03T02:14:59.027Z","type":"quit"}
+{"nick":"Alina-malina","reason":"Ping timeout: 260 seconds","date":"2017-10-03T02:34:52.811Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-10-03T02:40:34.685Z","type":"join"}
+{"nick":"evanlucas","reason":"Ping timeout: 258 seconds","date":"2017-10-03T02:49:55.754Z","type":"quit"}
+{"nick":"rugt","date":"2017-10-03T02:53:56.952Z","type":"join"}
+{"nick":"evanlucas","date":"2017-10-03T02:55:33.132Z","type":"join"}
+{"nick":"rugt","reason":"Ping timeout: 260 seconds","date":"2017-10-03T02:58:47.706Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-03T02:59:09.778Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T02:59:09.781Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T03:00:12.026Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T03:00:12.028Z","type":"part"}
+{"nick":"taaz","reason":"Ping timeout: 248 seconds","date":"2017-10-03T03:06:09.344Z","type":"quit"}
+{"nick":"taaz","date":"2017-10-03T03:13:09.680Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T03:13:34.729Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T03:13:34.730Z","type":"part"}
+{"nick":"srl295","date":"2017-10-03T03:54:30.162Z","type":"join"}
+{"nick":"rugt","date":"2017-10-03T03:54:56.978Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T03:58:24.765Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T03:58:24.766Z","type":"part"}
+{"nick":"rugt","reason":"Ping timeout: 240 seconds","date":"2017-10-03T03:59:06.025Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T04:00:54.694Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-03T04:18:52.813Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T04:18:52.853Z","type":"part"}
+{"nick":"taaz","reason":"Ping timeout: 248 seconds","date":"2017-10-03T04:22:23.681Z","type":"quit"}
+{"nick":"jasnell","reason":"Ping timeout: 248 seconds","date":"2017-10-03T04:36:17.325Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-03T04:39:43.561Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T04:39:43.562Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T04:40:34.659Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T04:40:34.700Z","type":"part"}
+{"nick":"snowkidind","date":"2017-10-03T04:50:51.786Z","type":"join"}
+{"nick":"rugt","date":"2017-10-03T04:55:46.168Z","type":"join"}
+{"nick":"Alina-malina","reason":"Ping timeout: 240 seconds","date":"2017-10-03T04:56:35.589Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-10-03T04:57:39.446Z","type":"join"}
+{"nick":"rugt","reason":"Ping timeout: 248 seconds","date":"2017-10-03T05:00:15.679Z","type":"quit"}
+{"nick":"taaz","date":"2017-10-03T05:12:29.667Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T05:17:39.739Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T05:17:39.776Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T05:20:29.679Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T05:20:29.721Z","type":"part"}
+{"nick":"apapirovski","date":"2017-10-03T05:24:01.927Z","type":"join"}
+{"nick":"Alina-malina","reason":"Ping timeout: 248 seconds","date":"2017-10-03T05:33:21.388Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T05:34:15.235Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-10-03T05:34:40.808Z","type":"join"}
+{"nick":"Alina-malina","reason":"Changing host","date":"2017-10-03T05:34:41.062Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-10-03T05:34:41.070Z","type":"join"}
+{"nick":"lpin","date":"2017-10-03T05:39:34.568Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T05:50:33.421Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T05:50:33.423Z","type":"part"}
+{"nick":"rugt","date":"2017-10-03T05:56:29.813Z","type":"join"}
+{"nick":"rugt","reason":"Ping timeout: 246 seconds","date":"2017-10-03T06:00:44.710Z","type":"quit"}
+{"nick":"nikhil","reason":"Quit: Connection closed for inactivity","date":"2017-10-03T06:24:21.294Z","type":"quit"}
+{"nick":"seishun","date":"2017-10-03T06:26:07.791Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T06:28:45.803Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T06:28:45.804Z","type":"part"}
+{"nick":"srl295","reason":"Quit: Connection closed for inactivity","date":"2017-10-03T06:49:18.519Z","type":"quit"}
+{"nick":"gabrielschulhof","reason":"Changing host","date":"2017-10-03T06:51:03.785Z","type":"quit"}
+{"nick":"gabrielschulhof","date":"2017-10-03T06:51:03.787Z","type":"join"}
+{"nick":"rugtt","date":"2017-10-03T06:57:22.826Z","type":"join"}
+{"nick":"rugtt","reason":"Ping timeout: 240 seconds","date":"2017-10-03T07:01:35.493Z","type":"quit"}
+{"nick":"shime","date":"2017-10-03T07:08:59.197Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T07:09:23.364Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T07:09:23.366Z","type":"part"}
+{"nick":"snowkidind","reason":"Quit: astalaPIZZA Baby!","date":"2017-10-03T07:11:54.670Z","type":"quit"}
+{"nick":"shime","reason":"Client Quit","date":"2017-10-03T07:12:00.569Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-10-03T07:26:35.629Z","type":"quit"}
+{"nick":"sgimeno_","new_nick":"sgimeno","date":"2017-10-03T07:36:46.772Z","type":"nick"}
+{"nick":"seishun","date":"2017-10-03T07:47:18.722Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 258 seconds","date":"2017-10-03T07:54:17.741Z","type":"quit"}
+{"nick":"rugt","date":"2017-10-03T07:58:03.897Z","type":"join"}
+{"nick":"rugt","reason":"Ping timeout: 248 seconds","date":"2017-10-03T08:02:41.354Z","type":"quit"}
+{"nick":"shime","date":"2017-10-03T08:03:28.853Z","type":"join"}
+{"nick":"rugt","date":"2017-10-03T08:21:18.949Z","type":"join"}
+{"nick":"onel0p3z","reason":"Quit: onel0p3z","date":"2017-10-03T08:33:21.148Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-03T09:22:07.624Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T09:22:07.626Z","type":"part"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-03T10:25:12.466Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-03T10:25:42.987Z","type":"join"}
+{"nick":"emilsedgh","reason":"\"Konversation terminated!\"","date":"2017-10-03T10:39:29.219Z","type":"part"}
+{"nick":"apapirovski","date":"2017-10-03T11:49:13.789Z","type":"join"}
+{"nick":"apapirovski","reason":"Read error: Connection reset by peer","date":"2017-10-03T11:52:11.363Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-10-03T11:57:28.653Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T12:04:28.403Z","type":"quit"}
+{"nick":"onel0p3z","date":"2017-10-03T12:18:20.335Z","type":"join"}
+{"nick":"apapirovski","date":"2017-10-03T12:20:53.075Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T12:22:17.969Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-10-03T12:22:24.124Z","type":"join"}
+{"nick":"al-damiri","date":"2017-10-03T12:38:28.696Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T13:25:58.417Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T13:25:58.456Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T13:26:06.473Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T13:26:06.688Z","type":"part"}
+{"nick":"apapirov_","date":"2017-10-03T13:40:27.224Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 246 seconds","date":"2017-10-03T13:40:33.611Z","type":"quit"}
+{"nick":"d10n-work","date":"2017-10-03T13:49:32.913Z","type":"join"}
+{"nick":"chalker_","reason":"Read error: Connection reset by peer","date":"2017-10-03T14:11:04.454Z","type":"quit"}
+{"nick":"chalker_","date":"2017-10-03T14:11:15.065Z","type":"join"}
+{"nick":"nikhil_","date":"2017-10-03T14:13:09.723Z","type":"join"}
+{"nick":"nikhil_","new_nick":"Guest61849","date":"2017-10-03T14:13:32.930Z","type":"nick"}
+{"nick":"Guest61849","new_nick":"nikhil_k","date":"2017-10-03T14:14:08.316Z","type":"nick"}
+{"nick":"shime","reason":"Quit: My MacBook Air has gone to sleep. ZZZzzz…","date":"2017-10-03T14:20:14.480Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-03T14:38:29.760Z","type":"join"}
+{"nick":"bradleymeck","message":"is there a purely `interna/` form of `process.bindings`?","date":"2017-10-03T14:38:49.984Z","type":"message"}
+{"nick":"bradleymeck","message":"ModuleWrap in internal/loader but seems to expose { ModuleWrap } = process.bindings('module_wrap') so not really internal \"no-touch\" but not officially supported and can break.","date":"2017-10-03T14:41:06.921Z","type":"message"}
+{"nick":"bradleymeck","message":"it appears that people are still willing to use process.binding since it is exposed to them","date":"2017-10-03T14:41:26.698Z","type":"message"}
+{"nick":"bradleymeck","message":"from https://github.com/TypeStrong/ts-node/issues/436","date":"2017-10-03T14:41:35.850Z","type":"message"}
+{"nick":"refack","message":"AFAIK there is none. But I assume one could be created.","date":"2017-10-03T14:43:38.311Z","type":"message"}
+{"nick":"bradleymeck","message":"i'll PR one :(","date":"2017-10-03T14:46:37.168Z","type":"message"}
+{"nick":"refack","message":"I could help if you're short on time","date":"2017-10-03T14:47:04.318Z","type":"message"}
+{"nick":"bradleymeck","message":"nah, I'll get it","date":"2017-10-03T14:47:18.448Z","type":"message"}
+{"nick":"bradleymeck","message":"going to mostly copy process.binding and delete it in bootstrap","date":"2017-10-03T14:47:36.134Z","type":"message"}
+{"nick":"apapirov_","reason":"Remote host closed the connection","date":"2017-10-03T14:49:58.310Z","type":"quit"}
+{"nick":"refack","message":"That might get racy. Intuitively I'd go with something similar to `NativeModule.nonInternalExists`","date":"2017-10-03T14:52:24.399Z","type":"message"}
+{"nick":"apapirovski","date":"2017-10-03T14:53:53.737Z","type":"join"}
+{"nick":"bradleymeck","message":"refack: i was going to make another modlist, just like how linked bindings works","date":"2017-10-03T14:54:11.461Z","type":"message"}
+{"nick":"refack","message":"Yep","date":"2017-10-03T14:54:21.536Z","type":"message"}
+{"nick":"bradleymeck","message":"how would it be racy?","date":"2017-10-03T14:54:32.406Z","type":"message"}
+{"nick":"refack","message":"maybe `internal/` prefixed?","date":"2017-10-03T14:54:37.935Z","type":"message"}
+{"nick":"bradleymeck","message":"i could put it on `internal/process`","date":"2017-10-03T14:55:00.661Z","type":"message"}
+{"nick":"refack","message":"If you delete it too early, some modules would not be able load for it","date":"2017-10-03T14:55:04.264Z","type":"message"}
+{"nick":"bradleymeck","message":"oh, I was going to store the function pointer on something","date":"2017-10-03T14:55:20.859Z","type":"message"}
+{"nick":"bradleymeck","message":"like internal/process","date":"2017-10-03T14:55:26.809Z","type":"message"}
+{"nick":"refack","message":"K","date":"2017-10-03T14:55:27.267Z","type":"message"}
+{"nick":"refack","message":"solid","date":"2017-10-03T14:55:32.109Z","type":"message"}
+{"nick":"bradleymeck","reason":"Ping timeout: 258 seconds","date":"2017-10-03T15:02:05.754Z","type":"quit"}
+{"nick":"refack","message":"bradleymeck: do you have idea opinion on a `packageRoot://` prefix for module URL? (https://github.com/nodejs/node/issues/15712)","date":"2017-10-03T15:08:35.043Z","type":"message"}
+{"nick":"benhalverson","date":"2017-10-03T15:15:10.373Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-03T15:17:36.332Z","type":"join"}
+{"nick":"bradleymeck","message":"refack: I am pretty against it","date":"2017-10-03T15:17:56.818Z","type":"message"}
+{"nick":"bradleymeck","message":"there are so many strange things that start to come out of the woodwork","date":"2017-10-03T15:18:12.287Z","type":"message"}
+{"nick":"bradleymeck","message":"web has document.baseURI and node has process.cwd() and that seems able to match up","date":"2017-10-03T15:18:31.141Z","type":"message"}
+{"nick":"bradleymeck","message":"but we don't have a concept of a package root that is available right now","date":"2017-10-03T15:18:48.233Z","type":"message"}
+{"nick":"bradleymeck","message":"and browser won't be adding one, even with webpackage","date":"2017-10-03T15:18:57.302Z","type":"message"}
+{"nick":"bradleymeck","message":"symlink yourself in your node_modules is the general solution I use","date":"2017-10-03T15:19:22.069Z","type":"message"}
+{"nick":"refack","message":"I can imagine.  It could be user-land solvable with loader-hooks","date":"2017-10-03T15:19:29.167Z","type":"message"}
+{"nick":"bradleymeck","message":"a lot of the leaky stuff is fine being in userland until edge cases are normalized","date":"2017-10-03T15:19:53.253Z","type":"message"}
+{"nick":"bradleymeck","message":"app:// is a bit dangerous since it is already occupied by a few different tech","date":"2017-10-03T15:20:24.643Z","type":"message"}
+{"nick":"refack","message":"I'm copying your above response to #15712","date":"2017-10-03T15:20:24.710Z","type":"message"}
+{"nick":"bradleymeck","message":"k","date":"2017-10-03T15:20:39.862Z","type":"message"}
+{"nick":"refack","message":"Yeah, and app:// is not useful for packages","date":"2017-10-03T15:21:22.050Z","type":"message"}
+{"nick":"bradleymeck","message":"/ has a meaning in https://url.spec.whatwg.org/#scheme-relative-special-url-string","date":"2017-10-03T15:21:58.779Z","type":"message"}
+{"nick":"bradleymeck","message":" // *","date":"2017-10-03T15:22:05.567Z","type":"message"}
+{"nick":"refack","message":"ohh yeah","date":"2017-10-03T15:22:21.274Z","type":"message"}
+{"nick":"bradleymeck","message":" //? has a special meaning in win32","date":"2017-10-03T15:22:24.196Z","type":"message"}
+{"nick":"refack","message":"Used to love it when I did more FE","date":"2017-10-03T15:22:31.137Z","type":"message"}
+{"nick":"refack","message":"\\\\?","date":"2017-10-03T15:22:35.734Z","type":"message"}
+{"nick":"refack","message":"back slashes","date":"2017-10-03T15:22:41.789Z","type":"message"}
+{"nick":"refack","message":"in win32","date":"2017-10-03T15:22:48.188Z","type":"message"}
+{"nick":"bradleymeck","message":"not once url normalized","date":"2017-10-03T15:22:49.791Z","type":"message"}
+{"nick":"bradleymeck","action":"digs about","date":"2017-10-03T15:22:53.220Z","type":"action"}
+{"nick":"refack","message":"p**p","date":"2017-10-03T15:23:00.129Z","type":"message"}
+{"nick":"refack","message":"yes","date":"2017-10-03T15:23:02.420Z","type":"message"}
+{"nick":"bradleymeck","message":"this is all a nightmare","date":"2017-10-03T15:23:25.754Z","type":"message"}
+{"nick":"refack","message":"Let's land the loader-hook and get this matured in userland","date":"2017-10-03T15:23:55.389Z","type":"message"}
+{"nick":"bradleymeck","message":"seems fine","date":"2017-10-03T15:24:10.829Z","type":"message"}
+{"nick":"bradleymeck","message":"we still need to touch this up a bit and get per-package loader hooks as well","date":"2017-10-03T15:24:26.290Z","type":"message"}
+{"nick":"bradleymeck","message":"but land it under a flag so we can get concrete feedback is my path for now","date":"2017-10-03T15:24:42.297Z","type":"message"}
+{"nick":"doodadjs_","date":"2017-10-03T15:24:51.477Z","type":"join"}
+{"nick":"refack","message":"👍","date":"2017-10-03T15:24:55.327Z","type":"message"}
+{"nick":"doodadjs","reason":"Ping timeout: 258 seconds","date":"2017-10-03T15:26:14.704Z","type":"quit"}
+{"nick":"gamelaster","date":"2017-10-03T15:26:47.595Z","type":"join"}
+{"nick":"snowkidind","date":"2017-10-03T15:41:58.977Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T15:43:08.058Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T15:43:08.059Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T15:44:28.345Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T15:44:28.411Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T15:50:53.391Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T15:50:53.393Z","type":"part"}
+{"nick":"benhalverson","reason":"Quit: benhalverson","date":"2017-10-03T15:55:45.658Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-03T16:01:55.291Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T16:18:08.786Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-10-03T16:19:42.914Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-10-03T16:24:34.658Z","type":"join"}
+{"nick":"bradleymeck","date":"2017-10-03T16:24:57.478Z","type":"join"}
+{"nick":"benhalverson","date":"2017-10-03T16:32:15.334Z","type":"join"}
+{"nick":"benhalverson","reason":"Ping timeout: 248 seconds","date":"2017-10-03T16:36:49.386Z","type":"quit"}
+{"nick":"d10n-work","reason":"Quit: Connection closed for inactivity","date":"2017-10-03T16:39:10.829Z","type":"quit"}
+{"nick":"seishun","date":"2017-10-03T16:40:00.320Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 240 seconds","date":"2017-10-03T16:44:41.177Z","type":"quit"}
+{"nick":"benhalverson","date":"2017-10-03T16:47:41.762Z","type":"join"}
+{"nick":"seishun","date":"2017-10-03T16:49:57.128Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T16:54:05.724Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T16:54:05.727Z","type":"part"}
+{"nick":"bradleymeck","message":"refack: https://github.com/nodejs/node/pull/15759 , could probably dedup some of that C++ code","date":"2017-10-03T16:54:07.225Z","type":"message"}
+{"nick":"refack","message":"will look","date":"2017-10-03T16:54:30.035Z","type":"message"}
+{"nick":"refack","message":"It looks like I imagined it would look","date":"2017-10-03T17:02:42.456Z","type":"message"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T17:03:04.341Z","type":"quit"}
+{"nick":"seishun","message":"refack: how familiar are you with exporting classes from DLLs?","date":"2017-10-03T17:04:43.796Z","type":"message"}
+{"nick":"nikhil_k","reason":"Quit: Connection closed for inactivity","date":"2017-10-03T17:04:53.325Z","type":"quit"}
+{"nick":"benhalverson","reason":"Quit: benhalverson","date":"2017-10-03T17:04:56.960Z","type":"quit"}
+{"nick":"refack","message":"Only COM, and even then not expert.","date":"2017-10-03T17:05:20.724Z","type":"message"}
+{"nick":"refack","message":"P.S. I contacted Andrew","date":"2017-10-03T17:05:55.376Z","type":"message"}
+{"nick":"seishun","message":"basically, you use __declspec(dllexport) when exporting and __declspec(dllimport) when importing, but in practice you'll want them both to be in the same file","date":"2017-10-03T17:06:46.301Z","type":"message"}
+{"nick":"seishun","message":"so I'm wondering if using a define that expands to __declspec(dllexport) or __declspec(dllimport) is supposed to be the standard approach","date":"2017-10-03T17:07:21.522Z","type":"message"}
+{"nick":"bradleymeck","message":"@refack why add --expose_internals?","date":"2017-10-03T17:08:53.932Z","type":"message"}
+{"nick":"refack","message":"For the trivial test that it works","date":"2017-10-03T17:09:57.600Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-03T17:13:12.374Z","type":"quit"}
+{"nick":"benhalverson","date":"2017-10-03T17:14:21.490Z","type":"join"}
+{"nick":"refack","message":"seishun: https://docs.microsoft.com/en-us/cpp/cpp/using-dllimport-and-dllexport-in-cpp-classes","date":"2017-10-03T17:15:27.276Z","type":"message"}
+{"nick":"refack","message":"`As a rule, everything that is accessible to the DLL's client (according to C++ access rules) should be part of the exportable interface. This includes private data members referenced in inline functions.`","date":"2017-10-03T17:15:27.277Z","type":"message"}
+{"nick":"seishun","message":"yeah, but I was asking about how you're expected to use the same class definition for both the DLL and the client","date":"2017-10-03T17:20:31.206Z","type":"message"}
+{"nick":"refack","message":"I'd assume .h files, but that implies duplication","date":"2017-10-03T17:21:23.034Z","type":"message"}
+{"nick":"refack","message":"In regards to V8 it seems like a broken preparation to a feature that was never completed. I don't know anyone who uses V8 as a dll","date":"2017-10-03T17:22:59.071Z","type":"message"}
+{"nick":"refack","message":"I'll try to dig into how chromium builds V8","date":"2017-10-03T17:23:57.593Z","type":"message"}
+{"nick":"seishun","message":"refack: ummm, Node.js addons?","date":"2017-10-03T17:24:33.413Z","type":"message"}
+{"nick":"seishun","message":"the V8 dll is integrated in the node executable, but still","date":"2017-10-03T17:25:05.513Z","type":"message"}
+{"nick":"refack","message":"Well I'd assume more the other way around, i.e. electron","date":"2017-10-03T17:25:13.922Z","type":"message"}
+{"nick":"refack","message":"I think the docs hint that the DLL is it's own .h file - `Declaring functions as dllexport eliminates the need for a module-definition (.def) file, at least with respect to the specification of exported functions`","date":"2017-10-03T17:26:38.333Z","type":"message"}
+{"nick":"apapirovski","date":"2017-10-03T17:27:40.625Z","type":"join"}
+{"nick":"seishun","message":"so literally copy the .h file to replace __declspec(dllexport) with __declspec(dllimport)? I wonder if anyone actually does that","date":"2017-10-03T17:29:29.832Z","type":"message"}
+{"nick":"refack","message":"That's what I understand from the docs. I'd assume when the imported endpoints are limited people do as in the examples copying just a few declarations.","date":"2017-10-03T17:30:54.331Z","type":"message"}
+{"nick":"refack","message":"Maybe there's a task somewhere that converts v8.h to \"export\" format","date":"2017-10-03T17:31:45.558Z","type":"message"}
+{"nick":"refack","message":"Much simpler - https://github.com/nodejs/node/blob/7cff6e80bfd2f61ed67ff07af87af3ab63860273/deps/v8/include/v8.h#L38-L44","date":"2017-10-03T17:35:02.443Z","type":"message"}
+{"nick":"seishun","message":"yeah, that's what I mean by a using a define","date":"2017-10-03T17:36:06.765Z","type":"message"}
+{"nick":"refack","message":"Got it (took a while). I'd assume for large interfaces yes. For the windows OS DLLs there are special .h files as part of the SDK","date":"2017-10-03T17:37:32.860Z","type":"message"}
+{"nick":"refack","message":"That's why COM is popular, the API is just two interfaces that let you query the actual implementation (like swagger)","date":"2017-10-03T17:38:53.564Z","type":"message"}
+{"nick":"benhalverson","message":"hi everyone","date":"2017-10-03T17:40:19.404Z","type":"message"}
+{"nick":"benhalverson","reason":"Quit: benhalverson","date":"2017-10-03T17:46:23.817Z","type":"quit"}
+{"nick":"seishun","message":"hm, but if it's a separate .h file then you could in theory change the access level of some members","date":"2017-10-03T17:48:56.887Z","type":"message"}
+{"nick":"bradleymeck","date":"2017-10-03T17:51:04.679Z","type":"join"}
+{"nick":"shime","date":"2017-10-03T17:54:07.452Z","type":"join"}
+{"nick":"tniessen","message":"behalverson hi","date":"2017-10-03T17:57:31.125Z","type":"message"}
+{"nick":"refack","message":"seishun: the compiler mangles the names to match access rules https://en.wikipedia.org/wiki/Name_mangling#C.2B.2B","date":"2017-10-03T18:07:52.399Z","type":"message"}
+{"nick":"refack","message":"so changing access changes the exported symbol","date":"2017-10-03T18:08:08.180Z","type":"message"}
+{"nick":"shime","reason":"Quit: My MacBook Air has gone to sleep. ZZZzzz…","date":"2017-10-03T18:08:13.109Z","type":"quit"}
+{"nick":"chalker_","reason":"Quit: Konversation terminated!","date":"2017-10-03T18:10:48.886Z","type":"quit"}
+{"nick":"chalker_","date":"2017-10-03T18:11:05.370Z","type":"join"}
+{"nick":"seishun","message":"refack: where does it say the access rules are included?","date":"2017-10-03T18:11:26.919Z","type":"message"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2017-10-03T18:15:52.831Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-03T18:17:12.999Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-03T18:17:49.902Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 255 seconds","date":"2017-10-03T18:22:11.950Z","type":"quit"}
+{"nick":"seishun","message":"it seems you're right though","date":"2017-10-03T18:36:30.783Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-10-03T18:40:53.324Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T18:40:53.326Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T18:44:07.770Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-10-03T18:44:26.063Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T18:45:57.448Z","type":"quit"}
+{"nick":"onel0p3z","reason":"Quit: onel0p3z","date":"2017-10-03T19:34:47.341Z","type":"quit"}
+{"nick":"onel0p3z","date":"2017-10-03T19:35:38.313Z","type":"join"}
+{"nick":"onel0p3z","reason":"Client Quit","date":"2017-10-03T19:38:39.614Z","type":"quit"}
+{"nick":"onel0p3z","date":"2017-10-03T19:39:36.545Z","type":"join"}
+{"nick":"Fishrock123","date":"2017-10-03T19:46:13.627Z","type":"join"}
+{"nick":"BridgeAR","date":"2017-10-03T19:55:03.815Z","type":"join"}
+{"nick":"apapirovski","date":"2017-10-03T20:10:13.352Z","type":"join"}
+{"nick":"seishun","message":"refack: when I started making the test cases I realized it's more complicated than I thought since I didn't take into account implicitly defined constructors and assignment operators","date":"2017-10-03T20:10:33.197Z","type":"message"}
+{"nick":"seishun","message":"the warnings are still wrong though :D","date":"2017-10-03T20:10:38.721Z","type":"message"}
+{"nick":"refack","message":"I'm trying to pull out a class with Resharper.","date":"2017-10-03T20:11:23.899Z","type":"message"}
+{"nick":"seishun","message":"what class?","date":"2017-10-03T20:11:44.498Z","type":"message"}
+{"nick":"refack","message":"v8::base::ConditionVariable","date":"2017-10-03T20:12:02.801Z","type":"message"}
+{"nick":"seishun","message":"does it throw those warnings?","date":"2017-10-03T20:13:00.606Z","type":"message"}
+{"nick":"refack","message":"Yeah i picked it from https://ci.nodejs.org/job/node-compile-windows/12167/label=win-vs2017/consoleText","date":"2017-10-03T20:13:33.441Z","type":"message"}
+{"nick":"seishun","message":"are you trying to make a minimal example?","date":"2017-10-03T20:14:40.788Z","type":"message"}
+{"nick":"refack","message":"If Resharper can help me...","date":"2017-10-03T20:15:00.217Z","type":"message"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T20:24:06.399Z","type":"quit"}
+{"nick":"seishun","message":"refack: https://gist.github.com/seishun/1c6de4d2926f1360e9bf25d1c7123a27 what do you think about this","date":"2017-10-03T20:25:43.390Z","type":"message"}
+{"nick":"apapirovski","date":"2017-10-03T20:27:52.284Z","type":"join"}
+{"nick":"refack","message":"You win. Resharper is still \"thinking\"","date":"2017-10-03T20:28:13.966Z","type":"message"}
+{"nick":"seishun","message":"yeah sometimes manual is the best","date":"2017-10-03T20:28:53.158Z","type":"message"}
+{"nick":"BridgeAR","reason":"Quit: Leaving.","date":"2017-10-03T20:31:00.869Z","type":"quit"}
+{"nick":"refack","message":"I'm sending this to yuriysol. I'll CC you.","date":"2017-10-03T20:31:18.485Z","type":"message"}
+{"nick":"seishun","message":"I was going to, but I won't mind being relieved of this task","date":"2017-10-03T20:31:43.227Z","type":"message"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:39:03.548Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:39:03.589Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:39:18.919Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:39:18.920Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T20:41:05.184Z","type":"quit"}
+{"nick":"gamelaster","reason":"Ping timeout: 240 seconds","date":"2017-10-03T20:41:35.569Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:42:18.915Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:42:18.916Z","type":"part"}
+{"nick":"apapirovski","date":"2017-10-03T20:42:28.184Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:42:58.411Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:42:58.453Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:43:13.661Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:43:13.663Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:45:19.194Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:45:19.197Z","type":"part"}
+{"nick":"jlvivero","date":"2017-10-03T20:53:06.073Z","type":"join"}
+{"nick":"jlvivero","reason":"Client Quit","date":"2017-10-03T20:53:57.708Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:55:08.429Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:55:08.431Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:56:32.680Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T20:56:32.682Z","type":"part"}
+{"nick":"seishun","reason":"Ping timeout: 246 seconds","date":"2017-10-03T21:00:30.665Z","type":"quit"}
+{"nick":"jlvivero","date":"2017-10-03T21:05:26.515Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T21:05:42.680Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T21:05:42.682Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T21:07:28.326Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T21:07:28.392Z","type":"part"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-03T21:12:18.586Z","type":"quit"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2017-10-03T21:25:20.280Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-03T21:35:58.542Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T21:43:56.366Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T21:43:56.433Z","type":"part"}
+{"nick":"nodejs-gh","date":"2017-10-03T21:44:17.532Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T21:44:17.664Z","type":"part"}
+{"nick":"bradleymeck","message":"refack: why does that flag exist even when building without NODE_WANT_INTERNALS ?","date":"2017-10-03T21:48:12.220Z","type":"message"}
+{"nick":"refack","message":"For the test suite","date":"2017-10-03T21:48:32.359Z","type":"message"}
+{"nick":"refack","message":"To cover the internal modules","date":"2017-10-03T21:48:41.026Z","type":"message"}
+{"nick":"bradleymeck","message":"i'm not going to add support for that","date":"2017-10-03T21:49:06.258Z","type":"message"}
+{"nick":"bradleymeck","message":"I think it defeats the purpose after seeing people treat process.binding as something they can use","date":"2017-10-03T21:49:20.710Z","type":"message"}
+{"nick":"refack","message":"No support, just a sanity test","date":"2017-10-03T21:49:23.041Z","type":"message"}
+{"nick":"bradleymeck","message":"not going to add it","date":"2017-10-03T21:49:27.994Z","type":"message"}
+{"nick":"bradleymeck","message":"adding it to a default build == support to me","date":"2017-10-03T21:49:35.505Z","type":"message"}
+{"nick":"bradleymeck","message":"id rather remove the PR","date":"2017-10-03T21:49:56.316Z","type":"message"}
+{"nick":"refack","message":"Ohh, no new code needed. It only allows requiring `intrenal/*` modules","date":"2017-10-03T21:51:13.025Z","type":"message"}
+{"nick":"bradleymeck","message":"i wish that flag was not shipped by default in release builds","date":"2017-10-03T21:51:34.358Z","type":"message"}
+{"nick":"bradleymeck","message":"it just begs to be abused","date":"2017-10-03T21:51:44.613Z","type":"message"}
+{"nick":"refack","message":"I kind of agree","date":"2017-10-03T21:51:47.504Z","type":"message"}
+{"nick":"bradleymeck","message":"so, i won't add a test for it","date":"2017-10-03T21:52:09.397Z","type":"message"}
+{"nick":"refack","message":"It has the benefit of being CLI only so it's the end-users's decision and not a library's","date":"2017-10-03T21:52:31.115Z","type":"message"}
+{"nick":"bradleymeck","message":"if I had the ability to prevent it from being available in release seems fine","date":"2017-10-03T21:52:44.493Z","type":"message"}
+{"nick":"refack","message":"P.S. I signed off, my comment are non-blocking","date":"2017-10-03T21:52:47.751Z","type":"message"}
+{"nick":"bradleymeck","message":"ah","date":"2017-10-03T21:52:53.719Z","type":"message"}
+{"nick":"not-an-aardvark","date":"2017-10-03T21:53:09.732Z","type":"join"}
+{"nick":"bradleymeck","message":"yea, i'll never add a test using that flag probably since that seems to encourage a feeling of safety to me + I can't disable the flag from existing","date":"2017-10-03T21:53:26.757Z","type":"message"}
+{"nick":"refack","message":"Can you think of a way to cover the internal code without that flag? It's not for users' safety it's for ours (No compiler so unit test is IMHO the next best thing)","date":"2017-10-03T21:55:26.952Z","type":"message"}
+{"nick":"bradleymeck","message":"if the flag was not in release that seems fine","date":"2017-10-03T21:55:45.626Z","type":"message"}
+{"nick":"bradleymeck","message":"or required to be compiled with some flag","date":"2017-10-03T21:56:00.411Z","type":"message"}
+{"nick":"refack","message":"I think it's a decent compromise since it gives the control to the end-user. No library can force it... Few other flags can made the runtime go crazy","date":"2017-10-03T21:58:00.705Z","type":"message"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T21:58:58.176Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-10-03T22:00:42.229Z","type":"join"}
+{"nick":"bradleymeck","message":"refack: I tend to think anything I give a user in the default build as being something they should see as usable","date":"2017-10-03T22:02:22.231Z","type":"message"}
+{"nick":"bradleymeck","message":"part of why I want to remove --harmony flags and --allow_natives_syntax","date":"2017-10-03T22:03:28.436Z","type":"message"}
+{"nick":"bradleymeck","message":"though I probably am in the minority there","date":"2017-10-03T22:03:43.165Z","type":"message"}
+{"nick":"refack","message":"I understand your POV. Only data-point I have is we've never had a bug report from a user using this or any of the other \"crazy\" flags.","date":"2017-10-03T22:04:47.311Z","type":"message"}
+{"nick":"refack","message":"Maybe we should cut a \"Gold\" version with no experimentals harmony and natives...","date":"2017-10-03T22:05:18.047Z","type":"message"}
+{"nick":"refack","message":"It's just that we want to be iterative and we need the feedback.","date":"2017-10-03T22:05:40.274Z","type":"message"}
+{"nick":"refack","message":"N-API for example is suffering from low penetration because of it's flag","date":"2017-10-03T22:06:09.178Z","type":"message"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-03T22:16:49.657Z","type":"quit"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2017-10-03T22:22:36.238Z","type":"quit"}
+{"nick":"nodejs-gh","date":"2017-10-03T22:27:36.695Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T22:27:36.737Z","type":"part"}
+{"nick":"Alina-malina","reason":"Ping timeout: 258 seconds","date":"2017-10-03T22:29:03.822Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-10-03T22:30:31.239Z","type":"join"}
+{"nick":"onel0p3z","reason":"Quit: onel0p3z","date":"2017-10-03T22:32:46.975Z","type":"quit"}
+{"nick":"onel0p3z","date":"2017-10-03T22:33:12.674Z","type":"join"}
+{"nick":"onel0p3z","reason":"Client Quit","date":"2017-10-03T22:33:21.101Z","type":"quit"}
+{"nick":"bradleymeck","date":"2017-10-03T22:34:00.710Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T22:44:41.385Z","type":"join"}
+{"nick":"nodejs-gh","date":"2017-10-03T22:44:41.452Z","type":"part"}
+{"nick":"Alina-malina","reason":"Ping timeout: 240 seconds","date":"2017-10-03T22:49:05.171Z","type":"quit"}
+{"nick":"Alina-malina","date":"2017-10-03T22:51:58.652Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2017-10-03T23:12:34.953Z","type":"quit"}
+{"nick":"bradleymeck","reason":"Quit: bradleymeck","date":"2017-10-03T23:27:12.216Z","type":"quit"}
+{"nick":"apapirovski","date":"2017-10-03T23:33:11.717Z","type":"join"}
+{"nick":"apapirovski","reason":"Ping timeout: 248 seconds","date":"2017-10-03T23:37:37.334Z","type":"quit"}
+{"nick":"Fishrock123","date":"2017-10-03T23:54:47.669Z","type":"join"}
+{"nick":"BgDcK","date":"2017-10-03T23:58:26.163Z","type":"join"}
+{"nick":"Fishrock123","reason":"Ping timeout: 246 seconds","date":"2017-10-03T23:59:00.622Z","type":"quit"}

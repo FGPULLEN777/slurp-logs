@@ -1,0 +1,39 @@
+{"nick":"euoia","reason":"Ping timeout: 255 seconds","date":"2017-10-07T00:00:41.033Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-07T00:01:55.660Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 240 seconds","date":"2017-10-07T00:11:01.757Z","type":"quit"}
+{"nick":"saghul","date":"2017-10-07T00:12:26.680Z","type":"join"}
+{"nick":"saghul","reason":"Client Quit","date":"2017-10-07T00:13:10.931Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-07T00:17:05.390Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 248 seconds","date":"2017-10-07T00:23:29.409Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-07T01:13:37.622Z","type":"join"}
+{"nick":"saghul","date":"2017-10-07T01:48:36.751Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 240 seconds","date":"2017-10-07T01:54:31.619Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-07T01:54:58.640Z","type":"join"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-07T01:55:09.674Z","type":"quit"}
+{"nick":"saghul","date":"2017-10-07T02:08:53.602Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 260 seconds","date":"2017-10-07T02:39:22.780Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-07T02:41:04.206Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 240 seconds","date":"2017-10-07T03:01:21.168Z","type":"quit"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-07T03:51:37.974Z","type":"quit"}
+{"nick":"rendar","date":"2017-10-07T06:29:29.050Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2017-10-07T10:25:08.479Z","type":"quit"}
+{"nick":"mylesborins","date":"2017-10-07T10:25:39.245Z","type":"join"}
+{"nick":"webchat","date":"2017-10-07T11:33:12.081Z","type":"join"}
+{"nick":"euoia","date":"2017-10-07T11:33:16.055Z","type":"join"}
+{"nick":"webchat","reason":"Client Quit","date":"2017-10-07T11:34:29.835Z","type":"quit"}
+{"nick":"saghul","date":"2017-10-07T15:13:19.421Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 255 seconds","date":"2017-10-07T15:31:44.079Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-07T15:46:00.409Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 248 seconds","date":"2017-10-07T16:00:33.323Z","type":"quit"}
+{"nick":"edhemphill","date":"2017-10-07T16:01:05.075Z","type":"join"}
+{"nick":"saghul","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2017-10-07T16:11:09.987Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-07T16:14:25.610Z","type":"join"}
+{"nick":"edhemphill","reason":"Ping timeout: 260 seconds","date":"2017-10-07T16:22:15.414Z","type":"quit"}
+{"nick":"euoia","reason":"Ping timeout: 240 seconds","date":"2017-10-07T16:29:35.628Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-07T16:30:24.862Z","type":"join"}
+{"nick":"rendar","reason":"Quit: std::lower_bound + std::less_equal *works* with a vector without duplicates!","date":"2017-10-07T18:05:52.758Z","type":"quit"}
+{"nick":"Jacob843","reason":"Quit: Leaving","date":"2017-10-07T19:29:26.618Z","type":"quit"}
+{"nick":"euoia","reason":"Ping timeout: 260 seconds","date":"2017-10-07T21:10:37.828Z","type":"quit"}
+{"nick":"euoia","date":"2017-10-07T21:17:23.376Z","type":"join"}
+{"nick":"euoia","reason":"Ping timeout: 248 seconds","date":"2017-10-07T21:32:49.340Z","type":"quit"}
+{"nick":"Jacob843","date":"2017-10-07T21:54:32.690Z","type":"join"}

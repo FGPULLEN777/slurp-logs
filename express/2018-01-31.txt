@@ -1,0 +1,130 @@
+{"nick":"_ritchie_","date":"2018-01-31T00:32:09.207Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-31T00:42:50.062Z","type":"quit"}
+{"nick":"lohfu","reason":"Ping timeout: 265 seconds","date":"2018-01-31T01:06:11.457Z","type":"quit"}
+{"nick":"Tennis","reason":"Read error: Connection reset by peer","date":"2018-01-31T01:08:50.517Z","type":"quit"}
+{"nick":"rorro","reason":"Ping timeout: 240 seconds","date":"2018-01-31T01:15:27.790Z","type":"quit"}
+{"nick":"lohfu","date":"2018-01-31T01:23:34.191Z","type":"join"}
+{"nick":"bomb-on","new_nick":"cryptojerk","date":"2018-01-31T01:39:22.263Z","type":"nick"}
+{"nick":"Soopaman","date":"2018-01-31T03:05:01.813Z","type":"join"}
+{"nick":"MarkusDBX","date":"2018-01-31T03:38:41.895Z","type":"join"}
+{"nick":"MarkusDBX","message":"Hi, is there any reasons to not run express on a windows environment?","date":"2018-01-31T03:39:11.980Z","type":"message"}
+{"nick":"MarkusDBX","message":"I'm just to linux and cli tools, but in this project I got demands for iis.","date":"2018-01-31T03:39:30.811Z","type":"message"}
+{"nick":"MarkusDBX","message":"*I'm used to linux","date":"2018-01-31T03:39:46.536Z","type":"message"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-31T03:57:49.150Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T04:24:55.174Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-31T04:30:04.098Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T04:40:15.260Z","type":"join"}
+{"nick":"_ritchie_","reason":"Client Quit","date":"2018-01-31T04:42:29.913Z","type":"quit"}
+{"nick":"octacian","reason":"Read error: Connection reset by peer","date":"2018-01-31T05:03:48.874Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T05:05:29.688Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-31T05:11:13.307Z","type":"quit"}
+{"nick":"Roughy","date":"2018-01-31T06:25:54.777Z","type":"join"}
+{"nick":"lpin","date":"2018-01-31T06:27:27.610Z","type":"join"}
+{"nick":"Arcarc","date":"2018-01-31T08:38:12.494Z","type":"join"}
+{"nick":"lpin","reason":"Read error: Connection reset by peer","date":"2018-01-31T08:49:06.660Z","type":"quit"}
+{"nick":"commma","message":"MarkusDBX: no","date":"2018-01-31T09:03:45.419Z","type":"message"}
+{"nick":"_ritchie_","date":"2018-01-31T09:55:37.185Z","type":"join"}
+{"nick":"cryptojerk","reason":"Quit: zzz","date":"2018-01-31T09:58:43.446Z","type":"quit"}
+{"nick":"bomb-on","date":"2018-01-31T10:19:30.057Z","type":"join"}
+{"nick":"rorro","date":"2018-01-31T10:35:51.461Z","type":"join"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-31T11:25:10.761Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-31T11:25:41.279Z","type":"join"}
+{"nick":"rorro","reason":"Ping timeout: 248 seconds","date":"2018-01-31T11:40:17.886Z","type":"quit"}
+{"nick":"MarkusDBX","message":"commma: so windows will work great?","date":"2018-01-31T11:51:40.339Z","type":"message"}
+{"nick":"commma","message":"with express yes","date":"2018-01-31T11:51:58.712Z","type":"message"}
+{"nick":"MarkusDBX","message":"ah, great to know","date":"2018-01-31T11:52:14.638Z","type":"message"}
+{"nick":"MarkusDBX","message":"commma: thanks!","date":"2018-01-31T11:52:24.708Z","type":"message"}
+{"nick":"rorro","date":"2018-01-31T13:03:25.283Z","type":"join"}
+{"nick":"Arcarcarc","date":"2018-01-31T13:04:54.526Z","type":"join"}
+{"nick":"Arcarc","reason":"Ping timeout: 268 seconds","date":"2018-01-31T13:08:32.861Z","type":"quit"}
+{"nick":"rorro","reason":"Ping timeout: 240 seconds","date":"2018-01-31T13:09:18.303Z","type":"quit"}
+{"nick":"citizen99","date":"2018-01-31T13:10:18.583Z","type":"join"}
+{"nick":"citizen99","reason":"Client Quit","date":"2018-01-31T13:14:04.202Z","type":"quit"}
+{"nick":"bomb-on","new_nick":"cryptojerk","date":"2018-01-31T13:26:40.969Z","type":"nick"}
+{"nick":"cryptojerk","new_nick":"CarlosMatosNYC","date":"2018-01-31T13:27:15.981Z","type":"nick"}
+{"nick":"rorro","date":"2018-01-31T14:03:02.232Z","type":"join"}
+{"nick":"rorro","reason":"Remote host closed the connection","date":"2018-01-31T14:08:39.361Z","type":"quit"}
+{"nick":"phishy","date":"2018-01-31T14:42:34.339Z","type":"join"}
+{"nick":"phishy__","date":"2018-01-31T14:42:36.585Z","type":"join"}
+{"nick":"phishy_","date":"2018-01-31T14:42:39.499Z","type":"join"}
+{"nick":"phishy","reason":"Disconnected by services","date":"2018-01-31T14:44:59.149Z","type":"quit"}
+{"nick":"phishy__","reason":"Client Quit","date":"2018-01-31T14:44:59.730Z","type":"quit"}
+{"nick":"phishy_","new_nick":"phishy","date":"2018-01-31T14:45:14.614Z","type":"nick"}
+{"nick":"Soopaman","date":"2018-01-31T14:54:24.353Z","type":"join"}
+{"nick":"greggerz","date":"2018-01-31T15:04:56.518Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-31T15:53:20.173Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T15:57:36.231Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-31T16:11:59.767Z","type":"quit"}
+{"nick":"jvanst","date":"2018-01-31T16:15:12.370Z","type":"join"}
+{"nick":"jvanst","reason":"Quit: Page closed","date":"2018-01-31T16:22:41.818Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T16:26:20.166Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-31T16:39:41.023Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T16:42:51.173Z","type":"join"}
+{"nick":"arnekoesel","date":"2018-01-31T16:46:45.268Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-31T16:57:32.010Z","type":"quit"}
+{"nick":"galileo","date":"2018-01-31T16:58:03.767Z","type":"join"}
+{"nick":"arnekoesel","date":"2018-01-31T17:13:25.305Z","type":"quit"}
+{"nick":"phishy","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-31T17:36:29.262Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T17:40:52.177Z","type":"join"}
+{"nick":"phishy","date":"2018-01-31T17:41:04.029Z","type":"join"}
+{"nick":"_ritchie_","reason":"Client Quit","date":"2018-01-31T17:42:03.783Z","type":"quit"}
+{"nick":"phishy","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-31T17:48:14.512Z","type":"quit"}
+{"nick":"phishy","date":"2018-01-31T17:52:51.525Z","type":"join"}
+{"nick":"Soopaman","reason":"Quit: Leaving.","date":"2018-01-31T17:54:35.654Z","type":"quit"}
+{"nick":"Elisha","date":"2018-01-31T17:55:57.820Z","type":"join"}
+{"nick":"lpin","date":"2018-01-31T17:56:17.166Z","type":"join"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-31T17:58:34.707Z","type":"quit"}
+{"nick":"phishy","date":"2018-01-31T17:59:06.566Z","type":"join"}
+{"nick":"slajax","reason":"Ping timeout: 255 seconds","date":"2018-01-31T18:17:14.869Z","type":"quit"}
+{"nick":"CarlosMatosNYC","reason":"Quit: zzz","date":"2018-01-31T18:19:47.722Z","type":"quit"}
+{"nick":"degva","date":"2018-01-31T18:29:13.531Z","type":"join"}
+{"nick":"Arcarcarc","reason":"Ping timeout: 248 seconds","date":"2018-01-31T18:32:33.544Z","type":"quit"}
+{"nick":"octacian","date":"2018-01-31T18:38:01.128Z","type":"join"}
+{"nick":"bomb-on","date":"2018-01-31T18:38:50.040Z","type":"join"}
+{"nick":"degva","reason":"\"Leaving\"","date":"2018-01-31T18:41:12.976Z","type":"part"}
+{"nick":"phishy","reason":"Quit: My MacBook has gone to sleep. ZZZzzz…","date":"2018-01-31T18:59:34.382Z","type":"quit"}
+{"nick":"galileo","message":"can someone help me figure out why i can't set sessions using express-sessions middleware","date":"2018-01-31T18:59:48.980Z","type":"message"}
+{"nick":"Tennis","date":"2018-01-31T19:03:01.909Z","type":"join"}
+{"nick":"phishy","date":"2018-01-31T19:03:52.736Z","type":"join"}
+{"nick":"lpin","reason":"Quit: Textual IRC Client: www.textualapp.com","date":"2018-01-31T19:06:43.629Z","type":"quit"}
+{"nick":"bomb-on","new_nick":"CarlosMatosNYC","date":"2018-01-31T19:13:31.257Z","type":"nick"}
+{"nick":"octacian","reason":"Quit: It's probably bedtime where I live.","date":"2018-01-31T19:43:35.430Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T20:01:01.178Z","type":"join"}
+{"nick":"_ritchie_","reason":"Client Quit","date":"2018-01-31T20:02:18.469Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T20:12:00.170Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-31T20:17:20.431Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T20:28:02.186Z","type":"join"}
+{"nick":"_ritchie_","reason":"Client Quit","date":"2018-01-31T20:30:14.517Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T20:37:17.213Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-31T20:51:37.064Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T20:52:12.193Z","type":"join"}
+{"nick":"_ritchie_","reason":"Client Quit","date":"2018-01-31T20:52:48.594Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T20:53:31.189Z","type":"join"}
+{"nick":"_ritchie_","reason":"Client Quit","date":"2018-01-31T20:57:35.434Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T20:58:45.173Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-31T21:04:36.555Z","type":"quit"}
+{"nick":"_ritchie_","date":"2018-01-31T21:10:08.239Z","type":"join"}
+{"nick":"_ritchie_","reason":"Quit: _ritchie_","date":"2018-01-31T21:18:32.485Z","type":"quit"}
+{"nick":"commma","message":"galileo: not without knowing what you're actually doing","date":"2018-01-31T21:39:23.104Z","type":"message"}
+{"nick":"galileo","message":"commma: here's where i set my session info","date":"2018-01-31T21:40:24.467Z","type":"message"}
+{"nick":"galileo","message":"https://github.com/ComputerMachine/ytresponse.ca/blob/master/app.js#L30","date":"2018-01-31T21:40:25.448Z","type":"message"}
+{"nick":"galileo","message":"https://github.com/ComputerMachine/ytresponse.ca/blob/master/routes/login.js#L31","date":"2018-01-31T21:40:41.239Z","type":"message"}
+{"nick":"galileo","message":"that's where i tried to use my session","date":"2018-01-31T21:40:54.650Z","type":"message"}
+{"nick":"commma","message":"is this in production? because i don't see a session store here","date":"2018-01-31T21:42:06.151Z","type":"message"}
+{"nick":"galileo","message":"no this is just me experimenting with node","date":"2018-01-31T21:42:32.542Z","type":"message"}
+{"nick":"galileo","message":"never used it before","date":"2018-01-31T21:42:37.833Z","type":"message"}
+{"nick":"commma","message":"either way i'd use a session store, in-memory session only barely works even in dev as far as i'm concerned","date":"2018-01-31T21:43:02.779Z","type":"message"}
+{"nick":"commma","message":"galileo: also, and mainly, you send your response before you set your session","date":"2018-01-31T21:43:47.339Z","type":"message"}
+{"nick":"commma","message":"set the session _then_ send the response","date":"2018-01-31T21:43:51.597Z","type":"message"}
+{"nick":"galileo","message":"commma: what's a good session store to use? i'm using postgresql if that makes any difference","date":"2018-01-31T21:46:08.362Z","type":"message"}
+{"nick":"commma","message":"storing session in postgres is ... not that good of an idea","date":"2018-01-31T21:46:27.405Z","type":"message"}
+{"nick":"commma","message":"i use `connect-redis` with redis personally","date":"2018-01-31T21:46:36.777Z","type":"message"}
+{"nick":"galileo","message":"well i'm not storing sessions in postgresql","date":"2018-01-31T21:46:41.085Z","type":"message"}
+{"nick":"galileo","message":"im using that as a db though","date":"2018-01-31T21:46:44.481Z","type":"message"}
+{"nick":"commma","message":"yeah, same here","date":"2018-01-31T21:46:50.086Z","type":"message"}
+{"nick":"commma","message":"but yah, set the session correctly and you'll get rid of the issue for now at least","date":"2018-01-31T21:46:59.229Z","type":"message"}
+{"nick":"commma","message":"just know when you go to production you'll need a real session store (and also restarting the server will lose your session)","date":"2018-01-31T21:47:15.220Z","type":"message"}
+{"nick":"Elisha","reason":"Quit: My MacBook Pro has gone to sleep. ZZZzzz…","date":"2018-01-31T22:09:38.876Z","type":"quit"}
+{"nick":"Tennis","reason":"Quit: Leaving","date":"2018-01-31T22:27:47.816Z","type":"quit"}
+{"nick":"greggerz","reason":"Quit: Leaving","date":"2018-01-31T23:11:27.176Z","type":"quit"}
+{"nick":"galileo","reason":"Remote host closed the connection","date":"2018-01-31T23:21:42.770Z","type":"quit"}

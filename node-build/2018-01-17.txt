@@ -1,0 +1,74 @@
+{"nick":"Trott","message":"Something wrong with CI? Can't seem to start any stress jobs.","date":"2018-01-17T00:23:36.070Z","type":"message"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-17T00:33:39.348Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-17T00:39:59.311Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-17T00:40:00.456Z","type":"quit"}
+{"nick":"Fishrock123","date":"2018-01-17T01:01:38.906Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-17T01:01:41.383Z","type":"quit"}
+{"nick":"maclover7","message":"looks like queue is all messed up","date":"2018-01-17T01:16:32.789Z","type":"message"}
+{"nick":"maclover7","message":"128 jobs waiting","date":"2018-01-17T01:16:34.979Z","type":"message"}
+{"nick":"maclover7","message":"http://node-build-monitor.herokuapp.com/","date":"2018-01-17T01:16:35.822Z","type":"message"}
+{"nick":"maclover7","message":"rvagg: something's up with the pis","date":"2018-01-17T01:16:43.776Z","type":"message"}
+{"nick":"maclover7","message":"now up to 147 jobs in queue","date":"2018-01-17T01:24:46.333Z","type":"message"}
+{"nick":"maclover7","message":"killed a bunch of phantom stress test jobs, hopefully helping","date":"2018-01-17T01:25:00.073Z","type":"message"}
+{"nick":"Fishrock123","date":"2018-01-17T01:43:12.631Z","type":"join"}
+{"nick":"Fishrock123","reason":"Remote host closed the connection","date":"2018-01-17T01:43:21.503Z","type":"quit"}
+{"nick":"seishun","date":"2018-01-17T07:37:34.028Z","type":"join"}
+{"nick":"seishun","reason":"Ping timeout: 268 seconds","date":"2018-01-17T08:34:40.640Z","type":"quit"}
+{"nick":"seishun","date":"2018-01-17T08:40:10.933Z","type":"join"}
+{"nick":"seishun","reason":"Disconnected by services","date":"2018-01-17T09:03:46.552Z","type":"quit"}
+{"nick":"seishun","date":"2018-01-17T09:03:52.245Z","type":"join"}
+{"nick":"rvagg","message":"I've cleaned up a bunch of jobs as well, I guess they were \"phantom\", it says they are running but they are either completely stalled or there is no build page for them when you click through.","date":"2018-01-17T10:53:02.519Z","type":"message"}
+{"nick":"rvagg","message":"here's a tip for anyone with jenkins-admin perms if things look stalled: go through the list of running builds on the left side of the main page and click through to any build that has a progress bar far to the right, if it's been running for more than a few hours or the page doesn't exist, kill it","date":"2018-01-17T10:53:57.188Z","type":"message"}
+{"nick":"rvagg","message":"I'd really like to figure out the cause of some of these phantoms, I tried to dig into it today but have run out of time","date":"2018-01-17T10:56:57.800Z","type":"message"}
+{"nick":"rvagg","message":"the post-build-update job, or whatever its called, seemed to be causing problems last week when we were having similar issues, heaps of them banked up, killing a few seemed to ease the strain","date":"2018-01-17T10:57:35.655Z","type":"message"}
+{"nick":"rvagg","message":"I don't see evidence of that now, however, so it might be more of a symptom than a cause","date":"2018-01-17T10:57:52.173Z","type":"message"}
+{"nick":"mylesborins","reason":"Quit: farewell for now","date":"2018-01-17T11:25:11.582Z","type":"quit"}
+{"nick":"mylesborins","date":"2018-01-17T11:25:42.038Z","type":"join"}
+{"nick":"rvagg","message":"queue has mostly drained, looking pretty healthy","date":"2018-01-17T11:40:39.169Z","type":"message"}
+{"nick":"rvagg","message":"💤","date":"2018-01-17T11:40:42.714Z","type":"message"}
+{"nick":"jbergstroem","reason":"Remote host closed the connection","date":"2018-01-17T14:19:52.923Z","type":"quit"}
+{"nick":"evanlucas","date":"2018-01-17T14:19:55.697Z","type":"join"}
+{"nick":"sgimeno","reason":"Ping timeout: 248 seconds","date":"2018-01-17T14:33:35.994Z","type":"quit"}
+{"nick":"sgimeno","date":"2018-01-17T14:47:08.494Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-17T16:15:11.489Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-17T16:15:11.557Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-17T16:17:52.627Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-17T16:17:52.695Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-17T16:21:08.512Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-17T16:21:08.581Z","type":"part"}
+{"nick":"Trott","message":"I'm still unable to start a Pi 1 stress job. rvagg maclover7","date":"2018-01-17T17:03:13.205Z","type":"message"}
+{"nick":"Trott","message":"Sometimes, it appears briefly on the left and then vanishes.","date":"2018-01-17T17:05:34.541Z","type":"message"}
+{"nick":"apapirovski","date":"2018-01-17T17:06:09.587Z","type":"join"}
+{"nick":"Trott","message":"Pi 2, same result.","date":"2018-01-17T17:06:14.272Z","type":"message"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-17T17:29:15.739Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-01-17T17:29:34.002Z","type":"join"}
+{"nick":"seishun","reason":"Disconnected by services","date":"2018-01-17T18:41:36.498Z","type":"quit"}
+{"nick":"seishun","date":"2018-01-17T18:41:43.289Z","type":"join"}
+{"nick":"Trott","message":"Can't seem to start *any* tasks on node-stress-single-test regardless of OS.","date":"2018-01-17T19:30:34.253Z","type":"message"}
+{"nick":"Trott","message":"Is it OK for me to use \"\"Wipe Out Current Workspace\" to see if that gets things unstuck?","date":"2018-01-17T19:32:59.317Z","type":"message"}
+{"nick":"Trott","message":"I went ahead and did it, figuring it's extremely unlikely to make anything *worse*....","date":"2018-01-17T19:33:44.351Z","type":"message"}
+{"nick":"Trott","message":"Alas, that didn't fix it, though...","date":"2018-01-17T19:35:58.484Z","type":"message"}
+{"nick":"Trott","message":"Build queue is empty.","date":"2018-01-17T19:36:44.515Z","type":"message"}
+{"nick":"node-gh","date":"2018-01-17T20:24:12.557Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-17T20:24:12.625Z","type":"part"}
+{"nick":"joaocgreis","message":"Trott: same thing here.. never seen this before, it just ignores the build command. The only thing I can think of  is to restart Jenkins, but there are citgm and benchmark jobs running and I don't know how long they will take. I don't know if this still works and is up to date and all, but why not try https://ci.nodejs.org/view/All/job/node-stress-single-test-pi1-fanned/ ?","date":"2018-01-17T20:35:04.729Z","type":"message"}
+{"nick":"Trott","message":"I was looking for that job joaocgreis! Not sure why I couldn't find it! Anyway, that's working, so cool! Thank you!","date":"2018-01-17T21:05:23.403Z","type":"message"}
+{"nick":"evanlucas","reason":"Remote host closed the connection","date":"2018-01-17T21:21:17.383Z","type":"quit"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-17T21:43:24.571Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-01-17T21:45:36.954Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-17T21:46:36.752Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-17T21:46:36.820Z","type":"part"}
+{"nick":"node-gh","date":"2018-01-17T21:47:01.758Z","type":"join"}
+{"nick":"node-gh","date":"2018-01-17T21:47:01.908Z","type":"part"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-17T22:15:42.247Z","type":"quit"}
+{"nick":"rvagg","message":"I think CI is due for a restart, I'll do that in a few hours during quiet time","date":"2018-01-17T22:29:03.958Z","type":"message"}
+{"nick":"apapirovski","date":"2018-01-17T22:29:21.009Z","type":"join"}
+{"nick":"rvagg","message":"some workers are taking longer than they should do, aix and arn-wheezy are two I'm seeing that are concerning","date":"2018-01-17T22:29:25.068Z","type":"message"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-17T22:44:44.798Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-01-17T22:50:47.547Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-17T22:51:57.253Z","type":"quit"}
+{"nick":"apapirovski","date":"2018-01-17T22:52:42.540Z","type":"join"}
+{"nick":"apapirovski","reason":"Remote host closed the connection","date":"2018-01-17T22:55:19.640Z","type":"quit"}
+{"nick":"seishun","reason":"Ping timeout: 248 seconds","date":"2018-01-17T23:00:18.019Z","type":"quit"}
+{"nick":"rvagg","message":"I think I've fixed the arm-wheezy worker that was causing problems","date":"2018-01-17T23:26:22.397Z","type":"message"}
+{"nick":"rvagg","message":"aix still backed up","date":"2018-01-17T23:26:26.521Z","type":"message"}
